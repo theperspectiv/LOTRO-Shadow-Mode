@@ -1,0 +1,4 @@
+- [ ] AA scrollbars, tabs, and slider drag handles
+- [ ] fix craft menu tabs (left is off by a pixel?)
+- [ ] make expand/collapse brighter (all states)
+- [ ] make white part of inventory buttons less bright
