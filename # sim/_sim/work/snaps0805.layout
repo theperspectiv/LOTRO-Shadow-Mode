@@ -1,0 +1,530 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<UI>
+
+  <Version Value="1.0"/>
+
+  <Aliases/>
+
+  <Layouts>
+    <Layout ID="0x220008B9">
+      <Element Height="0.442593" ID="SelectPackageItem_Window" Width="0.167708" X="0.395573" Y="0.275463"/>
+    </Layout>
+    <Layout ID="0x220007D3">
+      <Element Height="0.999074" ID="Wardrobe_Window" Width="0.212500" X="0.466927" Y="0.000463"/>
+    </Layout>
+    <Layout ID="0x220008A2">
+      <Element Height="0.458333" ID="MithrilCoins_Barter_Window" Width="0.335938" X="0.005469" Y="0.129167"/>
+    </Layout>
+    <Layout ID="0x2200005E">
+      <Element Height="0.496296" ID="ScrollingTextItem_Window" Width="0.214063" X="0.024740" Y="0.145833"/>
+    </Layout>
+    <Layout ID="0x22000030">
+      <Element Height="0.460185" ID="SkillTrainer_Window" Width="0.211458" X="0.002865" Y="0.129167"/>
+    </Layout>
+    <Layout ID="0x2200005F">
+      <Element Height="0.354630" ID="PagedTextItem_Window" Width="0.266146" X="0.018490" Y="0.034722"/>
+    </Layout>
+    <Layout ID="0x220008BA">
+      <Element Height="0.484259" ID="ItemSocketUseGem_Window" Width="0.207813" X="0.005469" Y="0.006019"/>
+    </Layout>
+    <Layout ID="0x22000076">
+      <Element Height="0.606481" ID="Mail_MainField" Width="0.245833" X="0.314323" Y="0.262500"/>
+    </Layout>
+    <Layout ID="0x220001B8">
+      <Element Height="0.425000" ID="HousingForSaleSign_MainField" Width="0.156250" X="0.374219" Y="0.189352"/>
+    </Layout>
+    <Layout ID="0x2200001B">
+      <Element Height="0.201852" ID="ExternalContainerField_Headless" Width="0.137500" X="0.233073" Y="0.497685"/>
+      <Element Height="0.201852" ID="ExternalContainerField" Width="0.137500" X="0.444010" Y="0.378241"/>
+    </Layout>
+    <Layout ID="0x220008BB">
+      <Element Height="0.667593" ID="CollectionPanel" Width="0.463542" X="0.032031" Y="0.040278"/>
+    </Layout>
+    <Layout ID="0x22000060">
+      <Element Height="0.473148" ID="BookEdit_Window" Width="0.199479" X="0.352865" Y="0.230093"/>
+    </Layout>
+    <Layout ID="0x220006F0">
+      <Element Height="0.378704" ID="HobbyTrainer_Window" Width="0.188021" X="0.386198" Y="0.131019"/>
+    </Layout>
+    <Layout ID="0x22000033">
+      <Element Height="0.276852" ID="AvatarPanel" Width="0.145313" X="0.279948" Y="0.514352"/>
+      <Element Height="0.276852" ID="OpponentPanel" Width="0.160937" X="0.578385" Y="0.445833"/>
+    </Layout>
+    <Layout ID="0x220008BC">
+      <Element Height="0.450926" ID="ItemAdvancement_Imbue_Window" Width="0.214062" X="0.340365" Y="0.228241"/>
+    </Layout>
+    <Layout ID="0x220001A3">
+      <Element Height="0.489815" ID="HousingPermissions_Window" Width="0.244271" X="0.002865" Y="0.131019"/>
+    </Layout>
+    <Layout ID="0x220008EA">
+      <Element Height="0.387963" ID="RewardTrackPanel" Width="0.534896" X="0.024740" Y="0.273611"/>
+    </Layout>
+    <Layout ID="0x22000034">
+      <Element Height="0.359259" ID="NewChatWindow1" Width="0.284375" X="-0.000260" Y="0.640278"/>
+      <Element Height="0.359259" ID="NewChatWindow4" Width="0.390625" X="0.608594" Y="0.640278"/>
+    </Layout>
+    <Layout ID="0x220007C0">
+      <Element Height="0.655556" ID="SharedVault_Window" Width="0.317188" X="-0.000260" Y="0.000463"/>
+    </Layout>
+    <Layout ID="0x2200001D">
+      <Element Height="0.293518" ID="AlertOverflow_Window" Width="0.180729" X="0.547656" Y="0.287500"/>
+    </Layout>
+    <Layout ID="0x220005F5">
+      <Element Height="0.556481" ID="AppearanceMod_Window" Width="0.422917" X="0.005469" Y="0.016204"/>
+    </Layout>
+    <Layout ID="0x2200001E">
+      <Element Height="0.652778" ID="Vendor_Window" Width="0.212500" X="0.331510" Y="0.046759"/>
+    </Layout>
+    <Layout ID="0x22000063">
+      <Element Height="0.493518" ID="BaseOptionsField" Width="0.300000" X="0.263802" Y="0.163426"/>
+    </Layout>
+    <Layout ID="0x220007C1">
+      <Element Height="0.445370" ID="SkirmishPanel_Window" Width="0.339063" X="0.099219" Y="0.129167"/>
+    </Layout>
+    <Layout ID="0x22000064">
+      <Element Height="0.536111" ID="Craft_Window" Width="0.468229" X="0.531510" Y="0.000463"/>
+    </Layout>
+    <Layout ID="0x220000EE">
+      <Element Height="0.695370" ID="ReputationPanel" Width="0.326563" X="-0.000260" Y="0.106019"/>
+    </Layout>
+    <Layout ID="0x220001A6">
+      <Element Height="0.296296" ID="HousingMaintenance_MainField" Width="0.231771" X="0.002865" Y="0.131019"/>
+    </Layout>
+    <Layout ID="0x220008A8">
+      <Element Height="0.230556" ID="PaperItemPurchaseDialog_Window" Width="0.154167" X="0.069531" Y="0.497685"/>
+    </Layout>
+    <Layout ID="0x2200084C">
+      <Element Height="0.641667" ID="FellowshipMaker_Window" Width="0.483854" X="-0.000260" Y="0.006019"/>
+    </Layout>
+    <Layout ID="0x220007C2">
+      <Element Height="0.534259" ID="RootWJInvitationField" Width="0.189062" X="0.333594" Y="0.276389"/>
+    </Layout>
+    <Layout ID="0x220008BF">
+      <Element Height="0.138889" ID="GuildInvite" Width="0.183854" X="0.172656" Y="0.094907"/>
+    </Layout>
+    <Layout ID="0x2200004E">
+      <Element Height="0.533333" ID="Social_Field" Width="0.305208" X="0.469010" Y="0.139352"/>
+    </Layout>
+    <Layout ID="0x220008C0">
+      <Element Height="0.518519" ID="IA_ReplaceImbuedLegacy_Window" Width="0.317188" X="0.132031" Y="0.040278"/>
+    </Layout>
+    <Layout ID="0x22000191">
+      <Element Height="0.697222" ID="Barter_Window" Width="0.335938" X="0.005469" Y="0.129167"/>
+    </Layout>
+    <Layout ID="0x220008AA">
+      <Element Height="0.473148" ID="RandomItemReward_MainField" Width="0.311979" X="0.005469" Y="0.006019"/>
+    </Layout>
+    <Layout ID="0x22000021">
+      <Element Height="0.439815" ID="PerkVendor_Window" Width="0.215104" X="0.169531" Y="0.072685"/>
+    </Layout>
+    <Layout ID="0x220006F5">
+      <Element Height="0.450926" ID="NPCComment_Window" Width="0.251563" X="0.005469" Y="0.131019"/>
+    </Layout>
+    <Layout ID="0x22000724">
+      <Element Height="0.484259" ID="ItemAdvancementApplyItem_Window" Width="0.208333" X="0.005469" Y="0.006019"/>
+    </Layout>
+    <Layout ID="0x220001A9">
+      <Element Height="0.327778" ID="HousingDecoration_Window" Width="0.142708" X="0.014844" Y="0.050463"/>
+    </Layout>
+    <Layout ID="0x22000022">
+      <Element Height="0.479630" ID="TraitManager_Window" Width="0.402083" X="0.099219" Y="0.129167"/>
+    </Layout>
+    <Layout ID="0x22000725">
+      <Element Height="0.249074" ID="TrackerManager" Width="0.155729" X="-0.000260" Y="0.367130"/>
+    </Layout>
+    <Layout ID="0x22000895">
+      <Element Height="0.478704" ID="RemoteLoot_Panel" Width="0.167708" X="0.395573" Y="0.275463"/>
+    </Layout>
+    <Layout ID="0x22000023">
+      <Element Height="0.569444" ID="Discovery_Window" Width="0.246354" X="0.020573" Y="0.132870"/>
+    </Layout>
+    <Layout ID="0x220008DA">
+      <Element Height="0.517593" ID="ItemSocket_Control_Window" Width="0.233854" X="0.005469" Y="0.006019"/>
+    </Layout>
+    <Layout ID="0x22000194">
+      <Element Height="0.491667" ID="NeighborhoodGate_Window" Width="0.223437" X="0.002865" Y="0.131019"/>
+    </Layout>
+    <Layout ID="0x22000097">
+      <Element Height="0.462037" ID="PVPPanel" Width="0.188542" X="0.002865" Y="0.006019"/>
+    </Layout>
+    <Layout ID="0x2200003B">
+      <Element Height="0.599074" ID="Journal_Window" Width="0.370833" X="0.091927" Y="0.231944"/>
+    </Layout>
+    <Layout ID="0x220001AB">
+      <Element Height="0.505556" ID="HousingPanel_Field" Width="0.259896" X="0.011198" Y="0.016204"/>
+    </Layout>
+    <Layout ID="0x22000024">
+      <Element Height="0.358333" ID="SecureTradeField" Width="0.269271" X="0.158073" Y="0.131019"/>
+    </Layout>
+    <Layout ID="0x220006F9">
+      <Element Height="0.346296" ID="CraftGuildTrainer_Window" Width="0.180729" X="0.390365" Y="0.131019"/>
+    </Layout>
+    <Layout ID="0x22000880">
+      <Element Height="0.497222" ID="LockboxApplyKey_Window" Width="0.182813" X="0.223698" Y="0.016204"/>
+    </Layout>
+    <Layout ID="0x22000025">
+      <Element Height="0.518519" ID="RootQuestField" Width="0.417188" X="0.582031" Y="0.000463"/>
+    </Layout>
+    <Layout ID="0x2200083B">
+      <Element Height="0.655556" ID="CharacterBank_Window" Width="0.317708" X="0.681510" Y="0.000463"/>
+    </Layout>
+    <Layout ID="0x220005FC">
+      <Element Height="0.329630" ID="ItemAdvancement_IdentifyResult_Window" Width="0.221875" X="0.353906" Y="0.139352"/>
+      <Element Height="0.439815" ID="ItemAdvancementManager_Window" Width="0.407813" X="0.099219" Y="0.129167"/>
+      <Element Height="0.432407" ID="ItemAdvancement_ReplaceLegacySelection_Window" Width="0.221875" X="0.353906" Y="0.195833"/>
+      <Element Height="0.585185" ID="ItemAdvancement_RunicCombination_Forge_Window" Width="0.333854" X="0.024219" Y="0.062500"/>
+      <Element Height="0.329630" ID="ItemAdvancement_UpgradeLegacySelection_Window" Width="0.221875" X="0.353906" Y="0.139352"/>
+      <Element Height="0.308333" ID="ItemAdvancement_ReforgeResult_Window" Width="0.221354" X="0.189323" Y="0.209722"/>
+      <Element Height="0.450926" ID="ItemAdvancement_Forge_Window" Width="0.266146" X="0.296615" Y="0.148611"/>
+      <Element Height="0.316667" ID="ItemAdvancement_ExtractLegacy_Window" Width="0.221354" X="0.189323" Y="0.209722"/>
+      <Element Height="0.322222" ID="ItemAdvancement_DisplayRunicPool_Window" Width="0.293229" X="0.115885" Y="0.358796"/>
+      <Element Height="0.316667" ID="ItemAdvancement_SelectLegacyUpgrade_Window" Width="0.221354" X="0.189323" Y="0.209722"/>
+    </Layout>
+    <Layout ID="0x22000026">
+      <Element Height="0.522222" ID="RootActionPickerField" Width="0.256250" X="0.742969" Y="0.000463"/>
+    </Layout>
+    <Layout ID="0x2200003D">
+      <Element Height="0.641667" ID="CharacterJournalPanel" Width="0.311458" X="0.214844" Y="0.175463"/>
+    </Layout>
+    <Layout ID="0x22000196">
+      <Element Height="0.485185" ID="HousingPurchase_Window" Width="0.375521" X="0.002865" Y="0.131019"/>
+    </Layout>
+    <Layout ID="0x22000027">
+      <Element Height="0.437963" ID="RootPETravelField" Width="0.214063" X="0.015365" Y="0.276389"/>
+    </Layout>
+    <Layout ID="0x2200090C">
+      <Element Height="0.346296" ID="ProfessionTrainer_Window" Width="0.180729" X="0.390365" Y="0.131019"/>
+    </Layout>
+    <Layout ID="0x220000DF">
+      <Element Height="0.443519" ID="SessionPlay_Window" Width="0.206250" X="0.002865" Y="0.131019"/>
+    </Layout>
+    <Layout ID="0x220008DE">
+      <Element Height="0.658333" ID="SharedHousingBank_Window" Width="0.318750" X="0.293490" Y="0.006019"/>
+    </Layout>
+    <Layout ID="0x2200003F">
+      <Element Height="0.649074" ID="SkillPanel" Width="0.316146" X="0.573177" Y="0.127315"/>
+    </Layout>
+    <Layout ID="0x22000011">
+      <Element Height="0.037037" ID="GamePlay_FrameRateDisplayDragBox" Width="0.051562" X="0.619531" Y="0.468056"/>
+      <Element Height="0.182407" ID="GamePlay_ConjunctionAttemptBox" Width="0.151042" X="0.243490" Y="0.165278"/>
+      <Element Height="0.239815" ID="GamePlay_ErrorSpewBoxBox" Width="0.266146" X="0.000260" Y="0.409722"/>
+      <Element Height="0.149074" ID="GamePlay_GlobalBroadcastSpewBoxBox" Width="0.266146" X="0.353385" Y="0.000463"/>
+      <Element Height="0.462037" ID="GamePlay_TutorialDisplay" Width="0.172917" X="0.031510" Y="0.230093"/>
+      <Element Height="0.344444" ID="GamePlay_AlertField" Width="0.032292" X="0.851302" Y="0.310648"/>
+      <Element Height="0.149074" ID="GamePlay_RaidShoutSpewBoxBox" Width="0.266146" X="0.353385" Y="0.408796"/>
+      <Element Height="0.143519" ID="GamePlay_ItemWearBox" Width="0.071354" X="0.400781" Y="0.001389"/>
+    </Layout>
+    <Layout ID="0x220001B0">
+      <Element Height="0.555556" ID="HousePanel" Width="0.228646" X="0.278385" Y="0.131019"/>
+    </Layout>
+    <Layout ID="0x22000012">
+      <Element Height="0.095370" ID="GamePlay_MountDisplayBox" Width="0.107813" X="0.255469" Y="0.555093"/>
+      <Element Height="0.130556" ID="GamePlay_WarSteedMountDisplayBox" Width="0.122396" X="0.456510" Y="0.555093"/>
+      <Element Height="0.087037" ID="GamePlay_EscortManagerBox_3" Width="0.107813" X="0.151823" Y="0.320833"/>
+      <Element Height="0.060185" ID="GamePlay_Opponent_ProgressBar_Dragbox" Width="0.166146" X="0.586719" Y="0.279167"/>
+      <Element Height="0.083333" ID="GamePlay_DuelingClock_Activatable" Width="0.090104" X="0.840885" Y="0.595833"/>
+      <Element Height="0.087037" ID="GamePlay_EscortManagerBox_4" Width="0.107813" X="0.151823" Y="0.429167"/>
+      <Element Height="0.083333" ID="GamePlay_EndTravel_Activatable" Width="0.090104" X="0.598177" Y="0.515278"/>
+      <Element Height="0.040741" ID="GP_PropertyTrackerPanel" Width="0.082292" X="0.281510" Y="0.148611"/>
+      <Element Height="0.508333" ID="GamePlay_QuestTrackerBox" Width="0.176563" X="0.822656" Y="0.000463"/>
+      <Element Height="0.050000" ID="GamePlay_Undocked_ShiftBar" Width="0.218229" X="0.389844" Y="0.839352"/>
+      <Element Height="0.088889" ID="GamePlay_PetManagerBox" Width="0.107812" X="0.119010" Y="0.106019"/>
+      <Element Height="0.052778" ID="Gameplay_ConnectionStatus" Width="0.016667" X="0.836198" Y="0.613426"/>
+      <Element Height="0.462037" ID="GamePlay_ItemRollBox" Width="0.220313" X="0.189844" Y="0.062500"/>
+      <Element Height="0.090741" ID="GP_VanguardControl" Width="0.248958" X="0.224740" Y="0.609722"/>
+      <Element Height="0.050000" ID="GamePlay_Undocked_CtrlBar" Width="0.218229" X="0.389844" Y="0.903241"/>
+      <Element Height="0.088889" ID="GamePlay_LandscapeSoldierVitalsBox" Width="0.107812" X="0.281510" Y="0.106944"/>
+      <Element Height="0.108333" ID="GamePlay_GambitBar" Width="0.145833" X="0.431510" Y="0.707870"/>
+      <Element Height="0.050000" ID="GamePlay_Undocked_AltBar" Width="0.218229" X="0.389844" Y="0.869907"/>
+      <Element Height="0.025926" ID="GP_MithrilCoinsButton" Width="0.030729" X="0.959115" Y="0.914352"/>
+      <Element Height="0.075000" ID="GamePlay_AtunementBar" Width="0.119271" X="0.469531" Y="0.706019"/>
+      <Element Height="0.175000" ID="GamePlay_AllegianceProgressBox" Width="0.085417" X="0.759115" Y="0.000463"/>
+      <Element Height="0.050000" ID="GamePlay_Undocked_ExtraShortcutBar1" Width="0.218229" X="0.389844" Y="0.807870"/>
+      <Element Height="0.692593" ID="GamePlay_DressingRoom_Activatable" Width="0.373958" X="0.517448" Y="0.206019"/>
+      <Element Height="0.089815" ID="Gameplay_QuestActionButton" Width="0.161458" X="0.711719" Y="0.000463"/>
+      <Element Height="0.050926" ID="GP_AwakenTimer" Width="0.082813" X="0.269010" Y="0.148611"/>
+      <Element Height="0.245370" ID="GamePlay_RaidAssistWindow" Width="0.140104" X="0.617448" Y="0.606018"/>
+      <Element Height="0.568519" ID="GamePlay_InspectDisplay_Activatable" Width="0.289063" X="0.164323" Y="0.125463"/>
+      <Element Height="0.406481" ID="GamePlay_Undocked_ExtraShortcutBar2" Width="0.017708" X="-0.000260" Y="0.251389"/>
+      <Element Height="0.087037" ID="GamePlay_EscortManagerBox_5" Width="0.107813" X="0.151823" Y="0.532870"/>
+      <Element Height="0.096296" ID="GamePlay_BalanceBar" Width="0.132813" X="0.469531" Y="0.706019"/>
+      <Element Height="0.137963" ID="GamePlay_FellowSelectBox" Width="0.111979" X="0.251823" Y="0.358796"/>
+      <Element Height="0.050000" ID="GamePlay_PetShortcutBar" Width="0.201563" X="-0.000260" Y="0.510648"/>
+      <Element Height="0.087037" ID="GamePlay_EscortManagerBox_6" Width="0.107813" X="0.151823" Y="0.640278"/>
+      <Element Height="0.139815" ID="GamePlay_SkillQueueDisplay_Activatable" Width="0.068229" X="0.369010" Y="0.692130"/>
+      <Element Height="0.068519" ID="GamePlay_SelectionTarget" Width="0.106250" X="0.552344" Y="0.585648"/>
+      <Element Height="0.037963" ID="GP_ContextualQuickslotPropertyBar" Width="0.173958" X="0.225260" Y="0.517130"/>
+      <Element Height="0.037963" ID="GP_CosmeticPetTrickQuickslotBar" Width="0.173958" X="0.225260" Y="0.567130"/>
+      <Element Height="0.087037" ID="GamePlay_EscortManagerBox_1" Width="0.107813" X="0.151823" Y="0.106944"/>
+      <Element Height="0.088889" ID="GamePlay_MountedPetManagerBox" Width="0.107813" X="0.124219" Y="0.106944"/>
+      <Element Height="0.239815" ID="GamePlay_RadarBox" Width="0.116146" X="0.883594" Y="0.421759"/>
+      <Element Height="0.037963" ID="GamePlay_AutoSkillBar" Width="0.176562" X="0.224740" Y="0.378241"/>
+      <Element Height="0.239815" ID="GamePlay_Radar" Width="0.116146" X="0.883594" Y="0.440278"/>
+      <Element Height="0.087037" ID="GamePlay_EscortManagerBox_2" Width="0.107813" X="0.151823" Y="0.218056"/>
+      <Element Height="0.117593" ID="GamePlay_ExaminationTooltip_Activatable" Width="0.099479" X="0.355990" Y="0.013426"/>
+      <Element Height="0.088889" ID="GamePlay_SkirmishSoldierVitalsBox" Width="0.107812" X="0.281510" Y="0.106944"/>
+      <Element Height="0.199074" ID="GamePlay_ConjContributionBox" Width="0.103125" X="0.396615" Y="0.535648"/>
+      <Element Height="0.060185" ID="GamePlay_ProgressBar_Dragbox" Width="0.166146" X="0.407552" Y="0.692130"/>
+    </Layout>
+    <Layout ID="0x22000840">
+      <Element Height="0.458333" ID="PaperItemPanel_Window_V2" Width="0.233333" X="0.093490" Y="0.131019"/>
+    </Layout>
+    <Layout ID="0x220008E1">
+      <Element Height="0.658333" ID="StandardHousingBank_Window" Width="0.318750" X="0.293490" Y="0.006019"/>
+    </Layout>
+    <Layout ID="0x2200002A">
+      <Element Height="0.600000" ID="Travel_Window" Width="0.231771" X="0.002865" Y="0.129167"/>
+    </Layout>
+    <Layout ID="0x220008E2">
+      <Element Height="0.695370" ID="AllegiancePanel" Width="0.326563" X="-0.000260" Y="0.106019"/>
+    </Layout>
+    <Layout ID="0x2200002B">
+      <Element Height="0.346296" ID="VocationTrainer_Window" Width="0.180729" X="0.390365" Y="0.131019"/>
+    </Layout>
+    <Layout ID="0x220008B5">
+      <Element Height="0.562037" ID="MultiUsagePanel" Width="0.249479" X="-0.000260" Y="0.000463"/>
+    </Layout>
+    <Layout ID="0x22000043">
+      <Element Height="0.438889" ID="QuestHistory" Width="0.236458" X="0.084635" Y="0.093981"/>
+      <Element Height="0.535185" ID="QuestPanel" Width="0.400521" X="0.320573" Y="0.263426"/>
+    </Layout>
+    <Layout ID="0x2200005A">
+      <Element Height="0.552778" ID="TitlePanel" Width="0.265625" X="0.228906" Y="0.135648"/>
+    </Layout>
+    <Layout ID="0x22000604">
+      <Element Height="0.398148" ID="FellowInvite" Width="0.183854" X="0.037760" Y="0.093981"/>
+    </Layout>
+    <Layout ID="0x220008B6">
+      <Element Height="0.710185" ID="BigBattlesUI_Window" Width="0.532813" X="-0.000260" Y="0.000463"/>
+    </Layout>
+    <Layout ID="0x220008CD">
+      <Element Height="0.667593" ID="FilterPanel" Width="0.432292" X="0.032031" Y="0.040278"/>
+    </Layout>
+    <Layout ID="0x220001B4">
+      <Element Height="0.220370" ID="HousingContainer_MainField" Width="0.130729" X="0.002865" Y="0.131019"/>
+    </Layout>
+    <Layout ID="0x22000605">
+      <Element Height="0.644444" ID="HobbyPanel" Width="0.311979" X="0.213281" Y="0.131019"/>
+    </Layout>
+    <Layout ID="0x22000045">
+      <Element Height="0.556481" ID="AccomplishmentPanel" Width="0.334896" X="0.297656" Y="0.101389"/>
+    </Layout>
+    <Layout ID="0x22000889">
+      <Element Height="0.554630" ID="MountedCombat_Window" Width="0.416146" X="0.099219" Y="0.129167"/>
+      <Element Height="0.045370" ID="MountedXpUI" Width="0.119271" X="-0.000260" Y="0.431019"/>
+    </Layout>
+    <Layout ID="0x2200005C">
+      <Element Height="0.417593" ID="FellowMiniPanel_1" Width="0.114583" X="-0.000260" Y="0.000463"/>
+      <Element Height="0.417593" ID="FellowMiniPanel_2" Width="0.114583" X="0.145573" Y="0.132870"/>
+      <Element Height="0.417593" ID="FellowMiniPanel_3" Width="0.114583" X="0.725260" Y="0.132870"/>
+      <Element Height="0.417593" ID="FellowMiniPanel_4" Width="0.114583" X="0.861198" Y="0.132870"/>
+    </Layout>
+    <Layout ID="0x220008B8">
+      <Element Height="0.587037" ID="PlaqueDisplay_Window" Width="0.416146" X="-0.000260" Y="0.000463"/>
+    </Layout>
+    <Layout ID="0x220008CF">
+      <Element Height="0.496296" ID="ImageItem_Window" Width="0.214063" X="0.024740" Y="0.145833"/>
+    </Layout>
+    <Layout ID="0x22000074">
+      <Element Height="0.408333" ID="PlayerBag1_Template" Width="0.234375" X="0.275260" Y="0.240278"/>
+      <Element Height="0.150926" ID="PlayerBag2_Template" Width="0.102083" X="0.373698" Y="0.387500"/>
+      <Element Height="0.150926" ID="PlayerBag3_Template" Width="0.102083" X="0.373698" Y="0.563426"/>
+      <Element Height="0.150926" ID="PlayerBag4_Template" Width="0.102083" X="0.502344" Y="0.207870"/>
+      <Element Height="0.150926" ID="PlayerBag5_Template" Width="0.102083" X="0.502865" Y="0.387500"/>
+      <Element Height="0.150926" ID="PlayerBag6_Template" Width="0.102083" X="0.502344" Y="0.564352"/>
+    </Layout>
+  </Layouts>
+
+  <Options>
+    <Option Name="AcceptAutomaticQuests" Value="True"/>
+    <Option Name="AcceptDuels" Value="True"/>
+    <Option Name="AcceptFellowshipRequests" Value="True"/>
+    <Option Name="AcceptFriendsAndGuildTells" Value="False"/>
+    <Option Name="AcceptKinshipRequests" Value="True"/>
+    <Option Name="AcceptTradeRequests" Value="True"/>
+    <Option Name="AlertUIScale" Value="1.001493"/>
+    <Option Name="AllegianceProgressUIScale" Value="1.001493"/>
+    <Option Name="AllegianceProgressUIToggle" Value="True"/>
+    <Option Name="AllowAdoptions" Value="True"/>
+    <Option Name="AllowForcedEmotes" Value="True"/>
+    <Option Name="AlwaysLootAll" Value="True"/>
+    <Option Name="AlwaysShowBar1" Value="True"/>
+    <Option Name="AlwaysShowBar2" Value="True"/>
+    <Option Name="AlwaysShowBar3" Value="True"/>
+    <Option Name="AlwaysShowBar4" Value="True"/>
+    <Option Name="AlwaysShowBar5" Value="True"/>
+    <Option Name="AttunementPanelSize" Value="Large"/>
+    <Option Name="AutoAddDeedsToTracker" Value="False"/>
+    <Option Name="AutoAddQuestsToTracker" Value="True"/>
+    <Option Name="AutoAddTaskToTracker" Value="True"/>
+    <Option Name="AutoCreateIMSessions" Value="True"/>
+    <Option Name="AutoMoveToTarget" Value="True"/>
+    <Option Name="AutoSelectTarget" Value="True"/>
+    <Option Name="AutoTargetForwarding" Value="True"/>
+    <Option Name="AvatarVitalsUIScale" Value="1.001493"/>
+    <Option Name="Bar1Horizontal" Value="True"/>
+    <Option Name="Bar2Horizontal" Value="True"/>
+    <Option Name="Bar3Horizontal" Value="True"/>
+    <Option Name="Bar4Horizontal" Value="True"/>
+    <Option Name="Bar5Horizontal" Value="False"/>
+    <Option Name="ChatBackgroundOpacity" Value="48"/>
+    <Option Name="ChatKeyRepeatProtection" Value="False"/>
+    <Option Name="ClassAbilitiesUIScale" Value="1.001493"/>
+    <Option Name="DamageTextRange" Value="2.000000"/>
+    <Option Name="DefaultUISkin" Value="sim"/>
+    <Option Name="DisableCombatMusic" Value="False"/>
+    <Option Name="DisableCosmeticPets" Value="False"/>
+    <Option Name="DisplayHomeOwnership" Value="True"/>
+    <Option Name="DockBar1" Value="False"/>
+    <Option Name="DockBar2" Value="False"/>
+    <Option Name="DockBar3" Value="False"/>
+    <Option Name="DockBar4" Value="False"/>
+    <Option Name="DockBar5" Value="False"/>
+    <Option Name="EnableColorVOSounds" Value="True"/>
+    <Option Name="EnableHotspotVisualization" Value="True"/>
+    <Option Name="EnableLFX" Value="True"/>
+    <Option Name="EnableMovementMissModifier" Value="True"/>
+    <Option Name="EnableNewItemOverlay" Value="True"/>
+    <Option Name="EnablePlayerMusicLowLatencyMode" Value="True"/>
+    <Option Name="EnablePlayerMusicQuantization" Value="True"/>
+    <Option Name="EnableQuestGuide" Value="True"/>
+    <Option Name="EnableTargetNearestEnemy" Value="True"/>
+    <Option Name="EnableTimestampsOnChat" Value="False"/>
+    <Option Name="EnableTradeItemText" Value="True"/>
+    <Option Name="EnableVoice" Value="False"/>
+    <Option Name="EscortVitalsUIScale" Value="1.001493"/>
+    <Option Name="EventPanelUIToggle" Value="True"/>
+    <Option Name="EventQuickslotsUIToggle" Value="True"/>
+    <Option Name="FellowshipVitals1UIScale" Value="1.001493"/>
+    <Option Name="FellowshipVitals2UIScale" Value="1.001493"/>
+    <Option Name="FellowshipVitals3UIScale" Value="1.001493"/>
+    <Option Name="FellowshipVitals4UIScale" Value="1.001493"/>
+    <Option Name="LandscapeSoldierUIToggle" Value="True"/>
+    <Option Name="LockQuickslotBars" Value="False"/>
+    <Option Name="MountDisplayUIScale" Value="1.001493"/>
+    <Option Name="MountLoseMomentum" Value="False"/>
+    <Option Name="MountedCombatAssist" Value="False"/>
+    <Option Name="MountedCombatDefaultSkillMoveTo" Value="False"/>
+    <Option Name="MoveToUse" Value="True"/>
+    <Option Name="OpponentVitalUIScale" Value="1.001493"/>
+    <Option Name="PetBarUIScale" Value="1.001493"/>
+    <Option Name="PetVitalsUIScale" Value="1.001493"/>
+    <Option Name="QuestGuideColor1" Value="0.816 0.243 0.176 1.000"/>
+    <Option Name="QuestGuideColor2" Value="0.965 0.584 0.063 1.000"/>
+    <Option Name="QuestGuideColor3" Value="0.667 0.820 0.176 1.000"/>
+    <Option Name="QuestGuideColor4" Value="0.557 0.396 0.498 1.000"/>
+    <Option Name="QuestGuideColor5" Value="0.322 0.463 0.784 1.000"/>
+    <Option Name="QuestTrackerUIScale" Value="1.001493"/>
+    <Option Name="QuickslotBarUIScale" Value="1.001493"/>
+    <Option Name="RadarUIScale" Value="1.001493"/>
+    <Option Name="SelectedPortraitFloatyDamage" Value="True"/>
+    <Option Name="SeparateBuffsAndDebuffs" Value="True"/>
+    <Option Name="ShapeshiftBarSwap" Value="True"/>
+    <Option Name="ShowAvatarAttackEffects" Value="True"/>
+    <Option Name="ShowClassIconsOnRaidPanel" Value="Default"/>
+    <Option Name="ShowCombatHitEffects" Value="True"/>
+    <Option Name="ShowCombatResponseIndicators" Value="True"/>
+    <Option Name="ShowCombatStateBreakNotices" Value="True"/>
+    <Option Name="ShowConnectionStatus" Value="True"/>
+    <Option Name="ShowCoordinateOnMap" Value="True"/>
+    <Option Name="ShowCoordinatesOnRadar" Value="True"/>
+    <Option Name="ShowDispellableEffects" Value="False"/>
+    <Option Name="ShowDreadEffects" Value="True"/>
+    <Option Name="ShowEquippedItemsForRepair" Value="False"/>
+    <Option Name="ShowFellowshipPetsOnRadar" Value="True"/>
+    <Option Name="ShowFellowshipStatusOnQuestTracker" Value="False"/>
+    <Option Name="ShowGoreEffects" Value="True"/>
+    <Option Name="ShowIMTabInChatWindow" Value="True"/>
+    <Option Name="ShowInstantWorldTooltips" Value="True"/>
+    <Option Name="ShowItemCrossCompareTooltips" Value="True"/>
+    <Option Name="ShowLockedItemsForVendor" Value="False"/>
+    <Option Name="ShowMonsterAttackEffects" Value="True"/>
+    <Option Name="ShowMyCastEffects" Value="False"/>
+    <Option Name="ShowNumbersOnVitalBars" Value="True"/>
+    <Option Name="ShowOnlyTrainableSkills" Value="True"/>
+    <Option Name="ShowOverheadNonQuestIcons" Value="True"/>
+    <Option Name="ShowOverheadQuestIcons" Value="True"/>
+    <Option Name="ShowPetActionText" Value="True"/>
+    <Option Name="ShowPetBar" Value="True"/>
+    <Option Name="ShowPetVitalsInRaidPanel" Value="True"/>
+    <Option Name="ShowQuestGuideOnMap" Value="True"/>
+    <Option Name="ShowQuestGuideOnRadar" Value="True"/>
+    <Option Name="ShowQuestTracker" Value="True"/>
+    <Option Name="ShowRaidAssistWindow" Value="True"/>
+    <Option Name="ShowRankAndTitle" Value="True"/>
+    <Option Name="ShowSelectedItemDirection" Value="True"/>
+    <Option Name="ShowSelectionTarget" Value="True"/>
+    <Option Name="ShowSkillQueue" Value="True"/>
+    <Option Name="ShowSurnameAndTitle" Value="True"/>
+    <Option Name="ShowTooltipsInStaticLocation" Value="False"/>
+    <Option Name="ShowTrivialQuestsInRadar" Value="False"/>
+    <Option Name="ShowTutorialHints" Value="True"/>
+    <Option Name="ShowVitalsAsPercentage" Value="CurrentAndMax"/>
+    <Option Name="ShowWeaponPassiveEffects" Value="True"/>
+    <Option Name="SkillsEnableDefaultAttack" Value="True"/>
+    <Option Name="SoldierVitalsUIScale" Value="1.001493"/>
+    <Option Name="TargetShowDispellableEffects" Value="False"/>
+    <Option Name="TargetShowMyCastEffects" Value="False"/>
+    <Option Name="ToggleWebStorePurchaseFeedback" Value="True"/>
+    <Option Name="ToolbarRightSlot1Action" Value="ToggleAssistancePanel"/>
+    <Option Name="ToolbarRightSlot2Action" Value="ToggleWorldJoin"/>
+    <Option Name="ToolbarRightSlot3Action" Value="QUICKSLOT_BACKPACK6"/>
+    <Option Name="ToolbarRightSlot4Action" Value="QUICKSLOT_BACKPACK5"/>
+    <Option Name="ToolbarRightSlot5Action" Value="QUICKSLOT_BACKPACK4"/>
+    <Option Name="ToolbarRightSlot6Action" Value="QUICKSLOT_BACKPACK3"/>
+    <Option Name="ToolbarRightSlot7Action" Value="QUICKSLOT_BACKPACK2"/>
+    <Option Name="ToolbarRightSlot8Action" Value="QUICKSLOT_BACKPACK1"/>
+    <Option Name="ToolbarSlot1Action" Value="ToggleMainMenu"/>
+    <Option Name="ToolbarSlot2Action" Value="ToggleCraftingPanel"/>
+    <Option Name="ToolbarSlot3Action" Value="ToggleSocialPanel"/>
+    <Option Name="ToolbarSlot4Action" Value="ToggleAccomplishmentPanel"/>
+    <Option Name="ToolbarSlot5Action" Value="ToggleQuestPanel"/>
+    <Option Name="ToolbarSlot6Action" Value="ToggleJournalPanel"/>
+    <Option Name="ToolbarSlot7Action" Value="ToggleTraitPanel"/>
+    <Option Name="ToolbarUIScale" Value="1.001493"/>
+    <Option Name="UseAuctionPostHistory" Value="True"/>
+  </Options>
+
+  <ChatColors>
+    <ChatFont Color="1.000 0.322 0.322 1.000" Size="Medium" TextType="Admin"/>
+    <ChatFont Color="0.000 0.369 0.737 1.000" Size="Small" TextType="Advancement"/>
+    <ChatFont Color="0.529 0.365 0.067 1.000" Size="Small" TextType="Auction"/>
+    <ChatFont Color="1.000 0.000 0.000 1.000" Size="Small" TextType="CombatEnemy"/>
+    <ChatFont Color="0.969 0.824 0.000 1.000" Size="Small" TextType="CombatPlayer"/>
+    <ChatFont Color="0.835 0.000 0.000 1.000" Size="Small" TextType="Death"/>
+    <ChatFont Color="0.490 0.490 0.490 1.000" Size="Small" TextType="Emote"/>
+    <ChatFont Color="0.824 0.824 0.824 1.000" Size="Small" TextType="Error"/>
+    <ChatFont Color="0.980 0.565 0.000 1.000" Size="Large" TextType="EventBroadcast"/>
+    <ChatFont Color="0.000 0.710 0.271 1.000" Size="Small" TextType="FellowLoot"/>
+    <ChatFont Color="0.259 0.659 0.184 1.000" Size="Small" TextType="Fellowship"/>
+    <ChatFont Color="0.824 0.824 0.824 1.000" Size="Small" TextType="General"/>
+    <ChatFont Color="0.980 0.565 0.000 1.000" Size="XLarge" TextType="Global"/>
+    <ChatFont Color="0.322 0.675 1.000 1.000" Size="Small" TextType="Guild"/>
+    <ChatFont Color="0.322 0.675 1.000 1.000" Size="Medium" TextType="GuildMP"/>
+    <ChatFont Color="0.635 0.945 0.047 1.000" Size="Small" TextType="LFG"/>
+    <ChatFont Color="0.824 0.094 0.094 1.000" Size="Medium" TextType="Leaderboard"/>
+    <ChatFont Color="0.824 0.824 0.824 1.000" Size="Medium" TextType="Localized1"/>
+    <ChatFont Color="0.824 0.824 0.824 1.000" Size="Medium" TextType="Localized2"/>
+    <ChatFont Color="0.824 0.824 0.824 1.000" Size="Medium" TextType="Log"/>
+    <ChatFont Color="0.922 0.631 0.631 1.000" Size="Small" TextType="Loot"/>
+    <ChatFont Color="1.000 0.322 0.322 1.000" Size="Medium" TextType="Narration"/>
+    <ChatFont Color="0.824 0.824 0.824 1.000" Size="Small" TextType="OOC"/>
+    <ChatFont Color="0.031 0.655 0.494 1.000" Size="Small" TextType="Officer"/>
+    <ChatFont Color="0.824 0.824 0.824 1.000" Size="Small" TextType="Quest"/>
+    <ChatFont Color="0.824 0.824 0.824 1.000" Size="Small" TextType="RP"/>
+    <ChatFont Color="0.824 0.824 0.824 1.000" Size="Small" TextType="Raid"/>
+    <ChatFont Color="0.824 0.824 0.824 1.000" Size="Small" TextType="Say"/>
+    <ChatFont Color="0.753 0.710 0.400 1.000" Size="Small" TextType="Standard"/>
+    <ChatFont Color="0.902 0.776 0.302 1.000" Size="Small" TextType="Tell"/>
+    <ChatFont Color="0.824 0.824 0.824 1.000" Size="Small" TextType="UserChat1"/>
+    <ChatFont Color="0.824 0.824 0.824 1.000" Size="Small" TextType="UserChat2"/>
+    <ChatFont Color="0.824 0.824 0.824 1.000" Size="Medium" TextType="UserChat3"/>
+    <ChatFont Color="0.824 0.824 0.824 1.000" Size="Medium" TextType="UserChat4"/>
+    <ChatFont Color="0.824 0.824 0.824 1.000" Size="Medium" TextType="UserChat5"/>
+    <ChatFont Color="0.824 0.824 0.824 1.000" Size="Medium" TextType="UserChat6"/>
+    <ChatFont Color="0.824 0.824 0.824 1.000" Size="Medium" TextType="UserChat7"/>
+    <ChatFont Color="0.824 0.824 0.824 1.000" Size="Small" TextType="UserChat8"/>
+    <ChatFont Color="0.749 0.427 0.675 1.000" Size="Small" TextType="World"/>
+  </ChatColors>
+
+</UI>
