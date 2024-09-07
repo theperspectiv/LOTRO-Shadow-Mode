@@ -60,7 +60,7 @@
 		
 		Resolution 1776x1000 =>	  <Element ID="ToolbarField" X="678" Y="950"  Width="450" Height="50">
 		
-		Resolution 1920x1080 =>	  <Element ID="ToolbarField" X="750" Y="1030"  Width="450" Height="50">
+		Resolution 1920x1080 =>	  <Element ID="ToolbarField" 									X="750" Y="1030"  Width="450" Height="50">
 		
 		Resolution 1920x1200 =>	  <Element ID="ToolbarField" X="750" Y="1150" Width="450" Height="50">
 		
@@ -78,7 +78,7 @@
 ==================================================================================================== -->
 
 
-		<Element ID="ToolbarField"		X="750"			Y="1150"		Width="450"				Height="50">
+		<Element ID="ToolbarField"		X="750"			Y="1030"		Width="450"				Height="50">
 		
 		
 		
@@ -3394,10 +3394,10 @@
       <Element ID="Base_Box_Silver_BottomLeft" X="0" Y="548" Width="36" Height="36"> </Element>
     </Element>
     <Element ID="AppearanceModList_Container" X="0" Y="16" Width="813" Height="577"> </Element>
-    <Element ID="AppearanceMod_InteriorFrame" X="5" Y="48" Width="804" Height="476"> 
-      <Element ID="AppearanceMod_InteriorFrame_TopLeft" X="0" Y="0" Width="806" Height="3"> </Element>
-      <Element ID="AppearanceMod_InteriorFrame_BottomLeft" X="0" Y="471" Width="806" Height="3"> </Element>
-      <Element ID="AppearanceMod_InteriorFrame_VertMiddle" X="560" Y="2" Width="3" Height="470"> </Element>
+    <Element ID="AppearanceMod_InteriorFrame" X="5" Y="48" Width="0" Height="0"> 
+      <Element ID="AppearanceMod_InteriorFrame_TopLeft" X="0" Y="0" Width="0" Height="0"> </Element>
+      <Element ID="AppearanceMod_InteriorFrame_BottomLeft" X="0" Y="0" Width="0" Height="0"> </Element>
+      <Element ID="AppearanceMod_InteriorFrame_VertMiddle" X="560" Y="2" Width="0" Height="0"> </Element>
     </Element>
     <Element ID="AppearanceMod_TitleBar" X="281" Y="-10" Width="250" Height="42"> 
       <Element ID="Base_Box_Titlebar_TopRight" X="215" Y="0" Width="35" Height="42"> </Element>
