@@ -313,6 +313,11 @@
 				<Element ID="Toolbar_Quickslot_Page"											X="418"			Y="-4"			Width="1"				Height="1"></Element>							
 		</Element>
 </PanelFile>
+
+<Mapping ArtAssetID="checkbox_01" 						FileName="..\checkbox\checkbox_01.tga"></Mapping>
+<Mapping ArtAssetID="checkbox_02" 						FileName="..\checkbox\checkbox_02.tga"></Mapping>
+<Mapping ArtAssetID="checkbox_02_empty" 					FileName="..\checkbox\checkbox_02_empty.tga"></Mapping>
+<Mapping ArtAssetID="checkbox_quest_complete" 					FileName="..\checkbox\checkbox_quest_complete.tga"></Mapping>
 		<Mapping ArtAssetID="new_collapse_normal" 														FileName="..\misc\new_collapse_normal.tga"></Mapping>
 		<Mapping ArtAssetID="new_collapse_pressed" 														FileName="..\misc\new_collapse_pressed.tga"></Mapping>
 		<Mapping ArtAssetID="new_collapse_highlight" 													FileName="..\misc\new_collapse_highlight.tga"></Mapping>
