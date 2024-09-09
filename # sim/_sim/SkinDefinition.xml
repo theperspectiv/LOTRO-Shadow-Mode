@@ -78,7 +78,7 @@
 ==================================================================================================== -->
 
 
-		<Element ID="ToolbarField"		X="750"			Y="1030"		Width="450"				Height="50">
+		<Element ID="ToolbarField"		X="750"			Y="1150"		Width="450"				Height="50">
 		
 		
 		
@@ -314,10 +314,13 @@
 		</Element>
 </PanelFile>
 
-<Mapping ArtAssetID="checkbox_01" 						FileName="..\SIM CORE\checkbox\checkbox_01.tga"></Mapping>
-<Mapping ArtAssetID="checkbox_02" 						FileName="..\SIM CORE\checkbox\checkbox_02.tga"></Mapping>
-<Mapping ArtAssetID="checkbox_02_empty" 					FileName="..\SIM CORE\checkbox\checkbox_02_empty.tga"></Mapping>
-<Mapping ArtAssetID="checkbox_quest_complete" 					FileName="..\SIM CORE\checkbox\checkbox_quest_complete.tga"></Mapping>
+<Mapping ArtAssetID="checkbox_01_empty_ghosted" 						FileName="..\..\SIM CORE\checkbox\checkbox_01_empty_ghosted.tga"></Mapping>
+<Mapping ArtAssetID="checkbox_01_empty" 						FileName="..\..\SIM CORE\checkbox\checkbox_01_empty.tga"></Mapping>
+<Mapping ArtAssetID="checkbox_01_ghosted" 						FileName="..\..\SIM CORE\checkbox\checkbox_01_ghosted.tga"></Mapping>
+<Mapping ArtAssetID="checkbox_01" 						FileName="..\..\SIM CORE\checkbox\checkbox_01.tga"></Mapping>
+<Mapping ArtAssetID="checkbox_02" 						FileName="..\..\SIM CORE\checkbox\checkbox_02.tga"></Mapping>
+<Mapping ArtAssetID="checkbox_02_empty" 					FileName="..\..\SIM CORE\checkbox\checkbox_02_empty.tga"></Mapping>
+<Mapping ArtAssetID="checkbox_quest_complete" 					FileName="..\..\SIM CORE\checkbox\checkbox_quest_complete.tga"></Mapping>
 		<Mapping ArtAssetID="new_collapse_normal" 														FileName="..\misc\new_collapse_normal.tga"></Mapping>
 		<Mapping ArtAssetID="new_collapse_pressed" 														FileName="..\misc\new_collapse_pressed.tga"></Mapping>
 		<Mapping ArtAssetID="new_collapse_highlight" 													FileName="..\misc\new_collapse_highlight.tga"></Mapping>
