@@ -10,6 +10,8 @@ https://stackoverflow.com/a/32721572
 https://stackoverflow.com/questions/13630229/can-i-have-an-onclick-effect-in-css
 
 
+Button States:
+
 1 toggle_button_normal
 hover n
 active n

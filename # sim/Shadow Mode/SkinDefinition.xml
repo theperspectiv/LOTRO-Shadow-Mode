@@ -14,6 +14,54 @@
 <!-- <SkinName Name="_JRR SmallBar Reforged - Custom - Bree theme"></SkinName> -->
 <SkinName Name="Shadow Mode"></SkinName>
 
+<!-- Shadow Mode [option] Overrides -->
+
+<!-- Shadow Mode Core Overrides -->	
+
+<Mapping ArtAssetID="dropdown_arrow_closed" 									FileName="..\..\SHADOWCORE\dropdown\dropdown_arrow_closed.tga"></Mapping>
+<Mapping ArtAssetID="dropdown_arrow_closed_ghosted" 							FileName="..\..\SHADOWCORE\dropdown\dropdown_arrow_closed_ghosted.tga"></Mapping>
+<Mapping ArtAssetID="dropdown_arrow_closed_rollover" 							FileName="..\..\SHADOWCORE\dropdown\dropdown_arrow_closed_rollover.tga"></Mapping>
+<Mapping ArtAssetID="dropdown_arrow_open" 										FileName="..\..\SHADOWCORE\dropdown\dropdown_arrow_open.tga"></Mapping>
+<Mapping ArtAssetID="dropdown_arrow_open_reversed" 								FileName="..\..\SHADOWCORE\dropdown\dropdown_arrow_open_reversed.tga"></Mapping>
+<Mapping ArtAssetID="dropdown_arrow_open_rollover" 								FileName="..\..\SHADOWCORE\dropdown\dropdown_arrow_open_rollover.tga"></Mapping>
+
+<Mapping ArtAssetID="scrollbar_10H_downarrow"									FileName="..\..\SHADOWCORE\scrollbars\scrollbar_10H_downarrow.tga"></Mapping>
+<Mapping ArtAssetID="scrollbar_10H_downarrow_mouseover"							FileName="..\..\SHADOWCORE\scrollbars\scrollbar_10H_downarrow_mouseover.tga"></Mapping>
+<Mapping ArtAssetID="scrollbar_10H_thumb_bottom"								FileName="..\..\SHADOWCORE\scrollbars\scrollbar_10H_thumb_bottom.tga"></Mapping>
+<Mapping ArtAssetID="scrollbar_10H_thumb_bottom_mouseover"						FileName="..\..\SHADOWCORE\scrollbars\scrollbar_10H_thumb_bottom_mouseover.tga"></Mapping>
+<Mapping ArtAssetID="scrollbar_10H_thumb_mid"									FileName="..\..\SHADOWCORE\scrollbars\scrollbar_10H_thumb_mid.tga"></Mapping>
+<Mapping ArtAssetID="scrollbar_10H_thumb_mid_mouseover"							FileName="..\..\SHADOWCORE\scrollbars\scrollbar_10H_thumb_mid_mouseover.tga"></Mapping>
+<Mapping ArtAssetID="scrollbar_10H_thumb_top"									FileName="..\..\SHADOWCORE\scrollbars\scrollbar_10H_thumb_top.tga"></Mapping>
+<Mapping ArtAssetID="scrollbar_10H_thumb_top_mouseover"							FileName="..\..\SHADOWCORE\scrollbars\scrollbar_10H_thumb_top_mouseover.tga"></Mapping>
+<Mapping ArtAssetID="scrollbar_10H_uparrow"										FileName="..\..\SHADOWCORE\scrollbars\scrollbar_10H_uparrow.tga"></Mapping>
+<Mapping ArtAssetID="scrollbar_10H_uparrow_mouseover"							FileName="..\..\SHADOWCORE\scrollbars\scrollbar_10H_uparrow_mouseover.tga"></Mapping>
+<Mapping ArtAssetID="scrollbar_10_downarrow"									FileName="..\..\SHADOWCORE\scrollbars\scrollbar_10_downarrow.tga"></Mapping>
+<Mapping ArtAssetID="scrollbar_10_downarrow_mouseover"							FileName="..\..\SHADOWCORE\scrollbars\scrollbar_10_downarrow_mouseover.tga"></Mapping>
+<Mapping ArtAssetID="scrollbar_10_thumb_bottom"									FileName="..\..\SHADOWCORE\scrollbars\scrollbar_10_thumb_bottom.tga"></Mapping>
+<Mapping ArtAssetID="scrollbar_10_thumb_bottom_mouseover"						FileName="..\..\SHADOWCORE\scrollbars\scrollbar_10_thumb_bottom_mouseover.tga"></Mapping>
+<Mapping ArtAssetID="scrollbar_10_thumb_mid"									FileName="..\..\SHADOWCORE\scrollbars\scrollbar_10_thumb_mid.tga"></Mapping>
+<Mapping ArtAssetID="scrollbar_10_thumb_mid_mouseover"							FileName="..\..\SHADOWCORE\scrollbars\scrollbar_10_thumb_mid_mouseover.tga"></Mapping>
+<Mapping ArtAssetID="scrollbar_10_thumb_top"									FileName="..\..\SHADOWCORE\scrollbars\scrollbar_10_thumb_top.tga"></Mapping>
+<Mapping ArtAssetID="scrollbar_10_thumb_top_mouseover"							FileName="..\..\SHADOWCORE\scrollbars\scrollbar_10_thumb_top_mouseover.tga"></Mapping>
+<Mapping ArtAssetID="scrollbar_10_uparrow"										FileName="..\..\SHADOWCORE\scrollbars\scrollbar_10_uparrow.tga"></Mapping>
+<Mapping ArtAssetID="scrollbar_10_uparrow_mouseover"							FileName="..\..\SHADOWCORE\scrollbars\scrollbar_10_uparrow_mouseover.tga"></Mapping>
+
+<Mapping ArtAssetID="new_collapse_normal" 										FileName="..\..\SHADOWCORE\expandcollapse\new_collapse_normal.tga"></Mapping>
+<Mapping ArtAssetID="new_collapse_pressed" 										FileName="..\..\SHADOWCORE\expandcollapse\new_collapse_pressed.tga"></Mapping>
+<Mapping ArtAssetID="new_collapse_highlight" 									FileName="..\..\SHADOWCORE\expandcollapse\new_collapse_highlight.tga"></Mapping>
+<Mapping ArtAssetID="new_expand_normal" 										FileName="..\..\SHADOWCORE\expandcollapse\new_expand_normal.tga"></Mapping>
+<Mapping ArtAssetID="new_expand_pressed" 										FileName="..\..\SHADOWCORE\expandcollapse\new_expand_pressed.tga"></Mapping>
+<Mapping ArtAssetID="new_expand_highlight" 										FileName="..\..\SHADOWCORE\expandcollapse\new_expand_highlight.tga"></Mapping>
+
+<Mapping ArtAssetID="checkbox_01_empty_ghosted" 								FileName="..\..\SHADOWCORE\checkbox\checkbox_01_empty_ghosted.tga"></Mapping>
+<Mapping ArtAssetID="checkbox_01_empty" 										FileName="..\..\SHADOWCORE\checkbox\checkbox_01_empty.tga"></Mapping>
+<Mapping ArtAssetID="checkbox_01_ghosted" 										FileName="..\..\SHADOWCORE\checkbox\checkbox_01_ghosted.tga"></Mapping>
+<Mapping ArtAssetID="checkbox_01" 												FileName="..\..\SHADOWCORE\checkbox\checkbox_01.tga"></Mapping>
+<Mapping ArtAssetID="checkbox_02" 												FileName="..\..\SHADOWCORE\checkbox\checkbox_02.tga"></Mapping>
+<Mapping ArtAssetID="checkbox_02_empty" 										FileName="..\..\SHADOWCORE\checkbox\checkbox_02_empty.tga"></Mapping>
+<Mapping ArtAssetID="checkbox_quest_complete" 									FileName="..\..\SHADOWCORE\checkbox\checkbox_quest_complete.tga"></Mapping>
+
+
 <PanelFile ID="ID_UISkin_Toolbar">
 
 <!-- ===============================================================================================
@@ -76,9 +124,7 @@
 
 
 ==================================================================================================== -->
-<!-- Shadow Mode Option Overrides -->
 
-<!-- Shadow Mode Core Overrides -->	
 
 
 
@@ -318,49 +364,8 @@
 		</Element>
 </PanelFile>
 
-<Mapping ArtAssetID="dropdown_arrow_closed" 									FileName="..\..\SHADOWCORE\dropdown\dropdown_arrow_closed.tga"></Mapping>
-<Mapping ArtAssetID="dropdown_arrow_closed_ghosted" 							FileName="..\..\SHADOWCORE\dropdown\dropdown_arrow_closed_ghosted.tga"></Mapping>
-<Mapping ArtAssetID="dropdown_arrow_closed_rollover" 							FileName="..\..\SHADOWCORE\dropdown\dropdown_arrow_closed_rollover.tga"></Mapping>
-<Mapping ArtAssetID="dropdown_arrow_open" 										FileName="..\..\SHADOWCORE\dropdown\dropdown_arrow_open.tga"></Mapping>
-<Mapping ArtAssetID="dropdown_arrow_open_reversed" 								FileName="..\..\SHADOWCORE\dropdown\dropdown_arrow_open_reversed.tga"></Mapping>
-<Mapping ArtAssetID="dropdown_arrow_open_rollover" 								FileName="..\..\SHADOWCORE\dropdown\dropdown_arrow_open_rollover.tga"></Mapping>
 
-<Mapping ArtAssetID="scrollbar_10H_downarrow"									FileName="..\..\SHADOWCORE\scrollbars\scrollbar_10H_downarrow.tga"></Mapping>
-<Mapping ArtAssetID="scrollbar_10H_downarrow_mouseover"							FileName="..\..\SHADOWCORE\scrollbars\scrollbar_10H_downarrow_mouseover.tga"></Mapping>
-<Mapping ArtAssetID="scrollbar_10H_thumb_bottom"								FileName="..\..\SHADOWCORE\scrollbars\scrollbar_10H_thumb_bottom.tga"></Mapping>
-<Mapping ArtAssetID="scrollbar_10H_thumb_bottom_mouseover"						FileName="..\..\SHADOWCORE\scrollbars\scrollbar_10H_thumb_bottom_mouseover.tga"></Mapping>
-<Mapping ArtAssetID="scrollbar_10H_thumb_mid"									FileName="..\..\SHADOWCORE\scrollbars\scrollbar_10H_thumb_mid.tga"></Mapping>
-<Mapping ArtAssetID="scrollbar_10H_thumb_mid_mouseover"							FileName="..\..\SHADOWCORE\scrollbars\scrollbar_10H_thumb_mid_mouseover.tga"></Mapping>
-<Mapping ArtAssetID="scrollbar_10H_thumb_top"									FileName="..\..\SHADOWCORE\scrollbars\scrollbar_10H_thumb_top.tga"></Mapping>
-<Mapping ArtAssetID="scrollbar_10H_thumb_top_mouseover"							FileName="..\..\SHADOWCORE\scrollbars\scrollbar_10H_thumb_top_mouseover.tga"></Mapping>
-<Mapping ArtAssetID="scrollbar_10H_uparrow"										FileName="..\..\SHADOWCORE\scrollbars\scrollbar_10H_uparrow.tga"></Mapping>
-<Mapping ArtAssetID="scrollbar_10H_uparrow_mouseover"							FileName="..\..\SHADOWCORE\scrollbars\scrollbar_10H_uparrow_mouseover.tga"></Mapping>
-<Mapping ArtAssetID="scrollbar_10_downarrow"									FileName="..\..\SHADOWCORE\scrollbars\scrollbar_10_downarrow.tga"></Mapping>
-<Mapping ArtAssetID="scrollbar_10_downarrow_mouseover"							FileName="..\..\SHADOWCORE\scrollbars\scrollbar_10_downarrow_mouseover.tga"></Mapping>
-<Mapping ArtAssetID="scrollbar_10_thumb_bottom"									FileName="..\..\SHADOWCORE\scrollbars\scrollbar_10_thumb_bottom.tga"></Mapping>
-<Mapping ArtAssetID="scrollbar_10_thumb_bottom_mouseover"						FileName="..\..\SHADOWCORE\scrollbars\scrollbar_10_thumb_bottom_mouseover.tga"></Mapping>
-<Mapping ArtAssetID="scrollbar_10_thumb_mid"									FileName="..\..\SHADOWCORE\scrollbars\scrollbar_10_thumb_mid.tga"></Mapping>
-<Mapping ArtAssetID="scrollbar_10_thumb_mid_mouseover"							FileName="..\..\SHADOWCORE\scrollbars\scrollbar_10_thumb_mid_mouseover.tga"></Mapping>
-<Mapping ArtAssetID="scrollbar_10_thumb_top"									FileName="..\..\SHADOWCORE\scrollbars\scrollbar_10_thumb_top.tga"></Mapping>
-<Mapping ArtAssetID="scrollbar_10_thumb_top_mouseover"							FileName="..\..\SHADOWCORE\scrollbars\scrollbar_10_thumb_top_mouseover.tga"></Mapping>
-<Mapping ArtAssetID="scrollbar_10_uparrow"										FileName="..\..\SHADOWCORE\scrollbars\scrollbar_10_uparrow.tga"></Mapping>
-<Mapping ArtAssetID="scrollbar_10_uparrow_mouseover"							FileName="..\..\SHADOWCORE\scrollbars\scrollbar_10_uparrow_mouseover.tga"></Mapping>
-
-<Mapping ArtAssetID="new_collapse_normal" 										FileName="..\..\SHADOWCORE\expandcollapse\new_collapse_normal.tga"></Mapping>
-<Mapping ArtAssetID="new_collapse_pressed" 										FileName="..\..\SHADOWCORE\expandcollapse\new_collapse_pressed.tga"></Mapping>
-<Mapping ArtAssetID="new_collapse_highlight" 									FileName="..\..\SHADOWCORE\expandcollapse\new_collapse_highlight.tga"></Mapping>
-<Mapping ArtAssetID="new_expand_normal" 										FileName="..\..\SHADOWCORE\expandcollapse\new_expand_normal.tga"></Mapping>
-<Mapping ArtAssetID="new_expand_pressed" 										FileName="..\..\SHADOWCORE\expandcollapse\new_expand_pressed.tga"></Mapping>
-<Mapping ArtAssetID="new_expand_highlight" 										FileName="..\..\SHADOWCORE\expandcollapse\new_expand_highlight.tga"></Mapping>
-
-
-<Mapping ArtAssetID="checkbox_01_empty_ghosted" 								FileName="..\..\SIM CORE\checkbox\checkbox_01_empty_ghosted.tga"></Mapping>
-<Mapping ArtAssetID="checkbox_01_empty" 										FileName="..\..\SIM CORE\checkbox\checkbox_01_empty.tga"></Mapping>
-<Mapping ArtAssetID="checkbox_01_ghosted" 										FileName="..\..\SIM CORE\checkbox\checkbox_01_ghosted.tga"></Mapping>
-<Mapping ArtAssetID="checkbox_01" 												FileName="..\..\SIM CORE\checkbox\checkbox_01.tga"></Mapping>
-<Mapping ArtAssetID="checkbox_02" 												FileName="..\..\SIM CORE\checkbox\checkbox_02.tga"></Mapping>
-<Mapping ArtAssetID="checkbox_02_empty" 										FileName="..\..\SIM CORE\checkbox\checkbox_02_empty.tga"></Mapping>
-<Mapping ArtAssetID="checkbox_quest_complete" 									FileName="..\..\SIM CORE\checkbox\checkbox_quest_complete.tga"></Mapping>
+<!-- JRR Mappings -->
 
 
 		<Mapping ArtAssetID="collapse_all_button" 														FileName="..\misc\collapse_all_button.tga"></Mapping>
@@ -1001,23 +1006,23 @@
 		<Mapping ArtAssetID="alert_alertoverflow"										FileName="..\..\SIM CORE\misc\alert_alertoverflow.tga"></Mapping>
 		
 		<!-- Inventory main bag -->		
-		<Mapping ArtAssetID="button_sort_ghosted"										FileName="..\..\SIM CORE\inventory\button_sort_ghosted.tga"></Mapping>
-		<Mapping ArtAssetID="button_sort_highlight"										FileName="..\..\SIM CORE\inventory\button_sort_highlight.tga"></Mapping>
-		<Mapping ArtAssetID="button_sort_normal"										FileName="..\..\SIM CORE\inventory\button_sort_normal.tga"></Mapping>
-		<Mapping ArtAssetID="button_sort_normal_pressed"								FileName="..\..\SIM CORE\inventory\button_sort_normal_pressed.tga"></Mapping>
-		<Mapping ArtAssetID="inveditmode"												FileName="..\..\SIM CORE\inventory\inveditmode.tga"></Mapping>
-		<Mapping ArtAssetID="inveditmode_pressed"										FileName="..\..\SIM CORE\inventory\inveditmode_pressed.tga"></Mapping>
-		<Mapping ArtAssetID="inveditmode_rollover"										FileName="..\..\SIM CORE\inventory\inveditmode_rollover.tga"></Mapping>
-		<Mapping ArtAssetID="invlock_ghosted"											FileName="..\..\SIM CORE\inventory\invlock_ghosted.tga"></Mapping>
-		<Mapping ArtAssetID="invlock_locked"											FileName="..\..\SIM CORE\inventory\invlock_locked.tga"></Mapping>
-		<Mapping ArtAssetID="invlock_locked_rollover"									FileName="..\..\SIM CORE\inventory\invlock_locked_rollover.tga"></Mapping>
-		<Mapping ArtAssetID="invlock_unlocked"											FileName="..\..\SIM CORE\inventory\nvlock_unlocked.tga"></Mapping>
-		<Mapping ArtAssetID="invlock_unlocked_pressed"									FileName="..\..\SIM CORE\inventory\invlock_unlocked_pressed.tga"></Mapping>
-		<Mapping ArtAssetID="invlock_unlocked_rollover"									FileName="..\..\SIM CORE\inventory\invlock_unlocked_rollover.tga"></Mapping>
-		<Mapping ArtAssetID="invMTX"													FileName="..\..\SIM CORE\inventory\invMTX.tga"></Mapping>
-		<Mapping ArtAssetID="invMTX_pressed"											FileName="..\..\SIM CORE\inventory\invMTX_pressed.tga"></Mapping>
-		<Mapping ArtAssetID="invMTX_rollover"											FileName="..\..\SIM CORE\inventory\invMTX_rollover.tga"></Mapping>
-		<Mapping ArtAssetID="inv_empty_slot"											FileName="..\..\SIM CORE\inventory\inv_empty_slot.tga"></Mapping>
+		<Mapping ArtAssetID="button_sort_ghosted"										FileName="..\..\SHADOWCORE\inventory\button_sort_ghosted.tga"></Mapping>
+		<Mapping ArtAssetID="button_sort_highlight"										FileName="..\..\SHADOWCORE\inventory\button_sort_highlight.tga"></Mapping>
+		<Mapping ArtAssetID="button_sort_normal"										FileName="..\..\SHADOWCORE\inventory\button_sort_normal.tga"></Mapping>
+		<Mapping ArtAssetID="button_sort_normal_pressed"								FileName="..\..\SHADOWCORE\inventory\button_sort_normal_pressed.tga"></Mapping>
+		<Mapping ArtAssetID="inveditmode"												FileName="..\..\SHADOWCORE\inventory\inveditmode.tga"></Mapping>
+		<Mapping ArtAssetID="inveditmode_pressed"										FileName="..\..\SHADOWCORE\inventory\inveditmode_pressed.tga"></Mapping>
+		<Mapping ArtAssetID="inveditmode_rollover"										FileName="..\..\SHADOWCORE\inventory\inveditmode_rollover.tga"></Mapping>
+		<Mapping ArtAssetID="invlock_ghosted"											FileName="..\..\SHADOWCORE\inventory\invlock_ghosted.tga"></Mapping>
+		<Mapping ArtAssetID="invlock_locked"											FileName="..\..\SHADOWCORE\inventory\invlock_locked.tga"></Mapping>
+		<Mapping ArtAssetID="invlock_locked_rollover"									FileName="..\..\SHADOWCORE\inventory\invlock_locked_rollover.tga"></Mapping>
+		<Mapping ArtAssetID="invlock_unlocked"											FileName="..\..\SHADOWCORE\inventory\invlock_unlocked.tga"></Mapping>
+		<Mapping ArtAssetID="invlock_unlocked_pressed"									FileName="..\..\SHADOWCORE\inventory\invlock_unlocked_pressed.tga"></Mapping>
+		<Mapping ArtAssetID="invlock_unlocked_rollover"									FileName="..\..\SHADOWCORE\inventory\invlock_unlocked_rollover.tga"></Mapping>
+		<Mapping ArtAssetID="invMTX"													FileName="..\..\SHADOWCORE\inventory\invMTX.tga"></Mapping>
+		<Mapping ArtAssetID="invMTX_pressed"											FileName="..\..\SHADOWCORE\inventory\invMTX_pressed.tga"></Mapping>
+		<Mapping ArtAssetID="invMTX_rollover"											FileName="..\..\SHADOWCORE\inventory\invMTX_rollover.tga"></Mapping>
+		<Mapping ArtAssetID="inv_empty_slot"											FileName="..\..\SHADOWCORE\inventory\inv_empty_slot.tga"></Mapping>
 
 		
 		<Mapping ArtAssetID="multiusage_box_b"											FileName="..\..\SIM CORE\multiusage_box\multiusage_box_b.tga"></Mapping>
@@ -1170,14 +1175,14 @@
 		<Mapping ArtAssetID="button_bottom_right_pressed"								FileName="..\..\SIM CORE\textbutton\button_bottom_right_pressed.tga"></Mapping>
 
 
-		<Mapping ArtAssetID="slider_background"											FileName="..\..\SIM CORE\basepanel\slider_background.tga"></Mapping>
-		<Mapping ArtAssetID="slider_leftarrow"											FileName="..\..\SIM CORE\basepanel\slider_leftarrow.tga"></Mapping>
-		<Mapping ArtAssetID="slider_leftarrow_highlight"								FileName="..\..\SIM CORE\basepanel\slider_leftarrow_highlight.tga"></Mapping>
-		<Mapping ArtAssetID="slider_leftarrow_pressed"									FileName="..\..\SIM CORE\basepanel\slider_leftarrow_pressed.tga"></Mapping>
-		<Mapping ArtAssetID="slider_rightarrow"											FileName="..\..\SIM CORE\basepanel\slider_rightarrow.tga"></Mapping>
-		<Mapping ArtAssetID="slider_rightarrow_highlight"								FileName="..\..\SIM CORE\basepanel\slider_rightarrow_highlight.tga"></Mapping>
-		<Mapping ArtAssetID="slider_rightarrow_pressed"									FileName="..\..\SIM CORE\basepanel\slider_rightarrow_pressed.tga"></Mapping>
-		<Mapping ArtAssetID="slider_widget"												FileName="..\..\SIM CORE\basepanel\slider_widget.tga"></Mapping>
+		<Mapping ArtAssetID="slider_background"											FileName="..\..\SHADOWCORE\basepanel\slider_background.tga"></Mapping>
+		<Mapping ArtAssetID="slider_leftarrow"											FileName="..\..\SHADOWCORE\basepanel\slider_leftarrow.tga"></Mapping>
+		<Mapping ArtAssetID="slider_leftarrow_highlight"								FileName="..\..\SHADOWCORE\basepanel\slider_leftarrow_highlight.tga"></Mapping>
+		<Mapping ArtAssetID="slider_leftarrow_pressed"									FileName="..\..\SHADOWCORE\basepanel\slider_leftarrow_pressed.tga"></Mapping>
+		<Mapping ArtAssetID="slider_rightarrow"											FileName="..\..\SHADOWCORE\basepanel\slider_rightarrow.tga"></Mapping>
+		<Mapping ArtAssetID="slider_rightarrow_highlight"								FileName="..\..\SHADOWCORE\basepanel\slider_rightarrow_highlight.tga"></Mapping>
+		<Mapping ArtAssetID="slider_rightarrow_pressed"									FileName="..\..\SHADOWCORE\basepanel\slider_rightarrow_pressed.tga"></Mapping>
+		<Mapping ArtAssetID="slider_widget"												FileName="..\..\SHADOWCORE\basepanel\slider_widget.tga"></Mapping>
 
 		<Mapping ArtAssetID="divider_horizontal_blue" 									FileName="..\..\SIM CORE\hobbit gifts\divider_horizontal_blue.tga"></Mapping>
 		<Mapping ArtAssetID="divider_vertical_blue_leaf" 								FileName="..\..\SIM CORE\hobbit gifts\divider_vertical_blue_leaf.tga"></Mapping>
@@ -1194,9 +1199,9 @@
 		<Mapping ArtAssetID="itemAdvancement_tab_buynow"								FileName="..\..\SIM CORE\itemAdvancement\itemAdvancement_tab_buynow.tga"></Mapping>
 		<Mapping ArtAssetID="itemAdvancement_tab_buynow_pressed"						FileName="..\..\SIM CORE\itemAdvancement\itemAdvancement_tab_buynow_pressed.tga"></Mapping>
 		<Mapping ArtAssetID="itemAdvancement_tab_buynow_rollover"						FileName="..\..\SIM CORE\itemAdvancement\itemAdvancement_tab_buynow_rollover.tga"></Mapping>
-		<Mapping ArtAssetID="balance_box_c"												FileName="..\..\SIM CORE\basebox\balance_box_c.tga"></Mapping>
-		<Mapping ArtAssetID="balance_box_l"												FileName="..\..\SIM CORE\basebox\balance_box_l.tga"></Mapping>
-		<Mapping ArtAssetID="balance_box_r"												FileName="..\..\SIM CORE\basebox\balance_box_r.tga"></Mapping>
+		<Mapping ArtAssetID="balance_box_c"												FileName="..\..\SHADOWCORE\basebox\balance_box_c.tga"></Mapping>
+		<Mapping ArtAssetID="balance_box_l"												FileName="..\..\SHADOWCORE\basebox\balance_box_l.tga"></Mapping>
+		<Mapping ArtAssetID="balance_box_r"												FileName="..\..\SHADOWCORE\basebox\balance_box_r.tga"></Mapping>
 		<Mapping ArtAssetID="player_vitals_backdrop_VIP_mp"								FileName="..\..\SIM CORE\vitals\player_vitals_backdrop_VIP_mp.tga"></Mapping>
 		<Mapping ArtAssetID="opponent_vitals_backdrop_VIP_mp"							FileName="..\..\SIM CORE\vitals\opponent_vitals_backdrop_VIP_mp.tga"></Mapping>
 		<Mapping ArtAssetID="player_vitals_backdrop_mini_VIP_mp"						FileName="..\..\SIM CORE\vitals\party_member.tga"></Mapping>
@@ -1228,36 +1233,36 @@
 		<Mapping ArtAssetID="bar_mtx_left"												FileName="..\..\SIM CORE\invisible2.tga"></Mapping>
 		<Mapping ArtAssetID="bar_mtx_right"												FileName="..\..\SIM CORE\invisible2.tga"></Mapping>
 
-		<Mapping ArtAssetID="box_gold_bottom_left_light"								FileName="..\..\SIM CORE\silver\bottom_left.tga"></Mapping>
-		<Mapping ArtAssetID="box_gold_bottom_light"										FileName="..\..\SIM CORE\silver\bottom.tga"></Mapping>
-		<Mapping ArtAssetID="box_gold_lower_right_light"								FileName="..\..\SIM CORE\silver\lower_right.tga"></Mapping>
-		<Mapping ArtAssetID="box_gold_side_left_light"									FileName="..\..\SIM CORE\silver\side_left.tga"></Mapping>
-		<Mapping ArtAssetID="box_gold_side_right_light"									FileName="..\..\SIM CORE\silver\side_right.tga"></Mapping>
-		<Mapping ArtAssetID="box_gold_upper_left_light"									FileName="..\..\SIM CORE\silver\upper_left.tga"></Mapping>
-		<Mapping ArtAssetID="box_gold_upper_light"										FileName="..\..\SIM CORE\silver\upper.tga"></Mapping>
-		<Mapping ArtAssetID="box_gold_upper_right_light"								FileName="..\..\SIM CORE\silver\upper_right.tga"></Mapping>
+		<Mapping ArtAssetID="box_gold_bottom_left_light"								FileName="..\..\SHADOWCORE\silver\bottom_left.tga"></Mapping>
+		<Mapping ArtAssetID="box_gold_bottom_light"										FileName="..\..\SHADOWCORE\silver\bottom.tga"></Mapping>
+		<Mapping ArtAssetID="box_gold_lower_right_light"								FileName="..\..\SHADOWCORE\silver\lower_right.tga"></Mapping>
+		<Mapping ArtAssetID="box_gold_side_left_light"									FileName="..\..\SHADOWCORE\silver\side_left.tga"></Mapping>
+		<Mapping ArtAssetID="box_gold_side_right_light"									FileName="..\..\SHADOWCORE\silver\side_right.tga"></Mapping>
+		<Mapping ArtAssetID="box_gold_upper_left_light"									FileName="..\..\SHADOWCORE\silver\upper_left.tga"></Mapping>
+		<Mapping ArtAssetID="box_gold_upper_light"										FileName="..\..\SHADOWCORE\silver\upper.tga"></Mapping>
+		<Mapping ArtAssetID="box_gold_upper_right_light"								FileName="..\..\SHADOWCORE\silver\upper_right.tga"></Mapping>
 		
-		<Mapping ArtAssetID="box_silver_bottom_light"									FileName="..\..\SIM CORE\silver\bottom.tga"></Mapping>
-		<Mapping ArtAssetID="box_silver_bottom_left_light"								FileName="..\..\SIM CORE\silver\bottom_left.tga"></Mapping>
-		<Mapping ArtAssetID="box_silver_lower_right_light"								FileName="..\..\SIM CORE\silver\lower_right.tga"></Mapping>
-		<Mapping ArtAssetID="box_silver_side_left_light"								FileName="..\..\SIM CORE\silver\side_left.tga"></Mapping>
-		<Mapping ArtAssetID="box_silver_side_right_light"								FileName="..\..\SIM CORE\silver\side_right.tga"></Mapping>
-		<Mapping ArtAssetID="box_silver_upper_light"									FileName="..\..\SIM CORE\silver\upper.tga"></Mapping>
-		<Mapping ArtAssetID="box_silver_upper_left_light"								FileName="..\..\SIM CORE\silver\upper_left.tga"></Mapping>
-		<Mapping ArtAssetID="box_silver_upper_right_light"								FileName="..\..\SIM CORE\silver\upper_right.tga"></Mapping>
-		<Mapping ArtAssetID="base_box_center_silver_light"								FileName="..\..\SIM CORE\basebox\center_silver.tga"></Mapping>
+		<Mapping ArtAssetID="box_silver_bottom_light"									FileName="..\..\SHADOWCORE\silver\bottom.tga"></Mapping>
+		<Mapping ArtAssetID="box_silver_bottom_left_light"								FileName="..\..\SHADOWCORE\silver\bottom_left.tga"></Mapping>
+		<Mapping ArtAssetID="box_silver_lower_right_light"								FileName="..\..\SHADOWCORE\silver\lower_right.tga"></Mapping>
+		<Mapping ArtAssetID="box_silver_side_left_light"								FileName="..\..\SHADOWCORE\silver\side_left.tga"></Mapping>
+		<Mapping ArtAssetID="box_silver_side_right_light"								FileName="..\..\SHADOWCORE\silver\side_right.tga"></Mapping>
+		<Mapping ArtAssetID="box_silver_upper_light"									FileName="..\..\SHADOWCORE\silver\upper.tga"></Mapping>
+		<Mapping ArtAssetID="box_silver_upper_left_light"								FileName="..\..\SHADOWCORE\silver\upper_left.tga"></Mapping>
+		<Mapping ArtAssetID="box_silver_upper_right_light"								FileName="..\..\SHADOWCORE\silver\upper_right.tga"></Mapping>
+		<Mapping ArtAssetID="base_box_center_silver_light"								FileName="..\..\SHADOWCORE\basebox\center_silver.tga"></Mapping>
 
-		<Mapping ArtAssetID="base_box_center_silver_gradient"							FileName="..\..\SIM CORE\invisible2.tga"></Mapping>
+<Mapping ArtAssetID="base_box_center_silver_gradient"							FileName="..\..\		.tga"></Mapping>
 		<Mapping ArtAssetID="mithril_popup_box_bg_wide"									FileName="..\..\SIM CORE\invisible2.tga"></Mapping>
 		
-		<Mapping ArtAssetID="box_silver_bottom_left_noadorn_min"						FileName="..\..\SIM CORE\silver\bottom_left.tga"></Mapping>
-		<Mapping ArtAssetID="box_silver_bottom_min"										FileName="..\..\SIM CORE\silver\bottom.tga"></Mapping>
-		<Mapping ArtAssetID="box_silver_lower_right_noadorn_min"						FileName="..\..\SIM CORE\silver\lower_right.tga"></Mapping>
-		<Mapping ArtAssetID="box_silver_side_left_min"									FileName="..\..\SIM CORE\silver\side_left.tga"></Mapping>
-		<Mapping ArtAssetID="box_silver_side_right_min"									FileName="..\..\SIM CORE\silver\side_right.tga"></Mapping>
-		<Mapping ArtAssetID="box_silver_upper_left_noadorn_min"							FileName="..\..\SIM CORE\silver\upper_left.tga"></Mapping>
-		<Mapping ArtAssetID="box_silver_upper_min"										FileName="..\..\SIM CORE\silver\upper.tga"></Mapping>
-		<Mapping ArtAssetID="box_silver_upper_right_noadorn_min"						FileName="..\..\SIM CORE\silver\upper_right.tga"></Mapping>
+		<Mapping ArtAssetID="box_silver_bottom_left_noadorn_min"						FileName="..\..\SHADOWCORE\silver\bottom_left.tga"></Mapping>
+		<Mapping ArtAssetID="box_silver_bottom_min"										FileName="..\..\SHADOWCORE\silver\bottom.tga"></Mapping>
+		<Mapping ArtAssetID="box_silver_lower_right_noadorn_min"						FileName="..\..\SHADOWCORE\silver\lower_right.tga"></Mapping>
+		<Mapping ArtAssetID="box_silver_side_left_min"									FileName="..\..\SHADOWCORE\silver\side_left.tga"></Mapping>
+		<Mapping ArtAssetID="box_silver_side_right_min"									FileName="..\..\SHADOWCORE\silver\side_right.tga"></Mapping>
+		<Mapping ArtAssetID="box_silver_upper_left_noadorn_min"							FileName="..\..\SHADOWCORE\silver\upper_left.tga"></Mapping>
+		<Mapping ArtAssetID="box_silver_upper_min"										FileName="..\..\SHADOWCORE\silver\upper.tga"></Mapping>
+		<Mapping ArtAssetID="box_silver_upper_right_noadorn_min"						FileName="..\..\SHADOWCORE\silver\upper_right.tga"></Mapping>
 
 		<Mapping ArtAssetID="buynow_button_highight"									FileName="..\..\SIM CORE\invisible2.tga"></Mapping>
 		<Mapping ArtAssetID="buynow_button_highight_ghost"								FileName="..\..\SIM CORE\invisible2.tga"></Mapping>
@@ -1555,14 +1560,14 @@
 
 		<Mapping ArtAssetID="barbershop_right_border"									FileName="..\..\SIM CORE\misc\barbershop_right_border.tga"></Mapping>
 		<Mapping ArtAssetID="barbershop_left_order"										FileName="..\..\SIM CORE\misc\barbershop_left_order.tga"></Mapping>
-		<Mapping ArtAssetID="button_chargen_arrowleft_ghosted"							FileName="..\..\SIM CORE\chargen\button_chargen_arrowleft_ghosted.tga"></Mapping>
-		<Mapping ArtAssetID="button_chargen_arrowleft_normal"							FileName="..\..\SIM CORE\chargen\button_chargen_arrowleft_normal.tga"></Mapping>
-		<Mapping ArtAssetID="button_chargen_arrowleft_pressed"							FileName="..\..\SIM CORE\chargen\button_chargen_arrowleft_pressed.tga"></Mapping>
-		<Mapping ArtAssetID="button_chargen_arrowleft_rollover"							FileName="..\..\SIM CORE\chargen\button_chargen_arrowleft_rollover.tga"></Mapping>
-		<Mapping ArtAssetID="button_chargen_arrowright_ghosted"							FileName="..\..\SIM CORE\chargen\button_chargen_arrowright_ghosted.tga"></Mapping>
-		<Mapping ArtAssetID="button_chargen_arrowright_normal"							FileName="..\..\SIM CORE\chargen\button_chargen_arrowright_normal.tga"></Mapping>
-		<Mapping ArtAssetID="button_chargen_arrowright_pressed"							FileName="..\..\SIM CORE\chargen\button_chargen_arrowright_pressed.tga"></Mapping>
-		<Mapping ArtAssetID="button_chargen_arrowright_rollover"						FileName="..\..\SIM CORE\chargen\button_chargen_arrowright_rollover.tga"></Mapping>
+		<Mapping ArtAssetID="button_chargen_arrowleft_ghosted"							FileName="..\..\SHADOWCORE\chargen\button_chargen_arrowleft_ghosted.tga"></Mapping>
+		<Mapping ArtAssetID="button_chargen_arrowleft_normal"							FileName="..\..\SHADOWCORE\chargen\button_chargen_arrowleft_normal.tga"></Mapping>
+		<Mapping ArtAssetID="button_chargen_arrowleft_pressed"							FileName="..\..\SHADOWCORE\chargen\button_chargen_arrowleft_pressed.tga"></Mapping>
+		<Mapping ArtAssetID="button_chargen_arrowleft_rollover"							FileName="..\..\SHADOWCORE\chargen\button_chargen_arrowleft_rollover.tga"></Mapping>
+		<Mapping ArtAssetID="button_chargen_arrowright_ghosted"							FileName="..\..\SHADOWCORE\chargen\button_chargen_arrowright_ghosted.tga"></Mapping>
+		<Mapping ArtAssetID="button_chargen_arrowright_normal"							FileName="..\..\SHADOWCORE\chargen\button_chargen_arrowright_normal.tga"></Mapping>
+		<Mapping ArtAssetID="button_chargen_arrowright_pressed"							FileName="..\..\SHADOWCORE\chargen\button_chargen_arrowright_pressed.tga"></Mapping>
+		<Mapping ArtAssetID="button_chargen_arrowright_rollover"						FileName="..\..\SHADOWCORE\chargen\button_chargen_arrowright_rollover.tga"></Mapping>
 		<Mapping ArtAssetID="appearance_panel_divider_blue"								FileName="..\..\SIM CORE\misc\appearance_panel_divider_blue.tga"></Mapping>
 
 		<Mapping ArtAssetID="startmenu_newItemHighlight"										FileName="..\..\SIM CORE\invisible2.tga"></Mapping>
@@ -1676,9 +1681,9 @@
 		<Mapping ArtAssetID="itemAdvancement_runicSlot_middle_available"				FileName="..\..\SIM CORE\itemadvancement/itemAdvancement_runicSlot_middle_available.tga"></Mapping>
 		<Mapping ArtAssetID="itemAdvancement_runicSlot_normal_unavailable"				FileName="..\..\SIM CORE\itemadvancement/itemAdvancement_runicSlot_normal_unavailable.tga"></Mapping>
 
-		<Mapping ArtAssetID="guild_button_changeview_normal"							FileName="..\..\SIM CORE\social\guild_button_changeview_normal.tga"></Mapping>
-		<Mapping ArtAssetID="guild_button_changeview_pressed"							FileName="..\..\SIM CORE\social\guild_button_changeview_pressed.tga"></Mapping>
-		<Mapping ArtAssetID="guild_button_changeview_rollover"							FileName="..\..\SIM CORE\social\guild_button_changeview_rollover.tga"></Mapping>
+		<Mapping ArtAssetID="guild_button_changeview_normal"							FileName="..\..\SHADOWCORE\social\guild_button_changeview_normal.tga"></Mapping>
+		<Mapping ArtAssetID="guild_button_changeview_pressed"							FileName="..\..\SHADOWCORE\social\guild_button_changeview_pressed.tga"></Mapping>
+		<Mapping ArtAssetID="guild_button_changeview_rollover"							FileName="..\..\SHADOWCORE\social\guild_button_changeview_rollover.tga"></Mapping>
 
 		<Mapping ArtAssetID="corner_bl"													FileName="..\..\SIM CORE\invisible2.tga"></Mapping>
 		<Mapping ArtAssetID="corner_br"													FileName="..\..\SIM CORE\invisible2.tga"></Mapping>
@@ -2176,9 +2181,9 @@
 		<Mapping ArtAssetID="trait_states_bg_slotted"					FileName="..\..\SIM CORE\misc\trait_states_bg_slotted.tga"></Mapping>
 		<Mapping ArtAssetID="trait_states_bg_unslotted"					FileName="..\..\SIM CORE\misc\trait_states_bg_unslotted.tga"></Mapping>
 
-		<Mapping ArtAssetID="panel_oneWayResize_horiz_icon"				FileName="..\..\SIM CORE\basepanel\panel_oneWayResize_horiz_icon.tga"></Mapping>
-		<Mapping ArtAssetID="panel_oneWayResize_vert_icon"				FileName="..\..\SIM CORE\basepanel\panel_oneWayResize_vert_icon.tga"></Mapping>
-		<Mapping ArtAssetID="panel_resize_icon"							FileName="..\..\SIM CORE\basepanel\panel_resize_icon.tga"></Mapping>
+		<Mapping ArtAssetID="panel_oneWayResize_horiz_icon"				FileName="..\..\SHADOWCORE\basepanel\panel_oneWayResize_horiz_icon.tga"></Mapping>
+		<Mapping ArtAssetID="panel_oneWayResize_vert_icon"				FileName="..\..\SHADOWCORE\basepanel\panel_oneWayResize_vert_icon.tga"></Mapping>
+		<Mapping ArtAssetID="panel_resize_icon"							FileName="..\..\SHADOWCORE\basepanel\panel_resize_icon.tga"></Mapping>
 
 		<Mapping ArtAssetID="titles_header_background"					FileName="..\..\SIM CORE\misc\titles_header_background.tga"></Mapping>
 		<Mapping ArtAssetID="money_player_all_background_center"		FileName="..\..\SIM CORE\misc\money_player_all_background_center.tga"></Mapping>
@@ -2194,7 +2199,7 @@
 		<Mapping ArtAssetID="larger_overlay_silver_theater"				FileName="..\..\SIM CORE\misc\larger_overlay_silver_theater.tga"></Mapping>
 		<Mapping ArtAssetID="startmenu_entry_icon_back"					FileName="..\..\SIM CORE\misc\startmenu_entry_icon_back.tga"></Mapping>
 
-		<Mapping ArtAssetID="box_treelist_header_darkblue"				FileName="..\..\SIM CORE\character\box_treelist_header_darkblue.tga"></Mapping>
+		<Mapping ArtAssetID="box_treelist_header_darkblue"				FileName="..\..\SHADOWCORE\character\box_treelist_header_darkblue.tga"></Mapping>
 		<Mapping ArtAssetID="cosmetic_outfit_button_highlight"			FileName="..\..\SIM CORE\character\cosmetic_outfit_button_highlight.tga"></Mapping>
 		<Mapping ArtAssetID="chargen_buttons_normal_left"				FileName="..\..\SIM CORE\character\chargen_buttons_normal_left.tga"></Mapping>
 		<Mapping ArtAssetID="chargen_buttons_normal_minus"				FileName="..\..\SIM CORE\character\chargen_buttons_normal_minus.tga"></Mapping>
@@ -2239,10 +2244,10 @@
 <Mapping ArtAssetID="character_panel_zoom_focus_waist_highlight"		FileName="..\..\SIM CORE\character\character_panel_zoom_focus_waist_highlight.tga"></Mapping>
 <Mapping ArtAssetID="character_panel_zoom_focus_waist_normal"			FileName="..\..\SIM CORE\character\character_panel_zoom_focus_waist_normal.tga"></Mapping>
 <Mapping ArtAssetID="character_panel_zoom_focus_waist_pressed"			FileName="..\..\SIM CORE\character\character_panel_zoom_focus_waist_pressed.tga"></Mapping>
-<Mapping ArtAssetID="character_panel_appearance_border"					FileName="..\..\SIM CORE\character\character_panel_appearance_border.tga"></Mapping>
-<Mapping ArtAssetID="character_panel_equipment_border"					FileName="..\..\SIM CORE\character\character_panel_equipment_border.tga"></Mapping>
-<Mapping ArtAssetID="character_panel_tab_border_active"					FileName="..\..\SIM CORE\character\character_panel_tab_border_active.tga"></Mapping>
-<Mapping ArtAssetID="character_panel_tab_border_inactive"				FileName="..\..\SIM CORE\character\character_panel_tab_border_inactive.tga"></Mapping>
+<Mapping ArtAssetID="character_panel_appearance_border"					FileName="..\..\SHADOWCORE\character\character_panel_appearance_border.tga"></Mapping>
+<Mapping ArtAssetID="character_panel_equipment_border"					FileName="..\..\SHADOWCORE\character\character_panel_equipment_border.tga"></Mapping>
+<Mapping ArtAssetID="character_panel_tab_border_active"					FileName="..\..\SHADOWCORE\character\character_panel_tab_border_active.tga"></Mapping>
+<Mapping ArtAssetID="character_panel_tab_border_inactive"				FileName="..\..\SHADOWCORE\character\character_panel_tab_border_inactive.tga"></Mapping>
 <Mapping ArtAssetID="character_panel_title_button_normal"				FileName="..\..\SIM CORE\character\character_panel_title_button_normal.tga"></Mapping>
 <Mapping ArtAssetID="character_panel_title_button_pressed"				FileName="..\..\SIM CORE\character\character_panel_title_button_pressed.tga"></Mapping>
 <Mapping ArtAssetID="character_panel_title_button_rollover"				FileName="..\..\SIM CORE\character\character_panel_title_button_rollover.tga"></Mapping>
@@ -2280,14 +2285,14 @@
 		<Mapping ArtAssetID="money_player_background_wallet_left"		FileName="..\..\SIM CORE\wallet\money_player_background_wallet_left.tga"></Mapping>
 		<Mapping ArtAssetID="money_player_background_wallet_right"		FileName="..\..\SIM CORE\wallet\money_player_background_wallet_right.tga"></Mapping>
 
-		<Mapping ArtAssetID="blue_silver_box_traits_bottom_center"		FileName="..\..\SIM CORE\silver\blue_silver_box_traits_bottom_center.tga"></Mapping>
-		<Mapping ArtAssetID="blue_silver_box_traits_bottom_left"		FileName="..\..\SIM CORE\silver\blue_silver_box_traits_bottom_left.tga"></Mapping>
-		<Mapping ArtAssetID="blue_silver_box_traits_bottom_right"		FileName="..\..\SIM CORE\silver\blue_silver_box_traits_bottom_right.tga"></Mapping>
-		<Mapping ArtAssetID="blue_silver_box_traits_center_top"			FileName="..\..\SIM CORE\silver\blue_silver_box_traits_center_top.tga"></Mapping>
-		<Mapping ArtAssetID="blue_silver_box_traits_left_side"			FileName="..\..\SIM CORE\silver\blue_silver_box_traits_left_side.tga"></Mapping>
-		<Mapping ArtAssetID="blue_silver_box_traits_right_side"			FileName="..\..\SIM CORE\silver\blue_silver_box_traits_right_side.tga"></Mapping>
-		<Mapping ArtAssetID="blue_silver_box_traits_top_left"			FileName="..\..\SIM CORE\silver\blue_silver_box_traits_top_left.tga"></Mapping>
-		<Mapping ArtAssetID="blue_silver_box_traits_top_right"			FileName="..\..\SIM CORE\silver\blue_silver_box_traits_top_right.tga"></Mapping>
+		<Mapping ArtAssetID="blue_silver_box_traits_bottom_center"		FileName="..\..\SHADOWCORE\silver\blue_silver_box_traits_bottom_center.tga"></Mapping>
+		<Mapping ArtAssetID="blue_silver_box_traits_bottom_left"		FileName="..\..\SHADOWCORE\silver\blue_silver_box_traits_bottom_left.tga"></Mapping>
+		<Mapping ArtAssetID="blue_silver_box_traits_bottom_right"		FileName="..\..\SHADOWCORE\silver\blue_silver_box_traits_bottom_right.tga"></Mapping>
+		<Mapping ArtAssetID="blue_silver_box_traits_center_top"			FileName="..\..\SHADOWCORE\silver\blue_silver_box_traits_center_top.tga"></Mapping>
+		<Mapping ArtAssetID="blue_silver_box_traits_left_side"			FileName="..\..\SHADOWCORE\silver\blue_silver_box_traits_left_side.tga"></Mapping>
+		<Mapping ArtAssetID="blue_silver_box_traits_right_side"			FileName="..\..\SHADOWCORE\silver\blue_silver_box_traits_right_side.tga"></Mapping>
+		<Mapping ArtAssetID="blue_silver_box_traits_top_left"			FileName="..\..\SHADOWCORE\silver\blue_silver_box_traits_top_left.tga"></Mapping>
+		<Mapping ArtAssetID="blue_silver_box_traits_top_right"			FileName="..\..\SHADOWCORE\silver\blue_silver_box_traits_top_right.tga"></Mapping>
 
 		<Mapping ArtAssetID="blue_selection_skilltrainer_normal_b"		FileName="..\..\SIM CORE\misc\blue_selection_skilltrainer_normal_b.tga"></Mapping>
 		<Mapping ArtAssetID="blue_selection_skilltrainer_normal_bl"		FileName="..\..\SIM CORE\misc\blue_selection_skilltrainer_normal_bl.tga"></Mapping>
@@ -2385,74 +2390,74 @@
 
 
 
-		<Mapping ArtAssetID="box_silver_bottom"				  FileName="..\..\SIM CORE\silver\bottom.tga"></Mapping>
-		<Mapping ArtAssetID="box_silver_bottom_left_noadorn"  FileName="..\..\SIM CORE\silver\bottom_left.tga"></Mapping>
-		<Mapping ArtAssetID="box_silver_lower_right_noadorn"  FileName="..\..\SIM CORE\silver\lower_right.tga"></Mapping>
-		<Mapping ArtAssetID="box_silver_side_left"			  FileName="..\..\SIM CORE\silver\side_left.tga"></Mapping>
-		<Mapping ArtAssetID="box_silver_side_right"			  FileName="..\..\SIM CORE\silver\side_right.tga"></Mapping>
-		<Mapping ArtAssetID="box_silver_upper"				  FileName="..\..\SIM CORE\silver\upper.tga"></Mapping>
-		<Mapping ArtAssetID="box_silver_upper_left_noadorn"	  FileName="..\..\SIM CORE\silver\upper_left.tga"></Mapping>
-		<Mapping ArtAssetID="box_silver_upper_right_noadorn"  FileName="..\..\SIM CORE\silver\upper_right.tga"></Mapping>
-		<Mapping ArtAssetID="box_silver_bottom_left"		  FileName="..\..\SIM CORE\silver\bottom_left.tga"></Mapping>
-		<Mapping ArtAssetID="box_silver_lower_right"		  FileName="..\..\SIM CORE\silver\lower_right.tga"></Mapping>
-		<Mapping ArtAssetID="box_silver_upper_left"			  FileName="..\..\SIM CORE\silver\upper_left.tga"></Mapping>
-		<Mapping ArtAssetID="box_silver_upper_right"		  FileName="..\..\SIM CORE\silver\upper_right.tga"></Mapping>
+		<Mapping ArtAssetID="box_silver_bottom"				  FileName="..\..\SHADOWCORE\silver\bottom.tga"></Mapping>
+		<Mapping ArtAssetID="box_silver_bottom_left_noadorn"  FileName="..\..\SHADOWCORE\silver\bottom_left.tga"></Mapping>
+		<Mapping ArtAssetID="box_silver_lower_right_noadorn"  FileName="..\..\SHADOWCORE\silver\lower_right.tga"></Mapping>
+		<Mapping ArtAssetID="box_silver_side_left"			  FileName="..\..\SHADOWCORE\silver\side_left.tga"></Mapping>
+		<Mapping ArtAssetID="box_silver_side_right"			  FileName="..\..\SHADOWCORE\silver\side_right.tga"></Mapping>
+		<Mapping ArtAssetID="box_silver_upper"				  FileName="..\..\SHADOWCORE\silver\upper.tga"></Mapping>
+		<Mapping ArtAssetID="box_silver_upper_left_noadorn"	  FileName="..\..\SHADOWCORE\silver\upper_left.tga"></Mapping>
+		<Mapping ArtAssetID="box_silver_upper_right_noadorn"  FileName="..\..\SHADOWCORE\silver\upper_right.tga"></Mapping>
+		<Mapping ArtAssetID="box_silver_bottom_left"		  FileName="..\..\SHADOWCORE\silver\bottom_left.tga"></Mapping>
+		<Mapping ArtAssetID="box_silver_lower_right"		  FileName="..\..\SHADOWCORE\silver\lower_right.tga"></Mapping>
+		<Mapping ArtAssetID="box_silver_upper_left"			  FileName="..\..\SHADOWCORE\silver\upper_left.tga"></Mapping>
+		<Mapping ArtAssetID="box_silver_upper_right"		  FileName="..\..\SHADOWCORE\silver\upper_right.tga"></Mapping>
 
 
 		<!-- Tooltip Window -->
-		<Mapping ArtAssetID="basepanel_bottomleft_new"			  FileName="..\..\SIM CORE\basepanel\basepanel_bottomleft.tga"></Mapping>
-		<Mapping ArtAssetID="basepanel_bottommid_new"			  FileName="..\..\SIM CORE\basepanel\basepanel_bottommid.tga"></Mapping>
-		<Mapping ArtAssetID="basepanel_bottomright_new"			  FileName="..\..\SIM CORE\basepanel\basepanel_bottomright.tga"></Mapping>
-		<Mapping ArtAssetID="basepanel_midleft_new"				  FileName="..\..\SIM CORE\basepanel\basepanel_midleft.tga"></Mapping>
-		<Mapping ArtAssetID="basepanel_midright_new"			  FileName="..\..\SIM CORE\basepanel\basepanel_midright.tga"></Mapping>
-		<Mapping ArtAssetID="basepanel_topleft_new"				  FileName="..\..\SIM CORE\basepanel\basepanel_topleft.tga"></Mapping>
-		<Mapping ArtAssetID="basepanel_topmid_new"				  FileName="..\..\SIM CORE\basepanel\basepanel_topmid.tga"></Mapping>
-		<Mapping ArtAssetID="basepanel_topright_new"			  FileName="..\..\SIM CORE\basepanel\basepanel_topright.tga"></Mapping>
+		<Mapping ArtAssetID="basepanel_bottomleft_new"			  FileName="..\..\SHADOWCORE\basepanel\basepanel_bottomleft.tga"></Mapping>
+		<Mapping ArtAssetID="basepanel_bottommid_new"			  FileName="..\..\SHADOWCORE\basepanel\basepanel_bottommid.tga"></Mapping>
+		<Mapping ArtAssetID="basepanel_bottomright_new"			  FileName="..\..\SHADOWCORE\basepanel\basepanel_bottomright.tga"></Mapping>
+		<Mapping ArtAssetID="basepanel_midleft_new"				  FileName="..\..\SHADOWCORE\basepanel\basepanel_midleft.tga"></Mapping>
+		<Mapping ArtAssetID="basepanel_midright_new"			  FileName="..\..\SHADOWCORE\basepanel\basepanel_midright.tga"></Mapping>
+		<Mapping ArtAssetID="basepanel_topleft_new"				  FileName="..\..\SHADOWCORE\basepanel\basepanel_topleft.tga"></Mapping>
+		<Mapping ArtAssetID="basepanel_topmid_new"				  FileName="..\..\SHADOWCORE\basepanel\basepanel_topmid.tga"></Mapping>
+		<Mapping ArtAssetID="basepanel_topright_new"			  FileName="..\..\SHADOWCORE\basepanel\basepanel_topright.tga"></Mapping>
 		
-		<Mapping ArtAssetID="basepanel_bottomleft"			  FileName="..\..\SIM CORE\basepanel\bottomleft.tga"></Mapping>
-		<Mapping ArtAssetID="basepanel_bottommid"			  FileName="..\..\SIM CORE\basepanel\bottommid.tga"></Mapping>
-		<Mapping ArtAssetID="basepanel_bottomright"			  FileName="..\..\SIM CORE\basepanel\bottomright.tga"></Mapping>
-		<Mapping ArtAssetID="basepanel_midleft"				  FileName="..\..\SIM CORE\basepanel\midleft.tga"></Mapping>
-		<Mapping ArtAssetID="basepanel_midright"			  FileName="..\..\SIM CORE\basepanel\midright.tga"></Mapping>
-		<Mapping ArtAssetID="basepanel_topleft"				  FileName="..\..\SIM CORE\basepanel\topleft.tga"></Mapping>
-		<Mapping ArtAssetID="basepanel_topmid"				  FileName="..\..\SIM CORE\basepanel\topmid.tga"></Mapping>
-		<Mapping ArtAssetID="basepanel_topright"			  FileName="..\..\SIM CORE\basepanel\topright.tga"></Mapping>
+		<Mapping ArtAssetID="basepanel_bottomleft"			  FileName="..\..\SHADOWCORE\basepanel\bottomleft.tga"></Mapping>
+		<Mapping ArtAssetID="basepanel_bottommid"			  FileName="..\..\SHADOWCORE\basepanel\bottommid.tga"></Mapping>
+		<Mapping ArtAssetID="basepanel_bottomright"			  FileName="..\..\SHADOWCORE\basepanel\bottomright.tga"></Mapping>
+		<Mapping ArtAssetID="basepanel_midleft"				  FileName="..\..\SHADOWCORE\basepanel\midleft.tga"></Mapping>
+		<Mapping ArtAssetID="basepanel_midright"			  FileName="..\..\SHADOWCORE\basepanel\midright.tga"></Mapping>
+		<Mapping ArtAssetID="basepanel_topleft"				  FileName="..\..\SHADOWCORE\basepanel\topleft.tga"></Mapping>
+		<Mapping ArtAssetID="basepanel_topmid"				  FileName="..\..\SHADOWCORE\basepanel\topmid.tga"></Mapping>
+		<Mapping ArtAssetID="basepanel_topright"			  FileName="..\..\SHADOWCORE\basepanel\topright.tga"></Mapping>
 
 		<!-- select box -->
-	  <Mapping ArtAssetID="basepanel_bottomleft_blue"		FileName="..\..\SIM CORE\basepanel\_bottomleft.tga"></Mapping>
-	  <Mapping ArtAssetID="basepanel_bottommid_blue"		FileName="..\..\SIM CORE\basepanel\_bottommid.tga"></Mapping>
-	  <Mapping ArtAssetID="basepanel_bottomright_blue"		FileName="..\..\SIM CORE\basepanel\_bottomright.tga"></Mapping>
-	  <Mapping ArtAssetID="basepanel_midleft_blue"			FileName="..\..\SIM CORE\basepanel\_midleft.tga"></Mapping>
-	  <Mapping ArtAssetID="basepanel_midright_blue"			FileName="..\..\SIM CORE\basepanel\_midright.tga"></Mapping>
-	  <Mapping ArtAssetID="basepanel_topleft_blue"			FileName="..\..\SIM CORE\basepanel\_topleft.tga"></Mapping>
-	  <Mapping ArtAssetID="basepanel_topmid_blue"			FileName="..\..\SIM CORE\basepanel\_topmid.tga"></Mapping>
-	  <Mapping ArtAssetID="basepanel_topright_blue"			FileName="..\..\SIM CORE\basepanel\_topright.tga"></Mapping>
+	  <Mapping ArtAssetID="basepanel_bottomleft_blue"		FileName="..\..\SHADOWCORE\basepanel\_bottomleft.tga"></Mapping>
+	  <Mapping ArtAssetID="basepanel_bottommid_blue"		FileName="..\..\SHADOWCORE\basepanel\_bottommid.tga"></Mapping>
+	  <Mapping ArtAssetID="basepanel_bottomright_blue"		FileName="..\..\SHADOWCORE\basepanel\_bottomright.tga"></Mapping>
+	  <Mapping ArtAssetID="basepanel_midleft_blue"			FileName="..\..\SHADOWCORE\basepanel\_midleft.tga"></Mapping>
+	  <Mapping ArtAssetID="basepanel_midright_blue"			FileName="..\..\SHADOWCORE\basepanel\_midright.tga"></Mapping>
+	  <Mapping ArtAssetID="basepanel_topleft_blue"			FileName="..\..\SHADOWCORE\basepanel\_topleft.tga"></Mapping>
+	  <Mapping ArtAssetID="basepanel_topmid_blue"			FileName="..\..\SHADOWCORE\basepanel\_topmid.tga"></Mapping>
+	  <Mapping ArtAssetID="basepanel_topright_blue"			FileName="..\..\SHADOWCORE\basepanel\_topright.tga"></Mapping>
 
 
-		<Mapping ArtAssetID="base_box_center"				  FileName="..\..\SIM CORE\basebox\center_silver.tga"></Mapping>
-		<Mapping ArtAssetID="base_box_center_silver"		  FileName="..\..\SIM CORE\basebox\center_silver.tga"></Mapping>
-		<Mapping ArtAssetID="base_box_center_silver_new"	  FileName="..\..\SIM CORE\basebox\center_silver.tga"></Mapping>
+		<Mapping ArtAssetID="base_box_center"				  FileName="..\..\SHADOWCORE\basebox\center_silver.tga"></Mapping>
+		<Mapping ArtAssetID="base_box_center_silver"		  FileName="..\..\SHADOWCORE\basebox\center_silver.tga"></Mapping>
+		<Mapping ArtAssetID="base_box_center_silver_new"	  FileName="..\..\SHADOWCORE\basebox\center_silver.tga"></Mapping>
 
-		<Mapping ArtAssetID="titlebar_X_2"					  FileName="..\..\SIM CORE\titlebar\X_2.tga"></Mapping>
-		<Mapping ArtAssetID="titlebar_X_2_mouseover"		  FileName="..\..\SIM CORE\titlebar\X_2_mouseover.tga"></Mapping>
-		<Mapping ArtAssetID="titlebar_X_2_pressed"			  FileName="..\..\SIM CORE\titlebar\X_2_pressed.tga"></Mapping>
-		<Mapping ArtAssetID="base_box_titlebar_left"		  FileName="..\..\SIM CORE\titlebar\left.tga"></Mapping>
-		<Mapping ArtAssetID="base_box_titlebar_right"		  FileName="..\..\SIM CORE\titlebar\right.tga"></Mapping>
-		<Mapping ArtAssetID="base_box_titlebar_top"			  FileName="..\..\SIM CORE\titlebar\top.tga"></Mapping>
+		<Mapping ArtAssetID="titlebar_X_2"					  FileName="..\..\SHADOWCORE\titlebar\X_2.tga"></Mapping>
+		<Mapping ArtAssetID="titlebar_X_2_mouseover"		  FileName="..\..\SHADOWCORE\titlebar\X_2_mouseover.tga"></Mapping>
+		<Mapping ArtAssetID="titlebar_X_2_pressed"			  FileName="..\..\SHADOWCORE\titlebar\X_2_pressed.tga"></Mapping>
+		<Mapping ArtAssetID="base_box_titlebar_left"		  FileName="..\..\SHADOWCORE\titlebar\left.tga"></Mapping>
+		<Mapping ArtAssetID="base_box_titlebar_right"		  FileName="..\..\SHADOWCORE\titlebar\right.tga"></Mapping>
+		<Mapping ArtAssetID="base_box_titlebar_top"			  FileName="..\..\SHADOWCORE\titlebar\top.tga"></Mapping>
 
 
-		<Mapping ArtAssetID="tab_tier1_middle_back_e"		  FileName="..\..\SIM CORE\tabs\back_e.tga"></Mapping>
-		<Mapping ArtAssetID="tab_tier1_middle_back_n"		  FileName="..\..\SIM CORE\tabs\back_n.tga"></Mapping>
-		<Mapping ArtAssetID="tab_tier1_middle_back_w"		  FileName="..\..\SIM CORE\tabs\back_w.tga"></Mapping>
-		<Mapping ArtAssetID="tab_tier1_middle_front_e"		  FileName="..\..\SIM CORE\tabs\front_e.tga"></Mapping>
-		<Mapping ArtAssetID="tab_tier1_middle_front_n"		  FileName="..\..\SIM CORE\tabs\front_n.tga"></Mapping>
-		<Mapping ArtAssetID="tab_tier1_middle_front_w"		  FileName="..\..\SIM CORE\tabs\front_w.tga"></Mapping>
-		<Mapping ArtAssetID="tab_tier1_middle_back_e_sm"	  FileName="..\..\SIM CORE\tabs\back_e_sm.tga"></Mapping>
-		<Mapping ArtAssetID="tab_tier1_middle_back_n_sm"	  FileName="..\..\SIM CORE\tabs\back_n_sm.tga"></Mapping>
-		<Mapping ArtAssetID="tab_tier1_middle_back_w_sm"	  FileName="..\..\SIM CORE\tabs\back_w_sm.tga"></Mapping>
-		<Mapping ArtAssetID="tab_tier1_middle_front_e_sm"	  FileName="..\..\SIM CORE\tabs\front_e_sm.tga"></Mapping>
-		<Mapping ArtAssetID="tab_tier1_middle_front_n_sm"	  FileName="..\..\SIM CORE\tabs\front_n_sm.tga"></Mapping>
-		<Mapping ArtAssetID="tab_tier1_middle_front_w_sm"	  FileName="..\..\SIM CORE\tabs\front_w_sm.tga"></Mapping>
+		<Mapping ArtAssetID="tab_tier1_middle_back_e"		  FileName="..\..\SHADOWCORE\tabs\back_e.tga"></Mapping>
+		<Mapping ArtAssetID="tab_tier1_middle_back_n"		  FileName="..\..\SHADOWCORE\tabs\back_n.tga"></Mapping>
+		<Mapping ArtAssetID="tab_tier1_middle_back_w"		  FileName="..\..\SHADOWCORE\tabs\back_w.tga"></Mapping>
+		<Mapping ArtAssetID="tab_tier1_middle_front_e"		  FileName="..\..\SHADOWCORE\tabs\front_e.tga"></Mapping>
+		<Mapping ArtAssetID="tab_tier1_middle_front_n"		  FileName="..\..\SHADOWCORE\tabs\front_n.tga"></Mapping>
+		<Mapping ArtAssetID="tab_tier1_middle_front_w"		  FileName="..\..\SHADOWCORE\tabs\front_w.tga"></Mapping>
+		<Mapping ArtAssetID="tab_tier1_middle_back_e_sm"	  FileName="..\..\SHADOWCORE\tabs\back_e_sm.tga"></Mapping>
+		<Mapping ArtAssetID="tab_tier1_middle_back_n_sm"	  FileName="..\..\SHADOWCORE\tabs\back_n_sm.tga"></Mapping>
+		<Mapping ArtAssetID="tab_tier1_middle_back_w_sm"	  FileName="..\..\SHADOWCORE\tabs\back_w_sm.tga"></Mapping>
+		<Mapping ArtAssetID="tab_tier1_middle_front_e_sm"	  FileName="..\..\SHADOWCORE\tabs\front_e_sm.tga"></Mapping>
+		<Mapping ArtAssetID="tab_tier1_middle_front_n_sm"	  FileName="..\..\SHADOWCORE\tabs\front_n_sm.tga"></Mapping>
+		<Mapping ArtAssetID="tab_tier1_middle_front_w_sm"	  FileName="..\..\SHADOWCORE\tabs\front_w_sm.tga"></Mapping>
 
 
 		   <Mapping ArtAssetID="no_hope_no_dread"				FileName="..\..\SIM CORE\minimap\no_hope_no_dread.tga"></Mapping>
@@ -2503,7 +2508,7 @@
 		<Mapping ArtAssetID="skirmish_traits_uneq_training_bkg"			FileName="..\..\SIM CORE\misc\skirmish_traits_uneq_bkg.jpg"></Mapping>
 		<Mapping ArtAssetID="skirmish_traits_uneq_personal_bkg"			FileName="..\..\SIM CORE\misc\skirmish_traits_uneq_bkg.jpg"></Mapping>
 		<Mapping ArtAssetID="skirmish_traits_bkg"						FileName="..\..\SIM CORE\misc\skirmish_traits_bkg.jpg"></Mapping>
-		 <Mapping ArtAssetID="box_01_titlebar"							FileName="..\..\SIM CORE\basebox\box_01_titlebar.tga"></Mapping>
+		 <Mapping ArtAssetID="box_01_titlebar"							FileName="..\..\SHADOWCORE\basebox\box_01_titlebar.tga"></Mapping>
 		 <Mapping ArtAssetID="blue_50"									FileName="..\..\SIM CORE\skirmish\blue_50.tga"></Mapping>
 		 <Mapping ArtAssetID="red_20"											FileName="..\..\SIM CORE\skirmish\red_20.tga"></Mapping>
 		<Mapping ArtAssetID="skirmish_corner_BL"								FileName="..\..\SIM CORE\skirmish\skirmish_corner_BL.tga"></Mapping>
@@ -2540,7 +2545,7 @@
 
 		<Mapping ArtAssetID="lfp_filteroptions_bg"										FileName="..\..\SIM CORE\social\lfp.tga"></Mapping>
 		<Mapping ArtAssetID="Who_MyOptions_BG"											FileName="..\..\SIM CORE\social\backdrop.tga"></Mapping>
-		<Mapping ArtAssetID="who_filteroptions_bg"																FileName="..\..\SIM CORE\social\backdrop.tga"></Mapping>
+		<Mapping ArtAssetID="who_filteroptions_bg"										FileName="..\..\SIM CORE\social\backdrop.tga"></Mapping>
 		<Mapping ArtAssetID="social_panel_list_elements_highlight_center"				FileName="..\..\SIM CORE\social\highlighted.tga"></Mapping>
 		<Mapping ArtAssetID="social_panel_list_elements_normal_center"					FileName="..\..\SIM CORE\social\normal.tga"></Mapping>
 		<Mapping ArtAssetID="social_panel_list_elements_normal_bottom_center"			FileName="..\..\SIM CORE\social\social_le_normal_bottom_center.tga"></Mapping>
@@ -2564,38 +2569,38 @@
 
 
 		<!-- Quest log (from BGM 4 and Azure glass) -->
-		<Mapping ArtAssetID="box_questJournal_entry_middle_normal"						FileName="..\..\SIM CORE\quest\quest_selection_normal_center.tga"></Mapping>
-		<Mapping ArtAssetID="box_questJournal_entry_left_normal"						FileName="..\..\SIM CORE\quest\quest_selection_normal_left.tga"></Mapping>
-		<Mapping ArtAssetID="box_questJournal_entry_right_normal"						FileName="..\..\SIM CORE\quest\quest_selection_normal_right.tga"></Mapping>
-		<Mapping ArtAssetID="box_questJournal_entry_middle_hightlight"					FileName="..\..\SIM CORE\quest\quest_selection_highlight_center.tga"></Mapping>
-		<Mapping ArtAssetID="box_questJournal_entry_left_hightlight"					FileName="..\..\SIM CORE\quest\quest_selection_highlight_left.tga"></Mapping>
-		<Mapping ArtAssetID="box_questJournal_entry_right_hightlight"					FileName="..\..\SIM CORE\quest\quest_selection_highlight_right.tga"></Mapping>
-		<Mapping ArtAssetID="box_questJournal_entry_middle_normal_pressed"				FileName="..\..\SIM CORE\quest\quest_selection_highlight_center.tga"></Mapping>
-		<Mapping ArtAssetID="box_questJournal_entry_left_normal_pressed"				FileName="..\..\SIM CORE\quest\quest_selection_highlight_left.tga"></Mapping>
-		<Mapping ArtAssetID="box_questJournal_entry_right_normal_pressed"				FileName="..\..\SIM CORE\quest\quest_selection_highlight_right.tga"></Mapping>
-		<Mapping ArtAssetID="box_questJournal_entry_middle_rollover"					FileName="..\..\SIM CORE\quest\quest_selection_mouseover_center.tga"></Mapping>
-		<Mapping ArtAssetID="box_questJournal_entry_left_rollover"						FileName="..\..\SIM CORE\quest\quest_selection_mouseover_left.tga"></Mapping>
-		<Mapping ArtAssetID="box_questJournal_entry_right_rollover"						FileName="..\..\SIM CORE\quest\quest_selection_mouseover_right.tga"></Mapping>
-		<Mapping ArtAssetID="quest_panel_con_easy"										FileName="..\..\SIM CORE\quest\quest_panel_easy.tga"></Mapping>
-		<Mapping ArtAssetID="quest_panel_con_even"										FileName="..\..\SIM CORE\quest\quest_panel_even.tga"></Mapping>
-		<Mapping ArtAssetID="quest_panel_con_impossible"								FileName="..\..\SIM CORE\quest\quest_panel_impossible.tga"></Mapping>
-		<Mapping ArtAssetID="quest_panel_con_insanelyeasy"								FileName="..\..\SIM CORE\quest\quest_panel_insanelyeasy.tga"></Mapping>
-		<Mapping ArtAssetID="quest_panel_con_insanelytough"								FileName="..\..\SIM CORE\quest\quest_panel_insanelytough.tga"></Mapping>
-		<Mapping ArtAssetID="quest_panel_con_tough"										FileName="..\..\SIM CORE\quest\quest_panel_tough.tga"></Mapping>
-		<Mapping ArtAssetID="quest_panel_con_trivial"									FileName="..\..\SIM CORE\quest\quest_panel_trivial.tga"></Mapping>
-		<Mapping ArtAssetID="quest_panel_con_veryeasy"									FileName="..\..\SIM CORE\quest\quest_panel_veryeasy.tga"></Mapping>
-		<Mapping ArtAssetID="quest_panel_con_verytough"									FileName="..\..\SIM CORE\quest\quest_panel_verytough.tga"></Mapping>
-		<Mapping ArtAssetID="box_questJournal_header_center"							FileName="..\..\SIM CORE\quest\box_questJournal_header_center.tga"></Mapping>
-		<Mapping ArtAssetID="box_questJournal_header_left"								FileName="..\..\SIM CORE\quest\box_questJournal_header_left.tga"></Mapping>
-		<Mapping ArtAssetID="box_questJournal_header_right"								FileName="..\..\SIM CORE\quest\box_questJournal_header_right.tga"></Mapping>
-		 <Mapping ArtAssetID="quest_journal_header_bg"									FileName="..\..\SIM CORE\quest\quest_journal_header_bg.tga"></Mapping>
-		<Mapping ArtAssetID="toggle_button_ghosted"										FileName="..\..\SIM CORE\quest\toggle_button_ghosted.tga"></Mapping>
-		<Mapping ArtAssetID="toggle_button_highlight"									FileName="..\..\SIM CORE\quest\toggle_button_highlight.tga"></Mapping>
-		<Mapping ArtAssetID="toggle_button_highlight_pressed"							FileName="..\..\SIM CORE\quest\toggle_button_highlight_pressed.tga"></Mapping>
-		<Mapping ArtAssetID="toggle_button_highlight_rollover"							FileName="..\..\SIM CORE\quest\toggle_button_highlight_rollover.tga"></Mapping>
-		<Mapping ArtAssetID="toggle_button_normal"										FileName="..\..\SIM CORE\quest\toggle_button_normal.tga"></Mapping>
-		<Mapping ArtAssetID="toggle_button_normal_pressed"								FileName="..\..\SIM CORE\quest\toggle_button_normal_pressed.tga"></Mapping>
-		<Mapping ArtAssetID="toggle_button_normal_rollover"								FileName="..\..\SIM CORE\quest\toggle_button_normal_rollover.tga"></Mapping>
+		<Mapping ArtAssetID="box_questJournal_entry_middle_normal"						FileName="..\..\SHADOWCORE\quest\quest_selection_normal_center.tga"></Mapping>
+		<Mapping ArtAssetID="box_questJournal_entry_left_normal"						FileName="..\..\SHADOWCORE\quest\quest_selection_normal_left.tga"></Mapping>
+		<Mapping ArtAssetID="box_questJournal_entry_right_normal"						FileName="..\..\SHADOWCORE\quest\quest_selection_normal_right.tga"></Mapping>
+		<Mapping ArtAssetID="box_questJournal_entry_middle_hightlight"					FileName="..\..\SHADOWCORE\quest\quest_selection_highlight_center.tga"></Mapping>
+		<Mapping ArtAssetID="box_questJournal_entry_left_hightlight"					FileName="..\..\SHADOWCORE\quest\quest_selection_highlight_left.tga"></Mapping>
+		<Mapping ArtAssetID="box_questJournal_entry_right_hightlight"					FileName="..\..\SHADOWCORE\quest\quest_selection_highlight_right.tga"></Mapping>
+		<Mapping ArtAssetID="box_questJournal_entry_middle_normal_pressed"				FileName="..\..\SHADOWCORE\quest\quest_selection_highlight_center.tga"></Mapping>
+		<Mapping ArtAssetID="box_questJournal_entry_left_normal_pressed"				FileName="..\..\SHADOWCORE\quest\quest_selection_highlight_left.tga"></Mapping>
+		<Mapping ArtAssetID="box_questJournal_entry_right_normal_pressed"				FileName="..\..\SHADOWCORE\quest\quest_selection_highlight_right.tga"></Mapping>
+		<Mapping ArtAssetID="box_questJournal_entry_middle_rollover"					FileName="..\..\SHADOWCORE\quest\quest_selection_mouseover_center.tga"></Mapping>
+		<Mapping ArtAssetID="box_questJournal_entry_left_rollover"						FileName="..\..\SHADOWCORE\quest\quest_selection_mouseover_left.tga"></Mapping>
+		<Mapping ArtAssetID="box_questJournal_entry_right_rollover"						FileName="..\..\SHADOWCORE\quest\quest_selection_mouseover_right.tga"></Mapping>
+		<Mapping ArtAssetID="quest_panel_con_easy"										FileName="..\..\SHADOWCORE\quest\quest_panel_easy.tga"></Mapping>
+		<Mapping ArtAssetID="quest_panel_con_even"										FileName="..\..\SHADOWCORE\quest\quest_panel_even.tga"></Mapping>
+		<Mapping ArtAssetID="quest_panel_con_impossible"								FileName="..\..\SHADOWCORE\quest\quest_panel_impossible.tga"></Mapping>
+		<Mapping ArtAssetID="quest_panel_con_insanelyeasy"								FileName="..\..\SHADOWCORE\quest\quest_panel_insanelyeasy.tga"></Mapping>
+		<Mapping ArtAssetID="quest_panel_con_insanelytough"								FileName="..\..\SHADOWCORE\quest\quest_panel_insanelytough.tga"></Mapping>
+		<Mapping ArtAssetID="quest_panel_con_tough"										FileName="..\..\SHADOWCORE\quest\quest_panel_tough.tga"></Mapping>
+		<Mapping ArtAssetID="quest_panel_con_trivial"									FileName="..\..\SHADOWCORE\quest\quest_panel_trivial.tga"></Mapping>
+		<Mapping ArtAssetID="quest_panel_con_veryeasy"									FileName="..\..\SHADOWCORE\quest\quest_panel_veryeasy.tga"></Mapping>
+		<Mapping ArtAssetID="quest_panel_con_verytough"									FileName="..\..\SHADOWCORE\quest\quest_panel_verytough.tga"></Mapping>
+		<Mapping ArtAssetID="box_questJournal_header_center"							FileName="..\..\SHADOWCORE\quest\box_questJournal_header_center.tga"></Mapping>
+		<Mapping ArtAssetID="box_questJournal_header_left"								FileName="..\..\SHADOWCORE\quest\box_questJournal_header_left.tga"></Mapping>
+		<Mapping ArtAssetID="box_questJournal_header_right"								FileName="..\..\SHADOWCORE\quest\box_questJournal_header_right.tga"></Mapping>
+		<Mapping ArtAssetID="quest_journal_header_bg"									FileName="..\..\SHADOWCORE\quest\quest_journal_header_bg.tga"></Mapping>
+		<Mapping ArtAssetID="toggle_button_ghosted"										FileName="..\..\SHADOWCORE\quest\toggle_button_ghosted.tga"></Mapping>
+		<Mapping ArtAssetID="toggle_button_highlight"									FileName="..\..\SHADOWCORE\quest\toggle_button_highlight.tga"></Mapping>
+		<Mapping ArtAssetID="toggle_button_highlight_pressed"							FileName="..\..\SHADOWCORE\quest\toggle_button_highlight_pressed.tga"></Mapping>
+		<Mapping ArtAssetID="toggle_button_highlight_rollover"							FileName="..\..\SHADOWCORE\quest\toggle_button_highlight_rollover.tga"></Mapping>
+		<Mapping ArtAssetID="toggle_button_normal"										FileName="..\..\SHADOWCORE\quest\toggle_button_normal.tga"></Mapping>
+		<Mapping ArtAssetID="toggle_button_normal_pressed"								FileName="..\..\SHADOWCORE\quest\toggle_button_normal_pressed.tga"></Mapping>
+		<Mapping ArtAssetID="toggle_button_normal_rollover"								FileName="..\..\SHADOWCORE\quest\toggle_button_normal_rollover.tga"></Mapping>
 
 
 		<Mapping ArtAssetID="level_background"											  FileName="..\..\SIM CORE\vitals\level_background.tga"></Mapping>
@@ -2689,14 +2694,14 @@
 		<Mapping ArtAssetID="questTrackerWindow_tr" FileName="..\..\SIM CORE\Invisible2.tga"></Mapping>
 
 
-		<Mapping ArtAssetID="character_panel_bg_blue"									FileName="..\..\SIM CORE\character\character_panel_bg.jpg"></Mapping>
-		<Mapping ArtAssetID="character_panel_bg_aqua"									FileName="..\..\SIM CORE\character\character_panel_bg.jpg"></Mapping>
-		<Mapping ArtAssetID="character_panel_bg_green"									FileName="..\..\SIM CORE\character\character_panel_bg.jpg"></Mapping>
-		<Mapping ArtAssetID="character_panel_bg_purple"									FileName="..\..\SIM CORE\character\character_panel_bg.jpg"></Mapping>
-		<Mapping ArtAssetID="character_panel_bg_yellow"									FileName="..\..\SIM CORE\character\character_panel_bg.jpg"></Mapping>
-		<Mapping ArtAssetID="character_panel_bg_red"									FileName="..\..\SIM CORE\character\character_panel_bg.jpg"></Mapping>
-		<Mapping ArtAssetID="character_panel_bg_orange"									FileName="..\..\SIM CORE\character\character_panel_bg.jpg"></Mapping>
-		<Mapping ArtAssetID="character_panel_bg_violet"									FileName="..\..\SIM CORE\character\character_panel_bg.jpg"></Mapping>
+		<Mapping ArtAssetID="character_panel_bg_blue"									FileName="..\..\SHADOWCORE\character\character_panel_bg.jpg"></Mapping>
+		<Mapping ArtAssetID="character_panel_bg_aqua"									FileName="..\..\SHADOWCORE\character\character_panel_bg.jpg"></Mapping>
+		<Mapping ArtAssetID="character_panel_bg_green"									FileName="..\..\SHADOWCORE\character\character_panel_bg.jpg"></Mapping>
+		<Mapping ArtAssetID="character_panel_bg_purple"									FileName="..\..\SHADOWCORE\character\character_panel_bg.jpg"></Mapping>
+		<Mapping ArtAssetID="character_panel_bg_yellow"									FileName="..\..\SHADOWCORE\character\character_panel_bg.jpg"></Mapping>
+		<Mapping ArtAssetID="character_panel_bg_red"									FileName="..\..\SHADOWCORE\character\character_panel_bg.jpg"></Mapping>
+		<Mapping ArtAssetID="character_panel_bg_orange"									FileName="..\..\SHADOWCORE\character\character_panel_bg.jpg"></Mapping>
+		<Mapping ArtAssetID="character_panel_bg_violet"									FileName="..\..\SHADOWCORE\character\character_panel_bg.jpg"></Mapping>
 
 		<Mapping ArtAssetID="storage_sortbar"											FileName="..\..\SIM CORE\storage\storage_sortbar.tga"></Mapping>
 		<Mapping ArtAssetID="ButtonBar"													FileName="..\..\SIM CORE\storage\ButtonBar.tga"></Mapping>
@@ -2740,20 +2745,20 @@
 		<Mapping ArtAssetID="silver_border_bottom_left"									FileName="..\..\SIM CORE\invisible2.tga"></Mapping>
 		<Mapping ArtAssetID="silver_border_top_right"									FileName="..\..\SIM CORE\invisible2.tga"></Mapping>
 		<Mapping ArtAssetID="silver_border_bottom_right"								FileName="..\..\SIM CORE\invisible2.tga"></Mapping>
-		<Mapping ArtAssetID="expanding_deco_bg_mid"										FileName="..\..\SIM CORE\basebox\center_silver.tga"></Mapping>
+		<Mapping ArtAssetID="expanding_deco_bg_mid"										FileName="..\..\SHADOWCORE\basebox\center_silver.tga"></Mapping>
 		<Mapping ArtAssetID="expanding_deco_bg_right"									FileName="..\..\SIM CORE\invisible2.tga"></Mapping>
 		<Mapping ArtAssetID="expanding_deco_bg_left"									FileName="..\..\SIM CORE\invisible2.tga"></Mapping>
 
 		<!-- NPC: Quest Giver & Quest Entry -->
 
-		<Mapping ArtAssetID="quest_dialog_blue_bg_top_left"								FileName="..\..\SIM CORE\basepanel\blue_bg_top_left.tga"></Mapping>
-		<Mapping ArtAssetID="quest_dialog_blue_bg_top_mid"								FileName="..\..\SIM CORE\basepanel\blue_bg_top_mid.tga"></Mapping>
-		<Mapping ArtAssetID="quest_dialog_blue_bg_top_right"							FileName="..\..\SIM CORE\basepanel\blue_bg_top_right.tga"></Mapping>
-		<Mapping ArtAssetID="quest_dialog_blue_bg_left_mid"								FileName="..\..\SIM CORE\basepanel\blue_bg_left_mid.tga"></Mapping>
-		<Mapping ArtAssetID="quest_dialog_blue_bg_right_mid"							FileName="..\..\SIM CORE\basepanel\\blue_bg_right_mid.tga"></Mapping>
-		<Mapping ArtAssetID="quest_dialog_blue_bg_bottom_left"							FileName="..\..\SIM CORE\basepanel\blue_bg_bottom_left.tga"></Mapping>
-		<Mapping ArtAssetID="quest_dialog_blue_bg_bottom_mid"							FileName="..\..\SIM CORE\basepanel\blue_bg_bottom_mid.tga"></Mapping>
-		<Mapping ArtAssetID="quest_dialog_blue_bg_bottom_right"							FileName="..\..\SIM CORE\basepanel\blue_bg_bottom_right.tga"></Mapping>
+		<Mapping ArtAssetID="quest_dialog_blue_bg_top_left"								FileName="..\..\SHADOWCORE\basepanel\blue_bg_top_left.tga"></Mapping>
+		<Mapping ArtAssetID="quest_dialog_blue_bg_top_mid"								FileName="..\..\SHADOWCORE\basepanel\blue_bg_top_mid.tga"></Mapping>
+		<Mapping ArtAssetID="quest_dialog_blue_bg_top_right"							FileName="..\..\SHADOWCORE\basepanel\blue_bg_top_right.tga"></Mapping>
+		<Mapping ArtAssetID="quest_dialog_blue_bg_left_mid"								FileName="..\..\SHADOWCORE\basepanel\blue_bg_left_mid.tga"></Mapping>
+		<Mapping ArtAssetID="quest_dialog_blue_bg_right_mid"							FileName="..\..\SHADOWCORE\basepanel\\blue_bg_right_mid.tga"></Mapping>
+		<Mapping ArtAssetID="quest_dialog_blue_bg_bottom_left"							FileName="..\..\SHADOWCORE\basepanel\blue_bg_bottom_left.tga"></Mapping>
+		<Mapping ArtAssetID="quest_dialog_blue_bg_bottom_mid"							FileName="..\..\SHADOWCORE\basepanel\blue_bg_bottom_mid.tga"></Mapping>
+		<Mapping ArtAssetID="quest_dialog_blue_bg_bottom_right"							FileName="..\..\SHADOWCORE\basepanel\blue_bg_bottom_right.tga"></Mapping>
 
 		<Mapping ArtAssetID="CharGen_Buttons_Triskel_Left"								FileName="..\..\SIM CORE\textbutton\CharGen_Buttons_Triskel_Left.tga"></Mapping>
 		<Mapping ArtAssetID="CharGen_Buttons_Triskel_Mid"								FileName="..\..\SIM CORE\textbutton\CharGen_Buttons_Triskel_Mid.tga"></Mapping>
@@ -2848,8 +2853,8 @@
 				  </Element>
 		</Element>
  </PanelFile>
-		<Mapping ArtAssetID="journal_paperdoll_border_inspect"					FileName="..\..\SIM CORE\misc\dressroom.jpg"></Mapping>
-		<Mapping ArtAssetID="dressing_room_dye_background"						FileName="..\..\SIM CORE\basebox\dressing_room_dye_background.tga"></Mapping>
+<Mapping ArtAssetID="journal_paperdoll_border_inspect"					FileName="..\..\SHADOWCORE\dressroom\dr	essroom.jpg"></Mapping>
+		<Mapping ArtAssetID="dressing_room_dye_background"						FileName="..\..\SHADOWCORE\basebox\dressing_room_dye_background.tga"></Mapping>
 		<Mapping ArtAssetID="button_chest_highlight"							FileName="..\..\SIM CORE\dressroom\button_chest_highlight.tga"></Mapping>
 		<Mapping ArtAssetID="button_chest_highlight_rollover"					FileName="..\..\SIM CORE\dressroom\button_chest_highlight_rollover.tga"></Mapping>
 		<Mapping ArtAssetID="button_chest_normal"								FileName="..\..\SIM CORE\dressroom\button_chest_normal.tga"></Mapping>
