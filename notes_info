@@ -1,3 +1,6 @@
 panel_border.tga =  
 
 basepanel > basepanel_* = tooltip
+basepanel > blue_bg_* = crafting outline
+basepanel > _* = dropdown menu
+silver > * = main windows
