@@ -1,13 +1,11 @@
 # Shadow Mode
 Ultra-Minimalist Dark Mode skin for LOTRO UI
 
-to do:
+## To-Do
+### Definitely
 
-- variants for buttons/selection indicators that use the same sprite
+- make distinct variants for buttons/selection indicators that currently use the same sprite
     - example: *box_questJournal_entry_center_hightlight* and *box_questJournal_entry_center_pressed* both use *quest_selection_highlight_center.tga*
-
-- variants for silver assets that use the same sprite
-    - (box_silver_bottom_left_noadorn_min, box_silver_bottom_left_light, etc)
 
 - implement all toolbar options
     - Wide Skinned (_JRR Azure Glass Wide universal toolbar (no edits needed))
@@ -18,4 +16,10 @@ to do:
 - check for and clean up duplicate/redundant mapping entries
     - toolbar
 
+- fix crafting panel width weirdness
+
+### Maybe
+
 - migrate attunement config from JRR variants
+- make distinct variants for silver assets that currently use the same sprite?
+    - (box_silver_bottom_left_noadorn_min, box_silver_bottom_left_light, etc)
