@@ -22,6 +22,8 @@ Ultra-Minimalist Dark Mode skin for LOTRO UI
 
 - fix crafting panel width weirdness
 
+- polish slider handle and arrows
+
 ### Maybe
 
 - migrate attunement config from JRR variants

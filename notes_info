@@ -1,6 +1,6 @@
 panel_border.tga =  
 
-basepanel > basepanel_* = tooltip
-basepanel > blue_bg_* = crafting outline
-basepanel > _* = dropdown menu
+basepanel\basepanel_* = tooltip (moved to .\tooltip)
+basepanel\blue_bg_* = crafting outline (moved to .\innerpanel)
+basepanel\_* = dropdown menu (moved to ./dropdown)
 silver > * = main windows
