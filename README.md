@@ -4,6 +4,10 @@ Ultra-Minimalist Dark Mode skin for LOTRO UI
 ## To-Do
 ### Definitely
 
+- make dropdown arrow wings shorter, give normal state an outline or shadow and amke it lighter
+
+- delete redundant deps (SIM CORE)
+
 - make distinct variants for buttons/selection indicators that currently use the same sprite
     - example: *box_questJournal_entry_center_hightlight* and *box_questJournal_entry_center_pressed* both use *quest_selection_highlight_center.tga*
 
