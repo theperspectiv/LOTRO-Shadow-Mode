@@ -1,3 +1,9 @@
+basepanel = tooltips
+innerpanel = inner indent outline (crafting panel etc)
+dropdown = dropdown menu (options etc)
+silver = main window
+
+
 panel_border.tga =  
 
 basepanel\basepanel_* = tooltip (moved to .\tooltip)
