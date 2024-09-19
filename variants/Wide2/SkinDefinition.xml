@@ -2003,11 +2003,11 @@
 
 
 		<!--Vault elements from Brygard's BGM 5 -->		
-		<Mapping ArtAssetID="link_button_highlight"						FileName="..\..\SHADOWCORE\storage\link_button_highlight.tga"></Mapping>
-		<Mapping ArtAssetID="link_button_normal"						FileName="..\..\SHADOWCORE\storage\link_button_normal.tga"></Mapping>
-		<Mapping ArtAssetID="link_button_press"							FileName="..\..\SHADOWCORE\storage\link_button_press.tga"></Mapping>
-		 <Mapping ArtAssetID="storage_fill_base"						FileName="..\..\SHADOWCORE\storage\storage_fill_base.tga"></Mapping>
-		 <Mapping ArtAssetID="storage_fill_frame"						FileName="..\..\SHADOWCORE\storage\storage_fill_frame.tga"></Mapping>
+		<Mapping ArtAssetID="link_button_highlight"						FileName="..\..\..\JRR Skins Collection\JRR CORE\storage\link_button_highlight.tga"></Mapping>
+		<Mapping ArtAssetID="link_button_normal"						FileName="..\..\..\JRR Skins Collection\JRR CORE\storage\link_button_normal.tga"></Mapping>
+		<Mapping ArtAssetID="link_button_press"							FileName="..\..\..\JRR Skins Collection\JRR CORE\storage\link_button_press.tga"></Mapping>
+		 <Mapping ArtAssetID="storage_fill_base"								FileName="..\..\..\JRR Skins Collection\JRR CORE\storage\storage_fill_base.tga"></Mapping>
+		 <Mapping ArtAssetID="storage_fill_frame"						FileName="..\..\..\JRR Skins Collection\JRR CORE\storage\storage_fill_frame.tga"></Mapping>
 
 		<Mapping ArtAssetID="worldjoin_epic_border_overlay"				FileName="..\..\SHADOWCORE\invisible2.tga"></Mapping>
 
@@ -2035,10 +2035,10 @@
 		<Mapping ArtAssetID="Chargen_Box_Top"							FileName="..\..\..\JRR Skins Collection\JRR CORE\chargen\Chargen_Box_Top.tga"></Mapping>
 		<Mapping ArtAssetID="Chargen_Box_Top_Right"						FileName="..\..\..\JRR Skins Collection\JRR CORE\chargen\Chargen_Box_Top_Right.tga"></Mapping>
 
-		<Mapping ArtAssetID="vault_ui_tab"								FileName="..\..\SHADOWCORE\storage\vault_ui_tab.tga"></Mapping>
-		<Mapping ArtAssetID="vault_ui_tab_highlight"					FileName="..\..\SHADOWCORE\storage\vault_ui_tab_highlight.tga"></Mapping>
-		<Mapping ArtAssetID="vault_ui_tab_selected"						FileName="..\..\SHADOWCORE\storage\vault_ui_tab_selected.tga"></Mapping>
-		<Mapping ArtAssetID="chest_header_bg"							FileName="..\..\SHADOWCORE\storage\chest_header_bg.tga"></Mapping>
+		<Mapping ArtAssetID="vault_ui_tab"								FileName="..\..\..\JRR Skins Collection\JRR CORE\storage\vault_ui_tab.tga"></Mapping>
+		<Mapping ArtAssetID="vault_ui_tab_highlight"					FileName="..\..\..\JRR Skins Collection\JRR CORE\storage\vault_ui_tab_highlight.tga"></Mapping>
+		<Mapping ArtAssetID="vault_ui_tab_selected"						FileName="..\..\..\JRR Skins Collection\JRR CORE\storage\vault_ui_tab_selected.tga"></Mapping>
+		<Mapping ArtAssetID="chest_header_bg"							FileName="..\..\..\JRR Skins Collection\JRR CORE\storage\chest_header_bg.tga"></Mapping>
 		<Mapping ArtAssetID="trait_states_overlay_slotted"				FileName="..\..\..\JRR Skins Collection\JRR CORE\misc\trait_states_overlay_slotted.tga"></Mapping>
 		<Mapping ArtAssetID="trait_states_bg_slotted"					FileName="..\..\..\JRR Skins Collection\JRR CORE\misc\trait_states_bg_slotted.tga"></Mapping>
 		<Mapping ArtAssetID="trait_states_bg_unslotted"					FileName="..\..\..\JRR Skins Collection\JRR CORE\misc\trait_states_bg_unslotted.tga"></Mapping>
@@ -2507,9 +2507,9 @@
 		<Mapping ArtAssetID="character_panel_bg_orange"									FileName="..\..\SHADOWCORE\character\character_panel_bg.jpg"></Mapping>
 		<Mapping ArtAssetID="character_panel_bg_violet"									FileName="..\..\SHADOWCORE\character\character_panel_bg.jpg"></Mapping>
 
-		<Mapping ArtAssetID="storage_sortbar"											FileName="..\..\SHADOWCORE\storage\storage_sortbar.tga"></Mapping>
-		<Mapping ArtAssetID="ButtonBar"													FileName="..\..\SHADOWCORE\storage\ButtonBar.tga"></Mapping>
-		<Mapping ArtAssetID="storage_header"											FileName="..\..\SHADOWCORE\storage\storage_header.tga"></Mapping>
+		<Mapping ArtAssetID="storage_sortbar"											FileName="..\..\..\JRR Skins Collection\JRR CORE\storage\storage_sortbar.tga"></Mapping>
+		<Mapping ArtAssetID="ButtonBar"													FileName="..\..\..\JRR Skins Collection\JRR CORE\storage\ButtonBar.tga"></Mapping>
+		<Mapping ArtAssetID="storage_header"											FileName="..\..\..\JRR Skins Collection\JRR CORE\storage\storage_header.tga"></Mapping>
 		<Mapping ArtAssetID="storage_bottombar"											FileName="..\..\SHADOWCORE\invisible2.tga"></Mapping>
 		<Mapping ArtAssetID="vault_expanding_background_top_left"						FileName="..\..\SHADOWCORE\invisible2.tga"></Mapping>
 		<Mapping ArtAssetID="vault_expanding_background_top_right"						FileName="..\..\SHADOWCORE\invisible2.tga"></Mapping>
