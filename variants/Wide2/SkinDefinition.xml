@@ -23,7 +23,7 @@
 <Mapping ArtAssetID="dropdown_arrow_open_reversed" 								FileName="..\..\SHADOWCORE\dropdown\dropdown_arrow_open_reversed.tga"></Mapping>
 <Mapping ArtAssetID="dropdown_arrow_open_rollover" 								FileName="..\..\SHADOWCORE\dropdown\dropdown_arrow_open_rollover.tga"></Mapping>
 
-<Mapping ArtAssetID="scrollbar_10H_downarrow"									FileName="..\..\SHADOWCORE\scrollbars\scrollbar_10H_downarrow.tga"></Mapping>
+<Mapping ArtAssetID="scrollbar_10H_downarrow"									FileName="..\..\SHADOWCORE\		\scrollbar_10H_downarrow.tga"></Mapping>
 <Mapping ArtAssetID="scrollbar_10H_downarrow_mouseover"							FileName="..\..\SHADOWCORE\scrollbars\scrollbar_10H_downarrow_mouseover.tga"></Mapping>
 <Mapping ArtAssetID="scrollbar_10H_thumb_bottom"								FileName="..\..\SHADOWCORE\scrollbars\scrollbar_10H_thumb_bottom.tga"></Mapping>
 <Mapping ArtAssetID="scrollbar_10H_thumb_bottom_mouseover"						FileName="..\..\SHADOWCORE\scrollbars\scrollbar_10H_thumb_bottom_mouseover.tga"></Mapping>
@@ -1037,14 +1037,14 @@
 		<Mapping ArtAssetID="button_bottom_right_pressed"								FileName="..\..\SHADOWCORE\textbutton\button_bottom_right_pressed.tga"></Mapping>
 
 
-		<Mapping ArtAssetID="slider_background"											FileName="..\..\SHADOWCORE\basepanel\slider_background.tga"></Mapping>
-		<Mapping ArtAssetID="slider_leftarrow"											FileName="..\..\SHADOWCORE\basepanel\slider_leftarrow.tga"></Mapping>
-		<Mapping ArtAssetID="slider_leftarrow_highlight"								FileName="..\..\SHADOWCORE\basepanel\slider_leftarrow_highlight.tga"></Mapping>
-		<Mapping ArtAssetID="slider_leftarrow_pressed"									FileName="..\..\SHADOWCORE\basepanel\slider_leftarrow_pressed.tga"></Mapping>
-		<Mapping ArtAssetID="slider_rightarrow"											FileName="..\..\SHADOWCORE\basepanel\slider_rightarrow.tga"></Mapping>
-		<Mapping ArtAssetID="slider_rightarrow_highlight"								FileName="..\..\SHADOWCORE\basepanel\slider_rightarrow_highlight.tga"></Mapping>
-		<Mapping ArtAssetID="slider_rightarrow_pressed"									FileName="..\..\SHADOWCORE\basepanel\slider_rightarrow_pressed.tga"></Mapping>
-		<Mapping ArtAssetID="slider_widget"												FileName="..\..\SHADOWCORE\basepanel\slider_widget.tga"></Mapping>
+		<Mapping ArtAssetID="slider_background"											FileName="..\..\SHADOWCORE\slider\slider_background.tga"></Mapping>
+		<Mapping ArtAssetID="slider_leftarrow"											FileName="..\..\SHADOWCORE\slider\slider_leftarrow.tga"></Mapping>
+		<Mapping ArtAssetID="slider_leftarrow_highlight"								FileName="..\..\SHADOWCORE\slider\slider_leftarrow_highlight.tga"></Mapping>
+		<Mapping ArtAssetID="slider_leftarrow_pressed"									FileName="..\..\SHADOWCORE\slider\slider_leftarrow_pressed.tga"></Mapping>
+		<Mapping ArtAssetID="slider_rightarrow"											FileName="..\..\SHADOWCORE\slider\slider_rightarrow.tga"></Mapping>
+		<Mapping ArtAssetID="slider_rightarrow_highlight"								FileName="..\..\SHADOWCORE\slider\slider_rightarrow_highlight.tga"></Mapping>
+		<Mapping ArtAssetID="slider_rightarrow_pressed"									FileName="..\..\SHADOWCORE\slider\slider_rightarrow_pressed.tga"></Mapping>
+		<Mapping ArtAssetID="slider_widget"												FileName="..\..\SHADOWCORE\slider\slider_widget.tga"></Mapping>
 
 		<Mapping ArtAssetID="divider_horizontal_blue" 									FileName="..\..\..\JRR Skins Collection\JRR CORE\hobbit gifts\divider_horizontal_blue.tga"></Mapping>
 		<Mapping ArtAssetID="divider_vertical_blue_leaf" 								FileName="..\..\..\JRR Skins Collection\JRR CORE\hobbit gifts\divider_vertical_blue_leaf.tga"></Mapping>
@@ -1746,15 +1746,15 @@
 		<Mapping ArtAssetID="icon_pvp_rank_5_monsterplayer_32"							FileName="..\..\..\JRR Skins Collection\JRR CORE\pvp_rank\icon_pvp_rank_5_monsterplayer_32.tga"></Mapping>
 
 		<Mapping ArtAssetID="BaseBox_lockBox"											FileName="..\..\..\JRR Skins Collection\JRR CORE\misc\BaseBox_lockBox.tga"></Mapping>
-		<Mapping ArtAssetID="vault_background_normal_bottom"							FileName="..\..\SHADOWCORE\invisible2.tga"></Mapping>
-		<Mapping ArtAssetID="vault_background_highlight_bottom_left"					FileName="..\..\SHADOWCORE\invisible2.tga"></Mapping>
-		<Mapping ArtAssetID="vault_background_highlight_bottom_mid"						FileName="..\..\SHADOWCORE\invisible2.tga"></Mapping>
-		<Mapping ArtAssetID="vault_background_highlight_bottom_right"					FileName="..\..\SHADOWCORE\invisible2.tga"></Mapping>
-		<Mapping ArtAssetID="vault_background_highlight_left_mid"						FileName="..\..\SHADOWCORE\invisible2.tga"></Mapping>
-		<Mapping ArtAssetID="vault_background_highlight_right_mid"						FileName="..\..\SHADOWCORE\invisible2.tga"></Mapping>
-		<Mapping ArtAssetID="vault_background_highlight_top_left"						FileName="..\..\SHADOWCORE\invisible2.tga"></Mapping>
-		<Mapping ArtAssetID="vault_background_highlight_top_mid"						FileName="..\..\SHADOWCORE\invisible2.tga"></Mapping>
-		<Mapping ArtAssetID="vault_background_highlight_top_right"						FileName="..\..\SHADOWCORE\invisible2.tga"></Mapping>
+		<Mapping ArtAssetID="vault_background_normal_bottom"							FileName="..\..\SHADOWCORE\storage\vault_background_normal_bottom.tga"></Mapping>
+		<Mapping ArtAssetID="vault_background_highlight_bottom_left"					FileName="..\..\SHADOWCORE\storage\vault_background_highlight_bottom_left.tga"></Mapping>
+		<Mapping ArtAssetID="vault_background_highlight_bottom_mid"						FileName="..\..\SHADOWCORE\storage\vault_background_highlight_bottom_mid.tga"></Mapping>
+		<Mapping ArtAssetID="vault_background_highlight_bottom_right"					FileName="..\..\SHADOWCORE\storage\vault_background_highlight_bottom_right.tga"></Mapping>
+		<Mapping ArtAssetID="vault_background_highlight_left_mid"						FileName="..\..\SHADOWCORE\storage\vault_background_highlight_left_mid.tga"></Mapping>
+		<Mapping ArtAssetID="vault_background_highlight_right_mid"						FileName="..\..\SHADOWCORE\storage\vault_background_highlight_right_mid.tga"></Mapping>
+		<Mapping ArtAssetID="vault_background_highlight_top_left"						FileName="..\..\SHADOWCORE\storage\vault_background_highlight_top_left.tga"></Mapping>
+		<Mapping ArtAssetID="vault_background_highlight_top_mid"						FileName="..\..\SHADOWCORE\storage\vault_background_highlight_top_mid.tga"></Mapping>
+		<Mapping ArtAssetID="vault_background_highlight_top_right"						FileName="..\..\SHADOWCORE\storage\vault_background_highlight_top_right.tga"></Mapping>
 		
 		<Mapping ArtAssetID="sarumanRing1"												FileName="..\..\..\JRR Skins Collection\JRR CORE\saruman\sarumanRing1.tga"></Mapping>
 		<Mapping ArtAssetID="sarumanRing2"												FileName="..\..\..\JRR Skins Collection\JRR CORE\saruman\sarumanRing2.tga"></Mapping>
@@ -2003,11 +2003,11 @@
 
 
 		<!--Vault elements from Brygard's BGM 5 -->		
-		<Mapping ArtAssetID="link_button_highlight"						FileName="..\..\..\JRR Skins Collection\JRR CORE\storage\link_button_highlight.tga"></Mapping>
-		<Mapping ArtAssetID="link_button_normal"						FileName="..\..\..\JRR Skins Collection\JRR CORE\storage\link_button_normal.tga"></Mapping>
-		<Mapping ArtAssetID="link_button_press"							FileName="..\..\..\JRR Skins Collection\JRR CORE\storage\link_button_press.tga"></Mapping>
-		 <Mapping ArtAssetID="storage_fill_base"								FileName="..\..\..\JRR Skins Collection\JRR CORE\storage\storage_fill_base.tga"></Mapping>
-		 <Mapping ArtAssetID="storage_fill_frame"						FileName="..\..\..\JRR Skins Collection\JRR CORE\storage\storage_fill_frame.tga"></Mapping>
+		<Mapping ArtAssetID="link_button_highlight"						FileName="..\..\SHADOWCORE\storage\link_button_highlight.tga"></Mapping>
+		<Mapping ArtAssetID="link_button_normal"						FileName="..\..\SHADOWCORE\storage\link_button_normal.tga"></Mapping>
+		<Mapping ArtAssetID="link_button_press"							FileName="..\..\SHADOWCORE\storage\link_button_press.tga"></Mapping>
+		 <Mapping ArtAssetID="storage_fill_base"						FileName="..\..\SHADOWCORE\storage\storage_fill_base.tga"></Mapping>
+		 <Mapping ArtAssetID="storage_fill_frame"						FileName="..\..\SHADOWCORE\storage\storage_fill_frame.tga"></Mapping>
 
 		<Mapping ArtAssetID="worldjoin_epic_border_overlay"				FileName="..\..\SHADOWCORE\invisible2.tga"></Mapping>
 
@@ -2035,10 +2035,10 @@
 		<Mapping ArtAssetID="Chargen_Box_Top"							FileName="..\..\..\JRR Skins Collection\JRR CORE\chargen\Chargen_Box_Top.tga"></Mapping>
 		<Mapping ArtAssetID="Chargen_Box_Top_Right"						FileName="..\..\..\JRR Skins Collection\JRR CORE\chargen\Chargen_Box_Top_Right.tga"></Mapping>
 
-		<Mapping ArtAssetID="vault_ui_tab"								FileName="..\..\..\JRR Skins Collection\JRR CORE\storage\vault_ui_tab.tga"></Mapping>
-		<Mapping ArtAssetID="vault_ui_tab_highlight"					FileName="..\..\..\JRR Skins Collection\JRR CORE\storage\vault_ui_tab_highlight.tga"></Mapping>
-		<Mapping ArtAssetID="vault_ui_tab_selected"						FileName="..\..\..\JRR Skins Collection\JRR CORE\storage\vault_ui_tab_selected.tga"></Mapping>
-		<Mapping ArtAssetID="chest_header_bg"							FileName="..\..\..\JRR Skins Collection\JRR CORE\storage\chest_header_bg.tga"></Mapping>
+		<Mapping ArtAssetID="vault_ui_tab"								FileName="..\..\SHADOWCORE\storage\vault_ui_tab.tga"></Mapping>
+		<Mapping ArtAssetID="vault_ui_tab_highlight"					FileName="..\..\SHADOWCORE\storage\vault_ui_tab_highlight.tga"></Mapping>
+		<Mapping ArtAssetID="vault_ui_tab_selected"						FileName="..\..\SHADOWCORE\storage\vault_ui_tab_selected.tga"></Mapping>
+		<Mapping ArtAssetID="chest_header_bg"							FileName="..\..\SHADOWCORE\storage\chest_header_bg.tga"></Mapping>
 		<Mapping ArtAssetID="trait_states_overlay_slotted"				FileName="..\..\..\JRR Skins Collection\JRR CORE\misc\trait_states_overlay_slotted.tga"></Mapping>
 		<Mapping ArtAssetID="trait_states_bg_slotted"					FileName="..\..\..\JRR Skins Collection\JRR CORE\misc\trait_states_bg_slotted.tga"></Mapping>
 		<Mapping ArtAssetID="trait_states_bg_unslotted"					FileName="..\..\..\JRR Skins Collection\JRR CORE\misc\trait_states_bg_unslotted.tga"></Mapping>
@@ -2209,14 +2209,14 @@
 
 
 		<!-- Tooltip Window -->
-		<Mapping ArtAssetID="basepanel_bottomleft_new"			  FileName="..\..\SHADOWCORE\basepanel\basepanel_bottomleft.tga"></Mapping>
-		<Mapping ArtAssetID="basepanel_bottommid_new"			  FileName="..\..\SHADOWCORE\basepanel\basepanel_bottommid.tga"></Mapping>
-		<Mapping ArtAssetID="basepanel_bottomright_new"			  FileName="..\..\SHADOWCORE\basepanel\basepanel_bottomright.tga"></Mapping>
-		<Mapping ArtAssetID="basepanel_midleft_new"				  FileName="..\..\SHADOWCORE\basepanel\basepanel_midleft.tga"></Mapping>
-		<Mapping ArtAssetID="basepanel_midright_new"			  FileName="..\..\SHADOWCORE\basepanel\basepanel_midright.tga"></Mapping>
-		<Mapping ArtAssetID="basepanel_topleft_new"				  FileName="..\..\SHADOWCORE\basepanel\basepanel_topleft.tga"></Mapping>
-		<Mapping ArtAssetID="basepanel_topmid_new"				  FileName="..\..\SHADOWCORE\basepanel\basepanel_topmid.tga"></Mapping>
-		<Mapping ArtAssetID="basepanel_topright_new"			  FileName="..\..\SHADOWCORE\basepanel\basepanel_topright.tga"></Mapping>
+		<Mapping ArtAssetID="basepanel_bottomleft_new"			  FileName="..\..\SHADOWCORE\tooltip\basepanel_bottomleft.tga"></Mapping>
+		<Mapping ArtAssetID="basepanel_bottommid_new"			  FileName="..\..\SHADOWCORE\tooltip\basepanel_bottommid.tga"></Mapping>
+		<Mapping ArtAssetID="basepanel_bottomright_new"			  FileName="..\..\SHADOWCORE\tooltip\basepanel_bottomright.tga"></Mapping>
+		<Mapping ArtAssetID="basepanel_midleft_new"				  FileName="..\..\SHADOWCORE\tooltip\basepanel_midleft.tga"></Mapping>
+		<Mapping ArtAssetID="basepanel_midright_new"			  FileName="..\..\SHADOWCORE\tooltip\basepanel_midright.tga"></Mapping>
+		<Mapping ArtAssetID="basepanel_topleft_new"				  FileName="..\..\SHADOWCORE\tooltip\basepanel_topleft.tga"></Mapping>
+		<Mapping ArtAssetID="basepanel_topmid_new"				  FileName="..\..\SHADOWCORE\tooltip\basepanel_topmid.tga"></Mapping>
+		<Mapping ArtAssetID="basepanel_topright_new"			  FileName="..\..\SHADOWCORE\tooltip\basepanel_topright.tga"></Mapping>
 		
 		<Mapping ArtAssetID="basepanel_bottomleft"			  FileName="..\..\SHADOWCORE\basepanel\bottomleft.tga"></Mapping>
 		<Mapping ArtAssetID="basepanel_bottommid"			  FileName="..\..\SHADOWCORE\basepanel\bottommid.tga"></Mapping>
@@ -2228,14 +2228,14 @@
 		<Mapping ArtAssetID="basepanel_topright"			  FileName="..\..\SHADOWCORE\basepanel\topright.tga"></Mapping>
 
 		<!-- select box -->
-	  <Mapping ArtAssetID="basepanel_bottomleft_blue"		FileName="..\..\SHADOWCORE\basepanel\_bottomleft.tga"></Mapping>
-	  <Mapping ArtAssetID="basepanel_bottommid_blue"		FileName="..\..\SHADOWCORE\basepanel\_bottommid.tga"></Mapping>
-	  <Mapping ArtAssetID="basepanel_bottomright_blue"		FileName="..\..\SHADOWCORE\basepanel\_bottomright.tga"></Mapping>
-	  <Mapping ArtAssetID="basepanel_midleft_blue"			FileName="..\..\SHADOWCORE\basepanel\_midleft.tga"></Mapping>
-	  <Mapping ArtAssetID="basepanel_midright_blue"			FileName="..\..\SHADOWCORE\basepanel\_midright.tga"></Mapping>
-	  <Mapping ArtAssetID="basepanel_topleft_blue"			FileName="..\..\SHADOWCORE\basepanel\_topleft.tga"></Mapping>
-	  <Mapping ArtAssetID="basepanel_topmid_blue"			FileName="..\..\SHADOWCORE\basepanel\_topmid.tga"></Mapping>
-	  <Mapping ArtAssetID="basepanel_topright_blue"			FileName="..\..\SHADOWCORE\basepanel\_topright.tga"></Mapping>
+	  <Mapping ArtAssetID="basepanel_bottomleft_blue"		FileName="..\..\SHADOWCORE\dropdown\_bottomleft.tga"></Mapping>
+	  <Mapping ArtAssetID="basepanel_bottommid_blue"		FileName="..\..\SHADOWCORE\dropdown\_bottommid.tga"></Mapping>
+	  <Mapping ArtAssetID="basepanel_bottomright_blue"		FileName="..\..\SHADOWCORE\dropdown\_bottomright.tga"></Mapping>
+	  <Mapping ArtAssetID="basepanel_midleft_blue"			FileName="..\..\SHADOWCORE\dropdown\_midleft.tga"></Mapping>
+	  <Mapping ArtAssetID="basepanel_midright_blue"			FileName="..\..\SHADOWCORE\dropdown\_midright.tga"></Mapping>
+	  <Mapping ArtAssetID="basepanel_topleft_blue"			FileName="..\..\SHADOWCORE\dropdown\_topleft.tga"></Mapping>
+	  <Mapping ArtAssetID="basepanel_topmid_blue"			FileName="..\..\SHADOWCORE\dropdown\_topmid.tga"></Mapping>
+	  <Mapping ArtAssetID="basepanel_topright_blue"			FileName="..\..\SHADOWCORE\dropdown\_topright.tga"></Mapping>
 
 
 		<Mapping ArtAssetID="base_box_center"				  FileName="..\..\SHADOWCORE\basebox\center_silver.tga"></Mapping>
@@ -2507,9 +2507,9 @@
 		<Mapping ArtAssetID="character_panel_bg_orange"									FileName="..\..\SHADOWCORE\character\character_panel_bg.jpg"></Mapping>
 		<Mapping ArtAssetID="character_panel_bg_violet"									FileName="..\..\SHADOWCORE\character\character_panel_bg.jpg"></Mapping>
 
-		<Mapping ArtAssetID="storage_sortbar"											FileName="..\..\..\JRR Skins Collection\JRR CORE\storage\storage_sortbar.tga"></Mapping>
-		<Mapping ArtAssetID="ButtonBar"													FileName="..\..\..\JRR Skins Collection\JRR CORE\storage\ButtonBar.tga"></Mapping>
-		<Mapping ArtAssetID="storage_header"											FileName="..\..\..\JRR Skins Collection\JRR CORE\storage\storage_header.tga"></Mapping>
+		<Mapping ArtAssetID="storage_sortbar"											FileName="..\..\SHADOWCORE\storage\storage_sortbar.tga"></Mapping>
+		<Mapping ArtAssetID="ButtonBar"													FileName="..\..\SHADOWCORE\storage\ButtonBar.tga"></Mapping>
+		<Mapping ArtAssetID="storage_header"											FileName="..\..\SHADOWCORE\storage\storage_header.tga"></Mapping>
 		<Mapping ArtAssetID="storage_bottombar"											FileName="..\..\SHADOWCORE\invisible2.tga"></Mapping>
 		<Mapping ArtAssetID="vault_expanding_background_top_left"						FileName="..\..\SHADOWCORE\invisible2.tga"></Mapping>
 		<Mapping ArtAssetID="vault_expanding_background_top_right"						FileName="..\..\SHADOWCORE\invisible2.tga"></Mapping>
@@ -2555,14 +2555,14 @@
 
 		<!-- NPC: Quest Giver & Quest Entry -->
 
-		<Mapping ArtAssetID="quest_dialog_blue_bg_top_left"								FileName="..\..\SHADOWCORE\basepanel\blue_bg_top_left.tga"></Mapping>
-		<Mapping ArtAssetID="quest_dialog_blue_bg_top_mid"								FileName="..\..\SHADOWCORE\basepanel\blue_bg_top_mid.tga"></Mapping>
-		<Mapping ArtAssetID="quest_dialog_blue_bg_top_right"							FileName="..\..\SHADOWCORE\basepanel\blue_bg_top_right.tga"></Mapping>
-		<Mapping ArtAssetID="quest_dialog_blue_bg_left_mid"								FileName="..\..\SHADOWCORE\basepanel\blue_bg_left_mid.tga"></Mapping>
-		<Mapping ArtAssetID="quest_dialog_blue_bg_right_mid"							FileName="..\..\SHADOWCORE\basepanel\\blue_bg_right_mid.tga"></Mapping>
-		<Mapping ArtAssetID="quest_dialog_blue_bg_bottom_left"							FileName="..\..\SHADOWCORE\basepanel\blue_bg_bottom_left.tga"></Mapping>
-		<Mapping ArtAssetID="quest_dialog_blue_bg_bottom_mid"							FileName="..\..\SHADOWCORE\basepanel\blue_bg_bottom_mid.tga"></Mapping>
-		<Mapping ArtAssetID="quest_dialog_blue_bg_bottom_right"							FileName="..\..\SHADOWCORE\basepanel\blue_bg_bottom_right.tga"></Mapping>
+		<Mapping ArtAssetID="quest_dialog_blue_bg_top_left"								FileName="..\..\SHADOWCORE\innerpanel\blue_bg_top_left.tga"></Mapping>
+		<Mapping ArtAssetID="quest_dialog_blue_bg_top_mid"								FileName="..\..\SHADOWCORE\innerpanel\blue_bg_top_mid.tga"></Mapping>
+		<Mapping ArtAssetID="quest_dialog_blue_bg_top_right"							FileName="..\..\SHADOWCORE\innerpanel\blue_bg_top_right.tga"></Mapping>
+		<Mapping ArtAssetID="quest_dialog_blue_bg_left_mid"								FileName="..\..\SHADOWCORE\innerpanel\blue_bg_left_mid.tga"></Mapping>
+		<Mapping ArtAssetID="quest_dialog_blue_bg_right_mid"							FileName="..\..\SHADOWCORE\innerpanel\blue_bg_right_mid.tga"></Mapping>
+		<Mapping ArtAssetID="quest_dialog_blue_bg_bottom_left"							FileName="..\..\SHADOWCORE\innerpanel\blue_bg_bottom_left.tga"></Mapping>
+		<Mapping ArtAssetID="quest_dialog_blue_bg_bottom_mid"							FileName="..\..\SHADOWCORE\innerpanel\blue_bg_bottom_mid.tga"></Mapping>
+		<Mapping ArtAssetID="quest_dialog_blue_bg_bottom_right"							FileName="..\..\SHADOWCORE\innerpanel\blue_bg_bottom_right.tga"></Mapping>
 
 		<Mapping ArtAssetID="CharGen_Buttons_Triskel_Left"								FileName="..\..\..\JRR Skins Collection\JRR CORE\textbutton\CharGen_Buttons_Triskel_Left.tga"></Mapping>
 		<Mapping ArtAssetID="CharGen_Buttons_Triskel_Mid"								FileName="..\..\..\JRR Skins Collection\JRR CORE\textbutton\CharGen_Buttons_Triskel_Mid.tga"></Mapping>

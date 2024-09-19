@@ -23,7 +23,7 @@
 <Mapping ArtAssetID="dropdown_arrow_open_reversed" 								FileName="..\..\SHADOWCORE\dropdown\dropdown_arrow_open_reversed.tga"></Mapping>
 <Mapping ArtAssetID="dropdown_arrow_open_rollover" 								FileName="..\..\SHADOWCORE\dropdown\dropdown_arrow_open_rollover.tga"></Mapping>
 
-<Mapping ArtAssetID="scrollbar_10H_downarrow"									FileName="..\..\SHADOWCORE\scrollbars\scrollbar_10H_downarrow.tga"></Mapping>
+<Mapping ArtAssetID="scrollbar_10H_downarrow"									FileName="..\..\SHADOWCORE\		\scrollbar_10H_downarrow.tga"></Mapping>
 <Mapping ArtAssetID="scrollbar_10H_downarrow_mouseover"							FileName="..\..\SHADOWCORE\scrollbars\scrollbar_10H_downarrow_mouseover.tga"></Mapping>
 <Mapping ArtAssetID="scrollbar_10H_thumb_bottom"								FileName="..\..\SHADOWCORE\scrollbars\scrollbar_10H_thumb_bottom.tga"></Mapping>
 <Mapping ArtAssetID="scrollbar_10H_thumb_bottom_mouseover"						FileName="..\..\SHADOWCORE\scrollbars\scrollbar_10H_thumb_bottom_mouseover.tga"></Mapping>
@@ -1746,15 +1746,15 @@
 		<Mapping ArtAssetID="icon_pvp_rank_5_monsterplayer_32"							FileName="..\..\..\JRR Skins Collection\JRR CORE\pvp_rank\icon_pvp_rank_5_monsterplayer_32.tga"></Mapping>
 
 		<Mapping ArtAssetID="BaseBox_lockBox"											FileName="..\..\..\JRR Skins Collection\JRR CORE\misc\BaseBox_lockBox.tga"></Mapping>
-		<Mapping ArtAssetID="vault_background_normal_bottom"							FileName="..\..\SHADOWCORE\invisible2.tga"></Mapping>
-		<Mapping ArtAssetID="vault_background_highlight_bottom_left"					FileName="..\..\SHADOWCORE\invisible2.tga"></Mapping>
-		<Mapping ArtAssetID="vault_background_highlight_bottom_mid"						FileName="..\..\SHADOWCORE\invisible2.tga"></Mapping>
-		<Mapping ArtAssetID="vault_background_highlight_bottom_right"					FileName="..\..\SHADOWCORE\invisible2.tga"></Mapping>
-		<Mapping ArtAssetID="vault_background_highlight_left_mid"						FileName="..\..\SHADOWCORE\invisible2.tga"></Mapping>
-		<Mapping ArtAssetID="vault_background_highlight_right_mid"						FileName="..\..\SHADOWCORE\invisible2.tga"></Mapping>
-		<Mapping ArtAssetID="vault_background_highlight_top_left"						FileName="..\..\SHADOWCORE\invisible2.tga"></Mapping>
-		<Mapping ArtAssetID="vault_background_highlight_top_mid"						FileName="..\..\SHADOWCORE\invisible2.tga"></Mapping>
-		<Mapping ArtAssetID="vault_background_highlight_top_right"						FileName="..\..\SHADOWCORE\invisible2.tga"></Mapping>
+		<Mapping ArtAssetID="vault_background_normal_bottom"							FileName="..\..\SHADOWCORE\storage\vault_background_normal_bottom.tga"></Mapping>
+		<Mapping ArtAssetID="vault_background_highlight_bottom_left"					FileName="..\..\SHADOWCORE\storage\vault_background_highlight_bottom_left.tga"></Mapping>
+		<Mapping ArtAssetID="vault_background_highlight_bottom_mid"						FileName="..\..\SHADOWCORE\storage\vault_background_highlight_bottom_mid.tga"></Mapping>
+		<Mapping ArtAssetID="vault_background_highlight_bottom_right"					FileName="..\..\SHADOWCORE\storage\vault_background_highlight_bottom_right.tga"></Mapping>
+		<Mapping ArtAssetID="vault_background_highlight_left_mid"						FileName="..\..\SHADOWCORE\storage\vault_background_highlight_left_mid.tga"></Mapping>
+		<Mapping ArtAssetID="vault_background_highlight_right_mid"						FileName="..\..\SHADOWCORE\storage\vault_background_highlight_right_mid.tga"></Mapping>
+		<Mapping ArtAssetID="vault_background_highlight_top_left"						FileName="..\..\SHADOWCORE\storage\vault_background_highlight_top_left.tga"></Mapping>
+		<Mapping ArtAssetID="vault_background_highlight_top_mid"						FileName="..\..\SHADOWCORE\storage\vault_background_highlight_top_mid.tga"></Mapping>
+		<Mapping ArtAssetID="vault_background_highlight_top_right"						FileName="..\..\SHADOWCORE\storage\vault_background_highlight_top_right.tga"></Mapping>
 		
 		<Mapping ArtAssetID="sarumanRing1"												FileName="..\..\..\JRR Skins Collection\JRR CORE\saruman\sarumanRing1.tga"></Mapping>
 		<Mapping ArtAssetID="sarumanRing2"												FileName="..\..\..\JRR Skins Collection\JRR CORE\saruman\sarumanRing2.tga"></Mapping>
