@@ -2491,21 +2491,21 @@
 		<Mapping ArtAssetID="questTrackerWindow_bl" FileName="..\..\SHADOWCORE\invisible2.tga"></Mapping>
 		<Mapping ArtAssetID="questTrackerWindow_br" FileName="..\..\SHADOWCORE\invisible2.tga"></Mapping>
 		<Mapping ArtAssetID="questTrackerWindow_c" FileName="..\..\SHADOWCORE\invisible2.tga"></Mapping>
-		<Mapping ArtAssetID="questTrackerWindow_l" FileName="..\..\SHADOWCORE\invisible2.tga"></Mapping>
+		<Mapping ArtAssetID="questTrackerWindow_l" FileName="..\..\SHADOWCORE\invisible2.tga"></Mapping>						
 		<Mapping ArtAssetID="questTrackerWindow_r" FileName="..\..\SHADOWCORE\invisible2.tga"></Mapping>
 		<Mapping ArtAssetID="questTrackerWindow_t" FileName="..\..\SHADOWCORE\invisible2.tga"></Mapping>
 		<Mapping ArtAssetID="questTrackerWindow_tl" FileName="..\..\SHADOWCORE\invisible2.tga"></Mapping>
 		<Mapping ArtAssetID="questTrackerWindow_tr" FileName="..\..\SHADOWCORE\invisible2.tga"></Mapping>
 
 
-		<Mapping ArtAssetID="character_panel_bg_blue"									FileName="..\..\SHADOWCORE\character\character_panel_bg.jpg"></Mapping>
-		<Mapping ArtAssetID="character_panel_bg_aqua"									FileName="..\..\SHADOWCORE\character\character_panel_bg.jpg"></Mapping>
-		<Mapping ArtAssetID="character_panel_bg_green"									FileName="..\..\SHADOWCORE\character\character_panel_bg.jpg"></Mapping>
-		<Mapping ArtAssetID="character_panel_bg_purple"									FileName="..\..\SHADOWCORE\character\character_panel_bg.jpg"></Mapping>
-		<Mapping ArtAssetID="character_panel_bg_yellow"									FileName="..\..\SHADOWCORE\character\character_panel_bg.jpg"></Mapping>
-		<Mapping ArtAssetID="character_panel_bg_red"									FileName="..\..\SHADOWCORE\character\character_panel_bg.jpg"></Mapping>
-		<Mapping ArtAssetID="character_panel_bg_orange"									FileName="..\..\SHADOWCORE\character\character_panel_bg.jpg"></Mapping>
-		<Mapping ArtAssetID="character_panel_bg_violet"									FileName="..\..\SHADOWCORE\character\character_panel_bg.jpg"></Mapping>
+		<Mapping ArtAssetID="character_panel_bg_blue"									FileName="..\..\SHADOWCORE\character\character_panel_bg.tga"></Mapping>
+		<Mapping ArtAssetID="character_panel_bg_aqua"									FileName="..\..\SHADOWCORE\character\character_panel_bg.tga"></Mapping>
+		<Mapping ArtAssetID="character_panel_bg_green"									FileName="..\..\SHADOWCORE\character\character_panel_bg.tga"></Mapping>
+		<Mapping ArtAssetID="character_panel_bg_purple"									FileName="..\..\SHADOWCORE\character\character_panel_bg.tga"></Mapping>
+		<Mapping ArtAssetID="character_panel_bg_yellow"									FileName="..\..\SHADOWCORE\character\character_panel_bg.tga"></Mapping>
+		<Mapping ArtAssetID="character_panel_bg_red"									FileName="..\..\SHADOWCORE\character\character_panel_bg.tga"></Mapping>
+		<Mapping ArtAssetID="character_panel_bg_orange"									FileName="..\..\SHADOWCORE\character\character_panel_bg.tga"></Mapping>
+		<Mapping ArtAssetID="character_panel_bg_violet"									FileName="..\..\SHADOWCORE\character\character_panel_bg.tga"></Mapping>
 
 		<Mapping ArtAssetID="storage_sortbar"											FileName="..\..\..\JRR Skins Collection\JRR CORE\storage\storage_sortbar.tga"></Mapping>
 		<Mapping ArtAssetID="ButtonBar"													FileName="..\..\..\JRR Skins Collection\JRR CORE\storage\ButtonBar.tga"></Mapping>
