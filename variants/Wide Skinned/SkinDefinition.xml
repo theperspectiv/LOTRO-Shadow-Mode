@@ -23,7 +23,7 @@
 <Mapping ArtAssetID="dropdown_arrow_open_reversed" 								FileName="..\..\SHADOWCORE\dropdown\dropdown_arrow_open_reversed.tga"></Mapping>
 <Mapping ArtAssetID="dropdown_arrow_open_rollover" 								FileName="..\..\SHADOWCORE\dropdown\dropdown_arrow_open_rollover.tga"></Mapping>
 
-<Mapping ArtAssetID="scrollbar_10H_downarrow"									FileName="..\..\SHADOWCORE\		\scrollbar_10H_downarrow.tga"></Mapping>
+<Mapping ArtAssetID="scrollbar_10H_downarrow"									FileName="..\..\SHADOWCORE\scrollbars\scrollbar_10H_downarrow.tga"></Mapping>
 <Mapping ArtAssetID="scrollbar_10H_downarrow_mouseover"							FileName="..\..\SHADOWCORE\scrollbars\scrollbar_10H_downarrow_mouseover.tga"></Mapping>
 <Mapping ArtAssetID="scrollbar_10H_thumb_bottom"								FileName="..\..\SHADOWCORE\scrollbars\scrollbar_10H_thumb_bottom.tga"></Mapping>
 <Mapping ArtAssetID="scrollbar_10H_thumb_bottom_mouseover"						FileName="..\..\SHADOWCORE\scrollbars\scrollbar_10H_thumb_bottom_mouseover.tga"></Mapping>
@@ -59,7 +59,7 @@
 <Mapping ArtAssetID="checkbox_02_empty" 										FileName="..\..\SHADOWCORE\checkbox\checkbox_02_empty.tga"></Mapping>
 <Mapping ArtAssetID="checkbox_quest_complete" 									FileName="..\..\SHADOWCORE\checkbox\checkbox_quest_complete.tga"></Mapping>
 
-<!-- Char Panel Icons -->
+<!-- Character Panel Icons -->
 
 <Mapping ArtAssetID="bio_normal" 												FileName="..\..\SHADOWCORE\character\icons\bio_normal.tga"></Mapping>
 <Mapping ArtAssetID="bio_pressed" 												FileName="..\..\SHADOWCORE\character\icons\bio_pressed.tga"></Mapping>
