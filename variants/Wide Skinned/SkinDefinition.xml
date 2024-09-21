@@ -2276,11 +2276,11 @@
 			<Mapping ArtAssetID="hope_9"						  FileName="..\..\..\JRR Skins Collection\JRR CORE\minimap\hope_9.tga"></Mapping>
 			<Mapping ArtAssetID="hope_10"						  FileName="..\..\..\JRR Skins Collection\JRR CORE\minimap\hope_10.tga"></Mapping>
 
-		 <Mapping ArtAssetID="gem_dread1"						FileName="..\..\..\JRR Skins Collection\JRR CORE\Minimap\gem_dread1.tga"></Mapping>
-		  <Mapping ArtAssetID="gem_dread2"						FileName="..\..\..\JRR Skins Collection\JRR CORE\Minimap\gem_dread2.tga"></Mapping>
-		  <Mapping ArtAssetID="gem_dread3"						FileName="..\..\..\JRR Skins Collection\JRR CORE\Minimap\gem_dread3.tga"></Mapping>
-		  <Mapping ArtAssetID="gem_dread4"						FileName="..\..\..\JRR Skins Collection\JRR CORE\Minimap\gem_dread4.tga"></Mapping>
-		  <Mapping ArtAssetID="gem_dread5"						FileName="..\..\..\JRR Skins Collection\JRR CORE\Minimap\gem_dread5.tga"></Mapping>
+		 <Mapping ArtAssetID="gem_dread1"						FileName="..\..\SHADOWCORE\Minimap\gem_dread1.tga"></Mapping>
+		  <Mapping ArtAssetID="gem_dread2"						FileName="..\..\SHADOWCORE\Minimap\gem_dread2.tga"></Mapping>
+		  <Mapping ArtAssetID="gem_dread3"						FileName="..\..\SHADOWCORE\Minimap\gem_dread3.tga"></Mapping>
+		  <Mapping ArtAssetID="gem_dread4"						FileName="..\..\SHADOWCORE\Minimap\gem_dread4.tga"></Mapping>
+		  <Mapping ArtAssetID="gem_dread5"						FileName="..\..\SHADOWCORE\Minimap\gem_dread5.tga"></Mapping>
 		  <Mapping ArtAssetID="gem_hope1"						FileName="..\..\..\JRR Skins Collection\JRR CORE\Minimap\gem_hope1.tga"></Mapping>
 		 <Mapping ArtAssetID="gem_hope2"						FileName="..\..\..\JRR Skins Collection\JRR CORE\Minimap\gem_hope2.tga"></Mapping>
 		  <Mapping ArtAssetID="gem_hope3"						FileName="..\..\..\JRR Skins Collection\JRR CORE\Minimap\gem_hope3.tga"></Mapping>
