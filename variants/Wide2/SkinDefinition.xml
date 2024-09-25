@@ -23,7 +23,7 @@
 <Mapping ArtAssetID="dropdown_arrow_open_reversed" 								FileName="..\..\SHADOWCORE\dropdown\dropdown_arrow_open_reversed.tga"></Mapping>
 <Mapping ArtAssetID="dropdown_arrow_open_rollover" 								FileName="..\..\SHADOWCORE\dropdown\dropdown_arrow_open_rollover.tga"></Mapping>
 
-<Mapping ArtAssetID="scrollbar_10H_downarrow"									FileName="..\..\SHADOWCORE\		\scrollbar_10H_downarrow.tga"></Mapping>
+<Mapping ArtAssetID="scrollbar_10H_downarrow"									FileName="..\..\SHADOWCORE\scrollbars\scrollbar_10H_downarrow.tga"></Mapping>
 <Mapping ArtAssetID="scrollbar_10H_downarrow_mouseover"							FileName="..\..\SHADOWCORE\scrollbars\scrollbar_10H_downarrow_mouseover.tga"></Mapping>
 <Mapping ArtAssetID="scrollbar_10H_thumb_bottom"								FileName="..\..\SHADOWCORE\scrollbars\scrollbar_10H_thumb_bottom.tga"></Mapping>
 <Mapping ArtAssetID="scrollbar_10H_thumb_bottom_mouseover"						FileName="..\..\SHADOWCORE\scrollbars\scrollbar_10H_thumb_bottom_mouseover.tga"></Mapping>
@@ -59,7 +59,7 @@
 <Mapping ArtAssetID="checkbox_02_empty" 										FileName="..\..\SHADOWCORE\checkbox\checkbox_02_empty.tga"></Mapping>
 <Mapping ArtAssetID="checkbox_quest_complete" 									FileName="..\..\SHADOWCORE\checkbox\checkbox_quest_complete.tga"></Mapping>
 
-<!-- Char Panel Icons -->
+<!-- Character Panel Icons -->
 
 <Mapping ArtAssetID="bio_normal" 												FileName="..\..\SHADOWCORE\character\icons\bio_normal.tga"></Mapping>
 <Mapping ArtAssetID="bio_pressed" 												FileName="..\..\SHADOWCORE\character\icons\bio_pressed.tga"></Mapping>
@@ -2276,11 +2276,11 @@
 			<Mapping ArtAssetID="hope_9"						  FileName="..\..\..\JRR Skins Collection\JRR CORE\minimap\hope_9.tga"></Mapping>
 			<Mapping ArtAssetID="hope_10"						  FileName="..\..\..\JRR Skins Collection\JRR CORE\minimap\hope_10.tga"></Mapping>
 
-		 <Mapping ArtAssetID="gem_dread1"						FileName="..\..\..\JRR Skins Collection\JRR CORE\Minimap\gem_dread1.tga"></Mapping>
-		  <Mapping ArtAssetID="gem_dread2"						FileName="..\..\..\JRR Skins Collection\JRR CORE\Minimap\gem_dread2.tga"></Mapping>
-		  <Mapping ArtAssetID="gem_dread3"						FileName="..\..\..\JRR Skins Collection\JRR CORE\Minimap\gem_dread3.tga"></Mapping>
-		  <Mapping ArtAssetID="gem_dread4"						FileName="..\..\..\JRR Skins Collection\JRR CORE\Minimap\gem_dread4.tga"></Mapping>
-		  <Mapping ArtAssetID="gem_dread5"						FileName="..\..\..\JRR Skins Collection\JRR CORE\Minimap\gem_dread5.tga"></Mapping>
+		 <Mapping ArtAssetID="gem_dread1"						FileName="..\..\SHADOWCORE\Minimap\gem_dread1.tga"></Mapping>
+		  <Mapping ArtAssetID="gem_dread2"						FileName="..\..\SHADOWCORE\Minimap\gem_dread2.tga"></Mapping>
+		  <Mapping ArtAssetID="gem_dread3"						FileName="..\..\SHADOWCORE\Minimap\gem_dread3.tga"></Mapping>
+		  <Mapping ArtAssetID="gem_dread4"						FileName="..\..\SHADOWCORE\Minimap\gem_dread4.tga"></Mapping>
+		  <Mapping ArtAssetID="gem_dread5"						FileName="..\..\SHADOWCORE\Minimap\gem_dread5.tga"></Mapping>
 		  <Mapping ArtAssetID="gem_hope1"						FileName="..\..\..\JRR Skins Collection\JRR CORE\Minimap\gem_hope1.tga"></Mapping>
 		 <Mapping ArtAssetID="gem_hope2"						FileName="..\..\..\JRR Skins Collection\JRR CORE\Minimap\gem_hope2.tga"></Mapping>
 		  <Mapping ArtAssetID="gem_hope3"						FileName="..\..\..\JRR Skins Collection\JRR CORE\Minimap\gem_hope3.tga"></Mapping>
@@ -2491,21 +2491,21 @@
 		<Mapping ArtAssetID="questTrackerWindow_bl" FileName="..\..\SHADOWCORE\invisible2.tga"></Mapping>
 		<Mapping ArtAssetID="questTrackerWindow_br" FileName="..\..\SHADOWCORE\invisible2.tga"></Mapping>
 		<Mapping ArtAssetID="questTrackerWindow_c" FileName="..\..\SHADOWCORE\invisible2.tga"></Mapping>
-		<Mapping ArtAssetID="questTrackerWindow_l" FileName="..\..\SHADOWCORE\invisible2.tga"></Mapping>
+		<Mapping ArtAssetID="questTrackerWindow_l" FileName="..\..\SHADOWCORE\invisible2.tga"></Mapping>						
 		<Mapping ArtAssetID="questTrackerWindow_r" FileName="..\..\SHADOWCORE\invisible2.tga"></Mapping>
 		<Mapping ArtAssetID="questTrackerWindow_t" FileName="..\..\SHADOWCORE\invisible2.tga"></Mapping>
 		<Mapping ArtAssetID="questTrackerWindow_tl" FileName="..\..\SHADOWCORE\invisible2.tga"></Mapping>
 		<Mapping ArtAssetID="questTrackerWindow_tr" FileName="..\..\SHADOWCORE\invisible2.tga"></Mapping>
 
 
-		<Mapping ArtAssetID="character_panel_bg_blue"									FileName="..\..\SHADOWCORE\character\character_panel_bg.jpg"></Mapping>
-		<Mapping ArtAssetID="character_panel_bg_aqua"									FileName="..\..\SHADOWCORE\character\character_panel_bg.jpg"></Mapping>
-		<Mapping ArtAssetID="character_panel_bg_green"									FileName="..\..\SHADOWCORE\character\character_panel_bg.jpg"></Mapping>
-		<Mapping ArtAssetID="character_panel_bg_purple"									FileName="..\..\SHADOWCORE\character\character_panel_bg.jpg"></Mapping>
-		<Mapping ArtAssetID="character_panel_bg_yellow"									FileName="..\..\SHADOWCORE\character\character_panel_bg.jpg"></Mapping>
-		<Mapping ArtAssetID="character_panel_bg_red"									FileName="..\..\SHADOWCORE\character\character_panel_bg.jpg"></Mapping>
-		<Mapping ArtAssetID="character_panel_bg_orange"									FileName="..\..\SHADOWCORE\character\character_panel_bg.jpg"></Mapping>
-		<Mapping ArtAssetID="character_panel_bg_violet"									FileName="..\..\SHADOWCORE\character\character_panel_bg.jpg"></Mapping>
+		<Mapping ArtAssetID="character_panel_bg_blue"									FileName="..\..\SHADOWCORE\character\character_panel_bg.tga"></Mapping>
+		<Mapping ArtAssetID="character_panel_bg_aqua"									FileName="..\..\SHADOWCORE\character\character_panel_bg.tga"></Mapping>
+		<Mapping ArtAssetID="character_panel_bg_green"									FileName="..\..\SHADOWCORE\character\character_panel_bg.tga"></Mapping>
+		<Mapping ArtAssetID="character_panel_bg_purple"									FileName="..\..\SHADOWCORE\character\character_panel_bg.tga"></Mapping>
+		<Mapping ArtAssetID="character_panel_bg_yellow"									FileName="..\..\SHADOWCORE\character\character_panel_bg.tga"></Mapping>
+		<Mapping ArtAssetID="character_panel_bg_red"									FileName="..\..\SHADOWCORE\character\character_panel_bg.tga"></Mapping>
+		<Mapping ArtAssetID="character_panel_bg_orange"									FileName="..\..\SHADOWCORE\character\character_panel_bg.tga"></Mapping>
+		<Mapping ArtAssetID="character_panel_bg_violet"									FileName="..\..\SHADOWCORE\character\character_panel_bg.tga"></Mapping>
 
 		<Mapping ArtAssetID="storage_sortbar"											FileName="..\..\..\JRR Skins Collection\JRR CORE\storage\storage_sortbar.tga"></Mapping>
 		<Mapping ArtAssetID="ButtonBar"													FileName="..\..\..\JRR Skins Collection\JRR CORE\storage\ButtonBar.tga"></Mapping>
