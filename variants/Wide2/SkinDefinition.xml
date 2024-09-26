@@ -15,7 +15,7 @@
 <!-- Shadow Mode [option] Overrides -->
 
 <!-- Shadow Mode Core Overrides -->	
-
+<Mapping ArtAssetID="finditems16" 												FileName="..\..\SHADOWCORE\titlebar\finditems16.tga"></Mapping>
 <Mapping ArtAssetID="dropdown_arrow_closed" 									FileName="..\..\SHADOWCORE\dropdown\dropdown_arrow_closed.tga"></Mapping>
 <Mapping ArtAssetID="dropdown_arrow_closed_ghosted" 							FileName="..\..\SHADOWCORE\dropdown\dropdown_arrow_closed_ghosted.tga"></Mapping>
 <Mapping ArtAssetID="dropdown_arrow_closed_rollover" 							FileName="..\..\SHADOWCORE\dropdown\dropdown_arrow_closed_rollover.tga"></Mapping>
