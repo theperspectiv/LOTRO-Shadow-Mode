@@ -375,102 +375,102 @@
 
 
 		<!-- Additions in JRR v.33.2b -->		
-		<Mapping ArtAssetID="opponent_vitals_backdrop_2022_supporter_tier1"				FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\opponent_vitals_backdrop_2022_supporter_tier1.tga"></Mapping>
-		<Mapping ArtAssetID="opponent_vitals_backdrop_2022_supporter_tier2"				FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\opponent_vitals_backdrop_2022_supporter_tier2.tga"></Mapping>
-		<Mapping ArtAssetID="opponent_vitals_backdrop_2022_supporter_tier3"				FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\opponent_vitals_backdrop_2022_supporter_tier3.tga"></Mapping>
-		<Mapping ArtAssetID="player_vitals_backdrop_2022_supporter_tier1"				FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\player_vitals_backdrop_2022_supporter_tier1.tga"></Mapping>
-		<Mapping ArtAssetID="player_vitals_backdrop_2022_supporter_tier2"				FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\player_vitals_backdrop_2022_supporter_tier2.tga"></Mapping>
-		<Mapping ArtAssetID="player_vitals_backdrop_2022_supporter_tier3"				FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\player_vitals_backdrop_2022_supporter_tier3.tga"></Mapping>
-		<Mapping ArtAssetID="player_vitals_mini_2022_supporter_tier1"					FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\party_member.tga"></Mapping>
-		<Mapping ArtAssetID="player_vitals_mini_2022_supporter_tier2"					FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\party_member.tga"></Mapping>
-		<Mapping ArtAssetID="player_vitals_mini_2022_supporter_tier3"					FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\party_member.tga"></Mapping>
+		<Mapping ArtAssetID="opponent_vitals_backdrop_2022_supporter_tier1"				FileName="..\..\SHADOWCORE\vitals\opponent_vitals_backdrop_2022_supporter_tier1.tga"></Mapping>
+		<Mapping ArtAssetID="opponent_vitals_backdrop_2022_supporter_tier2"				FileName="..\..\SHADOWCORE\vitals\opponent_vitals_backdrop_2022_supporter_tier2.tga"></Mapping>
+		<Mapping ArtAssetID="opponent_vitals_backdrop_2022_supporter_tier3"				FileName="..\..\SHADOWCORE\vitals\opponent_vitals_backdrop_2022_supporter_tier3.tga"></Mapping>
+		<Mapping ArtAssetID="player_vitals_backdrop_2022_supporter_tier1"				FileName="..\..\SHADOWCORE\vitals\player_vitals_backdrop_2022_supporter_tier1.tga"></Mapping>
+		<Mapping ArtAssetID="player_vitals_backdrop_2022_supporter_tier2"				FileName="..\..\SHADOWCORE\vitals\player_vitals_backdrop_2022_supporter_tier2.tga"></Mapping>
+		<Mapping ArtAssetID="player_vitals_backdrop_2022_supporter_tier3"				FileName="..\..\SHADOWCORE\vitals\player_vitals_backdrop_2022_supporter_tier3.tga"></Mapping>
+		<Mapping ArtAssetID="player_vitals_mini_2022_supporter_tier1"					FileName="..\..\SHADOWCORE\vitals\party_member.tga"></Mapping>
+		<Mapping ArtAssetID="player_vitals_mini_2022_supporter_tier2"					FileName="..\..\SHADOWCORE\vitals\party_member.tga"></Mapping>
+		<Mapping ArtAssetID="player_vitals_mini_2022_supporter_tier3"					FileName="..\..\SHADOWCORE\vitals\party_member.tga"></Mapping>
 
 		<!-- Additions in JRR v.33 -->
-		<Mapping ArtAssetID="opponenet_vitals_legendary_isengard"						FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\opponenet_vitals_legendary_isengard.tga"></Mapping>
-		<Mapping ArtAssetID="opponent_vitals_backdrop_13_years"							FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\opponent_vitals_backdrop_13_years.tga"></Mapping>
-		<Mapping ArtAssetID="opponent_vitals_backdrop_14_years"							FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\opponent_vitals_backdrop_14_years.tga"></Mapping>
-		<Mapping ArtAssetID="opponent_vitals_backdrop_15_years"							FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\opponent_vitals_backdrop_15_years.tga"></Mapping>
-		<Mapping ArtAssetID="opponent_vitals_backdrop_15_years_mp"						FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\opponent_vitals_backdrop_15_years_mp.tga"></Mapping>
-		<Mapping ArtAssetID="opponent_vitals_backdrop_azanulbizar"						FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\opponent_vitals_backdrop_azanulbizar.tga"></Mapping>
-		<Mapping ArtAssetID="opponent_vitals_backdrop_dagorlad_flora"					FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\opponent_vitals_backdrop_dagorlad_flora.tga"></Mapping>
-		<Mapping ArtAssetID="opponent_vitals_backdrop_KharumUbnar"						FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\opponent_vitals_backdrop_KharumUbnar.tga"></Mapping>
-		<Mapping ArtAssetID="opponent_vitals_backdrop_legendary_rohan"					FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\opponent_vitals_backdrop_legendary_rohan.tga"></Mapping>
-		<Mapping ArtAssetID="opponent_vitals_backdrop_minas_morgul"						FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\opponent_vitals_backdrop_minas_morgul.tga"></Mapping>
-		<Mapping ArtAssetID="opponent_vitals_backdrop_northithilien_flora"				FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\opponent_vitals_backdrop_northithilien_flora.tga"></Mapping>
-		<Mapping ArtAssetID="opponent_vitals_backdrop_raid_khazad_dum"					FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\opponent_vitals_backdrop_raid_khazad_dum.tga"></Mapping>
-		<Mapping ArtAssetID="opponent_vitals_gundabad_geode"							FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\opponent_vitals_gundabad_geode.tga"></Mapping>
-		<Mapping ArtAssetID="opponent_vitals_gundabad_gloomingtarn"						FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\opponent_vitals_gundabad_gloomingtarn.tga"></Mapping>
-		<Mapping ArtAssetID="opponent_vitals_gundabad_steepset"							FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\opponent_vitals_gundabad_steepset.tga"></Mapping>
-		<Mapping ArtAssetID="opponent_vitals_legendary_gondor"							FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\opponent_vitals_legendary_gondor.tga"></Mapping>
-		<Mapping ArtAssetID="opponent_vitals_legendary_greymountains"					FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\opponent_vitals_legendary_greymountains.tga"></Mapping>
-		<Mapping ArtAssetID="opponent_vitals_legendary_helms_deep"						FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\opponent_vitals_legendary_helms_deep.tga"></Mapping>
-		<Mapping ArtAssetID="opponent_vitals_legendary_minasmorgul"						FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\opponent_vitals_legendary_minasmorgul.tga"></Mapping>
-		<Mapping ArtAssetID="opponent_vitals_legendary_mordor"							FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\opponent_vitals_legendary_mordor.tga"></Mapping>
-		<Mapping ArtAssetID="opponent_vitals_legendary_wastes"							FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\opponent_vitals_legendary_wastes.tga"></Mapping>
-		<Mapping ArtAssetID="opponent_vitals_post_raid_U32"								FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\opponent_vitals_post_raid_U32.tga"></Mapping>
-		<Mapping ArtAssetID="opponent_vitals_sons_of_elrond_basic"						FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\opponent_vitals_sons_of_elrond_basic.tga"></Mapping>
-		<Mapping ArtAssetID="opponent_vitals_sons_of_elrond_best"						FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\opponent_vitals_sons_of_elrond_best.tga"></Mapping>
-		<Mapping ArtAssetID="opponent_vitals_sons_of_elrond_better"						FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\opponent_vitals_sons_of_elrond_better.tga"></Mapping>
-		<Mapping ArtAssetID="opponent_vitals_three_peaks"								FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\opponent_vitals_three_peaks.tga"></Mapping>
-		<Mapping ArtAssetID="opponent_vitals_wedding_festival"							FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\opponent_vitals_wedding_festival.tga"></Mapping>
+		<Mapping ArtAssetID="opponenet_vitals_legendary_isengard"						FileName="..\..\SHADOWCORE\vitals\opponenet_vitals_legendary_isengard.tga"></Mapping>
+		<Mapping ArtAssetID="opponent_vitals_backdrop_13_years"							FileName="..\..\SHADOWCORE\vitals\opponent_vitals_backdrop_13_years.tga"></Mapping>
+		<Mapping ArtAssetID="opponent_vitals_backdrop_14_years"							FileName="..\..\SHADOWCORE\vitals\opponent_vitals_backdrop_14_years.tga"></Mapping>
+		<Mapping ArtAssetID="opponent_vitals_backdrop_15_years"							FileName="..\..\SHADOWCORE\vitals\opponent_vitals_backdrop_15_years.tga"></Mapping>
+		<Mapping ArtAssetID="opponent_vitals_backdrop_15_years_mp"						FileName="..\..\SHADOWCORE\vitals\opponent_vitals_backdrop_15_years_mp.tga"></Mapping>
+		<Mapping ArtAssetID="opponent_vitals_backdrop_azanulbizar"						FileName="..\..\SHADOWCORE\vitals\opponent_vitals_backdrop_azanulbizar.tga"></Mapping>
+		<Mapping ArtAssetID="opponent_vitals_backdrop_dagorlad_flora"					FileName="..\..\SHADOWCORE\vitals\opponent_vitals_backdrop_dagorlad_flora.tga"></Mapping>
+		<Mapping ArtAssetID="opponent_vitals_backdrop_KharumUbnar"						FileName="..\..\SHADOWCORE\vitals\opponent_vitals_backdrop_KharumUbnar.tga"></Mapping>
+		<Mapping ArtAssetID="opponent_vitals_backdrop_legendary_rohan"					FileName="..\..\SHADOWCORE\vitals\opponent_vitals_backdrop_legendary_rohan.tga"></Mapping>
+		<Mapping ArtAssetID="opponent_vitals_backdrop_minas_morgul"						FileName="..\..\SHADOWCORE\vitals\opponent_vitals_backdrop_minas_morgul.tga"></Mapping>
+		<Mapping ArtAssetID="opponent_vitals_backdrop_northithilien_flora"				FileName="..\..\SHADOWCORE\vitals\opponent_vitals_backdrop_northithilien_flora.tga"></Mapping>
+		<Mapping ArtAssetID="opponent_vitals_backdrop_raid_khazad_dum"					FileName="..\..\SHADOWCORE\vitals\opponent_vitals_backdrop_raid_khazad_dum.tga"></Mapping>
+		<Mapping ArtAssetID="opponent_vitals_gundabad_geode"							FileName="..\..\SHADOWCORE\vitals\opponent_vitals_gundabad_geode.tga"></Mapping>
+		<Mapping ArtAssetID="opponent_vitals_gundabad_gloomingtarn"						FileName="..\..\SHADOWCORE\vitals\opponent_vitals_gundabad_gloomingtarn.tga"></Mapping>
+		<Mapping ArtAssetID="opponent_vitals_gundabad_steepset"							FileName="..\..\SHADOWCORE\vitals\opponent_vitals_gundabad_steepset.tga"></Mapping>
+		<Mapping ArtAssetID="opponent_vitals_legendary_gondor"							FileName="..\..\SHADOWCORE\vitals\opponent_vitals_legendary_gondor.tga"></Mapping>
+		<Mapping ArtAssetID="opponent_vitals_legendary_greymountains"					FileName="..\..\SHADOWCORE\vitals\opponent_vitals_legendary_greymountains.tga"></Mapping>
+		<Mapping ArtAssetID="opponent_vitals_legendary_helms_deep"						FileName="..\..\SHADOWCORE\vitals\opponent_vitals_legendary_helms_deep.tga"></Mapping>
+		<Mapping ArtAssetID="opponent_vitals_legendary_minasmorgul"						FileName="..\..\SHADOWCORE\vitals\opponent_vitals_legendary_minasmorgul.tga"></Mapping>
+		<Mapping ArtAssetID="opponent_vitals_legendary_mordor"							FileName="..\..\SHADOWCORE\vitals\opponent_vitals_legendary_mordor.tga"></Mapping>
+		<Mapping ArtAssetID="opponent_vitals_legendary_wastes"							FileName="..\..\SHADOWCORE\vitals\opponent_vitals_legendary_wastes.tga"></Mapping>
+		<Mapping ArtAssetID="opponent_vitals_post_raid_U32"								FileName="..\..\SHADOWCORE\vitals\opponent_vitals_post_raid_U32.tga"></Mapping>
+		<Mapping ArtAssetID="opponent_vitals_sons_of_elrond_basic"						FileName="..\..\SHADOWCORE\vitals\opponent_vitals_sons_of_elrond_basic.tga"></Mapping>
+		<Mapping ArtAssetID="opponent_vitals_sons_of_elrond_best"						FileName="..\..\SHADOWCORE\vitals\opponent_vitals_sons_of_elrond_best.tga"></Mapping>
+		<Mapping ArtAssetID="opponent_vitals_sons_of_elrond_better"						FileName="..\..\SHADOWCORE\vitals\opponent_vitals_sons_of_elrond_better.tga"></Mapping>
+		<Mapping ArtAssetID="opponent_vitals_three_peaks"								FileName="..\..\SHADOWCORE\vitals\opponent_vitals_three_peaks.tga"></Mapping>
+		<Mapping ArtAssetID="opponent_vitals_wedding_festival"							FileName="..\..\SHADOWCORE\vitals\opponent_vitals_wedding_festival.tga"></Mapping>
 
 
-		<Mapping ArtAssetID="player_vitals_backdrop_13_years"							FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\player_vitals_backdrop_13_years.tga"></Mapping>
-		<Mapping ArtAssetID="player_vitals_backdrop_14_years"							FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\player_vitals_backdrop_14_years.tga"></Mapping>
-		<Mapping ArtAssetID="player_vitals_backdrop_15_years"							FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\player_vitals_backdrop_15_years.tga"></Mapping>
-		<Mapping ArtAssetID="player_vitals_backdrop_15_years_mp"						FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\player_vitals_backdrop_15_years_mp.tga"></Mapping>
-		<Mapping ArtAssetID="player_vitals_backdrop_azanulbizar"						FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\player_vitals_backdrop_azanulbizar.tga"></Mapping>
-		<Mapping ArtAssetID="player_vitals_backdrop_dagorlad_flora"						FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\player_vitals_backdrop_dagorlad_flora.tga"></Mapping>
-		<Mapping ArtAssetID="player_vitals_backdrop_KharumUbnar"						FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\player_vitals_backdrop_KharumUbnar.tga"></Mapping>
-		<Mapping ArtAssetID="player_vitals_backdrop_legendary_rohan"					FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\player_vitals_backdrop_legendary_rohan.tga"></Mapping>
-		<Mapping ArtAssetID="player_vitals_backdrop_minas_morgul"						FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\player_vitals_backdrop_minas_morgul.tga"></Mapping>
+		<Mapping ArtAssetID="player_vitals_backdrop_13_years"							FileName="..\..\SHADOWCORE\vitals\player_vitals_backdrop_13_years.tga"></Mapping>
+		<Mapping ArtAssetID="player_vitals_backdrop_14_years"							FileName="..\..\SHADOWCORE\vitals\player_vitals_backdrop_14_years.tga"></Mapping>
+		<Mapping ArtAssetID="player_vitals_backdrop_15_years"							FileName="..\..\SHADOWCORE\vitals\player_vitals_backdrop_15_years.tga"></Mapping>
+		<Mapping ArtAssetID="player_vitals_backdrop_15_years_mp"						FileName="..\..\SHADOWCORE\vitals\player_vitals_backdrop_15_years_mp.tga"></Mapping>
+		<Mapping ArtAssetID="player_vitals_backdrop_azanulbizar"						FileName="..\..\SHADOWCORE\vitals\player_vitals_backdrop_azanulbizar.tga"></Mapping>
+		<Mapping ArtAssetID="player_vitals_backdrop_dagorlad_flora"						FileName="..\..\SHADOWCORE\vitals\player_vitals_backdrop_dagorlad_flora.tga"></Mapping>
+		<Mapping ArtAssetID="player_vitals_backdrop_KharumUbnar"						FileName="..\..\SHADOWCORE\vitals\player_vitals_backdrop_KharumUbnar.tga"></Mapping>
+		<Mapping ArtAssetID="player_vitals_backdrop_legendary_rohan"					FileName="..\..\SHADOWCORE\vitals\player_vitals_backdrop_legendary_rohan.tga"></Mapping>
+		<Mapping ArtAssetID="player_vitals_backdrop_minas_morgul"						FileName="..\..\SHADOWCORE\vitals\player_vitals_backdrop_minas_morgul.tga"></Mapping>
 
-		<Mapping ArtAssetID="player_vitals_backdrop_mini_15_years"						FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\party_member.tga"></Mapping>
-		<Mapping ArtAssetID="player_vitals_backdrop_mini_15_years_mp"					FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\party_member.tga"></Mapping>
-		<Mapping ArtAssetID="player_vitals_backdrop_mini_anazulbizar"					FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\party_member.tga"></Mapping>
-		<Mapping ArtAssetID="player_vitals_backdrop_mini_gundabad_geode"				FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\party_member.tga"></Mapping>
-		<Mapping ArtAssetID="player_vitals_backdrop_mini_gundabad_gloomingtarn"			FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\party_member.tga"></Mapping>
-		<Mapping ArtAssetID="player_vitals_backdrop_mini_gundabad_steepset"				FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\party_member.tga"></Mapping>
-		<Mapping ArtAssetID="player_vitals_backdrop_mini_legendary_server_isengard"		FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\party_member.tga"></Mapping>
-		<Mapping ArtAssetID="player_vitals_backdrop_mini_legendary_server_rohan"		FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\party_member.tga"></Mapping>
-		<Mapping ArtAssetID="player_vitals_backdrop_mini_minus_morgul"					FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\party_member.tga"></Mapping>
+		<Mapping ArtAssetID="player_vitals_backdrop_mini_15_years"						FileName="..\..\SHADOWCORE\vitals\party_member.tga"></Mapping>
+		<Mapping ArtAssetID="player_vitals_backdrop_mini_15_years_mp"					FileName="..\..\SHADOWCORE\vitals\party_member.tga"></Mapping>
+		<Mapping ArtAssetID="player_vitals_backdrop_mini_anazulbizar"					FileName="..\..\SHADOWCORE\vitals\party_member.tga"></Mapping>
+		<Mapping ArtAssetID="player_vitals_backdrop_mini_gundabad_geode"				FileName="..\..\SHADOWCORE\vitals\party_member.tga"></Mapping>
+		<Mapping ArtAssetID="player_vitals_backdrop_mini_gundabad_gloomingtarn"			FileName="..\..\SHADOWCORE\vitals\party_member.tga"></Mapping>
+		<Mapping ArtAssetID="player_vitals_backdrop_mini_gundabad_steepset"				FileName="..\..\SHADOWCORE\vitals\party_member.tga"></Mapping>
+		<Mapping ArtAssetID="player_vitals_backdrop_mini_legendary_server_isengard"		FileName="..\..\SHADOWCORE\vitals\party_member.tga"></Mapping>
+		<Mapping ArtAssetID="player_vitals_backdrop_mini_legendary_server_rohan"		FileName="..\..\SHADOWCORE\vitals\party_member.tga"></Mapping>
+		<Mapping ArtAssetID="player_vitals_backdrop_mini_minus_morgul"					FileName="..\..\SHADOWCORE\vitals\party_member.tga"></Mapping>
 		
-		<Mapping ArtAssetID="player_vitals_backdrop_northithilien_flora"				FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\player_vitals_backdrop_northithilien_flora.tga"></Mapping>
-		<Mapping ArtAssetID="player_vitals_backdrop_raid_khazad_dum"					FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\player_vitals_backdrop_raid_khazad_dum.tga"></Mapping>
-		<Mapping ArtAssetID="player_vitals_gundabad_geode"								FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\player_vitals_gundabad_geode.tga"></Mapping>
-		<Mapping ArtAssetID="player_vitals_gundabad_gloomingtarn"						FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\player_vitals_gundabad_gloomingtarn.tga"></Mapping>
-		<Mapping ArtAssetID="player_vitals_gundabad_steepset"							FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\player_vitals_gundabad_steepset.tga"></Mapping>
-		<Mapping ArtAssetID="player_vitals_legendary_gondor"							FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\player_vitals_legendary_gondor.tga"></Mapping>
-		<Mapping ArtAssetID="player_vitals_legendary_greymountains"						FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\player_vitals_legendary_greymountains.tga"></Mapping>
-		<Mapping ArtAssetID="player_vitals_legendary_helms_deep"						FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\player_vitals_legendary_helms_deep.tga"></Mapping>
-		<Mapping ArtAssetID="player_vitals_legendary_isengard"							FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\player_vitals_legendary_isengard.tga"></Mapping>
-		<Mapping ArtAssetID="player_vitals_legendary_minasmorgul"						FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\player_vitals_legendary_minasmorgul.tga"></Mapping>
-		<Mapping ArtAssetID="player_vitals_legendary_mordor"							FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\player_vitals_legendary_mordor.tga"></Mapping>
-		<Mapping ArtAssetID="player_vitals_legendary_wastes"							FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\player_vitals_legendary_wastes.tga"></Mapping>
+		<Mapping ArtAssetID="player_vitals_backdrop_northithilien_flora"				FileName="..\..\SHADOWCORE\vitals\player_vitals_backdrop_northithilien_flora.tga"></Mapping>
+		<Mapping ArtAssetID="player_vitals_backdrop_raid_khazad_dum"					FileName="..\..\SHADOWCORE\vitals\player_vitals_backdrop_raid_khazad_dum.tga"></Mapping>
+		<Mapping ArtAssetID="player_vitals_gundabad_geode"								FileName="..\..\SHADOWCORE\vitals\player_vitals_gundabad_geode.tga"></Mapping>
+		<Mapping ArtAssetID="player_vitals_gundabad_gloomingtarn"						FileName="..\..\SHADOWCORE\vitals\player_vitals_gundabad_gloomingtarn.tga"></Mapping>
+		<Mapping ArtAssetID="player_vitals_gundabad_steepset"							FileName="..\..\SHADOWCORE\vitals\player_vitals_gundabad_steepset.tga"></Mapping>
+		<Mapping ArtAssetID="player_vitals_legendary_gondor"							FileName="..\..\SHADOWCORE\vitals\player_vitals_legendary_gondor.tga"></Mapping>
+		<Mapping ArtAssetID="player_vitals_legendary_greymountains"						FileName="..\..\SHADOWCORE\vitals\player_vitals_legendary_greymountains.tga"></Mapping>
+		<Mapping ArtAssetID="player_vitals_legendary_helms_deep"						FileName="..\..\SHADOWCORE\vitals\player_vitals_legendary_helms_deep.tga"></Mapping>
+		<Mapping ArtAssetID="player_vitals_legendary_isengard"							FileName="..\..\SHADOWCORE\vitals\player_vitals_legendary_isengard.tga"></Mapping>
+		<Mapping ArtAssetID="player_vitals_legendary_minasmorgul"						FileName="..\..\SHADOWCORE\vitals\player_vitals_legendary_minasmorgul.tga"></Mapping>
+		<Mapping ArtAssetID="player_vitals_legendary_mordor"							FileName="..\..\SHADOWCORE\vitals\player_vitals_legendary_mordor.tga"></Mapping>
+		<Mapping ArtAssetID="player_vitals_legendary_wastes"							FileName="..\..\SHADOWCORE\vitals\player_vitals_legendary_wastes.tga"></Mapping>
 
-		<Mapping ArtAssetID="player_vitals_mini_KharumUbnar"							FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\party_member.tga"></Mapping>
-		<Mapping ArtAssetID="player_vitals_mini_legendary_gondor"						FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\party_member.tga"></Mapping>
-		<Mapping ArtAssetID="player_vitals_mini_legendary_greymountains"				FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\party_member.tga"></Mapping>
-		<Mapping ArtAssetID="player_vitals_mini_legendary_helms_deep"					FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\party_member.tga"></Mapping>
-		<Mapping ArtAssetID="player_vitals_mini_legendary_minasmorgul"					FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\party_member.tga"></Mapping>
-		<Mapping ArtAssetID="player_vitals_mini_legendary_mordor"						FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\party_member.tga"></Mapping>
-		<Mapping ArtAssetID="player_vitals_mini_legendary_wastes"						FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\party_member.tga"></Mapping>
-		<Mapping ArtAssetID="player_vitals_mini_post_raid_U32"							FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\party_member.tga"></Mapping>
-		<Mapping ArtAssetID="player_vitals_mini_raid_khazad_dum"						FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\party_member.tga"></Mapping>
-		<Mapping ArtAssetID="player_vitals_mini_sons_of_elrond_basic"					FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\party_member.tga"></Mapping>
-		<Mapping ArtAssetID="player_vitals_mini_sons_of_elrond_best"					FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\party_member.tga"></Mapping>
-		<Mapping ArtAssetID="player_vitals_mini_sons_of_elrond_better"					FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\party_member.tga"></Mapping>
-		<Mapping ArtAssetID="player_vitals_mini_three_peaks"							FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\party_member.tga"></Mapping>
-		<Mapping ArtAssetID="player_vitals_mini_wedding_festival"						FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\party_member.tga"></Mapping>
+		<Mapping ArtAssetID="player_vitals_mini_KharumUbnar"							FileName="..\..\SHADOWCORE\vitals\party_member.tga"></Mapping>
+		<Mapping ArtAssetID="player_vitals_mini_legendary_gondor"						FileName="..\..\SHADOWCORE\vitals\party_member.tga"></Mapping>
+		<Mapping ArtAssetID="player_vitals_mini_legendary_greymountains"				FileName="..\..\SHADOWCORE\vitals\party_member.tga"></Mapping>
+		<Mapping ArtAssetID="player_vitals_mini_legendary_helms_deep"					FileName="..\..\SHADOWCORE\vitals\party_member.tga"></Mapping>
+		<Mapping ArtAssetID="player_vitals_mini_legendary_minasmorgul"					FileName="..\..\SHADOWCORE\vitals\party_member.tga"></Mapping>
+		<Mapping ArtAssetID="player_vitals_mini_legendary_mordor"						FileName="..\..\SHADOWCORE\vitals\party_member.tga"></Mapping>
+		<Mapping ArtAssetID="player_vitals_mini_legendary_wastes"						FileName="..\..\SHADOWCORE\vitals\party_member.tga"></Mapping>
+		<Mapping ArtAssetID="player_vitals_mini_post_raid_U32"							FileName="..\..\SHADOWCORE\vitals\party_member.tga"></Mapping>
+		<Mapping ArtAssetID="player_vitals_mini_raid_khazad_dum"						FileName="..\..\SHADOWCORE\vitals\party_member.tga"></Mapping>
+		<Mapping ArtAssetID="player_vitals_mini_sons_of_elrond_basic"					FileName="..\..\SHADOWCORE\vitals\party_member.tga"></Mapping>
+		<Mapping ArtAssetID="player_vitals_mini_sons_of_elrond_best"					FileName="..\..\SHADOWCORE\vitals\party_member.tga"></Mapping>
+		<Mapping ArtAssetID="player_vitals_mini_sons_of_elrond_better"					FileName="..\..\SHADOWCORE\vitals\party_member.tga"></Mapping>
+		<Mapping ArtAssetID="player_vitals_mini_three_peaks"							FileName="..\..\SHADOWCORE\vitals\party_member.tga"></Mapping>
+		<Mapping ArtAssetID="player_vitals_mini_wedding_festival"						FileName="..\..\SHADOWCORE\vitals\party_member.tga"></Mapping>
 		
-		<Mapping ArtAssetID="player_vitals_post_raid_U32"								FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\player_vitals_post_raid_U32.tga"></Mapping>
-		<Mapping ArtAssetID="player_vitals_sons_of_elrond_basic"						FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\player_vitals_sons_of_elrond_basic.tga"></Mapping>
-		<Mapping ArtAssetID="player_vitals_sons_of_elrond_best"							FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\player_vitals_sons_of_elrond_best.tga"></Mapping>
-		<Mapping ArtAssetID="player_vitals_sons_of_elrond_better"						FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\player_vitals_sons_of_elrond_better.tga"></Mapping>
-		<Mapping ArtAssetID="player_vitals_three_peaks"									FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\player_vitals_three_peaks.tga"></Mapping>
-		<Mapping ArtAssetID="player_vitals_wedding_festival"							FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\player_vitals_wedding_festival.tga"></Mapping>
+		<Mapping ArtAssetID="player_vitals_post_raid_U32"								FileName="..\..\SHADOWCORE\vitals\player_vitals_post_raid_U32.tga"></Mapping>
+		<Mapping ArtAssetID="player_vitals_sons_of_elrond_basic"						FileName="..\..\SHADOWCORE\vitals\player_vitals_sons_of_elrond_basic.tga"></Mapping>
+		<Mapping ArtAssetID="player_vitals_sons_of_elrond_best"							FileName="..\..\SHADOWCORE\vitals\player_vitals_sons_of_elrond_best.tga"></Mapping>
+		<Mapping ArtAssetID="player_vitals_sons_of_elrond_better"						FileName="..\..\SHADOWCORE\vitals\player_vitals_sons_of_elrond_better.tga"></Mapping>
+		<Mapping ArtAssetID="player_vitals_three_peaks"									FileName="..\..\SHADOWCORE\vitals\player_vitals_three_peaks.tga"></Mapping>
+		<Mapping ArtAssetID="player_vitals_wedding_festival"							FileName="..\..\SHADOWCORE\vitals\player_vitals_wedding_festival.tga"></Mapping>
 
-		<Mapping ArtAssetID="playerportrait_mask_linemeup"								FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\playerportrait_mask_linemeup.tga"></Mapping>
+		<Mapping ArtAssetID="playerportrait_mask_linemeup"								FileName="..\..\SHADOWCORE\vitals\playerportrait_mask_linemeup.tga"></Mapping>
 		<!-- End of additions in JRR v.33 -->
 
 		<Mapping ArtAssetID="promotion_points_preview"									FileName="..\..\..\JRR Skins Collection\JRR CORE\big_battles\promotion_points_preview.tga"></Mapping>
@@ -525,31 +525,31 @@
 
 		<Mapping ArtAssetID="inv_slot_essence"											FileName="..\..\..\JRR Skins Collection\JRR CORE\character\inv\inv_slot_essence.tga"></Mapping>
 		
-		<Mapping ArtAssetID="level_background_scion"									FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\level_background_scion.tga"></Mapping>
-		<Mapping ArtAssetID="swarm_vitals_scion"										FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\swarm_vitals_scion.tga"></Mapping>
+		<Mapping ArtAssetID="level_background_scion"									FileName="..\..\SHADOWCORE\vitals\level_background_scion.tga"></Mapping>
+		<Mapping ArtAssetID="swarm_vitals_scion"										FileName="..\..\SHADOWCORE\vitals\swarm_vitals_scion.tga"></Mapping>
 
-		<Mapping ArtAssetID="opponent_vitals_backdrop_legendary_moria_dwarf"			FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\opponent_vitals_backdrop_legendary_moria_dwarf.tga"></Mapping>
-		<Mapping ArtAssetID="opponent_vitals_backdrop_legendary_moria_elf"				FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\opponent_vitals_backdrop_legendary_moria_elf.tga"></Mapping>
-		<Mapping ArtAssetID="opponent_vitals_backdrop_legendary_server_account"			FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\opponent_vitals_backdrop_legendary_server_account.tga"></Mapping>
-		<Mapping ArtAssetID="opponent_vitals_backdrop_legendary_server_endgame"			FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\opponent_vitals_backdrop_legendary_server_endgame.tga"></Mapping>
-		<Mapping ArtAssetID="opponent_vitals_backdrop_legendary_server_instance"		FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\opponent_vitals_backdrop_legendary_server_instance.tga"></Mapping>
-		<Mapping ArtAssetID="opponent_vitals_backdrop_rhosgobel_animal"					FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\opponent_vitals_backdrop_rhosgobel_animal.tga"></Mapping>
-		<Mapping ArtAssetID="opponent_vitals_backdrop_scion"							FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\opponent_vitals_backdrop_scion.tga"></Mapping>
-		<Mapping ArtAssetID="opponent_vitals_backdrop_sigplus_scion"					FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\opponent_vitals_backdrop_sigplus_scion.tga"></Mapping>
+		<Mapping ArtAssetID="opponent_vitals_backdrop_legendary_moria_dwarf"			FileName="..\..\SHADOWCORE\vitals\opponent_vitals_backdrop_legendary_moria_dwarf.tga"></Mapping>
+		<Mapping ArtAssetID="opponent_vitals_backdrop_legendary_moria_elf"				FileName="..\..\SHADOWCORE\vitals\opponent_vitals_backdrop_legendary_moria_elf.tga"></Mapping>
+		<Mapping ArtAssetID="opponent_vitals_backdrop_legendary_server_account"			FileName="..\..\SHADOWCORE\vitals\opponent_vitals_backdrop_legendary_server_account.tga"></Mapping>
+		<Mapping ArtAssetID="opponent_vitals_backdrop_legendary_server_endgame"			FileName="..\..\SHADOWCORE\vitals\opponent_vitals_backdrop_legendary_server_endgame.tga"></Mapping>
+		<Mapping ArtAssetID="opponent_vitals_backdrop_legendary_server_instance"		FileName="..\..\SHADOWCORE\vitals\opponent_vitals_backdrop_legendary_server_instance.tga"></Mapping>
+		<Mapping ArtAssetID="opponent_vitals_backdrop_rhosgobel_animal"					FileName="..\..\SHADOWCORE\vitals\opponent_vitals_backdrop_rhosgobel_animal.tga"></Mapping>
+		<Mapping ArtAssetID="opponent_vitals_backdrop_scion"							FileName="..\..\SHADOWCORE\vitals\opponent_vitals_backdrop_scion.tga"></Mapping>
+		<Mapping ArtAssetID="opponent_vitals_backdrop_sigplus_scion"					FileName="..\..\SHADOWCORE\vitals\opponent_vitals_backdrop_sigplus_scion.tga"></Mapping>
 
-		<Mapping ArtAssetID="player_vitals_backdrop_legendary_moria_dwarf"				FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\player_vitals_backdrop_legendary_moria_dwarf.tga"></Mapping>
-		<Mapping ArtAssetID="player_vitals_backdrop_legendary_moria_elf"				FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\player_vitals_backdrop_legendary_moria_elf.tga"></Mapping>
-		<Mapping ArtAssetID="player_vitals_backdrop_legendary_server_account"			FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\player_vitals_backdrop_legendary_server_account.tga"></Mapping>
-		<Mapping ArtAssetID="player_vitals_backdrop_legendary_server_endgame"			FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\player_vitals_backdrop_legendary_server_endgame.tga"></Mapping>
-		<Mapping ArtAssetID="player_vitals_backdrop_legendary_server_instance"			FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\player_vitals_backdrop_legendary_server_instance.tga"></Mapping>
-		<Mapping ArtAssetID="player_vitals_backdrop_rhosgobel_animal"					FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\player_vitals_backdrop_rhosgobel_animal.tga"></Mapping>
+		<Mapping ArtAssetID="player_vitals_backdrop_legendary_moria_dwarf"				FileName="..\..\SHADOWCORE\vitals\player_vitals_backdrop_legendary_moria_dwarf.tga"></Mapping>
+		<Mapping ArtAssetID="player_vitals_backdrop_legendary_moria_elf"				FileName="..\..\SHADOWCORE\vitals\player_vitals_backdrop_legendary_moria_elf.tga"></Mapping>
+		<Mapping ArtAssetID="player_vitals_backdrop_legendary_server_account"			FileName="..\..\SHADOWCORE\vitals\player_vitals_backdrop_legendary_server_account.tga"></Mapping>
+		<Mapping ArtAssetID="player_vitals_backdrop_legendary_server_endgame"			FileName="..\..\SHADOWCORE\vitals\player_vitals_backdrop_legendary_server_endgame.tga"></Mapping>
+		<Mapping ArtAssetID="player_vitals_backdrop_legendary_server_instance"			FileName="..\..\SHADOWCORE\vitals\player_vitals_backdrop_legendary_server_instance.tga"></Mapping>
+		<Mapping ArtAssetID="player_vitals_backdrop_rhosgobel_animal"					FileName="..\..\SHADOWCORE\vitals\player_vitals_backdrop_rhosgobel_animal.tga"></Mapping>
 
-		<Mapping ArtAssetID="player_vitals_backdrop_mini_legendary_dwarf"				FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\party_member.tga"></Mapping>
-		<Mapping ArtAssetID="player_vitals_backdrop_mini_legendary_elf"					FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\party_member.tga"></Mapping>
-		<Mapping ArtAssetID="player_vitals_backdrop_mini_legendary_server_account"		FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\party_member.tga"></Mapping>
-		<Mapping ArtAssetID="player_vitals_backdrop_mini_legendary_server_endgame"		FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\party_member.tga"></Mapping>
-		<Mapping ArtAssetID="player_vitals_backdrop_mini_legendary_server_instance"		FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\party_member.tga"></Mapping>
-		<Mapping ArtAssetID="player_vitals_backdrop_mini_rhogobel_animal"				FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\party_member.tga"></Mapping>
+		<Mapping ArtAssetID="player_vitals_backdrop_mini_legendary_dwarf"				FileName="..\..\SHADOWCORE\vitals\party_member.tga"></Mapping>
+		<Mapping ArtAssetID="player_vitals_backdrop_mini_legendary_elf"					FileName="..\..\SHADOWCORE\vitals\party_member.tga"></Mapping>
+		<Mapping ArtAssetID="player_vitals_backdrop_mini_legendary_server_account"		FileName="..\..\SHADOWCORE\vitals\party_member.tga"></Mapping>
+		<Mapping ArtAssetID="player_vitals_backdrop_mini_legendary_server_endgame"		FileName="..\..\SHADOWCORE\vitals\party_member.tga"></Mapping>
+		<Mapping ArtAssetID="player_vitals_backdrop_mini_legendary_server_instance"		FileName="..\..\SHADOWCORE\vitals\party_member.tga"></Mapping>
+		<Mapping ArtAssetID="player_vitals_backdrop_mini_rhogobel_animal"				FileName="..\..\SHADOWCORE\vitals\party_member.tga"></Mapping>
 
 
 
@@ -643,9 +643,9 @@
 		<Mapping ArtAssetID="Tab_Reputation_Normal"										FileName="..\..\..\JRR Skins Collection\JRR CORE\tabs\Tab_Reputation_Normal.tga"></Mapping>
 		<Mapping ArtAssetID="Tab_Reputation_Normal_Mouseover"							FileName="..\..\..\JRR Skins Collection\JRR CORE\tabs\Tab_Reputation_Normal_Mouseover.tga"></Mapping>
   
-		<Mapping ArtAssetID="opponent_vitals_backdrop_mordor_10_years"					FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\opponent_vitals_backdrop_mordor_10_years.tga"></Mapping>
-		<Mapping ArtAssetID="player_vitals_backdrop_mordor_10_years"					FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\player_vitals_backdrop_mordor_10_years.tga"></Mapping>
-		<Mapping ArtAssetID="player_vitals_backdrop_mini_10_years_mordor"				FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\party_member.tga"></Mapping>
+		<Mapping ArtAssetID="opponent_vitals_backdrop_mordor_10_years"					FileName="..\..\SHADOWCORE\vitals\opponent_vitals_backdrop_mordor_10_years.tga"></Mapping>
+		<Mapping ArtAssetID="player_vitals_backdrop_mordor_10_years"					FileName="..\..\SHADOWCORE\vitals\player_vitals_backdrop_mordor_10_years.tga"></Mapping>
+		<Mapping ArtAssetID="player_vitals_backdrop_mini_10_years_mordor"				FileName="..\..\SHADOWCORE\vitals\party_member.tga"></Mapping>
  
 		<Mapping ArtAssetID="dataid_field_greyed_out_normal_center"						FileName="..\..\..\JRR Skins Collection\JRR CORE\misc\dataid_field_greyed_out_normal_center.tga"></Mapping>
 		<Mapping ArtAssetID="dataid_field_greyed_out_normal_left"						FileName="..\..\..\JRR Skins Collection\JRR CORE\misc\dataid_field_greyed_out_normal_left.tga"></Mapping>
@@ -1064,12 +1064,12 @@
 		<Mapping ArtAssetID="balance_box_c"												FileName="..\..\SHADOWCORE\basebox\balance_box_c.tga"></Mapping>
 		<Mapping ArtAssetID="balance_box_l"												FileName="..\..\SHADOWCORE\basebox\balance_box_l.tga"></Mapping>
 		<Mapping ArtAssetID="balance_box_r"												FileName="..\..\SHADOWCORE\basebox\balance_box_r.tga"></Mapping>
-		<Mapping ArtAssetID="player_vitals_backdrop_VIP_mp"								FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\player_vitals_backdrop_VIP_mp.tga"></Mapping>
-		<Mapping ArtAssetID="opponent_vitals_backdrop_VIP_mp"							FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\opponent_vitals_backdrop_VIP_mp.tga"></Mapping>
-		<Mapping ArtAssetID="player_vitals_backdrop_mini_VIP_mp"						FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\party_member.tga"></Mapping>
-		<Mapping ArtAssetID="player_vitals_backdrop_VIP"								FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\player_vitals_backdrop_VIP.tga"></Mapping>
-		<Mapping ArtAssetID="player_vitals_backdrop_mini_VIP"							FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\party_member.tga"></Mapping>
-		<Mapping ArtAssetID="opponent_vitals_backdrop_VIP"								FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\opponent_vitals_backdrop.tga"></Mapping>
+		<Mapping ArtAssetID="player_vitals_backdrop_VIP_mp"								FileName="..\..\SHADOWCORE\vitals\player_vitals_backdrop_VIP_mp.tga"></Mapping>
+		<Mapping ArtAssetID="opponent_vitals_backdrop_VIP_mp"							FileName="..\..\SHADOWCORE\vitals\opponent_vitals_backdrop_VIP_mp.tga"></Mapping>
+		<Mapping ArtAssetID="player_vitals_backdrop_mini_VIP_mp"						FileName="..\..\SHADOWCORE\vitals\party_member.tga"></Mapping>
+		<Mapping ArtAssetID="player_vitals_backdrop_VIP"								FileName="..\..\SHADOWCORE\vitals\player_vitals_backdrop_VIP.tga"></Mapping>
+		<Mapping ArtAssetID="player_vitals_backdrop_mini_VIP"							FileName="..\..\SHADOWCORE\vitals\party_member.tga"></Mapping>
+		<Mapping ArtAssetID="opponent_vitals_backdrop_VIP"								FileName="..\..\SHADOWCORE\vitals\opponent_vitals_backdrop.tga"></Mapping>
 		<Mapping ArtAssetID="quest_cooldown_reset_bg"									FileName="..\..\..\JRR Skins Collection\JRR CORE\quest\quest_cooldown_reset_bg.tga"></Mapping>
 		<Mapping ArtAssetID="quest_cooldown_reset_bg_rollover"							FileName="..\..\..\JRR Skins Collection\JRR CORE\quest\quest_cooldown_reset_bg_rollover.tga"></Mapping>
 
@@ -1194,8 +1194,8 @@
 		<Mapping ArtAssetID="role_button_pressed_r"										FileName="..\..\..\JRR Skins Collection\JRR CORE\textbutton\role_button_pressed_r.tga"></Mapping>
 		<Mapping ArtAssetID="role_button_pressed_r_medium"								FileName="..\..\..\JRR Skins Collection\JRR CORE\textbutton\role_button_pressed_r_medium.tga"></Mapping>
 
-		<Mapping ArtAssetID="player_vitals_winter_festival"								FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\player_vitals_winter_festival.tga"></Mapping>
-		<Mapping ArtAssetID="opponent_vitals_winter_festival"							FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\opponent_vitals_backdrop.tga"></Mapping>
+		<Mapping ArtAssetID="player_vitals_winter_festival"								FileName="..\..\SHADOWCORE\vitals\player_vitals_winter_festival.tga"></Mapping>
+		<Mapping ArtAssetID="opponent_vitals_winter_festival"							FileName="..\..\SHADOWCORE\vitals\opponent_vitals_backdrop.tga"></Mapping>
 
 
 		<Mapping ArtAssetID="buttonMount_slot1"											FileName="..\..\..\JRR Skins Collection\JRR CORE\War_steed\buttonMount_slot.tga"></Mapping>
@@ -1283,9 +1283,9 @@
 		<Mapping ArtAssetID="VitalPortrait_Roll"										FileName="..\..\..\JRR Skins Collection\JRR CORE\War_steed\Black_vital\VitalPortrait_Roll.tga"></Mapping>
 		<Mapping ArtAssetID="momentum_empty"											FileName="..\..\..\JRR Skins Collection\JRR CORE\War_steed\Black_vital\momentum_empty.tga"></Mapping>
   
-		<Mapping ArtAssetID="opponent_vitals_open_tapped"								FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\opponent_vitals_open_tapped.tga"></Mapping>
-		<Mapping ArtAssetID="opponent_vitals_open_tapped_contributing"					FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\opponent_vitals_open_tapped_contributing.tga"></Mapping>
-		<Mapping ArtAssetID="opponent_vitals_open_tapped_engaged"						FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\opponent_vitals_open_tapped_engaged.tga"></Mapping>
+		<Mapping ArtAssetID="opponent_vitals_open_tapped"								FileName="..\..\SHADOWCORE\vitals\opponent_vitals_open_tapped.tga"></Mapping>
+		<Mapping ArtAssetID="opponent_vitals_open_tapped_contributing"					FileName="..\..\SHADOWCORE\vitals\opponent_vitals_open_tapped_contributing.tga"></Mapping>
+		<Mapping ArtAssetID="opponent_vitals_open_tapped_engaged"						FileName="..\..\SHADOWCORE\vitals\opponent_vitals_open_tapped_engaged.tga"></Mapping>
 
 		<Mapping ArtAssetID="questactionbutton_BG"										FileName="..\..\..\JRR Skins Collection\JRR CORE\misc\questactionbutton_BG.tga"></Mapping>
 		<Mapping ArtAssetID="questactionbutton_BG_pressed"								FileName="..\..\..\JRR Skins Collection\JRR CORE\misc\questactionbutton_BG_pressed.tga"></Mapping>
@@ -1561,103 +1561,103 @@
 
 		
 		<!-- Player anniversary vital -->		
-		<Mapping ArtAssetID="player_vitals_backdrop_1_year"								FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\player_vitals_backdrop_1_year.tga"></Mapping>
-		<Mapping ArtAssetID="player_vitals_backdrop_2_years"							FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\player_vitals_backdrop_2_years.tga"></Mapping>
-		<Mapping ArtAssetID="player_vitals_backdrop_3_years"							FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\player_vitals_backdrop_3_years.tga"></Mapping>
-		<Mapping ArtAssetID="player_vitals_backdrop_4_years"							FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\player_vitals_backdrop_4_years.tga"></Mapping>
-		<Mapping ArtAssetID="player_vitals_backdrop_5_years"							FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\player_vitals_backdrop_5_years.tga"></Mapping>
-		<Mapping ArtAssetID="player_vitals_backdrop_6_years"							FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\player_vitals_backdrop_6_years.tga"></Mapping>
-		<Mapping ArtAssetID="player_vitals_backdrop_7_years"							FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\player_vitals_backdrop_7_years.tga"></Mapping>
-		<Mapping ArtAssetID="player_vitals_backdrop_8_years"							FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\player_vitals_backdrop_8_years.tga"></Mapping>
-		<Mapping ArtAssetID="player_vitals_backdrop_9_years"							FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\player_vitals_backdrop_9_years.tga"></Mapping>
-		<Mapping ArtAssetID="player_vitals_backdrop_10_years"							FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\player_vitals_backdrop_10_years.tga"></Mapping>
-		<Mapping ArtAssetID="player_vitals_backdrop_11_years"							FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\player_vitals_backdrop_11_years.tga"></Mapping>
-		<Mapping ArtAssetID="player_vitals_backdrop_12_years"							FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\player_vitals_backdrop_12_years.tga"></Mapping>
+		<Mapping ArtAssetID="player_vitals_backdrop_1_year"								FileName="..\..\SHADOWCORE\vitals\player_vitals_backdrop_1_year.tga"></Mapping>
+		<Mapping ArtAssetID="player_vitals_backdrop_2_years"							FileName="..\..\SHADOWCORE\vitals\player_vitals_backdrop_2_years.tga"></Mapping>
+		<Mapping ArtAssetID="player_vitals_backdrop_3_years"							FileName="..\..\SHADOWCORE\vitals\player_vitals_backdrop_3_years.tga"></Mapping>
+		<Mapping ArtAssetID="player_vitals_backdrop_4_years"							FileName="..\..\SHADOWCORE\vitals\player_vitals_backdrop_4_years.tga"></Mapping>
+		<Mapping ArtAssetID="player_vitals_backdrop_5_years"							FileName="..\..\SHADOWCORE\vitals\player_vitals_backdrop_5_years.tga"></Mapping>
+		<Mapping ArtAssetID="player_vitals_backdrop_6_years"							FileName="..\..\SHADOWCORE\vitals\player_vitals_backdrop_6_years.tga"></Mapping>
+		<Mapping ArtAssetID="player_vitals_backdrop_7_years"							FileName="..\..\SHADOWCORE\vitals\player_vitals_backdrop_7_years.tga"></Mapping>
+		<Mapping ArtAssetID="player_vitals_backdrop_8_years"							FileName="..\..\SHADOWCORE\vitals\player_vitals_backdrop_8_years.tga"></Mapping>
+		<Mapping ArtAssetID="player_vitals_backdrop_9_years"							FileName="..\..\SHADOWCORE\vitals\player_vitals_backdrop_9_years.tga"></Mapping>
+		<Mapping ArtAssetID="player_vitals_backdrop_10_years"							FileName="..\..\SHADOWCORE\vitals\player_vitals_backdrop_10_years.tga"></Mapping>
+		<Mapping ArtAssetID="player_vitals_backdrop_11_years"							FileName="..\..\SHADOWCORE\vitals\player_vitals_backdrop_11_years.tga"></Mapping>
+		<Mapping ArtAssetID="player_vitals_backdrop_12_years"							FileName="..\..\SHADOWCORE\vitals\player_vitals_backdrop_12_years.tga"></Mapping>
 		
 		<!-- Opponent anniversary vital -->		
-		<Mapping ArtAssetID="opponent_vitals_backdrop_1_year"							FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\opponent_vitals_backdrop_1_year.tga"></Mapping>
-		<Mapping ArtAssetID="opponent_vitals_backdrop_2_years"							FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\opponent_vitals_backdrop_2_years.tga"></Mapping>
-		<Mapping ArtAssetID="opponent_vitals_backdrop_3_years"							FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\opponent_vitals_backdrop_3_years.tga"></Mapping>
-		<Mapping ArtAssetID="opponent_vitals_backdrop_4_years"							FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\opponent_vitals_backdrop_4_years.tga"></Mapping>
-		<Mapping ArtAssetID="opponent_vitals_backdrop_5_years"							FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\opponent_vitals_backdrop_5_years.tga"></Mapping>
-		<Mapping ArtAssetID="opponent_vitals_backdrop_6_years"							FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\opponent_vitals_backdrop_6_years.tga"></Mapping>
-		<Mapping ArtAssetID="opponent_vitals_backdrop_7_years"							FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\opponent_vitals_backdrop_7_years.tga"></Mapping>
-		<Mapping ArtAssetID="opponent_vitals_backdrop_8_years"							FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\opponent_vitals_backdrop_8_years.tga"></Mapping>
-		<Mapping ArtAssetID="opponent_vitals_backdrop_9_years"							FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\opponent_vitals_backdrop_9_years.tga"></Mapping>
-		<Mapping ArtAssetID="opponent_vitals_backdrop_10_years"							FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\opponent_vitals_backdrop_10_years.tga"></Mapping>
-		<Mapping ArtAssetID="opponent_vitals_backdrop_11_years"							FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\opponent_vitals_backdrop_11_years.tga"></Mapping>
-		<Mapping ArtAssetID="opponent_vitals_backdrop_12_years"							FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\opponent_vitals_backdrop_12_years.tga"></Mapping>
+		<Mapping ArtAssetID="opponent_vitals_backdrop_1_year"							FileName="..\..\SHADOWCORE\vitals\opponent_vitals_backdrop_1_year.tga"></Mapping>
+		<Mapping ArtAssetID="opponent_vitals_backdrop_2_years"							FileName="..\..\SHADOWCORE\vitals\opponent_vitals_backdrop_2_years.tga"></Mapping>
+		<Mapping ArtAssetID="opponent_vitals_backdrop_3_years"							FileName="..\..\SHADOWCORE\vitals\opponent_vitals_backdrop_3_years.tga"></Mapping>
+		<Mapping ArtAssetID="opponent_vitals_backdrop_4_years"							FileName="..\..\SHADOWCORE\vitals\opponent_vitals_backdrop_4_years.tga"></Mapping>
+		<Mapping ArtAssetID="opponent_vitals_backdrop_5_years"							FileName="..\..\SHADOWCORE\vitals\opponent_vitals_backdrop_5_years.tga"></Mapping>
+		<Mapping ArtAssetID="opponent_vitals_backdrop_6_years"							FileName="..\..\SHADOWCORE\vitals\opponent_vitals_backdrop_6_years.tga"></Mapping>
+		<Mapping ArtAssetID="opponent_vitals_backdrop_7_years"							FileName="..\..\SHADOWCORE\vitals\opponent_vitals_backdrop_7_years.tga"></Mapping>
+		<Mapping ArtAssetID="opponent_vitals_backdrop_8_years"							FileName="..\..\SHADOWCORE\vitals\opponent_vitals_backdrop_8_years.tga"></Mapping>
+		<Mapping ArtAssetID="opponent_vitals_backdrop_9_years"							FileName="..\..\SHADOWCORE\vitals\opponent_vitals_backdrop_9_years.tga"></Mapping>
+		<Mapping ArtAssetID="opponent_vitals_backdrop_10_years"							FileName="..\..\SHADOWCORE\vitals\opponent_vitals_backdrop_10_years.tga"></Mapping>
+		<Mapping ArtAssetID="opponent_vitals_backdrop_11_years"							FileName="..\..\SHADOWCORE\vitals\opponent_vitals_backdrop_11_years.tga"></Mapping>
+		<Mapping ArtAssetID="opponent_vitals_backdrop_12_years"							FileName="..\..\SHADOWCORE\vitals\opponent_vitals_backdrop_12_years.tga"></Mapping>
 		
 		<!-- Fellow anniversary vital -->		
-		<Mapping ArtAssetID="player_vitals_backdrop_mini_1_year"						FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\party_member.tga"></Mapping>
-		<Mapping ArtAssetID="player_vitals_backdrop_mini_2_years"						FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\party_member.tga"></Mapping>
-		<Mapping ArtAssetID="player_vitals_backdrop_mini_3_years"						FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\party_member.tga"></Mapping>
-		<Mapping ArtAssetID="player_vitals_backdrop_mini_4_years"						FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\party_member.tga"></Mapping>
-		<Mapping ArtAssetID="player_vitals_backdrop_mini_5_years"						FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\party_member.tga"></Mapping>
-		<Mapping ArtAssetID="player_vitals_backdrop_mini_6_years"						FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\party_member.tga"></Mapping>
-		<Mapping ArtAssetID="player_vitals_backdrop_mini_7_years"						FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\party_member.tga"></Mapping>
-		<Mapping ArtAssetID="player_vitals_backdrop_mini_8_years"						FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\party_member.tga"></Mapping>
-		<Mapping ArtAssetID="player_vitals_backdrop_mini_9_years"						FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\party_member.tga"></Mapping>
-		<Mapping ArtAssetID="player_vitals_backdrop_mini_10_years"						FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\party_member.tga"></Mapping>
-		<Mapping ArtAssetID="player_vitals_backdrop_mini_11_years"						FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\party_member.tga"></Mapping>
-		<Mapping ArtAssetID="player_vitals_backdrop_mini_12_years"						FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\party_member.tga"></Mapping>
-		<Mapping ArtAssetID="player_vitals_backdrop_mini_13_years"						FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\party_member.tga"></Mapping>
-		<Mapping ArtAssetID="player_vitals_backdrop_mini_14_years"						FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\party_member.tga"></Mapping>
+		<Mapping ArtAssetID="player_vitals_backdrop_mini_1_year"						FileName="..\..\SHADOWCORE\vitals\party_member.tga"></Mapping>
+		<Mapping ArtAssetID="player_vitals_backdrop_mini_2_years"						FileName="..\..\SHADOWCORE\vitals\party_member.tga"></Mapping>
+		<Mapping ArtAssetID="player_vitals_backdrop_mini_3_years"						FileName="..\..\SHADOWCORE\vitals\party_member.tga"></Mapping>
+		<Mapping ArtAssetID="player_vitals_backdrop_mini_4_years"						FileName="..\..\SHADOWCORE\vitals\party_member.tga"></Mapping>
+		<Mapping ArtAssetID="player_vitals_backdrop_mini_5_years"						FileName="..\..\SHADOWCORE\vitals\party_member.tga"></Mapping>
+		<Mapping ArtAssetID="player_vitals_backdrop_mini_6_years"						FileName="..\..\SHADOWCORE\vitals\party_member.tga"></Mapping>
+		<Mapping ArtAssetID="player_vitals_backdrop_mini_7_years"						FileName="..\..\SHADOWCORE\vitals\party_member.tga"></Mapping>
+		<Mapping ArtAssetID="player_vitals_backdrop_mini_8_years"						FileName="..\..\SHADOWCORE\vitals\party_member.tga"></Mapping>
+		<Mapping ArtAssetID="player_vitals_backdrop_mini_9_years"						FileName="..\..\SHADOWCORE\vitals\party_member.tga"></Mapping>
+		<Mapping ArtAssetID="player_vitals_backdrop_mini_10_years"						FileName="..\..\SHADOWCORE\vitals\party_member.tga"></Mapping>
+		<Mapping ArtAssetID="player_vitals_backdrop_mini_11_years"						FileName="..\..\SHADOWCORE\vitals\party_member.tga"></Mapping>
+		<Mapping ArtAssetID="player_vitals_backdrop_mini_12_years"						FileName="..\..\SHADOWCORE\vitals\party_member.tga"></Mapping>
+		<Mapping ArtAssetID="player_vitals_backdrop_mini_13_years"						FileName="..\..\SHADOWCORE\vitals\party_member.tga"></Mapping>
+		<Mapping ArtAssetID="player_vitals_backdrop_mini_14_years"						FileName="..\..\SHADOWCORE\vitals\party_member.tga"></Mapping>
 		
 		<!-- Monster play - Player anniversary vital -->		
-			<Mapping ArtAssetID="player_vitals_backdrop_1_year_mp"								FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\player_vitals_backdrop_1_year_mp.tga"></Mapping>
-			<Mapping ArtAssetID="player_vitals_backdrop_2_years_mp"								FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\player_vitals_backdrop_2_years_mp.tga"></Mapping>
-			<Mapping ArtAssetID="player_vitals_backdrop_3_years_mp"								FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\player_vitals_backdrop_3_years_mp.tga"></Mapping>
-			<Mapping ArtAssetID="player_vitals_backdrop_4_years_mp"								FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\player_vitals_backdrop_4_years_mp.tga"></Mapping>
-			<Mapping ArtAssetID="player_vitals_backdrop_5_years_mp"								FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\player_vitals_backdrop_5_years_mp.tga"></Mapping>
-			<Mapping ArtAssetID="player_vitals_backdrop_6_years_mp"								FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\player_vitals_backdrop_6_years_mp.tga"></Mapping>
-			<Mapping ArtAssetID="player_vitals_backdrop_7_years_mp"								FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\player_vitals_backdrop_7_years_mp.tga"></Mapping>
-			<Mapping ArtAssetID="player_vitals_backdrop_8_years_mp"								FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\player_vitals_backdrop_8_years_mp.tga"></Mapping>
-			<Mapping ArtAssetID="player_vitals_backdrop_9_years_mp"								FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\player_vitals_backdrop_9_years_mp.tga"></Mapping>
-		<Mapping ArtAssetID="player_vitals_backdrop_10_years_mp"						FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\player_vitals_backdrop_10_years_mp.tga"></Mapping>
-		<Mapping ArtAssetID="player_vitals_backdrop_11_years_mp"						FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\player_vitals_backdrop_11_years_mp.tga"></Mapping>
-		<Mapping ArtAssetID="player_vitals_backdrop_12_years_mp"						FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\player_vitals_backdrop_11_years_mp.tga"></Mapping>
-		<Mapping ArtAssetID="player_vitals_backdrop_13_years_mp"						FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\player_vitals_backdrop_11_years_mp.tga"></Mapping>
-		<Mapping ArtAssetID="player_vitals_backdrop_14_years_mp"						FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\player_vitals_backdrop_11_years_mp.tga"></Mapping>
+			<Mapping ArtAssetID="player_vitals_backdrop_1_year_mp"								FileName="..\..\SHADOWCORE\vitals\player_vitals_backdrop_1_year_mp.tga"></Mapping>
+			<Mapping ArtAssetID="player_vitals_backdrop_2_years_mp"								FileName="..\..\SHADOWCORE\vitals\player_vitals_backdrop_2_years_mp.tga"></Mapping>
+			<Mapping ArtAssetID="player_vitals_backdrop_3_years_mp"								FileName="..\..\SHADOWCORE\vitals\player_vitals_backdrop_3_years_mp.tga"></Mapping>
+			<Mapping ArtAssetID="player_vitals_backdrop_4_years_mp"								FileName="..\..\SHADOWCORE\vitals\player_vitals_backdrop_4_years_mp.tga"></Mapping>
+			<Mapping ArtAssetID="player_vitals_backdrop_5_years_mp"								FileName="..\..\SHADOWCORE\vitals\player_vitals_backdrop_5_years_mp.tga"></Mapping>
+			<Mapping ArtAssetID="player_vitals_backdrop_6_years_mp"								FileName="..\..\SHADOWCORE\vitals\player_vitals_backdrop_6_years_mp.tga"></Mapping>
+			<Mapping ArtAssetID="player_vitals_backdrop_7_years_mp"								FileName="..\..\SHADOWCORE\vitals\player_vitals_backdrop_7_years_mp.tga"></Mapping>
+			<Mapping ArtAssetID="player_vitals_backdrop_8_years_mp"								FileName="..\..\SHADOWCORE\vitals\player_vitals_backdrop_8_years_mp.tga"></Mapping>
+			<Mapping ArtAssetID="player_vitals_backdrop_9_years_mp"								FileName="..\..\SHADOWCORE\vitals\player_vitals_backdrop_9_years_mp.tga"></Mapping>
+		<Mapping ArtAssetID="player_vitals_backdrop_10_years_mp"						FileName="..\..\SHADOWCORE\vitals\player_vitals_backdrop_10_years_mp.tga"></Mapping>
+		<Mapping ArtAssetID="player_vitals_backdrop_11_years_mp"						FileName="..\..\SHADOWCORE\vitals\player_vitals_backdrop_11_years_mp.tga"></Mapping>
+		<Mapping ArtAssetID="player_vitals_backdrop_12_years_mp"						FileName="..\..\SHADOWCORE\vitals\player_vitals_backdrop_11_years_mp.tga"></Mapping>
+		<Mapping ArtAssetID="player_vitals_backdrop_13_years_mp"						FileName="..\..\SHADOWCORE\vitals\player_vitals_backdrop_11_years_mp.tga"></Mapping>
+		<Mapping ArtAssetID="player_vitals_backdrop_14_years_mp"						FileName="..\..\SHADOWCORE\vitals\player_vitals_backdrop_11_years_mp.tga"></Mapping>
 		
 		<!-- Monster play - Opponent anniversary vital -->
-			<Mapping ArtAssetID="opponent_vitals_backdrop_1_year_mp"					FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\opponent_vitals_backdrop_1_year_mp.tga"></Mapping>
-			<Mapping ArtAssetID="opponent_vitals_backdrop_2_years_mp"					FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\opponent_vitals_backdrop_2_years_mp.tga"></Mapping>
-			<Mapping ArtAssetID="opponent_vitals_backdrop_3_years_mp"					FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\opponent_vitals_backdrop_3_years_mp.tga"></Mapping>
-			<Mapping ArtAssetID="opponent_vitals_backdrop_4_years_mp"					FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\opponent_vitals_backdrop_4_years_mp.tga"></Mapping>
-			<Mapping ArtAssetID="opponent_vitals_backdrop_5_years_mp"					FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\opponent_vitals_backdrop_5_years_mp.tga"></Mapping>
-			<Mapping ArtAssetID="opponent_vitals_backdrop_6_years_mp"					FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\opponent_vitals_backdrop_6_years_mp.tga"></Mapping>
-			<Mapping ArtAssetID="opponent_vitals_backdrop_7_years_mp"					FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\opponent_vitals_backdrop_7_years_mp.tga"></Mapping>
-			<Mapping ArtAssetID="opponent_vitals_backdrop_8_years_mp"					FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\opponent_vitals_backdrop_8_years_mp.tga"></Mapping>
-			<Mapping ArtAssetID="opponent_vitals_backdrop_9_years_mp"					FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\opponent_vitals_backdrop_9_years_mp.tga"></Mapping>
-		<Mapping ArtAssetID="opponent_vitals_backdrop_10_years_mp"						FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\opponent_vitals_backdrop_10_years_mp.tga"></Mapping>
-		<Mapping ArtAssetID="opponent_vitals_backdrop_11_years_mp"						FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\opponent_vitals_backdrop_11_years_mp.tga"></Mapping>
-		<Mapping ArtAssetID="opponent_vitals_backdrop_12_years_mp"						FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\opponent_vitals_backdrop_12_years_mp.tga"></Mapping>
-		<Mapping ArtAssetID="opponent_vitals_backdrop_13_years_mp"						FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\opponent_vitals_backdrop_13_years_mp.tga"></Mapping>
-		<Mapping ArtAssetID="opponent_vitals_backdrop_14_years_mp"						FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\opponent_vitals_backdrop_14_years_mp.tga"></Mapping>
+			<Mapping ArtAssetID="opponent_vitals_backdrop_1_year_mp"					FileName="..\..\SHADOWCORE\vitals\opponent_vitals_backdrop_1_year_mp.tga"></Mapping>
+			<Mapping ArtAssetID="opponent_vitals_backdrop_2_years_mp"					FileName="..\..\SHADOWCORE\vitals\opponent_vitals_backdrop_2_years_mp.tga"></Mapping>
+			<Mapping ArtAssetID="opponent_vitals_backdrop_3_years_mp"					FileName="..\..\SHADOWCORE\vitals\opponent_vitals_backdrop_3_years_mp.tga"></Mapping>
+			<Mapping ArtAssetID="opponent_vitals_backdrop_4_years_mp"					FileName="..\..\SHADOWCORE\vitals\opponent_vitals_backdrop_4_years_mp.tga"></Mapping>
+			<Mapping ArtAssetID="opponent_vitals_backdrop_5_years_mp"					FileName="..\..\SHADOWCORE\vitals\opponent_vitals_backdrop_5_years_mp.tga"></Mapping>
+			<Mapping ArtAssetID="opponent_vitals_backdrop_6_years_mp"					FileName="..\..\SHADOWCORE\vitals\opponent_vitals_backdrop_6_years_mp.tga"></Mapping>
+			<Mapping ArtAssetID="opponent_vitals_backdrop_7_years_mp"					FileName="..\..\SHADOWCORE\vitals\opponent_vitals_backdrop_7_years_mp.tga"></Mapping>
+			<Mapping ArtAssetID="opponent_vitals_backdrop_8_years_mp"					FileName="..\..\SHADOWCORE\vitals\opponent_vitals_backdrop_8_years_mp.tga"></Mapping>
+			<Mapping ArtAssetID="opponent_vitals_backdrop_9_years_mp"					FileName="..\..\SHADOWCORE\vitals\opponent_vitals_backdrop_9_years_mp.tga"></Mapping>
+		<Mapping ArtAssetID="opponent_vitals_backdrop_10_years_mp"						FileName="..\..\SHADOWCORE\vitals\opponent_vitals_backdrop_10_years_mp.tga"></Mapping>
+		<Mapping ArtAssetID="opponent_vitals_backdrop_11_years_mp"						FileName="..\..\SHADOWCORE\vitals\opponent_vitals_backdrop_11_years_mp.tga"></Mapping>
+		<Mapping ArtAssetID="opponent_vitals_backdrop_12_years_mp"						FileName="..\..\SHADOWCORE\vitals\opponent_vitals_backdrop_12_years_mp.tga"></Mapping>
+		<Mapping ArtAssetID="opponent_vitals_backdrop_13_years_mp"						FileName="..\..\SHADOWCORE\vitals\opponent_vitals_backdrop_13_years_mp.tga"></Mapping>
+		<Mapping ArtAssetID="opponent_vitals_backdrop_14_years_mp"						FileName="..\..\SHADOWCORE\vitals\opponent_vitals_backdrop_14_years_mp.tga"></Mapping>
 		
 		<!-- Monster Play - Fellow anniversary vital -->
-			<Mapping ArtAssetID="player_vitals_backdrop_mini_1_year_mp"					FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\party_member.tga"></Mapping>
-			<Mapping ArtAssetID="player_vitals_backdrop_mini_2_years_mp"						FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\party_member.tga"></Mapping>
-			<Mapping ArtAssetID="player_vitals_backdrop_mini_3_years_mp"						FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\party_member.tga"></Mapping>
-			<Mapping ArtAssetID="player_vitals_backdrop_mini_4_years_mp"						FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\party_member.tga"></Mapping>
-			<Mapping ArtAssetID="player_vitals_backdrop_mini_5_years_mp"						FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\party_member.tga"></Mapping>
-			<Mapping ArtAssetID="player_vitals_backdrop_mini_6_years_mp"						FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\party_member.tga"></Mapping>
-			<Mapping ArtAssetID="player_vitals_backdrop_mini_7_years_mp"						FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\party_member.tga"></Mapping>
-			<Mapping ArtAssetID="player_vitals_backdrop_mini_8_years_mp"						FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\party_member.tga"></Mapping>
-			<Mapping ArtAssetID="player_vitals_backdrop_mini_9_years_mp"						FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\party_member.tga"></Mapping>
-		<Mapping ArtAssetID="player_vitals_backdrop_mini_10_years_mp"					FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\party_member.tga"></Mapping>
-		<Mapping ArtAssetID="player_vitals_backdrop_mini_11_years_mp"					FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\party_member.tga"></Mapping>
-		<Mapping ArtAssetID="player_vitals_backdrop_mini_12_years_mp"					FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\party_member.tga"></Mapping>
-		<Mapping ArtAssetID="player_vitals_backdrop_mini_13_years_mp"					FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\party_member.tga"></Mapping>
-		<Mapping ArtAssetID="player_vitals_backdrop_mini_14_years_mp"					FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\party_member.tga"></Mapping>
+			<Mapping ArtAssetID="player_vitals_backdrop_mini_1_year_mp"					FileName="..\..\SHADOWCORE\vitals\party_member.tga"></Mapping>
+			<Mapping ArtAssetID="player_vitals_backdrop_mini_2_years_mp"						FileName="..\..\SHADOWCORE\vitals\party_member.tga"></Mapping>
+			<Mapping ArtAssetID="player_vitals_backdrop_mini_3_years_mp"						FileName="..\..\SHADOWCORE\vitals\party_member.tga"></Mapping>
+			<Mapping ArtAssetID="player_vitals_backdrop_mini_4_years_mp"						FileName="..\..\SHADOWCORE\vitals\party_member.tga"></Mapping>
+			<Mapping ArtAssetID="player_vitals_backdrop_mini_5_years_mp"						FileName="..\..\SHADOWCORE\vitals\party_member.tga"></Mapping>
+			<Mapping ArtAssetID="player_vitals_backdrop_mini_6_years_mp"						FileName="..\..\SHADOWCORE\vitals\party_member.tga"></Mapping>
+			<Mapping ArtAssetID="player_vitals_backdrop_mini_7_years_mp"						FileName="..\..\SHADOWCORE\vitals\party_member.tga"></Mapping>
+			<Mapping ArtAssetID="player_vitals_backdrop_mini_8_years_mp"						FileName="..\..\SHADOWCORE\vitals\party_member.tga"></Mapping>
+			<Mapping ArtAssetID="player_vitals_backdrop_mini_9_years_mp"						FileName="..\..\SHADOWCORE\vitals\party_member.tga"></Mapping>
+		<Mapping ArtAssetID="player_vitals_backdrop_mini_10_years_mp"					FileName="..\..\SHADOWCORE\vitals\party_member.tga"></Mapping>
+		<Mapping ArtAssetID="player_vitals_backdrop_mini_11_years_mp"					FileName="..\..\SHADOWCORE\vitals\party_member.tga"></Mapping>
+		<Mapping ArtAssetID="player_vitals_backdrop_mini_12_years_mp"					FileName="..\..\SHADOWCORE\vitals\party_member.tga"></Mapping>
+		<Mapping ArtAssetID="player_vitals_backdrop_mini_13_years_mp"					FileName="..\..\SHADOWCORE\vitals\party_member.tga"></Mapping>
+		<Mapping ArtAssetID="player_vitals_backdrop_mini_14_years_mp"					FileName="..\..\SHADOWCORE\vitals\party_member.tga"></Mapping>
 		
 		<!-- End of Anniversary vitals -->
 
-		<Mapping ArtAssetID="player_vitals_backdrop_mini_dagorlad_flora"				FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\party_member.tga"></Mapping>
-		<Mapping ArtAssetID="player_vitals_backdrop_mini_northithilien_flora"			FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\party_member.tga"></Mapping>
+		<Mapping ArtAssetID="player_vitals_backdrop_mini_dagorlad_flora"				FileName="..\..\SHADOWCORE\vitals\party_member.tga"></Mapping>
+		<Mapping ArtAssetID="player_vitals_backdrop_mini_northithilien_flora"			FileName="..\..\SHADOWCORE\vitals\party_member.tga"></Mapping>
 
-		<Mapping ArtAssetID="level_background_rare"										FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\level_background_rare.tga"></Mapping>
+		<Mapping ArtAssetID="level_background_rare"										FileName="..\..\SHADOWCORE\vitals\level_background_rare.tga"></Mapping>
 
 		<Mapping ArtAssetID="role_button_thin_ghost"									FileName="..\..\..\JRR Skins Collection\JRR CORE\panel_misc\role_button_thin_ghost.tga"></Mapping>
 		<Mapping ArtAssetID="role_button_thin_highlight"								FileName="..\..\..\JRR Skins Collection\JRR CORE\panel_misc\role_button_thin_highlight.tga"></Mapping>
@@ -1686,17 +1686,17 @@
 		<Mapping ArtAssetID="TrackerBase_topLeft"										FileName="..\..\..\JRR Skins Collection\JRR CORE\TrackerBase\TrackerBase_topLeft.tga"></Mapping>
 		<Mapping ArtAssetID="TrackerBase_topRight"										FileName="..\..\..\JRR Skins Collection\JRR CORE\TrackerBase\TrackerBase_topRight.tga"></Mapping>
 
-		<Mapping ArtAssetID="soldier_buynow"											FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\soldier_buynow.tga"></Mapping>
-		<Mapping ArtAssetID="soldier_buynow_disabled"									FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\soldier_buynow_disabled.tga"></Mapping>
-		<Mapping ArtAssetID="soldier_buynow_pressed"									FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\soldier_buynow_pressed.tga"></Mapping>
-		<Mapping ArtAssetID="soldier_buynow_rollover"									FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\soldier_buynow_rollover.tga"></Mapping>
-		<Mapping ArtAssetID="soldier_vitals_backdrop_mini"								FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\soldier_vitals_backdrop_mini.tga"></Mapping>
-		<Mapping ArtAssetID="soldier_timerBG"											FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\soldier_timerBG.tga"></Mapping>
-		<Mapping ArtAssetID="soldier_timerBG_TimesUp"									FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\soldier_timerBG_TimesUp.tga"></Mapping>
-		<Mapping ArtAssetID="soldier_timerBG_disabled"									FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\soldier_timerBG_disabled.tga"></Mapping>
-		<Mapping ArtAssetID="soldier_vitals_x_normal"									FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\soldier_vitals_x_normal.tga"></Mapping>
-		<Mapping ArtAssetID="soldier_vitals_x_pressed"									FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\soldier_vitals_x_pressed.tga"></Mapping>
-		<Mapping ArtAssetID="soldier_vitals_x_rollover"									FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\soldier_vitals_x_rollover.tga"></Mapping>
+		<Mapping ArtAssetID="soldier_buynow"											FileName="..\..\SHADOWCORE\vitals\soldier_buynow.tga"></Mapping>
+		<Mapping ArtAssetID="soldier_buynow_disabled"									FileName="..\..\SHADOWCORE\vitals\soldier_buynow_disabled.tga"></Mapping>
+		<Mapping ArtAssetID="soldier_buynow_pressed"									FileName="..\..\SHADOWCORE\vitals\soldier_buynow_pressed.tga"></Mapping>
+		<Mapping ArtAssetID="soldier_buynow_rollover"									FileName="..\..\SHADOWCORE\vitals\soldier_buynow_rollover.tga"></Mapping>
+		<Mapping ArtAssetID="soldier_vitals_backdrop_mini"								FileName="..\..\SHADOWCORE\vitals\soldier_vitals_backdrop_mini.tga"></Mapping>
+		<Mapping ArtAssetID="soldier_timerBG"											FileName="..\..\SHADOWCORE\vitals\soldier_timerBG.tga"></Mapping>
+		<Mapping ArtAssetID="soldier_timerBG_TimesUp"									FileName="..\..\SHADOWCORE\vitals\soldier_timerBG_TimesUp.tga"></Mapping>
+		<Mapping ArtAssetID="soldier_timerBG_disabled"									FileName="..\..\SHADOWCORE\vitals\soldier_timerBG_disabled.tga"></Mapping>
+		<Mapping ArtAssetID="soldier_vitals_x_normal"									FileName="..\..\SHADOWCORE\vitals\soldier_vitals_x_normal.tga"></Mapping>
+		<Mapping ArtAssetID="soldier_vitals_x_pressed"									FileName="..\..\SHADOWCORE\vitals\soldier_vitals_x_pressed.tga"></Mapping>
+		<Mapping ArtAssetID="soldier_vitals_x_rollover"									FileName="..\..\SHADOWCORE\vitals\soldier_vitals_x_rollover.tga"></Mapping>
 		
 		<Mapping ArtAssetID="RewardsBoxBG_smallest"										FileName="..\..\..\JRR Skins Collection\JRR CORE\panel_misc\RewardsBoxBG_smallest.tga"></Mapping>
 		<Mapping ArtAssetID="RoleBoxBG_smallest"										FileName="..\..\..\JRR Skins Collection\JRR CORE\panel_misc\RewardsBoxBG_smallest.tga"></Mapping>
@@ -2118,12 +2118,12 @@
 
 
 
-		<Mapping ArtAssetID="escortEvil_vitals_backdrop_mini"			FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\escortEvil_vitals_backdrop_mini.tga"></Mapping>
-		<Mapping ArtAssetID="escortGood_vitals_backdrop_mini"			FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\escortGood_vitals_backdrop_mini.tga"></Mapping>
-		<Mapping ArtAssetID="novitals_expanding_left"					FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\novitals_expanding_left.tga"></Mapping>
-		<Mapping ArtAssetID="novitals_expanding_mid"					FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\novitals_expanding_mid.tga"></Mapping>
-		<Mapping ArtAssetID="novitals_expanding_right"					FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\novitals_expanding_right.tga"></Mapping>
-		<Mapping ArtAssetID="novitals_icon"								FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\novitals_icon.tga"></Mapping>
+		<Mapping ArtAssetID="escortEvil_vitals_backdrop_mini"			FileName="..\..\SHADOWCORE\vitals\escortEvil_vitals_backdrop_mini.tga"></Mapping>
+		<Mapping ArtAssetID="escortGood_vitals_backdrop_mini"			FileName="..\..\SHADOWCORE\vitals\escortGood_vitals_backdrop_mini.tga"></Mapping>
+		<Mapping ArtAssetID="novitals_expanding_left"					FileName="..\..\SHADOWCORE\vitals\novitals_expanding_left.tga"></Mapping>
+		<Mapping ArtAssetID="novitals_expanding_mid"					FileName="..\..\SHADOWCORE\vitals\novitals_expanding_mid.tga"></Mapping>
+		<Mapping ArtAssetID="novitals_expanding_right"					FileName="..\..\SHADOWCORE\vitals\novitals_expanding_right.tga"></Mapping>
+		<Mapping ArtAssetID="novitals_icon"								FileName="..\..\SHADOWCORE\vitals\novitals_icon.tga"></Mapping>
 
 		<Mapping ArtAssetID="theater_top_bottom"						FileName="..\..\..\JRR Skins Collection\JRR CORE\misc\theater_top_bottom.tga"></Mapping>
 		<Mapping ArtAssetID="voicechat_gamespy_logo"					FileName="..\..\..\JRR Skins Collection\JRR CORE\misc\voicechat_gamespy_logo.tga"></Mapping>
@@ -2187,10 +2187,10 @@
 <Mapping ArtAssetID="startmenu_background_top_mid"						FileName="..\..\..\JRR Skins Collection\JRR CORE\startmenu\startmenu_background_top_mid.tga"></Mapping>
 <Mapping ArtAssetID="startmenu_background_top_right"					FileName="..\..\..\JRR Skins Collection\JRR CORE\startmenu\startmenu_background_top_right.tga"></Mapping>
 
-<Mapping ArtAssetID="target_vitals_backdrop_mini"						FileName="target_vitals_backdrop_mini.tga"></Mapping>
-<Mapping ArtAssetID="pet_vitals_backdrop_mini"							FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\pet_vitals_backdrop_mini.tga"></Mapping>
-<Mapping ArtAssetID="player_vitals_backdrop_mini"						FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\party_member.tga"></Mapping>
-<Mapping ArtAssetID="player_vitals_backdrop_mini_level"					FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\level_background.tga"></Mapping>
+<Mapping ArtAssetID="target_vitals_backdrop_mini"						FileName="..\..\SHADOWCORE\vitals\target_vitals_backdrop_mini.tga"></Mapping>
+<Mapping ArtAssetID="pet_vitals_backdrop_mini"							FileName="..\..\SHADOWCORE\vitals\pet_vitals_backdrop_mini.tga"></Mapping>
+<Mapping ArtAssetID="player_vitals_backdrop_mini"						FileName="..\..\SHADOWCORE\vitals\party_member.tga"></Mapping>
+<Mapping ArtAssetID="player_vitals_backdrop_mini_level"					FileName="..\..\SHADOWCORE\vitals\level_background.tga"></Mapping>
 <Mapping ArtAssetID="player_vitals_lowrescover"							FileName="..\..\SHADOWCORE\invisible2.tga"></Mapping>
 
 
@@ -2407,36 +2407,36 @@
 		<Mapping ArtAssetID="toggle_button_normal_rollover"								FileName="..\..\SHADOWCORE\quest\toggle_button_normal_rollover.tga"></Mapping>
 
 
-		<Mapping ArtAssetID="level_background"											  FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\level_background.tga"></Mapping>
-			<Mapping ArtAssetID="level_background_red"									  FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\level_background_red.tga"></Mapping>
-		<Mapping ArtAssetID="level_lvlNotRevealed"										  FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\level_lvlNotRevealed.tga"></Mapping>
-		<Mapping ArtAssetID="mount_vitals_backdrop_mini"								  FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\mount_vitals_backdrop_mini.tga"></Mapping>
-		<Mapping ArtAssetID="skirmish_vitals_backdrop_mini"								  FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\skirmish_vitals_backdrop_mini.tga"></Mapping>
-		<Mapping ArtAssetID="skirmish_vitals_backdrop_mini_nosoldier_disabled"	  FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\skirmish_vitals_backdrop_mini_nosoldier_disabled.tga"></Mapping>
-		<Mapping ArtAssetID="skirmish_vitals_backdrop_mini_nosoldier_enabled"	  FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\skirmish_vitals_backdrop_mini_nosoldier_enabled.tga"></Mapping>
+		<Mapping ArtAssetID="level_background"											  FileName="..\..\SHADOWCORE\vitals\level_background.tga"></Mapping>
+			<Mapping ArtAssetID="level_background_red"									  FileName="..\..\SHADOWCORE\vitals\level_background_red.tga"></Mapping>
+		<Mapping ArtAssetID="level_lvlNotRevealed"										  FileName="..\..\SHADOWCORE\vitals\level_lvlNotRevealed.tga"></Mapping>
+		<Mapping ArtAssetID="mount_vitals_backdrop_mini"								  FileName="..\..\SHADOWCORE\vitals\mount_vitals_backdrop_mini.tga"></Mapping>
+		<Mapping ArtAssetID="skirmish_vitals_backdrop_mini"								  FileName="..\..\SHADOWCORE\vitals\skirmish_vitals_backdrop_mini.tga"></Mapping>
+		<Mapping ArtAssetID="skirmish_vitals_backdrop_mini_nosoldier_disabled"	  FileName="..\..\SHADOWCORE\vitals\skirmish_vitals_backdrop_mini_nosoldier_disabled.tga"></Mapping>
+		<Mapping ArtAssetID="skirmish_vitals_backdrop_mini_nosoldier_enabled"	  FileName="..\..\SHADOWCORE\vitals\skirmish_vitals_backdrop_mini_nosoldier_enabled.tga"></Mapping>
 			
-			<Mapping ArtAssetID="player_vitals_backdrop"							  FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\player_vitals_backdrop.tga"></Mapping>
-			<Mapping ArtAssetID="opponent_vitals_backdrop_signature_good"			  FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\opponent_vitals_backdrop_signature_good.tga"></Mapping>
-			<Mapping ArtAssetID="opponent_vitals_backdrop_defender_good"			  FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\opponent_vitals_backdrop_defender_good.tga"></Mapping>
-			<Mapping ArtAssetID="opponent_vitals_backdrop_master_defender_good"			  FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\opponent_vitals_backdrop_master_defender_good.tga"></Mapping>
-			<Mapping ArtAssetID="opponent_vitals_backdrop_avenger_good"				  FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\opponent_vitals_backdrop_avenger_good.tga"></Mapping>
-			<Mapping ArtAssetID="opponent_vitals_backdrop_hero_good"				  FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\opponent_vitals_backdrop_hero_good.tga"></Mapping>
-			<Mapping ArtAssetID="swarm_vitals"											  FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\swarm_vitals.tga"></Mapping>
-			<Mapping ArtAssetID="opponent_vitals_backdrop"							  FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\opponent_vitals_backdrop.tga"></Mapping>
-			<Mapping ArtAssetID="opponent_vitals_backdrop_signature"				  FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\opponent_vitals_backdrop_signature.tga"></Mapping>
-			<Mapping ArtAssetID="opponent_vitals_backdrop_elite"					  FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\opponent_vitals_backdrop_elite.tga"></Mapping>
-			<Mapping ArtAssetID="opponent_vitals_backdrop_elitemaster"				  FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\opponent_vitals_backdrop_elite.tga"></Mapping>
+			<Mapping ArtAssetID="player_vitals_backdrop"							  FileName="..\..\SHADOWCORE\vitals\player_vitals_backdrop.tga"></Mapping>
+			<Mapping ArtAssetID="opponent_vitals_backdrop_signature_good"			  FileName="..\..\SHADOWCORE\vitals\opponent_vitals_backdrop_signature_good.tga"></Mapping>
+			<Mapping ArtAssetID="opponent_vitals_backdrop_defender_good"			  FileName="..\..\SHADOWCORE\vitals\opponent_vitals_backdrop_defender_good.tga"></Mapping>
+			<Mapping ArtAssetID="opponent_vitals_backdrop_master_defender_good"			  FileName="..\..\SHADOWCORE\vitals\opponent_vitals_backdrop_master_defender_good.tga"></Mapping>
+			<Mapping ArtAssetID="opponent_vitals_backdrop_avenger_good"				  FileName="..\..\SHADOWCORE\vitals\opponent_vitals_backdrop_avenger_good.tga"></Mapping>
+			<Mapping ArtAssetID="opponent_vitals_backdrop_hero_good"				  FileName="..\..\SHADOWCORE\vitals\opponent_vitals_backdrop_hero_good.tga"></Mapping>
+			<Mapping ArtAssetID="swarm_vitals"											  FileName="..\..\SHADOWCORE\vitals\swarm_vitals.tga"></Mapping>
+			<Mapping ArtAssetID="opponent_vitals_backdrop"							  FileName="..\..\SHADOWCORE\vitals\opponent_vitals_backdrop.tga"></Mapping>
+			<Mapping ArtAssetID="opponent_vitals_backdrop_signature"				  FileName="..\..\SHADOWCORE\vitals\opponent_vitals_backdrop_signature.tga"></Mapping>
+			<Mapping ArtAssetID="opponent_vitals_backdrop_elite"					  FileName="..\..\SHADOWCORE\vitals\opponent_vitals_backdrop_elite.tga"></Mapping>
+			<Mapping ArtAssetID="opponent_vitals_backdrop_elitemaster"				  FileName="..\..\SHADOWCORE\vitals\opponent_vitals_backdrop_elite.tga"></Mapping>
 		
-			<Mapping ArtAssetID="opponent_vitals_backdrop_signature_good_mp"		  FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\opponent_vitals_backdrop_signature_good_mp.tga"></Mapping>
-			<Mapping ArtAssetID="opponent_vitals_backdrop_defender_good_mp"			  FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\opponent_vitals_backdrop_defender_good_mp.tga"></Mapping>
-			<Mapping ArtAssetID="opponent_vitals_backdrop_master_defender_good_mp"	  FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\opponent_vitals_backdrop_master_defender_good_mp.tga"></Mapping>
-			<Mapping ArtAssetID="opponent_vitals_backdrop_avenger_good_mp"			  FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\opponent_vitals_backdrop_avenger_good_mp.tga"></Mapping>
-			<Mapping ArtAssetID="opponent_vitals_backdrop_hero_good_mp"				  FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\opponent_vitals_backdrop_hero_good_mp.tga"></Mapping>
-			<Mapping ArtAssetID="swarm_vitals_mp"									  FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\swarm_vitals_mp.tga"></Mapping>
-			<Mapping ArtAssetID="opponent_vitals_backdrop_mp"						  FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\opponent_vitals_backdrop_mp.tga"></Mapping>
-			<Mapping ArtAssetID="opponent_vitals_backdrop_signature_mp"				  FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\opponent_vitals_backdrop_signature_mp.tga"></Mapping>
-			<Mapping ArtAssetID="opponent_vitals_backdrop_elite_mp"					  FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\opponent_vitals_backdrop_elite_mp.tga"></Mapping>
-			<Mapping ArtAssetID="opponent_vitals_backdrop_elitemaster_mp"			  FileName="..\..\..\JRR Skins Collection\JRR CORE\vitals\opponent_vitals_backdrop_elite_mp.tga"></Mapping>
+			<Mapping ArtAssetID="opponent_vitals_backdrop_signature_good_mp"		  FileName="..\..\SHADOWCORE\vitals\opponent_vitals_backdrop_signature_good_mp.tga"></Mapping>
+			<Mapping ArtAssetID="opponent_vitals_backdrop_defender_good_mp"			  FileName="..\..\SHADOWCORE\vitals\opponent_vitals_backdrop_defender_good_mp.tga"></Mapping>
+			<Mapping ArtAssetID="opponent_vitals_backdrop_master_defender_good_mp"	  FileName="..\..\SHADOWCORE\vitals\opponent_vitals_backdrop_master_defender_good_mp.tga"></Mapping>
+			<Mapping ArtAssetID="opponent_vitals_backdrop_avenger_good_mp"			  FileName="..\..\SHADOWCORE\vitals\opponent_vitals_backdrop_avenger_good_mp.tga"></Mapping>
+			<Mapping ArtAssetID="opponent_vitals_backdrop_hero_good_mp"				  FileName="..\..\SHADOWCORE\vitals\opponent_vitals_backdrop_hero_good_mp.tga"></Mapping>
+			<Mapping ArtAssetID="swarm_vitals_mp"									  FileName="..\..\SHADOWCORE\vitals\swarm_vitals_mp.tga"></Mapping>
+			<Mapping ArtAssetID="opponent_vitals_backdrop_mp"						  FileName="..\..\SHADOWCORE\vitals\opponent_vitals_backdrop_mp.tga"></Mapping>
+			<Mapping ArtAssetID="opponent_vitals_backdrop_signature_mp"				  FileName="..\..\SHADOWCORE\vitals\opponent_vitals_backdrop_signature_mp.tga"></Mapping>
+			<Mapping ArtAssetID="opponent_vitals_backdrop_elite_mp"					  FileName="..\..\SHADOWCORE\vitals\opponent_vitals_backdrop_elite_mp.tga"></Mapping>
+			<Mapping ArtAssetID="opponent_vitals_backdrop_elitemaster_mp"			  FileName="..\..\SHADOWCORE\vitals\opponent_vitals_backdrop_elite_mp.tga"></Mapping>
 			
 
 			<Mapping ArtAssetID="textbutton_left_normal"				   FileName="..\..\SHADOWCORE\textbutton\left_normal.tga"></Mapping>
