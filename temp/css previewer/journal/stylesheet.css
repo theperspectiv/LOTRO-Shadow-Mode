@@ -1,0 +1,164 @@
+
+
+.header {
+ position: absolute;
+ top: 0;
+ bottom: 0;
+ left: 15px;
+ right: 0;
+}
+
+
+.bottombar {
+  position: absolute;
+  top: 200px;
+  bottom: 0;
+  left: 15px;
+  right: 0;
+ }
+
+ .textbutton {
+  position:relative;
+  left:12px;
+  top:51px;
+  margin-right:-3px;
+  float:left;
+  display: block;
+  width: 36px;
+  height: 33px;
+  text-align:center;
+}
+
+
+.bg {
+  position:absolute;
+  left:11px;
+  top:30px;
+}
+
+.button {
+  position:relative;
+  left:12px;
+  top:51px;
+  margin-right:-3px;
+  float:left;
+  display: block;
+  width: 36px;
+  height: 33px;
+  text-align:center;
+}
+
+
+.btn {
+  width: 36px;
+  height: 33px;
+  display: block;
+  background-image: url(conv/toggle_button_normal.png);
+}
+
+.btn:hover {
+  width: 36px;
+  height: 33px;
+  background-image: url(conv/toggle_button_normal_rollover.png);
+}
+
+.btn:active {
+  width: 36px;
+  height: 33px;
+    background-image: url(conv/toggle_button_normal_pressed.png);
+}
+
+#btnControl1 {
+  display: none;
+}
+#btnControl1:checked + label {
+  background-image: url(conv/toggle_button_normal.png);
+}
+
+
+#btnControl2 {
+  display: none;
+}
+#btnControl2:checked + label {
+  background-image: url(conv/toggle_button_normal_pressed.png);
+}
+
+#btnControl3 {
+  display: none;
+}
+#btnControl3:checked + label {
+  background-image: url(conv/toggle_button_highlight_pressed.png);
+}
+
+#btnControl4 {
+  display: none;
+}
+#btnControl4:checked + label {
+  background-image: url(conv/toggle_button_highlight_pressed.png);
+}
+
+#btnControl5 {
+  display: none;
+}
+#btnControl5:checked + label {
+  background-image: url(conv/toggle_button_highlight_pressed.png);
+}
+
+#btnControl6 {
+  display: none;
+}
+#btnControl6:checked + label {
+  background-image: url(conv/toggle_button_highlight_pressed.png);
+}
+
+#btnControl7 {
+  display: none;
+}
+#btnControl7:checked + label {
+  background-image: url(conv/toggle_button_highlight_pressed.png);
+}
+
+#btnControl8 {
+  display: none;
+}
+#btnControl8:checked + label {
+  background-image: url(conv/toggle_button_highlight_pressed.png);
+  display: block;
+  float:left;
+}
+#btnControl9 {
+  display: none;
+}
+#btnControl9:checked + label {
+  background-image: url(conv/toggle_button_highlight_pressed.png);
+  display: block;
+  float:left;
+}
+
+
+
+
+/*
+.rollover {
+position:absolute;
+top: 0px;
+opacity: 0;
+transition: .1s ease;
+}
+
+
+.button:hover .rollover {
+opacity: 1;
+}
+
+.pressed {
+position:absolute;
+top: 0px;
+opacity: 0;
+transition: .1s ease;
+}
+
+.button:active .pressed {
+opacity: 1;
+}
+*/

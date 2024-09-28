@@ -1,0 +1,51 @@
+.bg {
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  background-color: #101010;
+  margin-left: -8px;
+  margin-top: -8px;
+}
+
+.header {
+  display:block;
+  align-items: center;
+  justify-content: center;
+  margin-top:100px;
+}
+
+.button {
+  position:relative;
+  padding-bottom: 5px;
+  display:block;
+  width: 160px;
+  height: 20px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+.btn {
+  width: 160px;
+  height: 20px;
+  display: block;
+  background-image: url(left_normal.png),url(mid_normal.png),url(right_normal.png);
+  background-repeat: no-repeat, no-repeat, no-repeat;
+  background-position: left, center, right;
+}
+
+.btn:hover {
+  width: 160px;
+  height: 20px;
+  background-image: url(left_mouseover.png),url(mid_mouseover.png),url(right_mouseover.png);
+  background-repeat: no-repeat, no-repeat, no-repeat;
+  background-position: left, center, right;
+}
+
+.btn:active {
+  width: 160px;
+  height: 20px;
+  background-image: url(left_pressed.png),url(mid_pressed.png),url(right_pressed.png);
+  background-repeat: no-repeat, no-repeat, no-repeat;
+  background-position: left, center, right;
+}
