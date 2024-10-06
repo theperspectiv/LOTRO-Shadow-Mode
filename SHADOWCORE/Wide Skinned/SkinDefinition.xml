@@ -2574,17 +2574,6 @@
 		<Mapping ArtAssetID="expanding_deco_bg_right"									FileName="..\invisible2.tga"></Mapping>
 		<Mapping ArtAssetID="expanding_deco_bg_left"									FileName="..\invisible2.tga"></Mapping>
 
-		<!-- NPC: Quest Giver & Quest Entry -->
-
-		<Mapping ArtAssetID="quest_dialog_blue_bg_top_left"								FileName="..\innerpanel\blue_bg_top_left.tga"></Mapping>
-		<Mapping ArtAssetID="quest_dialog_blue_bg_top_mid"								FileName="..\innerpanel\blue_bg_top_mid.tga"></Mapping>
-		<Mapping ArtAssetID="quest_dialog_blue_bg_top_right"							FileName="..\innerpanel\blue_bg_top_right.tga"></Mapping>
-		<Mapping ArtAssetID="quest_dialog_blue_bg_left_mid"								FileName="..\innerpanel\blue_bg_left_mid.tga"></Mapping>
-		<Mapping ArtAssetID="quest_dialog_blue_bg_right_mid"							FileName="..\innerpanel\blue_bg_right_mid.tga"></Mapping>
-		<Mapping ArtAssetID="quest_dialog_blue_bg_bottom_left"							FileName="..\innerpanel\blue_bg_bottom_left.tga"></Mapping>
-		<Mapping ArtAssetID="quest_dialog_blue_bg_bottom_mid"							FileName="..\innerpanel\blue_bg_bottom_mid.tga"></Mapping>
-		<Mapping ArtAssetID="quest_dialog_blue_bg_bottom_right"							FileName="..\innerpanel\blue_bg_bottom_right.tga"></Mapping>
-
 		<Mapping ArtAssetID="CharGen_Buttons_Triskel_Left"								FileName="..\..\..\JRR Skins Collection\JRR CORE\textbutton\CharGen_Buttons_Triskel_Left.tga"></Mapping>
 		<Mapping ArtAssetID="CharGen_Buttons_Triskel_Mid"								FileName="..\..\..\JRR Skins Collection\JRR CORE\textbutton\CharGen_Buttons_Triskel_Mid.tga"></Mapping>
 		<Mapping ArtAssetID="CharGen_Buttons_Triskel_Right"								FileName="..\..\..\JRR Skins Collection\JRR CORE\textbutton\CharGen_Buttons_Triskel_Right.tga"></Mapping>
