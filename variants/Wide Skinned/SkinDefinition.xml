@@ -15,6 +15,27 @@
 <!-- Shadow Mode [option] Overrides -->
 
 <!-- Shadow Mode Core Overrides -->	
+
+<!-- InnerShadow -->
+<Mapping ArtAssetID="innershadow_bottom" FileName="..\..\SHADOWCORE\innershadow\innershadow_bottom.tga"></Mapping>
+<Mapping ArtAssetID="innershadow_bottomleft" FileName="..\..\SHADOWCORE\innershadow\innershadow_bottomleft.tga"></Mapping>
+<Mapping ArtAssetID="innershadow_bottomright" FileName="..\..\SHADOWCORE\innershadow\innershadow_bottomright.tga"></Mapping>
+<Mapping ArtAssetID="innershadow_left" FileName="..\..\SHADOWCORE\innershadow\innershadow_left.tga"></Mapping>
+<Mapping ArtAssetID="innershadow_right" FileName="..\..\SHADOWCORE\innershadow\innershadow_right.tga"></Mapping>
+<Mapping ArtAssetID="innershadow_top" FileName="..\..\SHADOWCORE\innershadow\innershadow_top.tga"></Mapping>
+<Mapping ArtAssetID="innershadow_topleft" FileName="..\..\SHADOWCORE\innershadow\innershadow_topleft.tga"></Mapping>
+<Mapping ArtAssetID="innershadow_topright" FileName="..\..\SHADOWCORE\innershadow\innershadow_topright.tga"></Mapping>
+
+<!-- Quest dialog InnerShadow -->
+<Mapping ArtAssetID="quest_dialog_blue_bg_bottom_left" FileName="..\..\SHADOWCORE\innershadow\innershadow_bottomleft.tga"></Mapping>
+<Mapping ArtAssetID="quest_dialog_blue_bg_bottom_mid" FileName="..\..\SHADOWCORE\innershadow\innershadow_bottom.tga"></Mapping>
+<Mapping ArtAssetID="quest_dialog_blue_bg_bottom_right" FileName="..\..\SHADOWCORE\innershadow\innershadow_bottomright.tga"></Mapping>
+<Mapping ArtAssetID="quest_dialog_blue_bg_left_mid" FileName="..\..\SHADOWCORE\innershadow\innershadow_left.tga"></Mapping>
+<Mapping ArtAssetID="quest_dialog_blue_bg_right_mid" FileName="..\..\SHADOWCORE\innershadow\innershadow_right.tga"></Mapping>
+<Mapping ArtAssetID="quest_dialog_blue_bg_top_mid" FileName="..\..\SHADOWCORE\innershadow\innershadow_top.tga"></Mapping>
+<Mapping ArtAssetID="quest_dialog_blue_bg_top_left" FileName="..\..\SHADOWCORE\innershadow\innershadow_topleft.tga"></Mapping>
+<Mapping ArtAssetID="quest_dialog_blue_bg_top_right" FileName="..\..\SHADOWCORE\innershadow\innershadow_topright.tga"></Mapping>
+
 <Mapping ArtAssetID="finditems16" 												FileName="..\..\SHADOWCORE\titlebar\finditems16.tga"></Mapping>
 <Mapping ArtAssetID="dropdown_arrow_closed" 									FileName="..\..\SHADOWCORE\dropdown\dropdown_arrow_closed.tga"></Mapping>
 <Mapping ArtAssetID="dropdown_arrow_closed_ghosted" 							FileName="..\..\SHADOWCORE\dropdown\dropdown_arrow_closed_ghosted.tga"></Mapping>
@@ -3298,6 +3319,8 @@
 
 
 
+
+
 	<!-- Update 40 player and opponent vital bars -->
 	<!-- Player vital bar -->
 	<PanelFile ID="ID_UISkin_AvatarPanel">
@@ -3427,7 +3450,7 @@
 						<Element ID="OpponentPanel_BG" X="31" Y="1" Width="273" Height="124"></Element> <!-- width = 273 instead of 277 -->
 						<Element ID="OpponentClass" X="211" Y="72" Width="20" Height="20"></Element>
 						<Element ID="OpponentPortrait" X="219" Y="22" Width="62" Height="62"> <!-- disable this line and the next one in case of 3D portrait zooming bug when loading a new area -->
-							<Element ID="Target_Image" X="-2" Y="-2" Width="62" Height="62"></Element> <!-- macabra portrait repositionning U40 -->
+							<Element ID="Target_Image" X="-2" Y="-1" Width="62" Height="62"></Element> <!-- macabra portrait repositionning U40 -->
 						</Element>
 						<Element ID="OpponentLevelHiddenSkull" X="218" Y="79" Width="65" Height="32"></Element>
 						<Element ID="OpponentName" X="11" Y="3" Width="205" Height="36"></Element>
