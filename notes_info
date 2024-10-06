@@ -5,8 +5,8 @@ silver = main window
 
 
 panel_border.tga =  
-
+basepanel\balancebox ??
 basepanel\basepanel_* = tooltip (moved to .\tooltip)
-basepanel\blue_bg_* = crafting outline (moved to .\innerpanel)
+basepanel\blue_bg_* = crafting outline (moved to .\innerpanel) (changed to innershadow)
 basepanel\_* = dropdown menu (moved to ./dropdown)
 silver > * = main windows
