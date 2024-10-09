@@ -1,0 +1,684 @@
+<PanelFile ID="ID_UISkin_Craft_Window">
+    <Element ID="Craft_Window" X="5" Y="120" Width="900" Height="580">
+        <Element ID="Craft_RecipePage" X="481" Y="31" Width="415" Height="522">
+
+            <Element ID="Craft_MultiOutput_Field" X="281" Y="50" Width="130" Height="41">
+                <Element ID="Craft_MultiOutput_PageCtrl" X="20" Y="20" Width="92" Height="20">
+                    <Element ID="PagCtrl_PageCount" X="20" Y="-2" Width="50" Height="20"></Element>
+                    <Element ID="PagCtrl_NextPage" X="70" Y="0" Width="20" Height="20"></Element>
+                    <Element ID="PagCtrl_PrevPage" X="0" Y="0" Width="20" Height="20"></Element>
+                </Element>
+                <Element ID="Craft_MultiOutput_Label" X="0" Y="5" Width="128" Height="16"></Element>
+            </Element>
+            <Element ID="Craft_Recipe_OneUseOnly" X="236" Y="42" Width="153" Height="18"></Element>
+
+            <Element ID="Craft_Recipe_BaseBox_BG" X="0" Y="0" Width="415" Height="524"></Element>
+            <Element ID="Craft_Recipe_Make_Decrease" X="195" Y="495" Width="20" Height="20"></Element>
+            <Element ID="Craft_Recipe_Make_Increase" X="241" Y="495" Width="20" Height="20"></Element>
+            <Element ID="Craft_Recipe_MakeAllButton" X="332" Y="495" Width="72" Height="20">
+                <Element ID="TextButtonReference_Left" X="0" Y="0" Width="20" Height="20"></Element>
+                <Element ID="TextButtonReference_Mid" X="20" Y="0" Width="31" Height="20"></Element>
+                <Element ID="TextButtonReference_Right" X="51" Y="0" Width="20" Height="20"></Element>
+            </Element>
+
+            <Element ID="Craft_Recipe_CooldownTimer" X="10" Y="42" Width="240" Height="20"></Element>
+            <Element ID="Craft_Recipe_CooldownDuration" X="10" Y="73" Width="270" Height="18"></Element>
+            <Element ID="Craft_Recipe_NonItem_Result" X="10" Y="10" Width="32" Height="32"></Element>
+            <Element ID="Craft_Recipe_BG" X="0" Y="0" Width="415" Height="545">
+                <Element ID="Craft_Recipe_BG_Output" X="0" Y="0" Width="413" Height="93">
+                    <Element ID="quest_dialog_blue_bg_top_left" X="0" Y="0" Width="9" Height="8"></Element>
+                    <Element ID="quest_dialog_blue_bg_top_mid" X="9" Y="0" Width="394" Height="8"></Element>
+                    <Element ID="quest_dialog_blue_bg_top_right" X="403" Y="0" Width="8" Height="8"></Element>
+                    <Element ID="quest_dialog_blue_bg_left_mid" X="0" Y="8" Width="10" Height="75"></Element>
+                    <Element ID="quest_dialog_blue_bg_bottom_left" X="0" Y="83" Width="8" Height="9"></Element>
+                    <Element ID="quest_dialog_blue_bg_bottom_mid" X="8" Y="83" Width="394" Height="11"></Element>
+                    <Element ID="quest_dialog_blue_bg_bottom_right" X="402" Y="83" Width="9" Height="9"></Element>
+                    <Element ID="quest_dialog_blue_bg_right_mid" X="402" Y="8" Width="9" Height="75"></Element>
+                </Element>
+                <Element ID="Craft_Recipe_BG_Requirements" X="0" Y="94" Width="413" Height="52">
+                    <Element ID="quest_dialog_blue_bg_top_left" X="0" Y="0" Width="9" Height="8"></Element>
+                    <Element ID="quest_dialog_blue_bg_top_mid" X="9" Y="0" Width="394" Height="8"></Element>
+                    <Element ID="quest_dialog_blue_bg_top_right" X="403" Y="0" Width="8" Height="8"></Element>
+                    <Element ID="quest_dialog_blue_bg_left_mid" X="0" Y="8" Width="10" Height="34"></Element>
+                    <Element ID="quest_dialog_blue_bg_bottom_left" X="0" Y="42" Width="8" Height="9"></Element>
+                    <Element ID="quest_dialog_blue_bg_bottom_mid" X="8" Y="42" Width="394" Height="11"></Element>
+                    <Element ID="quest_dialog_blue_bg_bottom_right" X="402" Y="42" Width="9" Height="9"></Element>
+                    <Element ID="quest_dialog_blue_bg_right_mid" X="402" Y="8" Width="9" Height="34"></Element>
+                </Element>
+                <Element ID="Craft_Recipe_BG_Ingredients" X="0" Y="147" Width="413" Height="197">
+                    <Element ID="quest_dialog_blue_bg_top_left" X="0" Y="0" Width="9" Height="8"></Element>
+                    <Element ID="quest_dialog_blue_bg_top_mid" X="9" Y="0" Width="394" Height="8"></Element>
+                    <Element ID="quest_dialog_blue_bg_top_right" X="403" Y="0" Width="8" Height="8"></Element>
+                    <Element ID="quest_dialog_blue_bg_left_mid" X="0" Y="8" Width="10" Height="179"></Element>
+                    <Element ID="quest_dialog_blue_bg_bottom_left" X="0" Y="187" Width="8" Height="9"></Element>
+                    <Element ID="quest_dialog_blue_bg_bottom_mid" X="8" Y="187" Width="394" Height="11"></Element>
+                    <Element ID="quest_dialog_blue_bg_bottom_right" X="402" Y="187" Width="9" Height="9"></Element>
+                    <Element ID="quest_dialog_blue_bg_right_mid" X="402" Y="8" Width="9" Height="179"></Element>
+                </Element>
+                <Element ID="Craft_Recipe_BG_Optional" X="0" Y="345" Width="413" Height="126">
+                    <Element ID="quest_dialog_blue_bg_top_left" X="0" Y="0" Width="9" Height="8"></Element>
+                    <Element ID="quest_dialog_blue_bg_top_mid" X="9" Y="0" Width="394" Height="8"></Element>
+                    <Element ID="quest_dialog_blue_bg_top_right" X="403" Y="0" Width="8" Height="8"></Element>
+                    <Element ID="quest_dialog_blue_bg_left_mid" X="0" Y="8" Width="10" Height="108"></Element>
+                    <Element ID="quest_dialog_blue_bg_bottom_left" X="0" Y="116" Width="8" Height="9"></Element>
+                    <Element ID="quest_dialog_blue_bg_bottom_mid" X="8" Y="116" Width="394" Height="11"></Element>
+                    <Element ID="quest_dialog_blue_bg_bottom_right" X="402" Y="116" Width="9" Height="9"></Element>
+                    <Element ID="quest_dialog_blue_bg_right_mid" X="402" Y="8" Width="9" Height="108"></Element>
+                </Element>
+                <Element ID="Craft_Recipe_BG_Make" X="0" Y="472" Width="413" Height="51">
+                    <Element ID="quest_dialog_blue_bg_top_left" X="0" Y="0" Width="9" Height="8"></Element>
+                    <Element ID="quest_dialog_blue_bg_top_mid" X="9" Y="0" Width="394" Height="8"></Element>
+                    <Element ID="quest_dialog_blue_bg_top_right" X="403" Y="0" Width="8" Height="8"></Element>
+                    <Element ID="quest_dialog_blue_bg_left_mid" X="0" Y="8" Width="10" Height="33"></Element>
+                    <Element ID="quest_dialog_blue_bg_bottom_left" X="0" Y="41" Width="8" Height="9"></Element>
+                    <Element ID="quest_dialog_blue_bg_bottom_mid" X="8" Y="41" Width="394" Height="11"></Element>
+                    <Element ID="quest_dialog_blue_bg_bottom_right" X="402" Y="41" Width="9" Height="9"></Element>
+                    <Element ID="quest_dialog_blue_bg_right_mid" X="402" Y="8" Width="9" Height="33"></Element>
+                </Element>
+            </Element>
+            <Element ID="Craft_BuyNow_Ingredients" X="0" Y="0" Width="1" Height="1">
+                <Element ID="BuyNowTextButtonReference_Left" X="0" Y="0" Width="1" Height="1"></Element>
+                <Element ID="BuyNowTextButtonReference_Mid" X="0" Y="0" Width="1" Height="1"></Element>
+                <Element ID="BuyNowTextButtonReference_Right" X="0" Y="0" Width="1" Height="1"></Element>
+                <Element ID="Craft_BuyNow_Ingredients_Label" X="0" Y="0" Width="1" Height="1"></Element>
+            </Element>
+            <Element ID="Craft_BuyNow_CraftXP" X="0" Y="0" Width="1" Height="1">
+                <Element ID="BuyNowTextButtonReference_Left" X="0" Y="0" Width="1" Height="1"></Element>
+                <Element ID="BuyNowTextButtonReference_Mid" X="0" Y="0" Width="1" Height="1"></Element>
+                <Element ID="BuyNowTextButtonReference_Right" X="0" Y="0" Width="1" Height="1"></Element>
+                <Element ID="Craft_BuyNow_CraftXP_Label" X="0" Y="0" Width="1" Height="1"></Element>
+            </Element>
+            <Element ID="Craft_Recipe_NameText" X="50" Y="5" Width="350" Height="42"></Element>
+            <Element ID="EntryField_Label" X="198" Y="475" Width="59" Height="20"></Element>
+            <Element ID="Craft_Recipe_EarnedPointsText" X="10" Y="58" Width="270" Height="18"></Element>
+            <Element ID="Craft_Recipe_Item" X="10" Y="10" Width="32" Height="32">
+                <Element ID="ItemDisplay_ShortIcon" X="0" Y="0" Width="32" Height="32">
+                    <Element ID="ItemDisplay_Icon" X="0" Y="0" Width="32" Height="32">
+                        <Element ID="ItemDisplay_SelectedOverlay" X="0" Y="0" Width="32" Height="32"></Element>
+                        <Element ID="ItemDisplay_RolloverOverlay" X="0" Y="0" Width="32" Height="32"></Element>
+                        <Element ID="ItemDisplay_CooldownOverlay" X="0" Y="0" Width="32" Height="32"></Element>
+                        <Element ID="ItemDisplay_IASlotOverlay" X="0" Y="0" Width="32" Height="32"></Element>
+                        <Element ID="ItemDisplay_OutOfRangeOverlay" X="20" Y="4" Width="12" Height="12"></Element>
+                        <Element ID="ItemDisplay_XPBarField" X="0" Y="28" Width="32" Height="4"></Element>
+                        <Element ID="ItemDisplay_PendingOverlay" X="0" Y="0" Width="32" Height="32"></Element>
+                        <Element ID="ItemDisplay_ElligibleOverlay_StateBlocker" X="0" Y="0" Width="32" Height="32">
+                            <Element ID="ItemDisplay_ElligibleOverlay" X="0" Y="0" Width="32" Height="32"></Element>
+                        </Element>
+                        <Element ID="ItemDisplay_LockedOverlay" X="0" Y="0" Width="32" Height="32"></Element>
+                        <Element ID="ItemDisplay_QuantityOverlay" X="0" Y="15" Width="32" Height="12"></Element>
+                        <Element ID="ItemDisplay_BrokenOverlay" X="0" Y="0" Width="32" Height="32"></Element>
+                        <Element ID="ItemDisplay_IANeedsIdentificationOverlay" X="0" Y="0" Width="32" Height="32"></Element>
+                        <Element ID="ItemDisplay_GhostedOverlay" X="0" Y="0" Width="32" Height="32"></Element>
+                        <Element ID="ItemDisplay_UnusableOverlay" X="0" Y="0" Width="32" Height="32"></Element>
+                        <Element ID="ItemDisplay_IANeedsReforgeOverlay" X="0" Y="0" Width="32" Height="32"></Element>
+                    </Element>
+                </Element>
+            </Element>
+            <Element ID="Craft_Recipe_ExecuteButton" X="115" Y="495" Width="72" Height="20">
+                <Element ID="TextButtonReference_Left" X="0" Y="0" Width="20" Height="20"></Element>
+                <Element ID="TextButtonReference_Mid" X="20" Y="0" Width="31" Height="20"></Element>
+                <Element ID="TextButtonReference_Right" X="51" Y="0" Width="20" Height="20"></Element>
+            </Element>
+            <Element ID="CraftRecipe_Panel" X="0" Y="94" Width="415" Height="380">
+                <Element ID="CraftRecipe_Requirements" X="0" Y="0" Width="416" Height="249">
+                    <Element ID="CraftRecipe_MainIngredients" X="1" Y="50" Width="415" Height="199">
+                        <Element ID="Craft_Recipe_IngredientLabel" X="50" Y="13" Width="163" Height="21"></Element>
+                        <Element ID="Craft_Recipe_Ingredient1" X="29" Y="62" Width="175" Height="36">
+                            <Element ID="CraftIngredientItem" X="2" Y="2" Width="47" Height="32">
+                                <Element ID="ItemDisplay_ShortIcon" X="0" Y="0" Width="32" Height="32">
+                                    <Element ID="ItemDisplay_Icon" X="0" Y="0" Width="32" Height="32">
+                                        <Element ID="ItemDisplay_SelectedOverlay" X="0" Y="0" Width="32" Height="32"></Element>
+                                        <Element ID="ItemDisplay_RolloverOverlay" X="0" Y="0" Width="32" Height="32"></Element>
+                                        <Element ID="ItemDisplay_CooldownOverlay" X="0" Y="0" Width="32" Height="32"></Element>
+                                        <Element ID="ItemDisplay_IASlotOverlay" X="0" Y="0" Width="32" Height="32"></Element>
+                                        <Element ID="ItemDisplay_OutOfRangeOverlay" X="20" Y="4" Width="12" Height="12"></Element>
+                                        <Element ID="ItemDisplay_XPBarField" X="0" Y="28" Width="32" Height="4"></Element>
+                                        <Element ID="ItemDisplay_PendingOverlay" X="0" Y="0" Width="32" Height="32"></Element>
+                                        <Element ID="ItemDisplay_ElligibleOverlay_StateBlocker" X="0" Y="0" Width="32" Height="32">
+                                            <Element ID="ItemDisplay_ElligibleOverlay" X="0" Y="0" Width="32" Height="32"></Element>
+                                        </Element>
+                                        <Element ID="ItemDisplay_LockedOverlay" X="0" Y="0" Width="32" Height="32"></Element>
+                                        <Element ID="ItemDisplay_QuantityOverlay" X="0" Y="15" Width="32" Height="12"></Element>
+                                        <Element ID="ItemDisplay_BrokenOverlay" X="0" Y="0" Width="32" Height="32"></Element>
+                                        <Element ID="ItemDisplay_IANeedsIdentificationOverlay" X="0" Y="0" Width="32" Height="32"></Element>
+                                        <Element ID="ItemDisplay_GhostedOverlay" X="0" Y="0" Width="32" Height="32"></Element>
+                                        <Element ID="ItemDisplay_UnusableOverlay" X="0" Y="0" Width="32" Height="32"></Element>
+                                        <Element ID="ItemDisplay_IANeedsReforgeOverlay" X="0" Y="0" Width="32" Height="32"></Element>
+                                    </Element>
+                                </Element>
+                            </Element>
+                            <Element ID="Craft_Ingredient_Info" X="36" Y="2" Width="139" Height="32"></Element>
+                        </Element>
+                        <Element ID="Craft_Recipe_Ingredient2" X="212" Y="62" Width="175" Height="36">
+                            <Element ID="CraftIngredientItem" X="2" Y="2" Width="47" Height="32">
+                                <Element ID="ItemDisplay_ShortIcon" X="0" Y="0" Width="32" Height="32">
+                                    <Element ID="ItemDisplay_Icon" X="0" Y="0" Width="32" Height="32">
+                                        <Element ID="ItemDisplay_SelectedOverlay" X="0" Y="0" Width="32" Height="32"></Element>
+                                        <Element ID="ItemDisplay_RolloverOverlay" X="0" Y="0" Width="32" Height="32"></Element>
+                                        <Element ID="ItemDisplay_CooldownOverlay" X="0" Y="0" Width="32" Height="32"></Element>
+                                        <Element ID="ItemDisplay_IASlotOverlay" X="0" Y="0" Width="32" Height="32"></Element>
+                                        <Element ID="ItemDisplay_OutOfRangeOverlay" X="20" Y="4" Width="12" Height="12"></Element>
+                                        <Element ID="ItemDisplay_XPBarField" X="0" Y="28" Width="32" Height="4"></Element>
+                                        <Element ID="ItemDisplay_PendingOverlay" X="0" Y="0" Width="32" Height="32"></Element>
+                                        <Element ID="ItemDisplay_ElligibleOverlay_StateBlocker" X="0" Y="0" Width="32" Height="32">
+                                            <Element ID="ItemDisplay_ElligibleOverlay" X="0" Y="0" Width="32" Height="32"></Element>
+                                        </Element>
+                                        <Element ID="ItemDisplay_LockedOverlay" X="0" Y="0" Width="32" Height="32"></Element>
+                                        <Element ID="ItemDisplay_QuantityOverlay" X="0" Y="15" Width="32" Height="12"></Element>
+                                        <Element ID="ItemDisplay_BrokenOverlay" X="0" Y="0" Width="32" Height="32"></Element>
+                                        <Element ID="ItemDisplay_IANeedsIdentificationOverlay" X="0" Y="0" Width="32" Height="32"></Element>
+                                        <Element ID="ItemDisplay_GhostedOverlay" X="0" Y="0" Width="32" Height="32"></Element>
+                                        <Element ID="ItemDisplay_UnusableOverlay" X="0" Y="0" Width="32" Height="32"></Element>
+                                        <Element ID="ItemDisplay_IANeedsReforgeOverlay" X="0" Y="0" Width="32" Height="32"></Element>
+                                    </Element>
+                                </Element>
+                            </Element>
+                            <Element ID="Craft_Ingredient_Info" X="36" Y="2" Width="139" Height="32"></Element>
+                        </Element>
+                        <Element ID="Craft_Recipe_Ingredient3" X="29" Y="108" Width="175" Height="36">
+                            <Element ID="CraftIngredientItem" X="2" Y="2" Width="47" Height="32">
+                                <Element ID="ItemDisplay_ShortIcon" X="0" Y="0" Width="32" Height="32">
+                                    <Element ID="ItemDisplay_Icon" X="0" Y="0" Width="32" Height="32">
+                                        <Element ID="ItemDisplay_SelectedOverlay" X="0" Y="0" Width="32" Height="32"></Element>
+                                        <Element ID="ItemDisplay_RolloverOverlay" X="0" Y="0" Width="32" Height="32"></Element>
+                                        <Element ID="ItemDisplay_CooldownOverlay" X="0" Y="0" Width="32" Height="32"></Element>
+                                        <Element ID="ItemDisplay_IASlotOverlay" X="0" Y="0" Width="32" Height="32"></Element>
+                                        <Element ID="ItemDisplay_OutOfRangeOverlay" X="20" Y="4" Width="12" Height="12"></Element>
+                                        <Element ID="ItemDisplay_XPBarField" X="0" Y="28" Width="32" Height="4"></Element>
+                                        <Element ID="ItemDisplay_PendingOverlay" X="0" Y="0" Width="32" Height="32"></Element>
+                                        <Element ID="ItemDisplay_ElligibleOverlay_StateBlocker" X="0" Y="0" Width="32" Height="32">
+                                            <Element ID="ItemDisplay_ElligibleOverlay" X="0" Y="0" Width="32" Height="32"></Element>
+                                        </Element>
+                                        <Element ID="ItemDisplay_LockedOverlay" X="0" Y="0" Width="32" Height="32"></Element>
+                                        <Element ID="ItemDisplay_QuantityOverlay" X="0" Y="15" Width="32" Height="12"></Element>
+                                        <Element ID="ItemDisplay_BrokenOverlay" X="0" Y="0" Width="32" Height="32"></Element>
+                                        <Element ID="ItemDisplay_IANeedsIdentificationOverlay" X="0" Y="0" Width="32" Height="32"></Element>
+                                        <Element ID="ItemDisplay_GhostedOverlay" X="0" Y="0" Width="32" Height="32"></Element>
+                                        <Element ID="ItemDisplay_UnusableOverlay" X="0" Y="0" Width="32" Height="32"></Element>
+                                        <Element ID="ItemDisplay_IANeedsReforgeOverlay" X="0" Y="0" Width="32" Height="32"></Element>
+                                    </Element>
+                                </Element>
+                            </Element>
+                            <Element ID="Craft_Ingredient_Info" X="36" Y="2" Width="139" Height="32"></Element>
+                        </Element>
+                        <Element ID="Craft_Recipe_Ingredient4" X="212" Y="108" Width="175" Height="36">
+                            <Element ID="CraftIngredientItem" X="2" Y="2" Width="47" Height="32">
+                                <Element ID="ItemDisplay_ShortIcon" X="0" Y="0" Width="32" Height="32">
+                                    <Element ID="ItemDisplay_Icon" X="0" Y="0" Width="32" Height="32">
+                                        <Element ID="ItemDisplay_SelectedOverlay" X="0" Y="0" Width="32" Height="32"></Element>
+                                        <Element ID="ItemDisplay_RolloverOverlay" X="0" Y="0" Width="32" Height="32"></Element>
+                                        <Element ID="ItemDisplay_CooldownOverlay" X="0" Y="0" Width="32" Height="32"></Element>
+                                        <Element ID="ItemDisplay_IASlotOverlay" X="0" Y="0" Width="32" Height="32"></Element>
+                                        <Element ID="ItemDisplay_OutOfRangeOverlay" X="20" Y="4" Width="12" Height="12"></Element>
+                                        <Element ID="ItemDisplay_XPBarField" X="0" Y="28" Width="32" Height="4"></Element>
+                                        <Element ID="ItemDisplay_PendingOverlay" X="0" Y="0" Width="32" Height="32"></Element>
+                                        <Element ID="ItemDisplay_ElligibleOverlay_StateBlocker" X="0" Y="0" Width="32" Height="32">
+                                            <Element ID="ItemDisplay_ElligibleOverlay" X="0" Y="0" Width="32" Height="32"></Element>
+                                        </Element>
+                                        <Element ID="ItemDisplay_LockedOverlay" X="0" Y="0" Width="32" Height="32"></Element>
+                                        <Element ID="ItemDisplay_QuantityOverlay" X="0" Y="15" Width="32" Height="12"></Element>
+                                        <Element ID="ItemDisplay_BrokenOverlay" X="0" Y="0" Width="32" Height="32"></Element>
+                                        <Element ID="ItemDisplay_IANeedsIdentificationOverlay" X="0" Y="0" Width="32" Height="32"></Element>
+                                        <Element ID="ItemDisplay_GhostedOverlay" X="0" Y="0" Width="32" Height="32"></Element>
+                                        <Element ID="ItemDisplay_UnusableOverlay" X="0" Y="0" Width="32" Height="32"></Element>
+                                        <Element ID="ItemDisplay_IANeedsReforgeOverlay" X="0" Y="0" Width="32" Height="32"></Element>
+                                    </Element>
+                                </Element>
+                            </Element>
+                            <Element ID="Craft_Ingredient_Info" X="36" Y="2" Width="139" Height="32"></Element>
+                        </Element>
+                        <Element ID="Craft_Recipe_Ingredient5" X="29" Y="153" Width="175" Height="36">
+                            <Element ID="CraftIngredientItem" X="2" Y="2" Width="47" Height="32">
+                                <Element ID="ItemDisplay_ShortIcon" X="0" Y="0" Width="32" Height="32">
+                                    <Element ID="ItemDisplay_Icon" X="0" Y="0" Width="32" Height="32">
+                                        <Element ID="ItemDisplay_SelectedOverlay" X="0" Y="0" Width="32" Height="32"></Element>
+                                        <Element ID="ItemDisplay_RolloverOverlay" X="0" Y="0" Width="32" Height="32"></Element>
+                                        <Element ID="ItemDisplay_CooldownOverlay" X="0" Y="0" Width="32" Height="32"></Element>
+                                        <Element ID="ItemDisplay_IASlotOverlay" X="0" Y="0" Width="32" Height="32"></Element>
+                                        <Element ID="ItemDisplay_OutOfRangeOverlay" X="20" Y="4" Width="12" Height="12"></Element>
+                                        <Element ID="ItemDisplay_XPBarField" X="0" Y="28" Width="32" Height="4"></Element>
+                                        <Element ID="ItemDisplay_PendingOverlay" X="0" Y="0" Width="32" Height="32"></Element>
+                                        <Element ID="ItemDisplay_ElligibleOverlay_StateBlocker" X="0" Y="0" Width="32" Height="32">
+                                            <Element ID="ItemDisplay_ElligibleOverlay" X="0" Y="0" Width="32" Height="32"></Element>
+                                        </Element>
+                                        <Element ID="ItemDisplay_LockedOverlay" X="0" Y="0" Width="32" Height="32"></Element>
+                                        <Element ID="ItemDisplay_QuantityOverlay" X="0" Y="15" Width="32" Height="12"></Element>
+                                        <Element ID="ItemDisplay_BrokenOverlay" X="0" Y="0" Width="32" Height="32"></Element>
+                                        <Element ID="ItemDisplay_IANeedsIdentificationOverlay" X="0" Y="0" Width="32" Height="32"></Element>
+                                        <Element ID="ItemDisplay_GhostedOverlay" X="0" Y="0" Width="32" Height="32"></Element>
+                                        <Element ID="ItemDisplay_UnusableOverlay" X="0" Y="0" Width="32" Height="32"></Element>
+                                        <Element ID="ItemDisplay_IANeedsReforgeOverlay" X="0" Y="0" Width="32" Height="32"></Element>
+                                    </Element>
+                                </Element>
+                            </Element>
+                            <Element ID="Craft_Ingredient_Info" X="36" Y="2" Width="139" Height="32"></Element>
+                        </Element>
+                        <Element ID="Craft_Recipe_Ingredient6" X="212" Y="153" Width="175" Height="36">
+                            <Element ID="CraftIngredientItem" X="2" Y="2" Width="47" Height="32">
+                                <Element ID="ItemDisplay_ShortIcon" X="0" Y="0" Width="32" Height="32">
+                                    <Element ID="ItemDisplay_Icon" X="0" Y="0" Width="32" Height="32">
+                                        <Element ID="ItemDisplay_SelectedOverlay" X="0" Y="0" Width="32" Height="32"></Element>
+                                        <Element ID="ItemDisplay_RolloverOverlay" X="0" Y="0" Width="32" Height="32"></Element>
+                                        <Element ID="ItemDisplay_CooldownOverlay" X="0" Y="0" Width="32" Height="32"></Element>
+                                        <Element ID="ItemDisplay_IASlotOverlay" X="0" Y="0" Width="32" Height="32"></Element>
+                                        <Element ID="ItemDisplay_OutOfRangeOverlay" X="20" Y="4" Width="12" Height="12"></Element>
+                                        <Element ID="ItemDisplay_XPBarField" X="0" Y="28" Width="32" Height="4"></Element>
+                                        <Element ID="ItemDisplay_PendingOverlay" X="0" Y="0" Width="32" Height="32"></Element>
+                                        <Element ID="ItemDisplay_ElligibleOverlay_StateBlocker" X="0" Y="0" Width="32" Height="32">
+                                            <Element ID="ItemDisplay_ElligibleOverlay" X="0" Y="0" Width="32" Height="32"></Element>
+                                        </Element>
+                                        <Element ID="ItemDisplay_LockedOverlay" X="0" Y="0" Width="32" Height="32"></Element>
+                                        <Element ID="ItemDisplay_QuantityOverlay" X="0" Y="15" Width="32" Height="12"></Element>
+                                        <Element ID="ItemDisplay_BrokenOverlay" X="0" Y="0" Width="32" Height="32"></Element>
+                                        <Element ID="ItemDisplay_IANeedsIdentificationOverlay" X="0" Y="0" Width="32" Height="32"></Element>
+                                        <Element ID="ItemDisplay_GhostedOverlay" X="0" Y="0" Width="32" Height="32"></Element>
+                                        <Element ID="ItemDisplay_UnusableOverlay" X="0" Y="0" Width="32" Height="32"></Element>
+                                        <Element ID="ItemDisplay_IANeedsReforgeOverlay" X="0" Y="0" Width="32" Height="32"></Element>
+                                    </Element>
+                                </Element>
+                            </Element>
+                            <Element ID="Craft_Ingredient_Info" X="36" Y="2" Width="139" Height="32"></Element>
+                        </Element>
+                    </Element>
+                    <Element ID="CraftRecipe_IngredientPacks" X="0" Y="68" Width="416" Height="180">
+                        <Element ID="CraftRecipe_IngredientPack_Display" X="30" Y="44" Width="300" Height="36">
+                            <Element ID="CraftIngredientItem" X="2" Y="2" Width="172" Height="32">
+                                <Element ID="ItemDisplay_ShortIcon" X="0" Y="0" Width="32" Height="32">
+                                    <Element ID="ItemDisplay_Icon" X="0" Y="0" Width="32" Height="32">
+                                        <Element ID="ItemDisplay_SelectedOverlay" X="0" Y="0" Width="32" Height="32"></Element>
+                                        <Element ID="ItemDisplay_RolloverOverlay" X="0" Y="0" Width="32" Height="32"></Element>
+                                        <Element ID="ItemDisplay_CooldownOverlay" X="0" Y="0" Width="32" Height="32"></Element>
+                                        <Element ID="ItemDisplay_IASlotOverlay" X="0" Y="0" Width="32" Height="32"></Element>
+                                        <Element ID="ItemDisplay_OutOfRangeOverlay" X="20" Y="4" Width="12" Height="12"></Element>
+                                        <Element ID="ItemDisplay_XPBarField" X="0" Y="28" Width="32" Height="4"></Element>
+                                        <Element ID="ItemDisplay_PendingOverlay" X="0" Y="0" Width="32" Height="32"></Element>
+                                        <Element ID="ItemDisplay_ElligibleOverlay_StateBlocker" X="0" Y="0" Width="32" Height="32">
+                                            <Element ID="ItemDisplay_ElligibleOverlay" X="0" Y="0" Width="32" Height="32"></Element>
+                                        </Element>
+                                        <Element ID="ItemDisplay_LockedOverlay" X="0" Y="0" Width="32" Height="32"></Element>
+                                        <Element ID="ItemDisplay_QuantityOverlay" X="0" Y="15" Width="32" Height="12"></Element>
+                                        <Element ID="ItemDisplay_BrokenOverlay" X="0" Y="0" Width="32" Height="32"></Element>
+                                        <Element ID="ItemDisplay_IANeedsIdentificationOverlay" X="0" Y="0" Width="32" Height="32"></Element>
+                                        <Element ID="ItemDisplay_GhostedOverlay" X="0" Y="0" Width="32" Height="32"></Element>
+                                        <Element ID="ItemDisplay_UnusableOverlay" X="0" Y="0" Width="32" Height="32"></Element>
+                                        <Element ID="ItemDisplay_IANeedsReforgeOverlay" X="0" Y="0" Width="32" Height="32"></Element>
+                                    </Element>
+                                </Element>
+                            </Element>
+                            <Element ID="Craft_Ingredient_Info" X="36" Y="2" Width="264" Height="32"></Element>
+                        </Element>
+                        <Element ID="Craft_Recipe_IngredientLabel" X="51" Y="-7" Width="178" Height="24"></Element>
+                        <Element ID="Craft_IngredientPack_Binding" X="76" Y="98" Width="260" Height="50"></Element>
+                    </Element>
+                    <Element ID="Craft_Recipe_RequiredToolText" X="3" Y="8" Width="410" Height="18"></Element>
+                    <Element ID="Craft_Recipe_UseIngredientPack" X="54" Y="83" Width="180" Height="16">
+                        <Element ID="Checkbox_TextLabel" X="18" Y="0" Width="164" Height="16"></Element>
+                        <Element ID="Checkbox_Box" X="0" Y="0" Width="16" Height="16"></Element>
+                    </Element>
+                    <Element ID="Craft_Recipe_RequiredFacilityText" X="3" Y="28" Width="409" Height="18"></Element>
+                </Element>
+                <Element ID="CraftRecipe_Seal_Proficiency" X="4" Y="55" Width="40" Height="40"></Element>
+                <Element ID="CraftRecipe_MasterOverlay" X="1" Y="250" Width="414" Height="128">
+                    <Element ID="CraftRecipe_MasterOverlay_Label" X="39" Y="30" Width="337" Height="70"></Element>
+                </Element>
+                <Element ID="CraftRecipe_MasterPage" X="1" Y="245" Width="414" Height="134">
+                    <Element ID="Craft_Recipe_OptionalIngredient1" X="49" Y="31" Width="360" Height="36">
+                        <Element ID="CraftIngredient_Optional_Item" X="0" Y="3" Width="172" Height="36">
+                            <Element ID="CraftIngredientItem" X="2" Y="2" Width="44" Height="32">
+                                <Element ID="ItemDisplay_ShortIcon" X="0" Y="0" Width="32" Height="32">
+                                    <Element ID="ItemDisplay_Icon" X="0" Y="0" Width="32" Height="32">
+                                        <Element ID="ItemDisplay_SelectedOverlay" X="0" Y="0" Width="32" Height="32"></Element>
+                                        <Element ID="ItemDisplay_RolloverOverlay" X="0" Y="0" Width="32" Height="32"></Element>
+                                        <Element ID="ItemDisplay_CooldownOverlay" X="0" Y="0" Width="32" Height="32"></Element>
+                                        <Element ID="ItemDisplay_IASlotOverlay" X="0" Y="0" Width="32" Height="32"></Element>
+                                        <Element ID="ItemDisplay_OutOfRangeOverlay" X="20" Y="4" Width="12" Height="12"></Element>
+                                        <Element ID="ItemDisplay_XPBarField" X="0" Y="28" Width="32" Height="4"></Element>
+                                        <Element ID="ItemDisplay_PendingOverlay" X="0" Y="0" Width="32" Height="32"></Element>
+                                        <Element ID="ItemDisplay_ElligibleOverlay_StateBlocker" X="0" Y="0" Width="32" Height="32">
+                                            <Element ID="ItemDisplay_ElligibleOverlay" X="0" Y="0" Width="32" Height="32"></Element>
+                                        </Element>
+                                        <Element ID="ItemDisplay_LockedOverlay" X="0" Y="0" Width="32" Height="32"></Element>
+                                        <Element ID="ItemDisplay_QuantityOverlay" X="0" Y="15" Width="32" Height="12"></Element>
+                                        <Element ID="ItemDisplay_BrokenOverlay" X="0" Y="0" Width="32" Height="32"></Element>
+                                        <Element ID="ItemDisplay_IANeedsIdentificationOverlay" X="0" Y="0" Width="32" Height="32"></Element>
+                                        <Element ID="ItemDisplay_GhostedOverlay" X="0" Y="0" Width="32" Height="32"></Element>
+                                        <Element ID="ItemDisplay_UnusableOverlay" X="0" Y="0" Width="32" Height="32"></Element>
+                                        <Element ID="ItemDisplay_IANeedsReforgeOverlay" X="0" Y="0" Width="32" Height="32"></Element>
+                                    </Element>
+                                </Element>
+                            </Element>
+                            <Element ID="Craft_Ingredient_Info" X="36" Y="2" Width="136" Height="32"></Element>
+                        </Element>
+                        <Element ID="CraftIngredient_OptionalButton" X="232" Y="6" Width="16" Height="16"></Element>
+                        <Element ID="CraftIngredient_Optional_CritText" X="278" Y="6" Width="42" Height="18"></Element>
+                        <Element ID="CraftIngredient_OptionalButtonText" X="250" Y="6" Width="29" Height="20"></Element>
+                    </Element>
+                    <Element ID="Craft_Recipe_OptionalText" X="50" Y="9" Width="88" Height="25"></Element>
+                    <Element ID="Craft_Recipe_CriticalField" X="235" Y="16" Width="175" Height="25">
+                        <Element ID="Craft_Recipe_CriticalChanceText" X="137" Y="-7" Width="35" Height="25"></Element>
+                        <Element ID="Craft_Recipe_CriticalLabel" X="0" Y="-6" Width="132" Height="25"></Element>
+                    </Element>
+                    <Element ID="Craft_Recipe_CriticalItem" X="9" Y="89" Width="343" Height="37">
+                        <Element ID="ItemDisplay_ShortIcon" X="0" Y="2" Width="32" Height="32">
+                            <Element ID="ItemDisplay_Icon" X="0" Y="0" Width="32" Height="32">
+                                <Element ID="ItemDisplay_SelectedOverlay" X="0" Y="0" Width="32" Height="32"></Element>
+                                <Element ID="ItemDisplay_RolloverOverlay" X="0" Y="0" Width="32" Height="32"></Element>
+                                <Element ID="ItemDisplay_CooldownOverlay" X="0" Y="0" Width="32" Height="32"></Element>
+                                <Element ID="ItemDisplay_IASlotOverlay" X="0" Y="0" Width="32" Height="32"></Element>
+                                <Element ID="ItemDisplay_OutOfRangeOverlay" X="20" Y="4" Width="12" Height="12"></Element>
+                                <Element ID="ItemDisplay_XPBarField" X="0" Y="28" Width="32" Height="4"></Element>
+                                <Element ID="ItemDisplay_PendingOverlay" X="0" Y="0" Width="32" Height="32"></Element>
+                                <Element ID="ItemDisplay_ElligibleOverlay_StateBlocker" X="0" Y="0" Width="32" Height="32">
+                                    <Element ID="ItemDisplay_ElligibleOverlay" X="0" Y="0" Width="32" Height="32"></Element>
+                                </Element>
+                                <Element ID="ItemDisplay_LockedOverlay" X="0" Y="0" Width="32" Height="32"></Element>
+                                <Element ID="ItemDisplay_QuantityOverlay" X="0" Y="15" Width="32" Height="12"></Element>
+                                <Element ID="ItemDisplay_BrokenOverlay" X="0" Y="0" Width="32" Height="32"></Element>
+                                <Element ID="ItemDisplay_IANeedsIdentificationOverlay" X="0" Y="0" Width="32" Height="32"></Element>
+                                <Element ID="ItemDisplay_GhostedOverlay" X="0" Y="0" Width="32" Height="32"></Element>
+                                <Element ID="ItemDisplay_UnusableOverlay" X="0" Y="0" Width="32" Height="32"></Element>
+                                <Element ID="ItemDisplay_IANeedsReforgeOverlay" X="0" Y="0" Width="32" Height="32"></Element>
+                            </Element>
+                        </Element>
+                        <Element ID="ItemDisplay_Name" X="35" Y="0" Width="308" Height="37"></Element>
+                    </Element>
+                    <Element ID="Craft_Recipe_NonItem_CritResult" X="10" Y="89" Width="32" Height="32"></Element>
+                    <Element ID="Craft_Recipe_CritName" X="42" Y="89" Width="311" Height="37"></Element>
+                    <Element ID="CraftRecipe_Seal_Mastery" X="5" Y="5" Width="40" Height="40"></Element>
+                    <Element ID="CraftRecipe_CriticalOutput_Label" X="9" Y="71" Width="213" Height="20"></Element>
+                </Element>
+            </Element>
+            <Element ID="EntryField" X="217" Y="495" Width="21" Height="20">
+                <Element ID="Box_01_Empty_InnerShadow" X="1" Y="1" Width="19" Height="18">
+                    <Element ID="InnerShadow_TopLeft" X="0" Y="0" Width="9" Height="9"></Element>
+                    <Element ID="InnerShadow_BottomLeft" X="0" Y="9" Width="9" Height="9"></Element>
+                    <Element ID="InnerShadow_BottomMid" X="9" Y="9" Width="1" Height="9"></Element>
+                    <Element ID="InnerShadow_BottomRight" X="10" Y="9" Width="9" Height="9"></Element>
+                    <Element ID="InnerShadow_TopRight" X="10" Y="0" Width="9" Height="9"></Element>
+                    <Element ID="InnerShadow_TopMid" X="9" Y="0" Width="1" Height="9"></Element>
+                </Element>
+                <Element ID="Box_01_Empty_LeftBorder" X="0" Y="0" Width="1" Height="20"></Element>
+                <Element ID="Box_01_Empty_BottomBorder" X="1" Y="19" Width="19" Height="1"></Element>
+                <Element ID="Craft_Recipe_NumberOfTimesEntry" X="0" Y="1" Width="19" Height="18"></Element>
+                <Element ID="Box_01_Empty_RightBorder" X="20" Y="0" Width="1" Height="20"></Element>
+                <Element ID="Box_01_Empty_TopBorder" X="1" Y="0" Width="19" Height="1"></Element>
+            </Element>
+        </Element>
+        <Element ID="Craft_NoProfessionField" X="0" Y="18" Width="900" Height="560">
+            <Element ID="Base_Box_Silver_BottomMid" X="36" Y="524" Width="828" Height="36"></Element>
+            <Element ID="Base_Box_Silver_BottomRight" X="864" Y="524" Width="36" Height="36"></Element>
+            <Element ID="Craft_NoProfession_Text_Label" X="150" Y="186" Width="500" Height="151"></Element>
+            <Element ID="Base_Box_Silver_MidRight" X="864" Y="36" Width="36" Height="488"></Element>
+            <Element ID="Base_Box_Silver_Background" X="36" Y="36" Width="828" Height="488"></Element>
+            <Element ID="Base_Box_Silver_TopRight" X="864" Y="0" Width="36" Height="36"></Element>
+            <Element ID="Base_Box_Silver_TopLeft" X="0" Y="0" Width="36" Height="36"></Element>
+            <Element ID="Base_Box_Silver_TopMid" X="36" Y="0" Width="828" Height="36"></Element>
+            <Element ID="Base_Box_Silver_MidLeft" X="0" Y="36" Width="36" Height="488"></Element>
+            <Element ID="Base_Box_Silver_BottomLeft" X="0" Y="524" Width="36" Height="36"></Element>
+        </Element>
+        <Element ID="Crafting_Base_Box_TitleBar" X="325" Y="-9" Width="250" Height="45">
+            <Element ID="Craft_Title" X="15" Y="15" Width="223" Height="20"></Element>
+            <Element ID="Base_Box_Titlebar_TopRight" X="220" Y="0" Width="33" Height="42"></Element>
+            <Element ID="Base_Box_Titlebar_TopLeft" X="0" Y="0" Width="35" Height="42"></Element>
+            <Element ID="Base_Box_Titlebar_TopMid" X="35" Y="0" Width="185" Height="42"></Element>
+        </Element>
+        <Element ID="Craft_CloseButton" X="876" Y="24" Width="16" Height="16"></Element>
+        <Element ID="CraftWindow_Background" X="451" Y="37" Width="445" Height="450"></Element>
+        <Element ID="MoveBar" X="0" Y="0" Width="900" Height="24"></Element>
+        <Element ID="CraftWindow_BaseBox" X="0" Y="18" Width="900" Height="560">
+            <Element ID="Base_Box_Silver_BottomMid" X="36" Y="524" Width="828" Height="36"></Element>
+            <Element ID="Base_Box_Silver_BottomRight" X="864" Y="524" Width="36" Height="36"></Element>
+            <Element ID="Base_Box_Silver_MidRight" X="864" Y="36" Width="36" Height="488"></Element>
+            <Element ID="Base_Box_Silver_Background" X="36" Y="36" Width="828" Height="488"></Element>
+            <Element ID="Base_Box_Silver_TopRight" X="864" Y="0" Width="36" Height="36"></Element>
+            <Element ID="Base_Box_Silver_TopLeft" X="0" Y="0" Width="36" Height="36"></Element>
+            <Element ID="Base_Box_Silver_TopMid" X="36" Y="0" Width="828" Height="36"></Element>
+            <Element ID="Base_Box_Silver_MidLeft" X="0" Y="36" Width="36" Height="488"></Element>
+            <Element ID="Base_Box_Silver_BottomLeft" X="0" Y="524" Width="36" Height="36"></Element>
+        </Element>
+        <Element ID="Craft_ProfessionPanel" X="3" Y="24" Width="480" Height="550">
+            <Element ID="Craft_Prof1Tab" X="30" Y="25" Width="141" Height="29">
+                <Element ID="tab_tier1_left_innards" X="0" Y="0" Width="140" Height="29">
+                    <Element ID="tab_front_w" X="0" Y="0" Width="12" Height="29"></Element>
+                    <Element ID="tab_front_n" X="12" Y="0" Width="113" Height="29"></Element>
+                    <Element ID="tab_front_e" X="123" Y="0" Width="18" Height="29"></Element>
+                </Element>
+            </Element>
+            <Element ID="Craft_Prof2Tab" X="172" Y="25" Width="141" Height="29">
+                <Element ID="tab_tier1_left_innards" X="0" Y="0" Width="140" Height="29">
+                    <Element ID="tab_front_w" X="0" Y="0" Width="12" Height="29"></Element>
+                    <Element ID="tab_front_n" X="12" Y="0" Width="113" Height="29"></Element>
+                    <Element ID="tab_front_e" X="123" Y="0" Width="18" Height="29"></Element>
+                </Element>
+            </Element>
+            <Element ID="Craft_Prof3Tab" X="314" Y="25" Width="141" Height="29">
+                <Element ID="tab_tier1_left_innards" X="0" Y="0" Width="140" Height="29">
+                    <Element ID="tab_front_w" X="0" Y="0" Width="12" Height="29"></Element>
+                    <Element ID="tab_front_n" X="12" Y="0" Width="113" Height="29"></Element>
+                    <Element ID="tab_front_e" X="123" Y="0" Width="18" Height="29"></Element>
+                </Element>
+            </Element>
+            <Element ID="Craft_Prof1Page" X="6" Y="27" Width="475" Height="522">
+                <Element ID="Craft_Profession_RecipeField" X="0" Y="25" Width="470" Height="498">
+                    <Element ID="WebStoreGetRecipesButton" X="0" Y="0" Width="1" Height="1">
+                        <Element ID="WebStoreGetRecipesButton_Label" X="0" Y="0" Width="1" Height="1"></Element>
+                        <Element ID="BuyNowTextButtonReference_Left" X="0" Y="0" Width="1" Height="1"></Element>
+                        <Element ID="BuyNowTextButtonReference_Mid" X="0" Y="0" Width="1" Height="1"></Element>
+                        <Element ID="BuyNowTextButtonReference_Right" X="0" Y="0" Width="1" Height="1"></Element>
+                    </Element>
+                    <Element ID="Craft_Profession_SearchText" X="106" Y="4" Width="64" Height="20"></Element>
+                    <Element ID="Craft_Profession_SearchEntry" X="170" Y="4" Width="138" Height="20">
+                        <Element ID="Craft_Profession_SearchEntry_BG" X="0" Y="0" Width="135" Height="20">
+                            <Element ID="Box_01_Empty_InnerShadow" X="3" Y="1" Width="134" Height="18">
+                                <Element ID="InnerShadow_TopLeft" X="0" Y="0" Width="9" Height="9"></Element>
+                                <Element ID="InnerShadow_BottomLeft" X="0" Y="9" Width="9" Height="9"></Element>
+                                <Element ID="InnerShadow_BottomMid" X="9" Y="9" Width="115" Height="9"></Element>
+                                <Element ID="InnerShadow_BottomRight" X="124" Y="9" Width="9" Height="9"></Element>
+                                <Element ID="InnerShadow_TopRight" X="124" Y="0" Width="9" Height="9"></Element>
+                                <Element ID="InnerShadow_TopMid" X="9" Y="0" Width="115" Height="9"></Element>
+                            </Element>
+                            <Element ID="Box_01_Empty_LeftBorder" X="0" Y="0" Width="1" Height="20"></Element>
+                            <Element ID="Box_01_Empty_BottomBorder" X="1" Y="19" Width="132" Height="1"></Element>
+                            <Element ID="Box_01_Empty_RightBorder" X="133" Y="0" Width="1" Height="20"></Element>
+                            <Element ID="Box_01_Empty_TopBorder" X="1" Y="0" Width="132" Height="1"></Element>
+                        </Element>
+                    </Element>
+                    <Element ID="Craft_TreeBox" X="5" Y="27" Width="454" Height="450">
+                        <Element ID="Box_01_Background" X="1" Y="1" Width="452" Height="448"></Element>
+                        <Element ID="Box_01_InnerShadow" X="1" Y="1" Width="452" Height="448">
+                            <Element ID="InnerShadow_TopLeft" X="0" Y="0" Width="9" Height="9"></Element>
+                            <Element ID="InnerShadow_MidLeft" X="0" Y="9" Width="9" Height="430"></Element>
+                            <Element ID="InnerShadow_BottomLeft" X="0" Y="439" Width="9" Height="9"></Element>
+                            <Element ID="InnerShadow_BottomMid" X="9" Y="439" Width="434" Height="9"></Element>
+                            <Element ID="InnerShadow_BottomRight" X="443" Y="439" Width="9" Height="9"></Element>
+                            <Element ID="InnerShadow_MidRight" X="443" Y="9" Width="9" Height="430"></Element>
+                            <Element ID="InnerShadow_TopRight" X="443" Y="0" Width="9" Height="9"></Element>
+                            <Element ID="InnerShadow_TopMid" X="9" Y="0" Width="434" Height="9"></Element>
+                        </Element>
+                        <Element ID="Box_01_LeftBorder" X="0" Y="0" Width="1" Height="450"></Element>
+                        <Element ID="Box_01_BottomBorder" X="1" Y="449" Width="452" Height="1"></Element>
+                        <Element ID="Box_01_RightBorder" X="453" Y="0" Width="1" Height="450"></Element>
+                        <Element ID="Box_01_TopBorder" X="1" Y="0" Width="452" Height="1"></Element>
+                    </Element>
+                    <Element ID="Box_01_Empty_InnerShadow" X="1" Y="1" Width="468" Height="496">
+                        <Element ID="InnerShadow_TopLeft" X="0" Y="0" Width="9" Height="9"></Element>
+                        <Element ID="InnerShadow_MidLeft" X="0" Y="9" Width="9" Height="478"></Element>
+                        <Element ID="InnerShadow_BottomLeft" X="0" Y="487" Width="9" Height="9"></Element>
+                        <Element ID="InnerShadow_BottomMid" X="9" Y="487" Width="450" Height="9"></Element>
+                        <Element ID="InnerShadow_BottomRight" X="459" Y="487" Width="9" Height="9"></Element>
+                        <Element ID="InnerShadow_MidRight" X="459" Y="9" Width="9" Height="478"></Element>
+                        <Element ID="InnerShadow_TopRight" X="459" Y="0" Width="9" Height="9"></Element>
+                        <Element ID="InnerShadow_TopMid" X="9" Y="0" Width="450" Height="9"></Element>
+                    </Element>
+                    <Element ID="Craft_Profession_Recipe_LB" X="5" Y="27" Width="454" Height="450"></Element>
+                    <Element ID="Box_01_Empty_LeftBorder" X="0" Y="0" Width="1" Height="498"></Element>
+                    <Element ID="Craft_Profession_Recipe_SB" X="458" Y="27" Width="10" Height="450">
+                        <Element ID="scroll_bottom_field" X="0" Y="440" Width="10" Height="10"></Element>
+                        <Element ID="UpButton" X="0" Y="440" Width="10" Height="10"></Element>
+                        <Element ID="DownButton" X="0" Y="0" Width="10" Height="10"></Element>
+                        <Element ID="scroll_top_field" X="0" Y="0" Width="10" Height="10"></Element>
+                        <Element ID="widget" X="0" Y="10" Width="10" Height="430">
+                            <Element ID="widget_top_field" X="0" Y="0" Width="10" Height="10"></Element>
+                            <Element ID="widget_mid_field" X="0" Y="10" Width="10" Height="410"></Element>
+                            <Element ID="widget_bottom_field" X="0" Y="420" Width="10" Height="10"></Element>
+                        </Element>
+                        <Element ID="scroll_middle_field" X="0" Y="10" Width="10" Height="430"></Element>
+                    </Element>
+                    <Element ID="Box_01_Empty_BottomBorder" X="1" Y="497" Width="468" Height="1"></Element>
+                    <Element ID="Craft_Profession_Expand_Button" X="4" Y="6" Width="16" Height="16"></Element>
+                    <Element ID="Box_01_Empty_RightBorder" X="469" Y="0" Width="1" Height="498"></Element>
+                    <Element ID="Craft_Profession_Collapse_Button" X="23" Y="6" Width="16" Height="16"></Element>
+                    <Element ID="Box_01_Empty_TopBorder" X="1" Y="0" Width="468" Height="1"></Element>
+                </Element>
+            </Element>
+            <Element ID="Craft_Prof2Page" X="6" Y="27" Width="475" Height="522">
+                <Element ID="Craft_Profession_RecipeField" X="0" Y="25" Width="470" Height="498">
+                    <Element ID="WebStoreGetRecipesButton" X="0" Y="0" Width="1" Height="1">
+                        <Element ID="WebStoreGetRecipesButton_Label" X="0" Y="0" Width="1" Height="1"></Element>
+                        <Element ID="BuyNowTextButtonReference_Left" X="0" Y="0" Width="1" Height="1"></Element>
+                        <Element ID="BuyNowTextButtonReference_Mid" X="0" Y="0" Width="1" Height="1"></Element>
+                        <Element ID="BuyNowTextButtonReference_Right" X="0" Y="0" Width="1" Height="1"></Element>
+                    </Element>
+                    <Element ID="Craft_Profession_SearchText" X="106" Y="4" Width="64" Height="20"></Element>
+                    <Element ID="Craft_Profession_SearchEntry" X="170" Y="4" Width="138" Height="20">
+                        <Element ID="Craft_Profession_SearchEntry_BG" X="0" Y="0" Width="135" Height="20">
+                            <Element ID="Box_01_Empty_InnerShadow" X="3" Y="1" Width="134" Height="18">
+                                <Element ID="InnerShadow_TopLeft" X="0" Y="0" Width="9" Height="9"></Element>
+                                <Element ID="InnerShadow_BottomLeft" X="0" Y="9" Width="9" Height="9"></Element>
+                                <Element ID="InnerShadow_BottomMid" X="9" Y="9" Width="115" Height="9"></Element>
+                                <Element ID="InnerShadow_BottomRight" X="124" Y="9" Width="9" Height="9"></Element>
+                                <Element ID="InnerShadow_TopRight" X="124" Y="0" Width="9" Height="9"></Element>
+                                <Element ID="InnerShadow_TopMid" X="9" Y="0" Width="115" Height="9"></Element>
+                            </Element>
+                            <Element ID="Box_01_Empty_LeftBorder" X="0" Y="0" Width="1" Height="20"></Element>
+                            <Element ID="Box_01_Empty_BottomBorder" X="1" Y="19" Width="132" Height="1"></Element>
+                            <Element ID="Box_01_Empty_RightBorder" X="133" Y="0" Width="1" Height="20"></Element>
+                            <Element ID="Box_01_Empty_TopBorder" X="1" Y="0" Width="132" Height="1"></Element>
+                        </Element>
+                    </Element>
+                    <Element ID="Craft_TreeBox" X="5" Y="27" Width="454" Height="450">
+                        <Element ID="Box_01_Background" X="1" Y="1" Width="452" Height="448"></Element>
+                        <Element ID="Box_01_InnerShadow" X="1" Y="1" Width="452" Height="448">
+                            <Element ID="InnerShadow_TopLeft" X="0" Y="0" Width="9" Height="9"></Element>
+                            <Element ID="InnerShadow_MidLeft" X="0" Y="9" Width="9" Height="430"></Element>
+                            <Element ID="InnerShadow_BottomLeft" X="0" Y="439" Width="9" Height="9"></Element>
+                            <Element ID="InnerShadow_BottomMid" X="9" Y="439" Width="434" Height="9"></Element>
+                            <Element ID="InnerShadow_BottomRight" X="443" Y="439" Width="9" Height="9"></Element>
+                            <Element ID="InnerShadow_MidRight" X="443" Y="9" Width="9" Height="430"></Element>
+                            <Element ID="InnerShadow_TopRight" X="443" Y="0" Width="9" Height="9"></Element>
+                            <Element ID="InnerShadow_TopMid" X="9" Y="0" Width="434" Height="9"></Element>
+                        </Element>
+                        <Element ID="Box_01_LeftBorder" X="0" Y="0" Width="1" Height="450"></Element>
+                        <Element ID="Box_01_BottomBorder" X="1" Y="449" Width="452" Height="1"></Element>
+                        <Element ID="Box_01_RightBorder" X="453" Y="0" Width="1" Height="450"></Element>
+                        <Element ID="Box_01_TopBorder" X="1" Y="0" Width="452" Height="1"></Element>
+                    </Element>
+                    <Element ID="Box_01_Empty_InnerShadow" X="1" Y="1" Width="468" Height="496">
+                        <Element ID="InnerShadow_TopLeft" X="0" Y="0" Width="9" Height="9"></Element>
+                        <Element ID="InnerShadow_MidLeft" X="0" Y="9" Width="9" Height="478"></Element>
+                        <Element ID="InnerShadow_BottomLeft" X="0" Y="487" Width="9" Height="9"></Element>
+                        <Element ID="InnerShadow_BottomMid" X="9" Y="487" Width="450" Height="9"></Element>
+                        <Element ID="InnerShadow_BottomRight" X="459" Y="487" Width="9" Height="9"></Element>
+                        <Element ID="InnerShadow_MidRight" X="459" Y="9" Width="9" Height="478"></Element>
+                        <Element ID="InnerShadow_TopRight" X="459" Y="0" Width="9" Height="9"></Element>
+                        <Element ID="InnerShadow_TopMid" X="9" Y="0" Width="450" Height="9"></Element>
+                    </Element>
+                    <Element ID="Craft_Profession_Recipe_LB" X="5" Y="27" Width="454" Height="450"></Element>
+                    <Element ID="Box_01_Empty_LeftBorder" X="0" Y="0" Width="1" Height="498"></Element>
+                    <Element ID="Craft_Profession_Recipe_SB" X="458" Y="27" Width="10" Height="450">
+                        <Element ID="scroll_bottom_field" X="0" Y="440" Width="10" Height="10"></Element>
+                        <Element ID="UpButton" X="0" Y="440" Width="10" Height="10"></Element>
+                        <Element ID="DownButton" X="0" Y="0" Width="10" Height="10"></Element>
+                        <Element ID="scroll_top_field" X="0" Y="0" Width="10" Height="10"></Element>
+                        <Element ID="widget" X="0" Y="10" Width="10" Height="430">
+                            <Element ID="widget_top_field" X="0" Y="0" Width="10" Height="10"></Element>
+                            <Element ID="widget_mid_field" X="0" Y="10" Width="10" Height="410"></Element>
+                            <Element ID="widget_bottom_field" X="0" Y="420" Width="10" Height="10"></Element>
+                        </Element>
+                        <Element ID="scroll_middle_field" X="0" Y="10" Width="10" Height="430"></Element>
+                    </Element>
+                    <Element ID="Box_01_Empty_BottomBorder" X="1" Y="497" Width="468" Height="1"></Element>
+                    <Element ID="Craft_Profession_Expand_Button" X="4" Y="6" Width="16" Height="16"></Element>
+                    <Element ID="Box_01_Empty_RightBorder" X="469" Y="0" Width="1" Height="498"></Element>
+                    <Element ID="Craft_Profession_Collapse_Button" X="23" Y="6" Width="16" Height="16"></Element>
+                    <Element ID="Box_01_Empty_TopBorder" X="1" Y="0" Width="468" Height="1"></Element>
+                </Element>
+            </Element>
+            <Element ID="Craft_Prof3Page" X="6" Y="27" Width="475" Height="522">
+                <Element ID="Craft_Profession_RecipeField" X="0" Y="25" Width="470" Height="498">
+                    <Element ID="WebStoreGetRecipesButton" X="0" Y="0" Width="1" Height="1">
+                        <Element ID="WebStoreGetRecipesButton_Label" X="0" Y="0" Width="1" Height="1"></Element>
+                        <Element ID="BuyNowTextButtonReference_Left" X="0" Y="0" Width="1" Height="1"></Element>
+                        <Element ID="BuyNowTextButtonReference_Mid" X="0" Y="0" Width="1" Height="1"></Element>
+                        <Element ID="BuyNowTextButtonReference_Right" X="0" Y="0" Width="1" Height="1"></Element>
+                    </Element>
+                    <Element ID="Craft_Profession_SearchText" X="106" Y="4" Width="64" Height="20"></Element>
+                    <Element ID="Craft_Profession_SearchEntry" X="170" Y="4" Width="138" Height="20">
+                        <Element ID="Craft_Profession_SearchEntry_BG" X="0" Y="0" Width="135" Height="20">
+                            <Element ID="Box_01_Empty_InnerShadow" X="3" Y="1" Width="134" Height="18">
+                                <Element ID="InnerShadow_TopLeft" X="0" Y="0" Width="9" Height="9"></Element>
+                                <Element ID="InnerShadow_BottomLeft" X="0" Y="9" Width="9" Height="9"></Element>
+                                <Element ID="InnerShadow_BottomMid" X="9" Y="9" Width="115" Height="9"></Element>
+                                <Element ID="InnerShadow_BottomRight" X="124" Y="9" Width="9" Height="9"></Element>
+                                <Element ID="InnerShadow_TopRight" X="124" Y="0" Width="9" Height="9"></Element>
+                                <Element ID="InnerShadow_TopMid" X="9" Y="0" Width="115" Height="9"></Element>
+                            </Element>
+                            <Element ID="Box_01_Empty_LeftBorder" X="0" Y="0" Width="1" Height="20"></Element>
+                            <Element ID="Box_01_Empty_BottomBorder" X="1" Y="19" Width="132" Height="1"></Element>
+                            <Element ID="Box_01_Empty_RightBorder" X="133" Y="0" Width="1" Height="20"></Element>
+                            <Element ID="Box_01_Empty_TopBorder" X="1" Y="0" Width="132" Height="1"></Element>
+                        </Element>
+                    </Element>
+                    <Element ID="Craft_TreeBox" X="5" Y="27" Width="454" Height="450">
+                        <Element ID="Box_01_Background" X="1" Y="1" Width="452" Height="448"></Element>
+                        <Element ID="Box_01_InnerShadow" X="1" Y="1" Width="452" Height="448">
+                            <Element ID="InnerShadow_TopLeft" X="0" Y="0" Width="9" Height="9"></Element>
+                            <Element ID="InnerShadow_MidLeft" X="0" Y="9" Width="9" Height="430"></Element>
+                            <Element ID="InnerShadow_BottomLeft" X="0" Y="439" Width="9" Height="9"></Element>
+                            <Element ID="InnerShadow_BottomMid" X="9" Y="439" Width="434" Height="9"></Element>
+                            <Element ID="InnerShadow_BottomRight" X="443" Y="439" Width="9" Height="9"></Element>
+                            <Element ID="InnerShadow_MidRight" X="443" Y="9" Width="9" Height="430"></Element>
+                            <Element ID="InnerShadow_TopRight" X="443" Y="0" Width="9" Height="9"></Element>
+                            <Element ID="InnerShadow_TopMid" X="9" Y="0" Width="434" Height="9"></Element>
+                        </Element>
+                        <Element ID="Box_01_LeftBorder" X="0" Y="0" Width="1" Height="450"></Element>
+                        <Element ID="Box_01_BottomBorder" X="1" Y="449" Width="452" Height="1"></Element>
+                        <Element ID="Box_01_RightBorder" X="453" Y="0" Width="1" Height="450"></Element>
+                        <Element ID="Box_01_TopBorder" X="1" Y="0" Width="452" Height="1"></Element>
+                    </Element>
+                    <Element ID="Box_01_Empty_InnerShadow" X="1" Y="1" Width="468" Height="496">
+                        <Element ID="InnerShadow_TopLeft" X="0" Y="0" Width="9" Height="9"></Element>
+                        <Element ID="InnerShadow_MidLeft" X="0" Y="9" Width="9" Height="478"></Element>
+                        <Element ID="InnerShadow_BottomLeft" X="0" Y="487" Width="9" Height="9"></Element>
+                        <Element ID="InnerShadow_BottomMid" X="9" Y="487" Width="450" Height="9"></Element>
+                        <Element ID="InnerShadow_BottomRight" X="459" Y="487" Width="9" Height="9"></Element>
+                        <Element ID="InnerShadow_MidRight" X="459" Y="9" Width="9" Height="478"></Element>
+                        <Element ID="InnerShadow_TopRight" X="459" Y="0" Width="9" Height="9"></Element>
+                        <Element ID="InnerShadow_TopMid" X="9" Y="0" Width="450" Height="9"></Element>
+                    </Element>
+                    <Element ID="Craft_Profession_Recipe_LB" X="5" Y="27" Width="454" Height="450"></Element>
+                    <Element ID="Box_01_Empty_LeftBorder" X="0" Y="0" Width="1" Height="498"></Element>
+                    <Element ID="Craft_Profession_Recipe_SB" X="458" Y="27" Width="10" Height="450">
+                        <Element ID="scroll_bottom_field" X="0" Y="440" Width="10" Height="10"></Element>
+                        <Element ID="UpButton" X="0" Y="440" Width="10" Height="10"></Element>
+                        <Element ID="DownButton" X="0" Y="0" Width="10" Height="10"></Element>
+                        <Element ID="scroll_top_field" X="0" Y="0" Width="10" Height="10"></Element>
+                        <Element ID="widget" X="0" Y="10" Width="10" Height="430">
+                            <Element ID="widget_top_field" X="0" Y="0" Width="10" Height="10"></Element>
+                            <Element ID="widget_mid_field" X="0" Y="10" Width="10" Height="410"></Element>
+                            <Element ID="widget_bottom_field" X="0" Y="420" Width="10" Height="10"></Element>
+                        </Element>
+                        <Element ID="scroll_middle_field" X="0" Y="10" Width="10" Height="430"></Element>
+                    </Element>
+                    <Element ID="Box_01_Empty_BottomBorder" X="1" Y="497" Width="468" Height="1"></Element>
+                    <Element ID="Craft_Profession_Expand_Button" X="4" Y="6" Width="16" Height="16"></Element>
+                    <Element ID="Box_01_Empty_RightBorder" X="469" Y="0" Width="1" Height="498"></Element>
+                    <Element ID="Craft_Profession_Collapse_Button" X="23" Y="6" Width="16" Height="16"></Element>
+                    <Element ID="Box_01_Empty_TopBorder" X="1" Y="0" Width="468" Height="1"></Element>
+                </Element>
+            </Element>
+        </Element>
+        <Element ID="Craft_HideOnExecuteText" X="498" Y="553" Width="141" Height="20"></Element>
+        <Element ID="Craft_HideOnExecuteButton" X="486" Y="557" Width="10" Height="10"></Element>
+    </Element>
+</PanelFile>
