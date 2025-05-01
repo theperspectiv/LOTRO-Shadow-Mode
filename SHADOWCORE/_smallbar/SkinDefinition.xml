@@ -74,7 +74,7 @@
 ==================================================================================================== -->
 
 
-		<Element ID="ToolbarField" X="750" Y="1150" Width="450" Height="50">
+		<Element ID="ToolbarField" X="770" Y="1052" Width="450" Height="50">
 		
 				<Element ID="ToolbarFieldMain"													X="0"			Y="0"			Width="420"				Height="50"></Element>
 
@@ -602,10 +602,6 @@
 <Mapping ArtAssetID="trait_panel_normal" 												FileName="..\character\icons\trait_panel_normal.tga"></Mapping>
 <Mapping ArtAssetID="trait_panel_pressed" 												FileName="..\character\icons\trait_panel_pressed.tga"></Mapping>
 <Mapping ArtAssetID="trait_panel_rollover" 												FileName="..\character\icons\trait_panel_rollover.tga"></Mapping>
-<Mapping ArtAssetID="webstore_ghosted" 												FileName="..\character\icons\webstore_ghosted.tga"></Mapping>
-<Mapping ArtAssetID="webstore_normal" 												FileName="..\character\icons\webstore_normal.tga"></Mapping>
-<Mapping ArtAssetID="webstore_pressed" 												FileName="..\character\icons\webstore_pressed.tga"></Mapping>
-<Mapping ArtAssetID="webstore_rollover" 												FileName="..\character\icons\webstore_rollover.tga"></Mapping>
 <Mapping ArtAssetID="worldjoin_normal" 												FileName="..\character\icons\worldjoin_normal.tga"></Mapping>
 <Mapping ArtAssetID="worldjoin_pressed" 												FileName="..\character\icons\worldjoin_pressed.tga"></Mapping>
 <Mapping ArtAssetID="worldjoin_rollover" 												FileName="..\character\icons\worldjoin_rollover.tga"></Mapping>
@@ -749,17 +745,25 @@
 		<Mapping ArtAssetID="alert_new_quickslot_page"									FileName="..\..\..\JRR Skins Collection\JRR CORE\alerts\alert_new_quickslot_page.tga"></Mapping>
 		<Mapping ArtAssetID="alert_pefilterinstancesperday"								FileName="..\..\..\JRR Skins Collection\JRR CORE\alerts\alert_pefilterinstancesperday.tga"></Mapping>
 		<Mapping ArtAssetID="alert_pefilterinstancesperhour"							FileName="..\..\..\JRR Skins Collection\JRR CORE\alerts\alert_pefilterinstancesperhour.tga"></Mapping>
-		<Mapping ArtAssetID="im_chat_alert"												FileName="..\..\..\JRR Skins Collection\JRR CORE\al				erts\im_chat_alert.tga"></Mapping>
+		<Mapping ArtAssetID="im_chat_alert"												FileName="..\chat\chat_unread_overlay.tga"></Mapping>
 
-		<Mapping ArtAssetID="im_button_close_highlight_active"							FileName="..\..\..\JRR Skins Collection\JRR CORE\chat\im_button_close_highlight_active.tga"></Mapping>
-		<Mapping ArtAssetID="im_button_close_normal"									FileName="..\..\..\JRR Skins Collection\JRR CORE\chat\im_button_close_normal.tga"></Mapping>
-		<Mapping ArtAssetID="im_button_close_pressed"									FileName="..\..\..\JRR Skins Collection\JRR CORE\chat\im_button_close_pressed.tga"></Mapping>
-		<Mapping ArtAssetID="im_button_close_rollover"									FileName="..\..\..\JRR Skins Collection\JRR CORE\chat\im_button_close_rollover.tga"></Mapping>
-		<Mapping ArtAssetID="im_button_ghosted"											FileName="..\..\..\JRR Skins Collection\JRR CORE\chat\im_button_ghosted.tga"></Mapping>
-		<Mapping ArtAssetID="im_button_normal"											FileName="..\..\..\JRR Skins Collection\JRR CORE\chat\im_button_normal.tga"></Mapping>
-		<Mapping ArtAssetID="im_button_pressed"											FileName="..\..\..\JRR Skins Collection\JRR CORE\chat\im_button_pressed.tga"></Mapping>
-		<Mapping ArtAssetID="im_button_rollover"										FileName="..\..\..\JRR Skins Collection\JRR CORE\chat\im_button_rollover.tga"></Mapping>
-		<Mapping ArtAssetID="chat_unread_overlay"										FileName="..\..\..\JRR Skins Collection\JRR CORE\chat\chat_unread_overlay.tga"></Mapping>
+		<Mapping ArtAssetID="im_button_close_highlight_active"							FileName="..\chat\im_button_close_highlight_active.tga"></Mapping>
+		<Mapping ArtAssetID="im_button_close_normal"									FileName="..\chat\im_button_close_normal.tga"></Mapping>
+		<Mapping ArtAssetID="im_button_close_pressed"									FileName="..\chat\im_button_close_pressed.tga"></Mapping>
+		<Mapping ArtAssetID="im_button_close_rollover"									FileName="..\chat\im_button_close_rollover.tga"></Mapping>
+		<Mapping ArtAssetID="im_button_ghosted"											FileName="..\chat\im_button_ghosted.tga"></Mapping>
+		<Mapping ArtAssetID="im_button_normal"											FileName="..\chat\im_button_normal.tga"></Mapping>
+		<Mapping ArtAssetID="im_button_pressed"											FileName="..\chat\im_button_pressed.tga"></Mapping>
+		<Mapping ArtAssetID="im_button_rollover"										FileName="..\chat\im_button_rollover.tga"></Mapping>
+		<Mapping ArtAssetID="chat_unread_overlay"										FileName="..\chat\chat_unread_overlay.tga"></Mapping>
+		<Mapping ArtAssetID="chat_entry_focussed" 										FileName="..\chat\chat_entry_focussed.tga"/>
+		<Mapping ArtAssetID="chat_tab_tier1_middle_back_e" 								FileName="..\chat\chat_tab_tier1_middle_back_e.tga"/>
+		<Mapping ArtAssetID="chat_tab_tier1_middle_back_n" 								FileName="..\chat\chat_tab_tier1_middle_back_n.tga"/>
+		<Mapping ArtAssetID="chat_tab_tier1_middle_back_w" 								FileName="..\chat\chat_tab_tier1_middle_back_w.tga"/>
+		<Mapping ArtAssetID="chat_tab_tier1_middle_front_e" 							FileName="..\chat\chat_tab_tier1_middle_front_e.tga"/>
+		<Mapping ArtAssetID="chat_tab_tier1_middle_front_n" 							FileName="..\chat\chat_tab_tier1_middle_front_n.tga"/>
+		<Mapping ArtAssetID="chat_tab_tier1_middle_front_w" 							FileName="..\chat\chat_tab_tier1_middle_front_w.tga"/>
+		<Mapping ArtAssetID="chat_resize_widget"										FileName="..\chat\chat_resize_widget.tga"/>
 		
 		<Mapping ArtAssetID="fellow_voiceenabled"										FileName="..\..\..\JRR Skins Collection\JRR CORE\voice_chat\fellow_voiceenabled.tga"></Mapping>
 		<Mapping ArtAssetID="fellow_voiceenabled_rollover"								FileName="..\..\..\JRR Skins Collection\JRR CORE\voice_chat\fellow_voiceenabled_rollover.tga"></Mapping>
@@ -2296,10 +2300,10 @@
 		<Mapping ArtAssetID="Chargen_Box_Top"							FileName="..\..\..\JRR Skins Collection\JRR CORE\chargen\Chargen_Box_Top.tga"></Mapping>
 		<Mapping ArtAssetID="Chargen_Box_Top_Right"						FileName="..\..\..\JRR Skins Collection\JRR CORE\chargen\Chargen_Box_Top_Right.tga"></Mapping>
 
-		<Mapping ArtAssetID="vault_ui_tab"								FileName="..\..\..\JRR Skins Collection\JRR CORE\storage\vault_ui_tab.tga"></Mapping>
-		<Mapping ArtAssetID="vault_ui_tab_highlight"					FileName="..\..\..\JRR Skins Collection\JRR CORE\storage\vault_ui_tab_highlight.tga"></Mapping>
-		<Mapping ArtAssetID="vault_ui_tab_selected"						FileName="..\..\..\JRR Skins Collection\JRR CORE\storage\vault_ui_tab_selected.tga"></Mapping>
-		<Mapping ArtAssetID="chest_header_bg"							FileName="..\..\..\JRR Skins Collection\JRR CORE\storage\chest_header_bg.tga"></Mapping>
+		<Mapping ArtAssetID="vault_ui_tab"								FileName="..\storage\vault_ui_tab.tga"></Mapping>
+		<Mapping ArtAssetID="vault_ui_tab_highlight"					FileName="..\storage\vault_ui_tab_highlight.tga"></Mapping>
+		<Mapping ArtAssetID="vault_ui_tab_selected"						FileName="..\storage\vault_ui_tab_selected.tga"></Mapping>
+		<Mapping ArtAssetID="chest_header_bg"							FileName="..\storage\chest_header_bg.tga"></Mapping>
 		<Mapping ArtAssetID="trait_states_overlay_slotted"				FileName="..\..\..\JRR Skins Collection\JRR CORE\misc\trait_states_overlay_slotted.tga"></Mapping>
 		<Mapping ArtAssetID="trait_states_bg_slotted"					FileName="..\..\..\JRR Skins Collection\JRR CORE\misc\trait_states_bg_slotted.tga"></Mapping>
 		<Mapping ArtAssetID="trait_states_bg_unslotted"					FileName="..\..\..\JRR Skins Collection\JRR CORE\misc\trait_states_bg_unslotted.tga"></Mapping>
@@ -2768,9 +2772,9 @@
 		<Mapping ArtAssetID="character_panel_bg_orange"									FileName="..\character\character_panel_bg.tga"></Mapping>
 		<Mapping ArtAssetID="character_panel_bg_violet"									FileName="..\character\character_panel_bg.tga"></Mapping>
 
-		<Mapping ArtAssetID="storage_sortbar"											FileName="..\..\..\JRR Skins Collection\JRR CORE\storage\storage_sortbar.tga"></Mapping>
-		<Mapping ArtAssetID="ButtonBar"													FileName="..\..\..\JRR Skins Collection\JRR CORE\storage\ButtonBar.tga"></Mapping>
-		<Mapping ArtAssetID="storage_header"											FileName="..\..\..\JRR Skins Collection\JRR CORE\storage\storage_header.tga"></Mapping>
+		<Mapping ArtAssetID="storage_sortbar"											FileName="..\storage\storage_sortbar.tga"></Mapping>
+		<Mapping ArtAssetID="ButtonBar"													FileName="..\ButtonBar.tga"></Mapping>
+		<Mapping ArtAssetID="storage_header"											FileName="..\storage_header.tga"></Mapping>
 		<Mapping ArtAssetID="storage_bottombar"											FileName="..\invisible2.tga"></Mapping>
 		<Mapping ArtAssetID="vault_expanding_background_top_left"						FileName="..\invisible2.tga"></Mapping>
 		<Mapping ArtAssetID="vault_expanding_background_top_right"						FileName="..\invisible2.tga"></Mapping>
@@ -2907,7 +2911,7 @@
 				  </Element>
 		</Element>
  </PanelFile>
-<Mapping ArtAssetID="journal_paperdoll_border_inspect"					FileName="..\dressroom\dr	essroom.jpg"></Mapping>
+<Mapping ArtAssetID="journal_paperdoll_border_inspect"					FileName="..\dressroom\dressroom.jpg"></Mapping>
 		<Mapping ArtAssetID="dressing_room_dye_background"						FileName="..\basebox\dressing_room_dye_background.tga"></Mapping>
 		<Mapping ArtAssetID="button_chest_highlight"							FileName="..\..\..\JRR Skins Collection\JRR CORE\dressroom\button_chest_highlight.tga"></Mapping>
 		<Mapping ArtAssetID="button_chest_highlight_rollover"					FileName="..\..\..\JRR Skins Collection\JRR CORE\dressroom\button_chest_highlight_rollover.tga"></Mapping>
