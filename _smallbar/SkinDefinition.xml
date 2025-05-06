@@ -666,6 +666,23 @@
 <Mapping ArtAssetID="new_expand_normal" 										FileName="..\SHADOWCORE\expandcollapse\new_expand_normal.tga"></Mapping>
 <Mapping ArtAssetID="new_expand_pressed" 										FileName="..\SHADOWCORE\expandcollapse\new_expand_pressed.tga"></Mapping>
 <Mapping ArtAssetID="new_expand_highlight" 										FileName="..\SHADOWCORE\expandcollapse\new_expand_highlight.tga"></Mapping>
+<Mapping ArtAssetID="collapse_all_button" 										FileName="..\SHADOWCORE\expandcollapse\collapse_all_button.tga"></Mapping>
+<Mapping ArtAssetID="collapse_all_button_new" 									FileName="..\SHADOWCORE\expandcollapse\collapse_all_button_new.tga"></Mapping>
+<Mapping ArtAssetID="collapse_all_button_pressed" 								FileName="..\SHADOWCORE\expandcollapse\collapse_all_button_pressed.tga"></Mapping>
+<Mapping ArtAssetID="collapse_all_button_pressed_new" 							FileName="..\SHADOWCORE\expandcollapse\collapse_all_button_pressed_new.tga"></Mapping>
+<Mapping ArtAssetID="collapse_all_button_rollover" 								FileName="..\SHADOWCORE\expandcollapse\collapse_all_button_rollover.tga"></Mapping>
+<Mapping ArtAssetID="collapse_all_button_rollover_new" 							FileName="..\SHADOWCORE\expandcollapse\collapse_all_button_rollover_new.tga"></Mapping>
+<Mapping ArtAssetID="collapse_button" 											FileName="..\SHADOWCORE\expandcollapse\collapse_button.tga"></Mapping>
+<Mapping ArtAssetID="collapse_button_new" 										FileName="..\SHADOWCORE\expandcollapse\collapse_button_new.tga"></Mapping>
+
+<Mapping ArtAssetID="expand_all_button" 										FileName="..\SHADOWCORE\expandcollapse\expand_all_button.tga"></Mapping>
+<Mapping ArtAssetID="expand_all_button_new" 									FileName="..\SHADOWCORE\expandcollapse\expand_all_button_new.tga"></Mapping>
+<Mapping ArtAssetID="expand_all_button_pressed" 								FileName="..\SHADOWCORE\expandcollapse\expand_all_button_pressed.tga"></Mapping>
+<Mapping ArtAssetID="expand_all_button_pressed_new"								FileName="..\SHADOWCORE\expandcollapse\expand_all_button_pressed_new.tga"></Mapping>
+<Mapping ArtAssetID="expand_all_button_rollover" 								FileName="..\SHADOWCORE\expandcollapse\expand_all_button_rollover.tga"></Mapping>
+<Mapping ArtAssetID="expand_all_button_rollover_new"							FileName="..\SHADOWCORE\expandcollapse\expand_all_button_rollover_new.tga"></Mapping>
+<Mapping ArtAssetID="expand_button" 											FileName="..\SHADOWCORE\expandcollapse\expand_button.tga"></Mapping>
+<Mapping ArtAssetID="expand_button_new" 										FileName="..\SHADOWCORE\expandcollapse\expand_button_new.tga"></Mapping>
 
 <!-- innerShadow -->
 <Mapping ArtAssetID="innershadow_bottom" 										FileName="..\SHADOWCORE\innershadow\innershadow_bottom.tga"></Mapping>
@@ -1054,6 +1071,11 @@
 <Mapping ArtAssetID="panel_border"												FileName="..\SHADOWCORE\misc\panel_border.tga"></Mapping>
 
 <Mapping ArtAssetID="journal_paperdoll_border_inspect"							FileName="..\SHADOWCORE\invisible2.tga"></Mapping>
+
+<Mapping ArtAssetID="journal_paperdoll_item_background_left"					FileName="..\SHADOWCORE\invisible2.tga"></Mapping>
+<Mapping ArtAssetID="journal_paperdoll_item_background_right"					FileName="..\SHADOWCORE\invisible2.tga"></Mapping>
+<Mapping ArtAssetID="journal_character_header_bg"								FileName="..\SHADOWCORE\misc\journal_character_header_bg.tga"></Mapping>
+<Mapping ArtAssetID="journal_character_header_seperator"						FileName="..\SHADOWCORE\misc\journal_character_header_separator.tga"></Mapping>
 
 
 <!-- END of Obi's Changes -->
@@ -3035,10 +3057,7 @@
 
 
 <!-- Inspect -->
-<Mapping ArtAssetID="journal_paperdoll_item_background_left"					FileName="..\..\JRR Skins collection\JRR CORE\invisible2.tga"></Mapping>
-<Mapping ArtAssetID="journal_paperdoll_item_background_right"					FileName="..\..\JRR Skins collection\JRR CORE\invisible2.tga"></Mapping>
-<Mapping ArtAssetID="journal_character_header_bg"								FileName="..\..\JRR Skins collection\JRR CORE\misc\journal_character_header_bg.tga"></Mapping>
-<Mapping ArtAssetID="journal_character_header_seperator"						FileName="..\..\JRR Skins collection\JRR CORE\misc\journal_character_header_separator.tga"></Mapping>
+
 <Mapping ArtAssetID="itemAdvancement_inspect_background"						FileName="..\..\JRR Skins collection\JRR CORE\misc\itemAdvancement_inspect_background.tga"></Mapping>
 <Mapping ArtAssetID="itemAdvancement_header_titleBg"							FileName="..\..\JRR Skins collection\JRR CORE\misc\itemAdvancement_header_titleBg.tga"></Mapping>
 
