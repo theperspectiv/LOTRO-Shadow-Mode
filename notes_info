@@ -2,8 +2,8 @@ colors:
 #111111 bg1 (window chrome)
 #0F0F0F bg2 (interactive panels inside windows)
 #202020 button normal
-button hovered
-button pressed/active/toggled
+#404040 button hovered
+#606060 button pressed/active/toggled
 
 associations:
 basepanel = tooltips

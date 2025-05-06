@@ -451,6 +451,23 @@
 
 <!-- Character Panel -->
 
+<Mapping ArtAssetID="character_panel_appearance_border"							FileName="..\SHADOWCORE\character\character_panel_appearance_border.tga"></Mapping>
+<Mapping ArtAssetID="character_panel_equipment_border"							FileName="..\SHADOWCORE\character\character_panel_equipment_border.tga"></Mapping>
+<Mapping ArtAssetID="character_panel_tab_border_active"							FileName="..\SHADOWCORE\character\character_panel_tab_border_active.tga"></Mapping>
+<Mapping ArtAssetID="character_panel_tab_border_inactive"						FileName="..\SHADOWCORE\character\character_panel_tab_border_inactive.tga"></Mapping>
+<Mapping ArtAssetID="box_treelist_header_darkblue"								FileName="..\SHADOWCORE\character\box_treelist_header_darkblue.tga"></Mapping>
+<Mapping ArtAssetID="character_panel_title_button_normal"						FileName="..\SHADOWCORE\character\character_panel_title_button_normal.tga"></Mapping>
+<Mapping ArtAssetID="character_panel_title_button_pressed"						FileName="..\SHADOWCORE\character\character_panel_title_button_pressed.tga"></Mapping>
+<Mapping ArtAssetID="character_panel_title_button_rollover"						FileName="..\SHADOWCORE\character\character_panel_title_button_rollover.tga"></Mapping>
+<Mapping ArtAssetID="character_panel_bg_blue"									FileName="..\SHADOWCORE\invisible2.tga"></Mapping> 
+<Mapping ArtAssetID="character_panel_bg_aqua"									FileName="..\SHADOWCORE\invisible2.tga"></Mapping>  
+<Mapping ArtAssetID="character_panel_bg_green"									FileName="..\SHADOWCORE\invisible2.tga"></Mapping>  
+<Mapping ArtAssetID="character_panel_bg_purple"									FileName="..\SHADOWCORE\invisible2.tga"></Mapping> 
+<Mapping ArtAssetID="character_panel_bg_yellow"									FileName="..\SHADOWCORE\invisible2.tga"></Mapping> 
+<Mapping ArtAssetID="character_panel_bg_red"									FileName="..\SHADOWCORE\invisible2.tga"></Mapping> 
+<Mapping ArtAssetID="character_panel_bg_orange"									FileName="..\SHADOWCORE\invisible2.tga"></Mapping> 
+<Mapping ArtAssetID="character_panel_bg_violet"									FileName="..\SHADOWCORE\invisible2.tga"></Mapping> 
+
 <Mapping ArtAssetID="bio_normal" 												FileName="..\SHADOWCORE\character\icons\bio_normal.tga"></Mapping>
 <Mapping ArtAssetID="bio_pressed" 												FileName="..\SHADOWCORE\character\icons\bio_pressed.tga"></Mapping>
 <Mapping ArtAssetID="bio_rollover" 												FileName="..\SHADOWCORE\character\icons\bio_rollover.tga"></Mapping>
@@ -581,10 +598,6 @@
 <Mapping ArtAssetID="worldjoin_pressed" 												FileName="..\SHADOWCORE\character\icons\worldjoin_pressed.tga"></Mapping>
 <Mapping ArtAssetID="worldjoin_rollover" 												FileName="..\SHADOWCORE\character\icons\worldjoin_rollover.tga"></Mapping>
 
-<Mapping ArtAssetID="character_panel_appearance_border"							FileName="..\SHADOWCORE\character\character_panel_appearance_border.tga"></Mapping>
-<Mapping ArtAssetID="character_panel_equipment_border"							FileName="..\SHADOWCORE\character\character_panel_equipment_border.tga"></Mapping>
-<Mapping ArtAssetID="character_panel_tab_border_active"							FileName="..\SHADOWCORE\character\character_panel_tab_border_active.tga"></Mapping>
-<Mapping ArtAssetID="character_panel_tab_border_inactive"						FileName="..\SHADOWCORE\character\character_panel_tab_border_inactive.tga"></Mapping>
 
 <!-- chargen-->
 
@@ -2703,7 +2716,6 @@
 <Mapping ArtAssetID="larger_overlay_silver_theater"				FileName="..\..\JRR Skins collection\JRR CORE\misc\larger_overlay_silver_theater.tga"></Mapping>
 <Mapping ArtAssetID="startmenu_entry_icon_back"					FileName="..\..\JRR Skins collection\JRR CORE\misc\startmenu_entry_icon_back.tga"></Mapping>
 
-<Mapping ArtAssetID="box_treelist_header_darkblue"				FileName="..\..\JRR Skins collection\JRR CORE\character\box_treelist_header_darkblue.tga"></Mapping>
 <Mapping ArtAssetID="cosmetic_outfit_button_highlight"			FileName="..\..\JRR Skins collection\JRR CORE\character\cosmetic_outfit_button_highlight.tga"></Mapping>
 <Mapping ArtAssetID="chargen_buttons_normal_left"				FileName="..\..\JRR Skins collection\JRR CORE\character\chargen_buttons_normal_left.tga"></Mapping>
 <Mapping ArtAssetID="chargen_buttons_normal_minus"				FileName="..\..\JRR Skins collection\JRR CORE\character\chargen_buttons_normal_minus.tga"></Mapping>
@@ -2748,10 +2760,6 @@
 <Mapping ArtAssetID="character_panel_zoom_focus_waist_highlight" FileName="..\..\JRR Skins collection\JRR CORE\character\character_panel_zoom_focus_waist_highlight.tga"></Mapping>
 <Mapping ArtAssetID="character_panel_zoom_focus_waist_normal"	FileName="..\..\JRR Skins collection\JRR CORE\character\character_panel_zoom_focus_waist_normal.tga"></Mapping>
 <Mapping ArtAssetID="character_panel_zoom_focus_waist_pressed"	FileName="..\..\JRR Skins collection\JRR CORE\character\character_panel_zoom_focus_waist_pressed.tga"></Mapping>
-
-<Mapping ArtAssetID="character_panel_title_button_normal"		FileName="..\..\JRR Skins collection\JRR CORE\character\character_panel_title_button_normal.tga"></Mapping>
-<Mapping ArtAssetID="character_panel_title_button_pressed"		FileName="..\..\JRR Skins collection\JRR CORE\character\character_panel_title_button_pressed.tga"></Mapping>
-<Mapping ArtAssetID="character_panel_title_button_rollover"		FileName="..\..\JRR Skins collection\JRR CORE\character\character_panel_title_button_rollover.tga"></Mapping>
 
 <Mapping ArtAssetID="skill_search_background"					FileName="..\..\JRR Skins collection\JRR CORE\misc\skill_search_background.tga"></Mapping>
 
@@ -2878,7 +2886,7 @@
 
 <Mapping ArtAssetID="selection_inanimate_backdrop"		FileName="..\..\JRR Skins collection\JRR CORE\misc\backdrop.tga"></Mapping>
 <Mapping ArtAssetID="money_player_all_background"		FileName="..\..\JRR Skins collection\JRR CORE\misc\money.tga"></Mapping>
-<Mapping ArtAssetID="pedigree_bg"								FileName="misc\bio.jpg"></Mapping>
+<Mapping ArtAssetID="pedigree_bg"								FileName="..\SHADOWCORE\invisible2.tga"></Mapping>
 <Mapping ArtAssetID="actionPicker_base_background"				FileName="..\..\JRR Skins collection\JRR CORE\misc\actionPicker_base_background.tga"></Mapping>
 <Mapping ArtAssetID="vendor_basebar_high"								FileName="..\..\JRR Skins collection\JRR CORE\misc\vendor_basebar_high.tga"></Mapping>
 <Mapping ArtAssetID="vendor_basebar_low"								FileName="..\..\JRR Skins collection\JRR CORE\misc\vendor_basebar_low.tga"></Mapping>
@@ -2986,16 +2994,6 @@
 <Mapping ArtAssetID="questTrackerWindow_t" FileName="..\..\JRR Skins collection\JRR CORE\Invisible2.tga"></Mapping>
 <Mapping ArtAssetID="questTrackerWindow_tl" FileName="..\..\JRR Skins collection\JRR CORE\Invisible2.tga"></Mapping>
 <Mapping ArtAssetID="questTrackerWindow_tr" FileName="..\..\JRR Skins collection\JRR CORE\Invisible2.tga"></Mapping>
-
-
-<Mapping ArtAssetID="character_panel_bg_blue"									FileName="misc\character_panel_bg.jpg"></Mapping> 
-<Mapping ArtAssetID="character_panel_bg_aqua"									FileName="misc\character_panel_bg.jpg"></Mapping>  
-<Mapping ArtAssetID="character_panel_bg_green"									FileName="misc\character_panel_bg.jpg"></Mapping>  
-<Mapping ArtAssetID="character_panel_bg_purple"									FileName="misc\character_panel_bg.jpg"></Mapping> 
-<Mapping ArtAssetID="character_panel_bg_yellow"									FileName="misc\character_panel_bg.jpg"></Mapping> 
-<Mapping ArtAssetID="character_panel_bg_red"									FileName="misc\character_panel_bg.jpg"></Mapping> 
-<Mapping ArtAssetID="character_panel_bg_orange"									FileName="misc\character_panel_bg.jpg"></Mapping> 
-<Mapping ArtAssetID="character_panel_bg_violet"									FileName="misc\character_panel_bg.jpg"></Mapping> 
 
 <Mapping ArtAssetID="storage_sortbar"											FileName="..\..\JRR Skins collection\JRR CORE\storage\storage_sortbar.tga"></Mapping>
 <Mapping ArtAssetID="ButtonBar"													FileName="..\..\JRR Skins collection\JRR CORE\storage\ButtonBar.tga"></Mapping>
