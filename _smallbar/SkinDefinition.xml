@@ -420,7 +420,7 @@
 <Mapping ArtAssetID="balance_box_r"												FileName="..\SHADOWCORE\basebox\balance_box_r.tga"></Mapping>
 
 <Mapping ArtAssetID="box_01_titlebar"											FileName="..\SHADOWCORE\basebox\box_01_titlebar.tga"></Mapping>
-<Mapping ArtAssetID="BaseBox_BlueBG"											FileName="..\SHADOWCORE\basebox\center_silver.tga"></Mapping>
+<Mapping ArtAssetID="BaseBox_BlueBG"											FileName="..\SHADOWCORE\basebox\BaseBox_BlueBG.tga"></Mapping>
 
 <Mapping ArtAssetID="base_box_center"				  							FileName="..\SHADOWCORE\basebox\center_silver.tga"></Mapping>
 <Mapping ArtAssetID="base_box_center_silver"		  							FileName="..\SHADOWCORE\basebox\center_silver.tga"></Mapping>
@@ -452,6 +452,7 @@
 <Mapping ArtAssetID="basepanel_topmid"				  							FileName="..\SHADOWCORE\basepanel3\topmid.tga"></Mapping>
 <Mapping ArtAssetID="basepanel_topright"			  							FileName="..\SHADOWCORE\basepanel3\topright.tga"></Mapping>
 
+<!-- subpanels in crafting window, quest dialog -->
 <Mapping ArtAssetID="quest_dialog_blue_bg_bottom_left" 							FileName="..\SHADOWCORE\basepanel2\blue_bg_bottom_left.tga"></Mapping>
 <Mapping ArtAssetID="quest_dialog_blue_bg_bottom_mid" 							FileName="..\SHADOWCORE\basepanel2\blue_bg_bottom_mid.tga"></Mapping>
 <Mapping ArtAssetID="quest_dialog_blue_bg_bottom_right" 						FileName="..\SHADOWCORE\basepanel2\blue_bg_bottom_right.tga"></Mapping>
@@ -474,8 +475,9 @@
 <Mapping ArtAssetID="panel_oneWayResize_vert_icon"								FileName="..\SHADOWCORE\basepanel\panel_oneWayResize_vert_icon.tga"></Mapping>
 <Mapping ArtAssetID="panel_resize_icon"											FileName="..\SHADOWCORE\basepanel\panel_resize_icon.tga"></Mapping>
 
-<Mapping ArtAssetID="box_silver_bottom_left_noadorn_min"						FileName="..\SHADOWCORE\silver\bottom_left.tga"></Mapping>
+<!-- some windows -->
 <Mapping ArtAssetID="box_silver_bottom_min"										FileName="..\SHADOWCORE\silver\bottom.tga"></Mapping>
+<Mapping ArtAssetID="box_silver_bottom_left_noadorn_min"						FileName="..\SHADOWCORE\silver\bottom_left.tga"></Mapping>
 <Mapping ArtAssetID="box_silver_lower_right_noadorn_min"						FileName="..\SHADOWCORE\silver\lower_right.tga"></Mapping>
 <Mapping ArtAssetID="box_silver_side_left_min"									FileName="..\SHADOWCORE\silver\side_left.tga"></Mapping>
 <Mapping ArtAssetID="box_silver_side_right_min"									FileName="..\SHADOWCORE\silver\side_right.tga"></Mapping>
@@ -483,6 +485,7 @@
 <Mapping ArtAssetID="box_silver_upper_min"										FileName="..\SHADOWCORE\silver\upper.tga"></Mapping>
 <Mapping ArtAssetID="box_silver_upper_right_noadorn_min"						FileName="..\SHADOWCORE\silver\upper_right.tga"></Mapping>
 
+<!-- most windows -->
 <Mapping ArtAssetID="box_silver_bottom"				 							FileName="..\SHADOWCORE\silver2\bottom.tga"></Mapping>
 <Mapping ArtAssetID="box_silver_bottom_left_noadorn"  							FileName="..\SHADOWCORE\silver2\bottom_left.tga"></Mapping>
 <Mapping ArtAssetID="box_silver_lower_right_noadorn" 							FileName="..\SHADOWCORE\silver2\lower_right.tga"></Mapping>
@@ -496,23 +499,23 @@
 <Mapping ArtAssetID="box_silver_upper_left"			 							FileName="..\SHADOWCORE\silver2\upper_left.tga"></Mapping>
 <Mapping ArtAssetID="box_silver_upper_right"		 							FileName="..\SHADOWCORE\silver2\upper_right.tga"></Mapping>
 
-<Mapping ArtAssetID="box_gold_bottom_left_light"								FileName="..\SHADOWCORE\silver\bottom_left.tga"></Mapping>
-<Mapping ArtAssetID="box_gold_bottom_light"										FileName="..\SHADOWCORE\silver\bottom.tga"></Mapping>
-<Mapping ArtAssetID="box_gold_lower_right_light"								FileName="..\SHADOWCORE\silver\lower_right.tga"></Mapping>
-<Mapping ArtAssetID="box_gold_side_left_light"									FileName="..\SHADOWCORE\silver\side_left.tga"></Mapping>
-<Mapping ArtAssetID="box_gold_side_right_light"									FileName="..\SHADOWCORE\silver\side_right.tga"></Mapping>
-<Mapping ArtAssetID="box_gold_upper_left_light"									FileName="..\SHADOWCORE\silver\upper_left.tga"></Mapping>
-<Mapping ArtAssetID="box_gold_upper_light"										FileName="..\SHADOWCORE\silver\upper.tga"></Mapping>
-<Mapping ArtAssetID="box_gold_upper_right_light"								FileName="..\SHADOWCORE\silver\upper_right.tga"></Mapping>
+<Mapping ArtAssetID="box_silver_bottom_light"									FileName="..\SHADOWCORE\silver3\bottom.tga"></Mapping>
+<Mapping ArtAssetID="box_silver_bottom_left_light"								FileName="..\SHADOWCORE\silver3\bottom_left.tga"></Mapping>
+<Mapping ArtAssetID="box_silver_lower_right_light"								FileName="..\SHADOWCORE\silver3\lower_right.tga"></Mapping>
+<Mapping ArtAssetID="box_silver_side_left_light"								FileName="..\SHADOWCORE\silver3\side_left.tga"></Mapping>
+<Mapping ArtAssetID="box_silver_side_right_light"								FileName="..\SHADOWCORE\silver3\side_right.tga"></Mapping>
+<Mapping ArtAssetID="box_silver_upper_light"									FileName="..\SHADOWCORE\silver3\upper.tga"></Mapping>
+<Mapping ArtAssetID="box_silver_upper_left_light"								FileName="..\SHADOWCORE\silver3\upper_left.tga"></Mapping>
+<Mapping ArtAssetID="box_silver_upper_right_light"								FileName="..\SHADOWCORE\silver3\upper_right.tga"></Mapping>
 
-<Mapping ArtAssetID="box_silver_bottom_light"									FileName="..\SHADOWCORE\silver\bottom.tga"></Mapping>
-<Mapping ArtAssetID="box_silver_bottom_left_light"								FileName="..\SHADOWCORE\silver\bottom_left.tga"></Mapping>
-<Mapping ArtAssetID="box_silver_lower_right_light"								FileName="..\SHADOWCORE\silver\lower_right.tga"></Mapping>
-<Mapping ArtAssetID="box_silver_side_left_light"								FileName="..\SHADOWCORE\silver\side_left.tga"></Mapping>
-<Mapping ArtAssetID="box_silver_side_right_light"								FileName="..\SHADOWCORE\silver\side_right.tga"></Mapping>
-<Mapping ArtAssetID="box_silver_upper_light"									FileName="..\SHADOWCORE\silver\upper.tga"></Mapping>
-<Mapping ArtAssetID="box_silver_upper_left_light"								FileName="..\SHADOWCORE\silver\upper_left.tga"></Mapping>
-<Mapping ArtAssetID="box_silver_upper_right_light"								FileName="..\SHADOWCORE\silver\upper_right.tga"></Mapping>
+<Mapping ArtAssetID="box_gold_bottom_left_light"								FileName="..\SHADOWCORE\silver4\bottom_left.tga"></Mapping>
+<Mapping ArtAssetID="box_gold_bottom_light"										FileName="..\SHADOWCORE\silver4\bottom.tga"></Mapping>
+<Mapping ArtAssetID="box_gold_lower_right_light"								FileName="..\SHADOWCORE\silver4\lower_right.tga"></Mapping>
+<Mapping ArtAssetID="box_gold_side_left_light"									FileName="..\SHADOWCORE\silver4\side_left.tga"></Mapping>
+<Mapping ArtAssetID="box_gold_side_right_light"									FileName="..\SHADOWCORE\silver4\side_right.tga"></Mapping>
+<Mapping ArtAssetID="box_gold_upper_left_light"									FileName="..\SHADOWCORE\silver4\upper_left.tga"></Mapping>
+<Mapping ArtAssetID="box_gold_upper_light"										FileName="..\SHADOWCORE\silver4\upper.tga"></Mapping>
+<Mapping ArtAssetID="box_gold_upper_right_light"								FileName="..\SHADOWCORE\silver4\upper_right.tga"></Mapping>
 
 <Mapping ArtAssetID="blue_silver_box_traits_bottom_center"						FileName="..\SHADOWCORE\silver\blue_silver_box_traits_bottom_center.tga"></Mapping>
 <Mapping ArtAssetID="blue_silver_box_traits_bottom_left"						FileName="..\SHADOWCORE\silver\blue_silver_box_traits_bottom_left.tga"></Mapping>
@@ -727,6 +730,16 @@
 <Mapping ArtAssetID="button_feet_highlight_rollover"							FileName="..\SHADOWCORE\dressroom\button_feet_highlight_rollover.tga"></Mapping>
 <Mapping ArtAssetID="button_feet_normal"										FileName="..\SHADOWCORE\dressroom\button_feet_normal.tga"></Mapping>
 <Mapping ArtAssetID="button_feet_normal_pressed"								FileName="..\SHADOWCORE\dressroom\button_feet_normal_pressed.tga"></Mapping>
+
+<!-- crafting window -->
+<Mapping ArtAssetID="craft_mastery_icon" 										FileName="..\SHADOWCORE\crafting\craft_mastery_icon.tga"></Mapping>
+<Mapping ArtAssetID="craft_meter_bg_mastery" 									FileName="..\SHADOWCORE\crafting\craft_meter_bg_mastery.tga"></Mapping>
+<Mapping ArtAssetID="craft_meter_bg_proficient" 								FileName="..\SHADOWCORE\crafting\craft_meter_bg_proficient.tga"></Mapping>
+<Mapping ArtAssetID="craft_meter_red_bg" 										FileName="..\SHADOWCORE\crafting\craft_meter_red_bg.tga"></Mapping>
+<Mapping ArtAssetID="craft_meter_yellow_bg" 									FileName="..\SHADOWCORE\crafting\craft_meter_yellow_bg.tga"></Mapping>
+<Mapping ArtAssetID="craft_regular_icon" 										FileName="..\SHADOWCORE\crafting\craft_regular_icon.tga"></Mapping>
+<Mapping ArtAssetID="icon_craft_master" 										FileName="..\SHADOWCORE\crafting\icon_craft_master.tga"></Mapping>
+<Mapping ArtAssetID="icon_craft_proficient" 									FileName="..\SHADOWCORE\crafting\icon_craft_proficient.tga"></Mapping>
 
 <!-- dropdown menu/select box -->
 <Mapping ArtAssetID="basepanel_bottomleft_blue"									FileName="..\SHADOWCORE\dropdown\_bottomleft.tga"></Mapping>
