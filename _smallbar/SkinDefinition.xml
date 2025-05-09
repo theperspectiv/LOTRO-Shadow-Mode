@@ -751,6 +751,16 @@
 <Mapping ArtAssetID="icon_craft_master" 										FileName="..\SHADOWCORE\crafting\icon_craft_master.tga"></Mapping>
 <Mapping ArtAssetID="icon_craft_proficient" 									FileName="..\SHADOWCORE\crafting\icon_craft_proficient.tga"></Mapping>
 
+<!-- deed log -->
+<Mapping ArtAssetID="accomplishment_book_background"							FileName="..\SHADOWCORE\deeds\accomplishment_book_background.tga"></Mapping>
+<Mapping ArtAssetID="blue_selection_accomplishment_normal_new"					FileName="..\SHADOWCORE\deeds\blue_selection_accomplishment_normal_new.tga"></Mapping> 
+<Mapping ArtAssetID="blue_selection_accomplishment_normal_new_74"				FileName="..\SHADOWCORE\deeds\blue_selection_accomplishment_normal_new_74.tga"></Mapping> 
+<Mapping ArtAssetID="blue_selection_accomplishment_highlight"					FileName="..\SHADOWCORE\deeds\blue_selection_accomplishment_highlight.tga"></Mapping>
+<Mapping ArtAssetID="blue_selection_accomplishment_highlight_74"				FileName="..\SHADOWCORE\deeds\blue_selection_accomplishment_highlight_74.tga"></Mapping>
+<Mapping ArtAssetID="blue_selection_accomplishment_highlight_active"			FileName="..\SHADOWCORE\deeds\blue_selection_accomplishment_highlight_active.tga"></Mapping>
+<Mapping ArtAssetID="blue_selection_accomplishment_highlight_active_74"			FileName="..\SHADOWCORE\deeds\blue_selection_accomplishment_highlight_active_74.tga"></Mapping>
+
+
 <!-- dropdown menu/select box -->
 <Mapping ArtAssetID="basepanel_bottomleft_blue"									FileName="..\SHADOWCORE\dropdown\_bottomleft.tga"></Mapping>
 <Mapping ArtAssetID="basepanel_bottommid_blue"									FileName="..\SHADOWCORE\dropdown\_bottommid.tga"></Mapping>
@@ -2336,14 +2346,6 @@
 <Mapping ArtAssetID="icon_rotation_x"											FileName="..\..\JRR Skins collection\JRR CORE\housing\icon_rotation_x.tga"></Mapping>
 <Mapping ArtAssetID="icon_rotation_y"											FileName="..\..\JRR Skins collection\JRR CORE\housing\icon_rotation_y.tga"></Mapping>
 <Mapping ArtAssetID="icon_rotation_z"											FileName="..\..\JRR Skins collection\JRR CORE\housing\icon_rotation_z.tga"></Mapping>
-
-<Mapping ArtAssetID="accomplishment_book_background"							FileName="..\..\JRR Skins collection\JRR CORE\deed log\accomplishment_book_background.jpg"></Mapping>
-<Mapping ArtAssetID="blue_selection_accomplishment_normal_new"					FileName="..\..\JRR Skins collection\JRR CORE\deed log\blue_selection_accomplishment_normal_new.tga"></Mapping> 
-<Mapping ArtAssetID="blue_selection_accomplishment_normal_new_74"				FileName="..\..\JRR Skins collection\JRR CORE\deed log\blue_selection_accomplishment_normal_new_74.tga"></Mapping> 
-<Mapping ArtAssetID="blue_selection_accomplishment_highlight"					FileName="..\..\JRR Skins collection\JRR CORE\deed log\blue_selection_accomplishment_highlight.tga"></Mapping>
-<Mapping ArtAssetID="blue_selection_accomplishment_highlight_74"				FileName="..\..\JRR Skins collection\JRR CORE\deed log\blue_selection_accomplishment_highlight_74.tga"></Mapping>
-<Mapping ArtAssetID="blue_selection_accomplishment_highlight_active"			FileName="..\..\JRR Skins collection\JRR CORE\deed log\blue_selection_accomplishment_highlight_active.tga"></Mapping>
-<Mapping ArtAssetID="blue_selection_accomplishment_highlight_active_74"			FileName="..\..\JRR Skins collection\JRR CORE\deed log\blue_selection_accomplishment_highlight_active_74.tga"></Mapping>
 
 <Mapping ArtAssetID="itemAdvancement_reforge"									FileName="..\..\JRR Skins collection\JRR CORE\itemAdvancement\itemAdvancement_reforge.tga"></Mapping>
 <Mapping ArtAssetID="itemAdvancement_reforge_ghosted"							FileName="..\..\JRR Skins collection\JRR CORE\itemAdvancement\itemAdvancement_reforge_ghosted.tga"></Mapping>
