@@ -431,6 +431,8 @@
 
 <Mapping ArtAssetID="mithril_popup_box_bg_wide"									FileName="..\SHADOWCORE\invisible2.tga"></Mapping>
 
+
+<!-- subpanels (like in left side of crafting window) -->
 <Mapping ArtAssetID="black_translucent" 										FileName="..\SHADOWCORE\misc\large_panel_bg.tga"></Mapping>
 
 <!-- tooltips -->
@@ -452,7 +454,7 @@
 <Mapping ArtAssetID="basepanel_topmid"				  							FileName="..\SHADOWCORE\basepanel3\topmid.tga"></Mapping>
 <Mapping ArtAssetID="basepanel_topright"			  							FileName="..\SHADOWCORE\basepanel3\topright.tga"></Mapping>
 
-<!-- subpanels in crafting window, quest dialog -->
+<!-- subpanels like in right side of in crafting window, quest dialog -->
 <Mapping ArtAssetID="quest_dialog_blue_bg_bottom_left" 							FileName="..\SHADOWCORE\basepanel2\blue_bg_bottom_left.tga"></Mapping>
 <Mapping ArtAssetID="quest_dialog_blue_bg_bottom_mid" 							FileName="..\SHADOWCORE\basepanel2\blue_bg_bottom_mid.tga"></Mapping>
 <Mapping ArtAssetID="quest_dialog_blue_bg_bottom_right" 						FileName="..\SHADOWCORE\basepanel2\blue_bg_bottom_right.tga"></Mapping>
@@ -475,7 +477,7 @@
 <Mapping ArtAssetID="panel_oneWayResize_vert_icon"								FileName="..\SHADOWCORE\basepanel\panel_oneWayResize_vert_icon.tga"></Mapping>
 <Mapping ArtAssetID="panel_resize_icon"											FileName="..\SHADOWCORE\basepanel\panel_resize_icon.tga"></Mapping>
 
-<!-- some windows -->
+<!-- "chrome" for some windows -->
 <Mapping ArtAssetID="box_silver_bottom_min"										FileName="..\SHADOWCORE\silver\bottom.tga"></Mapping>
 <Mapping ArtAssetID="box_silver_bottom_left_noadorn_min"						FileName="..\SHADOWCORE\silver\bottom_left.tga"></Mapping>
 <Mapping ArtAssetID="box_silver_lower_right_noadorn_min"						FileName="..\SHADOWCORE\silver\lower_right.tga"></Mapping>
@@ -485,7 +487,7 @@
 <Mapping ArtAssetID="box_silver_upper_min"										FileName="..\SHADOWCORE\silver\upper.tga"></Mapping>
 <Mapping ArtAssetID="box_silver_upper_right_noadorn_min"						FileName="..\SHADOWCORE\silver\upper_right.tga"></Mapping>
 
-<!-- most windows -->
+<!-- "chrome" for most windows -->
 <Mapping ArtAssetID="box_silver_bottom"				 							FileName="..\SHADOWCORE\silver2\bottom.tga"></Mapping>
 <Mapping ArtAssetID="box_silver_bottom_left_noadorn"  							FileName="..\SHADOWCORE\silver2\bottom_left.tga"></Mapping>
 <Mapping ArtAssetID="box_silver_lower_right_noadorn" 							FileName="..\SHADOWCORE\silver2\lower_right.tga"></Mapping>
@@ -784,7 +786,7 @@
 <Mapping ArtAssetID="expand_button" 											FileName="..\SHADOWCORE\expandcollapse\expand_button.tga"></Mapping>
 <Mapping ArtAssetID="expand_button_new" 										FileName="..\SHADOWCORE\expandcollapse\expand_button_new.tga"></Mapping>
 
-<!-- innerShadow -->
+<!-- innershadow (crafting panel left side) -->
 <Mapping ArtAssetID="innershadow_bottom" 										FileName="..\SHADOWCORE\innershadow\innershadow_bottom.tga"></Mapping>
 <Mapping ArtAssetID="innershadow_bottomleft" 									FileName="..\SHADOWCORE\innershadow\innershadow_bottomleft.tga"></Mapping>
 <Mapping ArtAssetID="innershadow_bottomright" 									FileName="..\SHADOWCORE\innershadow\innershadow_bottomright.tga"></Mapping>
@@ -1082,6 +1084,13 @@
 <Mapping ArtAssetID="opponent_vitals_backdrop_elite_mp"					  		FileName="..\SHADOWCORE\vitals\opponent_vitals_backdrop_elite_mp.tga"></Mapping>
 <Mapping ArtAssetID="opponent_vitals_backdrop_elitemaster_mp"			  		FileName="..\SHADOWCORE\vitals\opponent_vitals_backdrop_elite_mp.tga"></Mapping>
 
+
+<!-- storage -->
+<Mapping ArtAssetID="vault_ui_tab"								FileName="..\..\JRR Skins collection\JRR CORE\storage\vault_ui_tab.tga"></Mapping>
+<Mapping ArtAssetID="vault_ui_tab_highlight"					FileName="..\..\JRR Skins collection\JRR CORE\storage\vault_ui_tab_highlight.tga"></Mapping>
+<Mapping ArtAssetID="vault_ui_tab_selected"						FileName="..\..\JRR Skins collection\JRR CORE\storage\vault_ui_tab_selected.tga"></Mapping>
+<Mapping ArtAssetID="chest_header_bg"							FileName="..\..\JRR Skins collection\JRR CORE\storage\chest_header_bg.tga"></Mapping>
+
 <!-- misc -->
 
 <Mapping ArtAssetID="expanding_deco_bg_mid"										FileName="..\SHADOWCORE\invisible2.tga"></Mapping>
@@ -1117,6 +1126,7 @@
 <Mapping ArtAssetID="journal_paperdoll_item_background_right"					FileName="..\SHADOWCORE\invisible2.tga"></Mapping>
 <Mapping ArtAssetID="journal_character_header_bg"								FileName="..\SHADOWCORE\misc\journal_character_header_bg.tga"></Mapping>
 <Mapping ArtAssetID="journal_character_header_seperator"						FileName="..\SHADOWCORE\misc\journal_character_header_separator.tga"></Mapping>
+<Mapping ArtAssetID="theater_top_bottom"										FileName="..\SHADOWCORE\misc\theater_top_bottom.tga"></Mapping>
 
 
 <!-- END of Obi's Changes -->
@@ -2719,12 +2729,6 @@
 <Mapping ArtAssetID="housing_searchneighborhood_bg_left"		FileName="..\..\JRR Skins collection\JRR CORE\housing\housing_searchNeighborhood_bg_left.tga"></Mapping>
 <Mapping ArtAssetID="housing_searchneighborhood_bg_right"		FileName="..\..\JRR Skins collection\JRR CORE\housing\housing_searchNeighborhood_bg_right.tga"></Mapping>
 
-
-
-<Mapping ArtAssetID="vault_ui_tab"								FileName="..\..\JRR Skins collection\JRR CORE\storage\vault_ui_tab.tga"></Mapping>
-<Mapping ArtAssetID="vault_ui_tab_highlight"					FileName="..\..\JRR Skins collection\JRR CORE\storage\vault_ui_tab_highlight.tga"></Mapping>
-<Mapping ArtAssetID="vault_ui_tab_selected"						FileName="..\..\JRR Skins collection\JRR CORE\storage\vault_ui_tab_selected.tga"></Mapping>
-<Mapping ArtAssetID="chest_header_bg"							FileName="..\..\JRR Skins collection\JRR CORE\storage\chest_header_bg.tga"></Mapping>
 <Mapping ArtAssetID="trait_states_overlay_slotted"				FileName="..\..\JRR Skins collection\JRR CORE\misc\trait_states_overlay_slotted.tga"></Mapping>
 <Mapping ArtAssetID="trait_states_bg_slotted"					FileName="..\..\JRR Skins collection\JRR CORE\misc\trait_states_bg_slotted.tga"></Mapping>
 <Mapping ArtAssetID="trait_states_bg_unslotted"					FileName="..\..\JRR Skins collection\JRR CORE\misc\trait_states_bg_unslotted.tga"></Mapping>
@@ -2791,8 +2795,6 @@
 
 <Mapping ArtAssetID="skill_search_background"					FileName="..\..\JRR Skins collection\JRR CORE\misc\skill_search_background.tga"></Mapping>
 
-
-<Mapping ArtAssetID="theater_top_bottom"						FileName="..\..\JRR Skins collection\JRR CORE\misc\theater_top_bottom.tga"></Mapping>
 <Mapping ArtAssetID="voicechat_gamespy_logo"					FileName="..\..\JRR Skins collection\JRR CORE\misc\voicechat_gamespy_logo.tga"></Mapping>
 
 <Mapping ArtAssetID="Box_Wallet_Background_Bottom"				FileName="..\..\JRR Skins collection\JRR CORE\wallet\Box_Wallet_Background_Bottom.tga"></Mapping>
@@ -4605,9 +4607,6 @@
 	</Element>
 </Element>
 </PanelFile>
-
-
-
 
 
 </opt>

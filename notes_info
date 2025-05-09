@@ -10,6 +10,7 @@ basepanel = tooltips
 innerpanel = inner indent outline (crafting panel etc)
 dropdown = dropdown menu (options etc)
 silver = main window
+Basebox_BlueBG = bg of little subwindows for "tell me about" from NPCs
 
 
 panel_border.tga =  
