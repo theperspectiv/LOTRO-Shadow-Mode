@@ -423,8 +423,9 @@
 <Mapping ArtAssetID="BaseBox_BlueBG"											FileName="..\SHADOWCORE\basebox\BaseBox_BlueBG.tga"></Mapping>
 
 <Mapping ArtAssetID="base_box_center"				  							FileName="..\SHADOWCORE\basebox\center_silver.tga"></Mapping>
-<Mapping ArtAssetID="base_box_center_silver"		  							FileName="..\SHADOWCORE\basebox\center_silver.tga"></Mapping>
-<Mapping ArtAssetID="base_box_center_silver_new"	  							FileName="..\SHADOWCORE\basebox\center_silver.tga"></Mapping>
+<Mapping ArtAssetID="base_box_center_silver"		  							FileName="..\SHADOWCORE\silver\center.tga"></Mapping>
+
+
 
 <Mapping ArtAssetID="base_box_center_silver_gradient"							FileName="..\SHADOWCORE\invisible2.tga"></Mapping>
 <Mapping ArtAssetID="base_box_center_silver_light"								FileName="..\SHADOWCORE\basebox\center_silver.tga"></Mapping>
@@ -432,7 +433,7 @@
 <Mapping ArtAssetID="mithril_popup_box_bg_wide"									FileName="..\SHADOWCORE\invisible2.tga"></Mapping>
 <Mapping ArtAssetID="skill_search_background"									FileName="..\SHADOWCORE\misc\skill_search_background.tga"></Mapping>
 
-<!-- innershadow (crafting panel left side, vault chests, quest list and details) -->
+<!-- innershadow ("subpanels" like left side of crafting panel, vault chests, quest list and quest details) -->
 <Mapping ArtAssetID="innershadow_bottom" 										FileName="..\SHADOWCORE\innershadow\innershadow_bottom.tga"></Mapping>
 <Mapping ArtAssetID="innershadow_bottomleft" 									FileName="..\SHADOWCORE\innershadow\innershadow_bottomleft.tga"></Mapping>
 <Mapping ArtAssetID="innershadow_bottomright" 									FileName="..\SHADOWCORE\innershadow\innershadow_bottomright.tga"></Mapping>
@@ -444,15 +445,17 @@
 <Mapping ArtAssetID="black_translucent" 										FileName="..\SHADOWCORE\misc\large_panel_bg.tga"></Mapping>
 
 <!-- tooltips -->
-<Mapping ArtAssetID="basepanel_bottomleft_new"			  						FileName="..\SHADOWCORE\basepanel4\bottomleft.tga"></Mapping>
-<Mapping ArtAssetID="basepanel_bottommid_new"			  						FileName="..\SHADOWCORE\basepanel4\bottommid.tga"></Mapping>
-<Mapping ArtAssetID="basepanel_bottomright_new"			  						FileName="..\SHADOWCORE\basepanel4\bottomright.tga"></Mapping>
-<Mapping ArtAssetID="basepanel_midleft_new"				  						FileName="..\SHADOWCORE\basepanel4\midleft.tga"></Mapping>
-<Mapping ArtAssetID="basepanel_midright_new"			  						FileName="..\SHADOWCORE\basepanel4\midright.tga"></Mapping>
-<Mapping ArtAssetID="basepanel_topleft_new"				  						FileName="..\SHADOWCORE\basepanel4\topleft.tga"></Mapping>
-<Mapping ArtAssetID="basepanel_topmid_new"				  						FileName="..\SHADOWCORE\basepanel4\topmid.tga"></Mapping>
-<Mapping ArtAssetID="basepanel_topright_new"			  						FileName="..\SHADOWCORE\basepanel4\topright.tga"></Mapping>
+<Mapping ArtAssetID="base_box_center_silver_new"	  							FileName="..\SHADOWCORE\tooltips\center.tga"></Mapping>
+<Mapping ArtAssetID="basepanel_bottomleft_new"			  						FileName="..\SHADOWCORE\tooltips\bottomleft.tga"></Mapping>
+<Mapping ArtAssetID="basepanel_bottommid_new"			  						FileName="..\SHADOWCORE\tooltips\bottommid.tga"></Mapping>
+<Mapping ArtAssetID="basepanel_bottomright_new"			  						FileName="..\SHADOWCORE\tooltips\bottomright.tga"></Mapping>
+<Mapping ArtAssetID="basepanel_midleft_new"				  						FileName="..\SHADOWCORE\tooltips\midleft.tga"></Mapping>
+<Mapping ArtAssetID="basepanel_midright_new"			  						FileName="..\SHADOWCORE\tooltips\midright.tga"></Mapping>
+<Mapping ArtAssetID="basepanel_topleft_new"				  						FileName="..\SHADOWCORE\tooltips\topleft.tga"></Mapping>
+<Mapping ArtAssetID="basepanel_topmid_new"				  						FileName="..\SHADOWCORE\tooltips\topmid.tga"></Mapping>
+<Mapping ArtAssetID="basepanel_topright_new"			  						FileName="..\SHADOWCORE\tooltips\topright.tga"></Mapping>
 
+<!--??-->
 <Mapping ArtAssetID="basepanel_bottomleft"			  							FileName="..\SHADOWCORE\basepanel3\bottomleft.tga"></Mapping>
 <Mapping ArtAssetID="basepanel_bottommid"			  							FileName="..\SHADOWCORE\basepanel3\bottommid.tga"></Mapping>
 <Mapping ArtAssetID="basepanel_bottomright"			  							FileName="..\SHADOWCORE\basepanel3\bottomright.tga"></Mapping>
@@ -462,7 +465,7 @@
 <Mapping ArtAssetID="basepanel_topmid"				  							FileName="..\SHADOWCORE\basepanel3\topmid.tga"></Mapping>
 <Mapping ArtAssetID="basepanel_topright"			  							FileName="..\SHADOWCORE\basepanel3\topright.tga"></Mapping>
 
-<!-- subpanels like in right side of in crafting window, quest dialog -->
+<!-- subpanels like in right side of crafting window, quest dialog -->
 <Mapping ArtAssetID="quest_dialog_blue_bg_bottom_left" 							FileName="..\SHADOWCORE\basepanel2\blue_bg_bottom_left.tga"></Mapping>
 <Mapping ArtAssetID="quest_dialog_blue_bg_bottom_mid" 							FileName="..\SHADOWCORE\basepanel2\blue_bg_bottom_mid.tga"></Mapping>
 <Mapping ArtAssetID="quest_dialog_blue_bg_bottom_right" 						FileName="..\SHADOWCORE\basepanel2\blue_bg_bottom_right.tga"></Mapping>
@@ -1220,7 +1223,7 @@
 <Mapping ArtAssetID="corner_br"													FileName="..\SHADOWCORE\invisible2.tga"></Mapping>
 <Mapping ArtAssetID="advancement_tracking_display_level_box"					FileName="..\SHADOWCORE\invisible2.tga"></Mapping>
 
-<Mapping ArtAssetID="Options_menu_side_bar"										FileName="..\SHADOWCORE\misc\Options_menu_side_bar.tga"></Mapping>
+<Mapping ArtAssetID="Options_menu_side_bar"										FileName="..\SHADOWCORE\misc\options_menu_side_bar.tga"></Mapping>
 <Mapping ArtAssetID="options_panel_divider"										FileName="..\SHADOWCORE\misc\options_panel_divider.tga"></Mapping>
 <Mapping ArtAssetID="panel_border"												FileName="..\SHADOWCORE\misc\panel_border.tga"></Mapping>
 
