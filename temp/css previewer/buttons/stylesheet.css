@@ -1,11 +1,69 @@
-.bg {
-  position: fixed;
+html {
+  background: #ffd8b5;
+  background: radial-gradient(circle, rgb(66, 38, 13) 0%, rgb(51, 117, 79) 50%, rgb(25, 74, 94) 100%);
+  background-size: cover;
   width: 100%;
   height: 100%;
-  background-color: #101010;
-  margin-left: -8px;
-  margin-top: -8px;
 }
+
+.abox {
+  position: relative;
+  width: 300px;
+  height: 300px;
+  background-image: url(upper_left.png), url(upper.png), url(upper_right.png), url(side_left.png), url(center.png), url(side_right.png), url(bottom_left.png), url(bottom.png), url(lower_right.png);
+  background-position: left top, top, right top, left, center, right, left bottom, bottom, right bottom;
+  background-repeat: no-repeat, no-repeat, no-repeat, no-repeat, no-repeat, no-repeat, no-repeat, no-repeat, no-repeat;
+  background-origin: content-box, content-box, content-box, content-box, content-box, content-box, content-box, content-box, content-box;
+}
+
+.top {
+  width: px;
+  background-image: url(upper_left.png), url(upper.png), url(upper_right.png);
+  background-position: left top, top, right top;
+  background-repeat: no-repeat, no-repeat, no-repeat;
+}
+.lefttop {
+  size: 100%;
+  margin: none;
+  border: none;
+  padding: none;
+  align-content: left;
+}
+.centertop {
+  size: 100%;
+  margin: none;
+  border: none;
+  padding: none;
+  align-content: left;
+}
+.righttop {
+  size: 100%;
+  margin: none;
+  border: none;
+  padding: none;
+  align-content: left;
+}
+
+  .close {
+  float: right;
+  margin-right: 10px;
+  width: 16px;
+  height: 16px;
+  background-image: url(X_2.png);
+  background-position: center;
+	display: block;
+	cursor:pointer;
+	text-decoration:none;
+}
+.close:hover {
+  background-image: url(X_2_mouseover.png);
+}
+.close:active {
+  background-image: url(X_2_pressed.png);
+}
+
+
+/*
 
 .header {
   display:block;
@@ -49,3 +107,4 @@
   background-repeat: no-repeat, no-repeat, no-repeat;
   background-position: left, center, right;
 }
+  */
