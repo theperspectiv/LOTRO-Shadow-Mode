@@ -12,6 +12,14 @@
       <bx:file format="png" href="#view-7" path="upper_right.png"/>
       <bx:file format="png" href="#view-8" path="side_right.png"/>
       <bx:file format="png" href="#view-9" path="center.png"/>
+      <bx:file format="png" href="#view-10" path="blue_bg_top_left.png"/>
+      <bx:file format="png" href="#view-11" path="blue_bg_top_mid.png"/>
+      <bx:file format="png" href="#view-12" path="blue_bg_top_right.png"/>
+      <bx:file format="png" href="#view-13" path="blue_bg_left_mid.png"/>
+      <bx:file format="png" href="#view-14" path="blue_bg_bottom_left.png"/>
+      <bx:file format="png" href="#view-16" path="blue_bg_bottom_mid.png"/>
+      <bx:file format="png" href="#view-15" path="blue_bg_bottom_right.png"/>
+      <bx:file format="png" href="#view-17" path="blue_bg_right_mid.png"/>
     </bx:export>
     <filter id="drop-shadow-filter-0" bx:preset="drop-shadow 1 0 0 1 1 #00000090" color-interpolation-filters="sRGB" x="-50%" y="-50%" width="200%" height="200%">
       <feGaussianBlur in="SourceAlpha" stdDeviation="1"/>
@@ -79,6 +87,24 @@
     </view>
     <view id="view-11" viewBox="372 306 229 9">
       <title>View 11</title>
+    </view>
+    <view id="view-12" viewBox="604.955 305.973 9 9">
+      <title>View 12</title>
+    </view>
+    <view id="view-13" viewBox="363 315 9 229">
+      <title>View 13</title>
+    </view>
+    <view id="view-14" viewBox="363 548 9 9">
+      <title>View 14</title>
+    </view>
+    <view id="view-15" viewBox="605 548 9 9">
+      <title>View 15</title>
+    </view>
+    <view id="view-16" viewBox="372 548 229 9">
+      <title>View 16</title>
+    </view>
+    <view id="view-17" viewBox="605 315 9 229">
+      <title>View 17</title>
     </view>
   </defs>
   <path style="fill: rgb(25, 25, 25);" d="M 8 4 H 38 A 0 0 0 0 1 38 4 V 38 A 0 0 0 0 1 38 38 H 4 A 0 0 0 0 1 4 38 V 8 A 4 4 0 0 1 8 4 Z" bx:shape="rect 4 4 34 34 0 4 4 0 0 0 0 0 0 0 0 0 2@31d01a85"/>
