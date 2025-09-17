@@ -2,7 +2,8 @@
 Ultra-Minimalist Dark Mode skin for LOTRO UI
 
 ## To-Do
-### General
+
+- move basepanel2 [quest_dialog_blue_bg_] to silver?
 
 - delete redundant deps (SIM CORE)
 
