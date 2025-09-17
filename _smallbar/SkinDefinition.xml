@@ -465,7 +465,7 @@
 <Mapping ArtAssetID="basepanel_topmid"				  							FileName="..\SHADOWCORE\basepanel3\topmid.tga"></Mapping>
 <Mapping ArtAssetID="basepanel_topright"			  							FileName="..\SHADOWCORE\basepanel3\topright.tga"></Mapping>
 
-<!-- subpanels like in right side of crafting window, quest dialog -->
+<!-- right side of crafting window and quest dialog -->
 <Mapping ArtAssetID="quest_dialog_blue_bg_bottom_left" 							FileName="..\SHADOWCORE\basepanel2\blue_bg_bottom_left.tga"></Mapping>
 <Mapping ArtAssetID="quest_dialog_blue_bg_bottom_mid" 							FileName="..\SHADOWCORE\basepanel2\blue_bg_bottom_mid.tga"></Mapping>
 <Mapping ArtAssetID="quest_dialog_blue_bg_bottom_right" 						FileName="..\SHADOWCORE\basepanel2\blue_bg_bottom_right.tga"></Mapping>

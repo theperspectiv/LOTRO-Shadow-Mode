@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="187 306 168 168" style="filter: none;" xmlns:bx="https://boxy-svg.com">
+  <defs>
+    <view id="view-1" viewBox="319 438 36 36">
+      <title>View 1</title>
+    </view>
+    <bx:export>
+      <bx:file format="png" href="#view-1" path="lower_right.png" antialiasing="false"/>
+      <bx:file format="png"/>
+      <bx:file format="png" href="#view-2" path="bottom.png"/>
+      <bx:file format="png" href="#view-3" path="bottom_left.png"/>
+      <bx:file format="png" href="#view-5" path="side_left.png"/>
+      <bx:file format="png" href="#view-4" path="upper_left.png"/>
+      <bx:file format="png" href="#view-6" path="upper.png"/>
+      <bx:file format="png" href="#view-7" path="upper_right.png"/>
+      <bx:file format="png" href="#view-8" path="side_right.png"/>
+      <bx:file format="png" href="#view-9" path="center.png"/>
+    </bx:export>
+    <view id="view-2" viewBox="216 438 103 36">
+      <title>View 2</title>
+    </view>
+    <view id="view-3" viewBox="187 438 36 36">
+      <title>View 3</title>
+    </view>
+    <filter id="drop-shadow-filter-0" bx:preset="drop-shadow 1 0 0 1 1 #00000090" color-interpolation-filters="sRGB" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur in="SourceAlpha" stdDeviation="1"/>
+      <feOffset dx="0" dy="0"/>
+      <feComponentTransfer result="offsetblur">
+        <feFuncA id="spread-ctrl" type="linear" slope="2"/>
+      </feComponentTransfer>
+      <feFlood flood-color="#00000090"/>
+      <feComposite in2="offsetblur" operator="in"/>
+      <feMerge>
+        <feMergeNode/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <filter id="point-light-filter-0" bx:preset="point-light 1 0.03 -0.01 3.59 128 2 0.99 0 #ffffff" primitiveUnits="objectBoundingBox" color-interpolation-filters="sRGB" x="-50%" y="-50%" width="200%" height="200%">
+      <feSpecularLighting result="specular-lighting" lighting-color="#ffffff" specularConstant="2" specularExponent="128">
+        <fePointLight x="0.03" y="-0.01" z="3.59"/>
+      </feSpecularLighting>
+      <feDiffuseLighting result="diffuse-lighting" lighting-color="#ffffff" diffuseConstant="0.99">
+        <fePointLight x="0.03" y="-0.01" z="3.59"/>
+      </feDiffuseLighting>
+      <feMerge result="lighting">
+        <feMergeNode in="diffuse-lighting"/>
+        <feMergeNode in="specular-lighting"/>
+      </feMerge>
+      <feComposite in="SourceGraphic" in2="lighting" operator="arithmetic" k1="1" k2="0" k3="0" k4="0"/>
+    </filter>
+    <view id="view-4" viewBox="187 306 36 36">
+      <title>View 4</title>
+    </view>
+    <view id="view-5" viewBox="187 342 36 105">
+      <title>View 5</title>
+    </view>
+    <view id="view-6" viewBox="204.2 306 130 37">
+      <title>View 6</title>
+    </view>
+    <view id="view-7" viewBox="319 306 36 36">
+      <title>View 7</title>
+    </view>
+    <view id="view-8" viewBox="319 342 36 105">
+      <title>View 8</title>
+    </view>
+    <view id="view-9" viewBox="202 326 128 128">
+      <title>View 9</title>
+    </view>
+    <linearGradient gradientUnits="userSpaceOnUse" x1="271" y1="309" x2="271" y2="471" id="gradient-0" gradientTransform="matrix(0.029385, -0.029385, 0.029385, 0.029385, 251.1622, 386.090265)" spreadMethod="pad">
+      <stop offset="0" style="stop-color: rgb(38, 38, 38);"/>
+      <stop offset="1" style="stop-color: rgb(22, 22, 22);"/>
+    </linearGradient>
+  </defs>
+  <path style="fill: rgb(25, 25, 25);" d="M 8 4 H 38 A 0 0 0 0 1 38 4 V 38 A 0 0 0 0 1 38 38 H 4 A 0 0 0 0 1 4 38 V 8 A 4 4 0 0 1 8 4 Z" bx:shape="rect 4 4 34 34 0 4 4 0 0 0 0 0 0 0 0 0 2@31d01a85"/>
+  <path style="fill: rgb(25, 25, 25);" d="M 38 4 H 228 A 0 0 0 0 1 228 4 V 41 A 0 0 0 0 1 228 41 H 38 A 0 0 0 0 1 38 41 V 4 A 0 0 0 0 1 38 4 Z" bx:shape="rect 38 4 190 37 0 0 0 2@758b5fab"/>
+  <path style="fill: rgb(25, 25, 25); stroke-width: 1;" d="M 228 4 H 258 A 4 4 0 0 1 262 8 V 38 A 0 0 0 0 1 262 38 H 228 A 0 0 0 0 1 228 38 V 4 A 0 0 0 0 1 228 4 Z" bx:shape="rect 228 4 34 34 0 0 0 0 4 4 0 0 0 0 0 0 2@6b33573f"/>
+  <path style="fill: rgb(25, 25, 25);" d="M 226 38 H 262 A 0 0 0 0 1 262 38 V 143 A 0 0 0 0 1 262 143 H 226 A 0 0 0 0 1 226 143 V 38 A 0 0 0 0 1 226 38 Z" bx:shape="rect 226 38 36 105 0 0 0 2@b23388e3"/>
+  <path style="fill: rgb(25, 25, 25); stroke-width: 1;" d="M 4 38 H 40 A 0 0 0 0 1 40 38 V 143 A 0 0 0 0 1 40 143 H 4 A 0 0 0 0 1 4 143 V 38 A 0 0 0 0 1 4 38 Z" bx:shape="rect 4 38 36 105 0 0 0 2@ab5cb35b"/>
+  <path style="fill: rgb(25, 25, 25); stroke-width: 1;" d="M 228 143 H 262 A 0 0 0 0 1 262 143 V 173 A 4 4 0 0 1 258 177 H 228 A 0 0 0 0 1 228 177 V 143 A 0 0 0 0 1 228 143 Z" bx:shape="rect 228 143 34 34 0 0 0 0 0 0 0 4 4 0 0 0 2@d4d69ddb"/>
+  <path style="fill: rgb(25, 25, 25); stroke-width: 1;" d="M 82.691 141 H 185.691 A 0 0 0 0 1 185.691 141 V 177 A 0 0 0 0 1 185.691 177 H 82.691 A 0 0 0 0 1 82.691 177 V 141 A 0 0 0 0 1 82.691 141 Z" bx:shape="rect 82.691 141 103 36 0 0 0 2@a41138fd"/>
+  <path style="fill: rgb(25, 25, 25); stroke-width: 1;" d="M 4 143 H 38 A 0 0 0 0 1 38 143 V 177 A 0 0 0 0 1 38 177 H 8 A 4 4 0 0 1 4 173 V 143 A 0 0 0 0 1 4 143 Z" bx:shape="rect 4 143 34 34 0 0 0 0 0 0 0 0 0 0 4 4 2@760c2353"/>
+  <path style="fill: rgb(25, 25, 25); stroke-width: 1;" d="M 65.318 27.083 H 193.318 A 0 0 0 0 1 193.318 27.083 V 155.083 A 0 0 0 0 1 193.318 155.083 H 65.318 A 0 0 0 0 1 65.318 155.083 V 27.083 A 0 0 0 0 1 65.318 27.083 Z" bx:shape="rect 65.318 27.083 128 128 0 0 0 2@fd0e4831"/>
+  <g>
+    <rect style="stroke-miterlimit: 1; filter: url(&quot;#drop-shadow-filter-0&quot;) url(&quot;#point-light-filter-0&quot;); fill: rgb(31, 31, 31); stroke-width: 0.2px;" x="189" width="164" height="164" rx="4" ry="4" y="308">
+      <title>w1</title>
+    </rect>
+    <rect style="stroke-miterlimit: 1; filter: none; fill: rgb(31, 31, 31); stroke: url(&quot;#gradient-0&quot;); paint-order: fill; stroke-linecap: square;" x="189.5" width="163" height="163" y="308.5" rx="3" ry="3">
+      <title>w1</title>
+    </rect>
+  </g>
+</svg>
