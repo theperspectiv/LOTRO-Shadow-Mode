@@ -422,13 +422,11 @@
 <Mapping ArtAssetID="box_01_titlebar"											FileName="..\SHADOWCORE\basebox\box_01_titlebar.tga"></Mapping>
 <Mapping ArtAssetID="BaseBox_BlueBG"											FileName="..\SHADOWCORE\basebox\BaseBox_BlueBG.tga"></Mapping>
 
-<Mapping ArtAssetID="base_box_center"				  							FileName="..\SHADOWCORE\basebox\center_silver.tga"></Mapping>
-<Mapping ArtAssetID="base_box_center_silver"		  							FileName="..\SHADOWCORE\silver\center.tga"></Mapping>
-
-
-
-<Mapping ArtAssetID="base_box_center_silver_gradient"							FileName="..\SHADOWCORE\invisible2.tga"></Mapping>
-<Mapping ArtAssetID="base_box_center_silver_light"								FileName="..\SHADOWCORE\basebox\center_silver.tga"></Mapping>
+<Mapping ArtAssetID="base_box_center"				  							FileName="..\SHADOWCORE\basebox\base_box_center.tga"></Mapping>
+<Mapping ArtAssetID="base_box_center_silver"		  							FileName="..\SHADOWCORE\basebox\base_box_center_silver.tga"></Mapping>
+<!-- most window backgrounds-->
+<Mapping ArtAssetID="base_box_center_silver_gradient"							FileName="..\SHADOWCORE\basebox\base_box_center_silver_gradient.tga"></Mapping>
+<Mapping ArtAssetID="base_box_center_silver_light"								FileName="..\SHADOWCORE\basebox\base_box_center_silver_light.tga"></Mapping>
 
 <Mapping ArtAssetID="mithril_popup_box_bg_wide"									FileName="..\SHADOWCORE\invisible2.tga"></Mapping>
 <Mapping ArtAssetID="skill_search_background"									FileName="..\SHADOWCORE\misc\skill_search_background.tga"></Mapping>
