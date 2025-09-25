@@ -106,7 +106,7 @@
       <feGaussianBlur in="SourceAlpha" stdDeviation="2"/>
       <feOffset dx="0" dy="0"/>
       <feComponentTransfer result="offsetblur">
-        <feFuncA id="spread-ctrl" type="linear" slope="2"/>
+        <feFuncA id="spread-ctrl-2" type="linear" slope="2"/>
       </feComponentTransfer>
       <feFlood flood-color="#0000009a"/>
       <feComposite in2="offsetblur" operator="in"/>
@@ -120,7 +120,7 @@
       <feGaussianBlur in="SourceAlpha" stdDeviation="1.4"/>
       <feOffset dx="0" dy="0"/>
       <feComponentTransfer result="offsetblur">
-        <feFuncA id="spread-ctrl" type="linear" slope="2"/>
+        <feFuncA id="spread-ctrl-3" type="linear" slope="2"/>
       </feComponentTransfer>
       <feFlood flood-color="#000"/>
       <feComposite in2="offsetblur" operator="in"/>
@@ -133,7 +133,7 @@
       <feGaussianBlur in="SourceAlpha" stdDeviation="1.4"/>
       <feOffset dx="0" dy="0"/>
       <feComponentTransfer result="offsetblur">
-        <feFuncA id="spread-ctrl" type="linear" slope="2"/>
+        <feFuncA id="spread-ctrl-3" type="linear" slope="2"/>
       </feComponentTransfer>
       <feFlood flood-color="#000000d5"/>
       <feComposite in2="offsetblur" operator="in"/>
@@ -142,6 +142,38 @@
         <feMergeNode in="SourceGraphic"/>
       </feMerge>
     </filter>
+    <linearGradient gradientUnits="userSpaceOnUse" x1="271" y1="309" x2="271" y2="471" id="gradient-1" gradientTransform="matrix(0.026681, -0.026681, 0.026681, 0.026681, 245.487778, 378.950075)" spreadMethod="pad">
+      <stop offset="0" style="stop-color: rgb(38, 38, 38);"/>
+      <stop offset="1" style="stop-color: rgb(22, 22, 22);"/>
+    </linearGradient>
+    <view id="view-18" viewBox="629 307 9 9">
+      <title>View 18</title>
+    </view>
+    <view id="view-19" viewBox="771 307 9 9">
+      <title>View 19</title>
+    </view>
+    <view id="view-20" viewBox="771 449 9 9">
+      <title>View 20</title>
+    </view>
+    <view id="view-21" viewBox="629 449 9 9">
+      <title>View 21</title>
+    </view>
+    <view id="view-22" viewBox="699 307 9 9">
+      <title>View 22</title>
+    </view>
+    <view id="view-23" viewBox="771 371.3 9 9">
+      <title>View 23</title>
+    </view>
+    <view id="view-24" viewBox="699 449 9 9">
+      <title>View 24</title>
+    </view>
+    <view id="view-25" viewBox="629 371.3 9 9">
+      <title>View 25</title>
+    </view>
+    <linearGradient gradientUnits="userSpaceOnUse" x1="271" y1="309" x2="271" y2="471" id="gradient-2" gradientTransform="matrix(0.026681, -0.026681, 0.026681, 0.026681, 245.487778, 378.950075)" spreadMethod="pad">
+      <stop offset="0" style="stop-color: rgb(38, 38, 38);"/>
+      <stop offset="1" style="stop-color: rgb(22, 22, 22);"/>
+    </linearGradient>
   </defs>
   <path style="fill: rgb(25, 25, 25);" d="M 8 4 H 38 A 0 0 0 0 1 38 4 V 38 A 0 0 0 0 1 38 38 H 4 A 0 0 0 0 1 4 38 V 8 A 4 4 0 0 1 8 4 Z" bx:shape="rect 4 4 34 34 0 4 4 0 0 0 0 0 0 0 0 0 2@31d01a85"/>
   <path style="fill: rgb(25, 25, 25);" d="M 38 4 H 228 A 0 0 0 0 1 228 4 V 41 A 0 0 0 0 1 228 41 H 38 A 0 0 0 0 1 38 41 V 4 A 0 0 0 0 1 38 4 Z" bx:shape="rect 38 4 190 37 0 0 0 2@758b5fab"/>
@@ -177,4 +209,27 @@
     <title>basepanelo2</title>
   </rect>
   <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 28px; stroke-width: 1;" x="238.73" y="285.8">silver</text>
+  <g transform="matrix(1, 0, 0, 1, 441, 0)">
+    <title>tooltips</title>
+    <g>
+      <rect style="stroke-miterlimit: 1; filter: url(&quot;#drop-shadow-filter-0&quot;) url(&quot;#point-light-filter-0&quot;); fill: rgb(31, 31, 31); stroke-width: 0.2px;" x="189" width="148" height="148" rx="4" ry="4" y="308">
+        <title>w1</title>
+      </rect>
+      <rect style="stroke-miterlimit: 1; filter: none; paint-order: fill; stroke-linecap: square; stroke: url(&quot;#gradient-1&quot;); fill: rgb(36, 36, 36);" x="189.5" width="148" height="148" y="308.5" rx="4" ry="4">
+        <title>w1</title>
+      </rect>
+    </g>
+  </g>
+  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 28px; stroke-width: 1;" x="647.76" y="285.8">dropdown</text>
+  <g transform="matrix(1, 0, 0, 1, 603.117554, -1)">
+    <title>tooltips</title>
+    <g>
+      <rect style="stroke-miterlimit: 1; filter: url(&quot;#drop-shadow-filter-0&quot;) url(&quot;#point-light-filter-0&quot;); stroke-width: 0.2px; fill: rgb(63, 63, 63);" x="189" width="148" height="148" rx="4" ry="4" y="308">
+        <title>w1</title>
+      </rect>
+      <rect style="stroke-miterlimit: 1; filter: none; paint-order: fill; stroke-linecap: square; stroke: url(&quot;#gradient-2&quot;); fill: rgb(63, 63, 63);" x="189.5" width="148" height="148" y="308.5" rx="4" ry="4">
+        <title>w1</title>
+      </rect>
+    </g>
+  </g>
 </svg>
