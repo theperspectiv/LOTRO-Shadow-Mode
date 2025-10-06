@@ -2,24 +2,31 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="187 306 168 168" style="filter: none;" xmlns:bx="https://boxy-svg.com">
   <defs>
     <bx:export>
-      <bx:file format="png" excluded="true"/>
-      <bx:file format="png" href="#view-1" path="lower_right.png" antialiasing="false"/>
-      <bx:file format="png" href="#view-2" path="bottom.png"/>
-      <bx:file format="png" href="#view-3" path="bottom_left.png"/>
-      <bx:file format="png" href="#view-5" path="side_left.png"/>
-      <bx:file format="png" href="#view-4" path="upper_left.png"/>
-      <bx:file format="png" href="#view-6" path="upper.png"/>
-      <bx:file format="png" href="#view-7" path="upper_right.png"/>
-      <bx:file format="png" href="#view-8" path="side_right.png"/>
-      <bx:file format="png" href="#view-9" path="center.png"/>
-      <bx:file format="png" href="#view-10" path="blue_bg_top_left.png" excluded="true"/>
-      <bx:file format="png" href="#view-11" path="blue_bg_top_mid.png" excluded="true"/>
-      <bx:file format="png" href="#view-12" path="blue_bg_top_right.png" excluded="true"/>
-      <bx:file format="png" href="#view-13" path="blue_bg_left_mid.png" excluded="true"/>
-      <bx:file format="png" href="#view-14" path="blue_bg_bottom_left.png" excluded="true"/>
-      <bx:file format="png" href="#view-16" path="blue_bg_bottom_mid.png" excluded="true"/>
-      <bx:file format="png" href="#view-15" path="blue_bg_bottom_right.png" excluded="true"/>
-      <bx:file format="png" href="#view-17" path="blue_bg_right_mid.png" excluded="true"/>
+      <bx:file format="png" href="#view-1" path="lower_right.png" antialiasing="false" excluded="true"/>
+      <bx:file format="png" href="#view-2" path="bottom.png" excluded="true"/>
+      <bx:file format="png" href="#view-3" path="bottom_left.png" excluded="true"/>
+      <bx:file format="png" href="#view-5" path="side_left.png" excluded="true"/>
+      <bx:file format="png" href="#view-4" path="upper_left.png" excluded="true"/>
+      <bx:file format="png" href="#view-6" path="upper.png" excluded="true"/>
+      <bx:file format="png" href="#view-7" path="upper_right.png" excluded="true"/>
+      <bx:file format="png" href="#view-8" path="side_right.png" excluded="true"/>
+      <bx:file format="png" href="#view-9" path="center.png" excluded="true"/>
+      <bx:file format="png" href="#view-10" path="blue_bg_top_left.png"/>
+      <bx:file format="png" href="#view-11" path="blue_bg_top_mid.png"/>
+      <bx:file format="png" href="#view-12" path="blue_bg_top_right.png"/>
+      <bx:file format="png" href="#view-13" path="blue_bg_left_mid.png"/>
+      <bx:file format="png" href="#view-14" path="blue_bg_bottom_left.png"/>
+      <bx:file format="png" href="#view-16" path="blue_bg_bottom_mid.png"/>
+      <bx:file format="png" href="#view-15" path="blue_bg_bottom_right.png"/>
+      <bx:file format="png" href="#view-17" path="blue_bg_right_mid.png"/>
+      <bx:file format="png" href="#view-26" path="innershadow_topleft.png" antialiasing="false" excluded="true"/>
+      <bx:file format="png" href="#view-28" path="innershadow_top.png" excluded="true"/>
+      <bx:file format="png" href="#view-27" path="innershadow_topright.png" excluded="true"/>
+      <bx:file format="png" href="#view-29" path="innershadow_bottomleft.png" excluded="true"/>
+      <bx:file format="png" href="#view-30" path="innershadow_bottom.png" excluded="true"/>
+      <bx:file format="png" href="#view-31" path="innershadow_bottomright.png" excluded="true"/>
+      <bx:file format="png" href="#view-33" path="innershadow_left.png" background="#0000" excluded="true"/>
+      <bx:file format="png" href="#view-32" path="innershadow_right.png" background="#0000" excluded="true"/>
     </bx:export>
     <filter id="drop-shadow-filter-0" bx:preset="drop-shadow 1 0 0 1 1 #00000090" color-interpolation-filters="sRGB" x="-50%" y="-50%" width="200%" height="200%">
       <feGaussianBlur in="SourceAlpha" stdDeviation="1"/>
@@ -200,6 +207,30 @@
         <feMergeNode in="SourceGraphic"/>
       </feMerge>
     </filter>
+    <view id="view-26" viewBox="189.028 519 9 9">
+      <title>View 26</title>
+    </view>
+    <view id="view-27" viewBox="210.044 519 9 9">
+      <title>View 27</title>
+    </view>
+    <view id="view-28" viewBox="198.985 521 10 9">
+      <title>View 28</title>
+    </view>
+    <view id="view-29" viewBox="189 539.978 9 9">
+      <title>View 29</title>
+    </view>
+    <view id="view-30" viewBox="198.985 537.978 10 9">
+      <title>View 30</title>
+    </view>
+    <view id="view-31" viewBox="210.044 539.978 9 9">
+      <title>View 31</title>
+    </view>
+    <view id="view-32" viewBox="208.044 528.993 9 9">
+      <title>View 32</title>
+    </view>
+    <view id="view-33" viewBox="191.028 528.993 9 9">
+      <title>View 33</title>
+    </view>
   </defs>
   <path style="fill: rgb(25, 25, 25);" d="M 8 4 H 38 A 0 0 0 0 1 38 4 V 38 A 0 0 0 0 1 38 38 H 4 A 0 0 0 0 1 4 38 V 8 A 4 4 0 0 1 8 4 Z" bx:shape="rect 4 4 34 34 0 4 4 0 0 0 0 0 0 0 0 0 2@31d01a85"/>
   <path style="fill: rgb(25, 25, 25);" d="M 38 4 H 228 A 0 0 0 0 1 228 4 V 41 A 0 0 0 0 1 228 41 H 38 A 0 0 0 0 1 38 41 V 4 A 0 0 0 0 1 38 4 Z" bx:shape="rect 38 4 190 37 0 0 0 2@758b5fab"/>
@@ -210,7 +241,7 @@
   <path style="fill: rgb(25, 25, 25); stroke-width: 1;" d="M 82.691 141 H 185.691 A 0 0 0 0 1 185.691 141 V 177 A 0 0 0 0 1 185.691 177 H 82.691 A 0 0 0 0 1 82.691 177 V 141 A 0 0 0 0 1 82.691 141 Z" bx:shape="rect 82.691 141 103 36 0 0 0 2@a41138fd"/>
   <path style="fill: rgb(25, 25, 25); stroke-width: 1;" d="M 4 143 H 38 A 0 0 0 0 1 38 143 V 177 A 0 0 0 0 1 38 177 H 8 A 4 4 0 0 1 4 173 V 143 A 0 0 0 0 1 4 143 Z" bx:shape="rect 4 143 34 34 0 0 0 0 0 0 0 0 0 0 4 4 2@760c2353"/>
   <path style="fill: rgb(25, 25, 25); stroke-width: 1;" d="M 65.318 27.083 H 193.318 A 0 0 0 0 1 193.318 27.083 V 155.083 A 0 0 0 0 1 193.318 155.083 H 65.318 A 0 0 0 0 1 65.318 155.083 V 27.083 A 0 0 0 0 1 65.318 27.083 Z" bx:shape="rect 65.318 27.083 128 128 0 0 0 2@fd0e4831"/>
-  <g>
+  <g style="">
     <title>silver</title>
     <g>
       <rect style="stroke-miterlimit: 1; filter: url(&quot;#drop-shadow-filter-0&quot;) url(&quot;#point-light-filter-0&quot;); fill: rgb(31, 31, 31); stroke-width: 0.2px;" x="189" width="164" height="164" rx="4" ry="4" y="308">
@@ -221,16 +252,19 @@
       </rect>
     </g>
   </g>
-  <path d="M 367 306 H 610 A 4 4 0 0 1 614 310 V 553 A 4 4 0 0 1 610 557 H 367 A 4 4 0 0 1 363 553 V 310 A 4 4 0 0 1 367 306 Z M 365 311 V 552 A 3 3 0 0 0 368 555 H 609 A 3 3 0 0 0 612 552 V 311 A 3 3 0 0 0 609 308 H 368 A 3 3 0 0 0 365 311 Z" bx:shape="frame 363 306 251 251 2 2 4 4 4 4 1@c0e1167b" style="filter: url(&quot;#drop-shadow-filter-1&quot;); fill: rgb(25, 25, 25); visibility: hidden;">
-    <title>basepaneli1</title>
-  </path>
-  <path d="M 365 304 H 612 A 4 4 0 0 1 616 308 V 555 A 4 4 0 0 1 612 559 H 365 A 4 4 0 0 1 361 555 V 308 A 4 4 0 0 1 365 304 Z M 364 309.5 V 553.5 A 2.5 2.5 0 0 0 366.5 556 H 610.5 A 2.5 2.5 0 0 0 613 553.5 V 309.5 A 2.5 2.5 0 0 0 610.5 307 H 366.5 A 2.5 2.5 0 0 0 364 309.5 Z" bx:shape="frame 361 304 255 255 3 3 4 4 4 4 1@7da1deac" style="fill: rgb(25, 25, 25); filter: none; visibility: hidden;">
-    <title>basepaneli2</title>
-  </path>
+  <g>
+    <title>basepanel</title>
+    <path d="M 367 306 H 610 A 4 4 0 0 1 614 310 V 553 A 4 4 0 0 1 610 557 H 367 A 4 4 0 0 1 363 553 V 310 A 4 4 0 0 1 367 306 Z M 365 311 V 552 A 3 3 0 0 0 368 555 H 609 A 3 3 0 0 0 612 552 V 311 A 3 3 0 0 0 609 308 H 368 A 3 3 0 0 0 365 311 Z" bx:shape="frame 363 306 251 251 2 2 4 4 4 4 1@c0e1167b" style="filter: url(&quot;#drop-shadow-filter-1&quot;); fill: rgb(25, 25, 25); visibility: hidden;">
+      <title>basepaneli1</title>
+    </path>
+    <path d="M 365 304 H 612 A 4 4 0 0 1 616 308 V 555 A 4 4 0 0 1 612 559 H 365 A 4 4 0 0 1 361 555 V 308 A 4 4 0 0 1 365 304 Z M 364 309.5 V 553.5 A 2.5 2.5 0 0 0 366.5 556 H 610.5 A 2.5 2.5 0 0 0 613 553.5 V 309.5 A 2.5 2.5 0 0 0 610.5 307 H 366.5 A 2.5 2.5 0 0 0 364 309.5 Z" bx:shape="frame 361 304 255 255 3 3 4 4 4 4 1@7da1deac" style="fill: rgb(25, 25, 25); filter: none; visibility: hidden;">
+      <title>basepaneli2</title>
+    </path>
+    <path d="M 369 308 H 608 A 4 4 0 0 1 612 312 V 551 A 4 4 0 0 1 608 555 H 369 A 4 4 0 0 1 365 551 V 312 A 4 4 0 0 1 369 308 Z M 365.968 312.484 V 550.516 A 3.516 3.516 0 0 0 369.484 554.032 H 607.516 A 3.516 3.516 0 0 0 611.032 550.516 V 312.484 A 3.516 3.516 0 0 0 607.516 308.968 H 369.484 A 3.516 3.516 0 0 0 365.968 312.484 Z" bx:shape="frame 365 308 247 247 0.968 0.968 4 4 4 4 1@e5fce355" style="fill: rgb(25, 25, 25); filter: url(&quot;#drop-shadow-filter-2&quot;); visibility: hidden;">
+      <title>basepanelo1</title>
+    </path>
+  </g>
   <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 28px;" x="424.093" y="285.8">basepanel</text>
-  <path d="M 369 308 H 608 A 4 4 0 0 1 612 312 V 551 A 4 4 0 0 1 608 555 H 369 A 4 4 0 0 1 365 551 V 312 A 4 4 0 0 1 369 308 Z M 365.968 312.484 V 550.516 A 3.516 3.516 0 0 0 369.484 554.032 H 607.516 A 3.516 3.516 0 0 0 611.032 550.516 V 312.484 A 3.516 3.516 0 0 0 607.516 308.968 H 369.484 A 3.516 3.516 0 0 0 365.968 312.484 Z" bx:shape="frame 365 308 247 247 0.968 0.968 4 4 4 4 1@e5fce355" style="fill: rgb(25, 25, 25); filter: url(&quot;#drop-shadow-filter-2&quot;); visibility: hidden;">
-    <title>basepanelo1</title>
-  </path>
   <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 28px; stroke-width: 1;" x="238.73" y="285.8">silver</text>
   <g transform="matrix(1, 0, 0, 1, 441, 0)">
     <title>tooltips</title>
@@ -255,13 +289,23 @@
       </rect>
     </g>
   </g>
-  <rect style="stroke-miterlimit: 1; paint-order: fill; stroke-linecap: square; filter: url(&quot;#drop-shadow-filter-3&quot;); fill: rgb(31, 31, 31);" x="365" width="247" height="247" y="308" rx="3" ry="3">
-    <title>basepanelo2</title>
+  <g>
+    <title>basepanel</title>
+    <rect style="stroke-miterlimit: 1; paint-order: fill; stroke-linecap: square; filter: url(&quot;#drop-shadow-filter-3&quot;); fill: rgb(31, 31, 31); visibility: hidden;" x="365" width="247" height="247" y="308" rx="3" ry="3">
+      <title>basepanelo2</title>
+    </rect>
+    <rect style="stroke-miterlimit: 1; paint-order: fill; stroke-linecap: square; filter: url(&quot;#filter-1&quot;); fill: rgb(31, 31, 31); visibility: hidden;" x="365" width="247" height="247" y="308" rx="3" ry="3">
+      <title>basepanelo2</title>
+    </rect>
+    <rect style="stroke-miterlimit: 1; paint-order: fill; stroke-linecap: square; filter: url(&quot;#filter-2&quot;); fill: rgb(31, 31, 31); visibility: hidden;" x="365" width="247" height="247" y="308" rx="3" ry="3">
+      <title>basepanelo2</title>
+    </rect>
+  </g>
+  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 28px; stroke-width: 1;" x="187" y="508.975">innershadow</text>
+  <rect style="stroke-miterlimit: 1; filter: none; paint-order: fill; stroke-linecap: square; fill: rgba(26, 26, 26, 0.25); visibility: hidden;" x="189" width="30" height="30" y="519" rx="5" ry="5">
+    <title>innershadow</title>
   </rect>
-  <rect style="stroke-miterlimit: 1; paint-order: fill; stroke-linecap: square; filter: url(&quot;#filter-1&quot;); fill: rgb(31, 31, 31); visibility: hidden;" x="365" width="247" height="247" y="308" rx="3" ry="3">
-    <title>basepanelo2</title>
-  </rect>
-  <rect style="stroke-miterlimit: 1; paint-order: fill; stroke-linecap: square; filter: url(&quot;#filter-2&quot;); fill: rgb(31, 31, 31); visibility: hidden;" x="365" width="247" height="247" y="308" rx="3" ry="3">
-    <title>basepanelo2</title>
-  </rect>
+  <path d="M 194 519 H 214 A 5 5 0 0 1 219 524 V 544 A 5 5 0 0 1 214 549 H 194 A 5 5 0 0 1 189 544 V 524 A 5 5 0 0 1 194 519 Z M 199 529 V 539 H 209 V 529 H 199 Z" bx:shape="frame 189 519 30 30 10 10 5 5 5 5 1@cfa04a89" style="fill: rgba(26, 26, 26, 0.25);">
+    <title>innershadow2</title>
+  </path>
 </svg>

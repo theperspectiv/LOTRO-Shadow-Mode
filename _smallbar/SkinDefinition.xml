@@ -465,14 +465,14 @@
 <Mapping ArtAssetID="basepanel_topright"			  							FileName="..\SHADOWCORE\basepanel3\topright.tga"></Mapping>
 
 <!-- right side of crafting window and quest dialog -->
-<Mapping ArtAssetID="quest_dialog_blue_bg_bottom_left" 							FileName="..\SHADOWCORE\basepanel2\blue_bg_bottom_left.tga"></Mapping>
-<Mapping ArtAssetID="quest_dialog_blue_bg_bottom_mid" 							FileName="..\SHADOWCORE\basepanel2\blue_bg_bottom_mid.tga"></Mapping>
-<Mapping ArtAssetID="quest_dialog_blue_bg_bottom_right" 						FileName="..\SHADOWCORE\basepanel2\blue_bg_bottom_right.tga"></Mapping>
-<Mapping ArtAssetID="quest_dialog_blue_bg_left_mid" 							FileName="..\SHADOWCORE\basepanel2\blue_bg_left_mid.tga"></Mapping>
-<Mapping ArtAssetID="quest_dialog_blue_bg_right_mid" 							FileName="..\SHADOWCORE\basepanel2\blue_bg_right_mid.tga"></Mapping>
-<Mapping ArtAssetID="quest_dialog_blue_bg_top_mid" 								FileName="..\SHADOWCORE\basepanel2\blue_bg_top_mid.tga"></Mapping>
-<Mapping ArtAssetID="quest_dialog_blue_bg_top_left" 							FileName="..\SHADOWCORE\basepanel2\blue_bg_top_left.tga"></Mapping>
-<Mapping ArtAssetID="quest_dialog_blue_bg_top_right" 							FileName="..\SHADOWCORE\basepanel2\blue_bg_top_right.tga"></Mapping>
+<Mapping ArtAssetID="quest_dialog_blue_bg_bottom_left" 							FileName=".\infopanel\blue_bg_bottom_left.tga"></Mapping>
+<Mapping ArtAssetID="quest_dialog_blue_bg_bottom_mid" 							FileName=".\infopanel\blue_bg_bottom_mid.tga"></Mapping>
+<Mapping ArtAssetID="quest_dialog_blue_bg_bottom_right" 						FileName=".\infopanel\blue_bg_bottom_right.tga"></Mapping>
+<Mapping ArtAssetID="quest_dialog_blue_bg_left_mid" 							FileName=".\infopanel\blue_bg_left_mid.tga"></Mapping>
+<Mapping ArtAssetID="quest_dialog_blue_bg_right_mid" 							FileName=".\infopanel\blue_bg_right_mid.tga"></Mapping>
+<Mapping ArtAssetID="quest_dialog_blue_bg_top_mid" 								FileName=".\infopanel\blue_bg_top_mid.tga"></Mapping>
+<Mapping ArtAssetID="quest_dialog_blue_bg_top_left" 							FileName=".\infopanel\blue_bg_top_left.tga"></Mapping>
+<Mapping ArtAssetID="quest_dialog_blue_bg_top_right" 							FileName=".\infopanel\blue_bg_top_right.tga"></Mapping>
 
 <Mapping ArtAssetID="blue_bg_bottom_left" 										FileName="..\SHADOWCORE\basepanel\blue_bg_bottom_left.tga"></Mapping>
 <Mapping ArtAssetID="blue_bg_bottom_mid" 										FileName="..\SHADOWCORE\basepanel\blue_bg_bottom_mid.tga"></Mapping>
