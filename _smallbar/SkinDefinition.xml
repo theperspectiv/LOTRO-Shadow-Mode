@@ -8,7 +8,7 @@
 		
 		All JRR components credits are logged on http://www.lotrointerface.com/downloads/info581
 		-->
-<SkinName Name="Shadow Mode SmallBar"></SkinName>
+<SkinName Name="Shadow Mode Smallbar"></SkinName>
 
 <PanelFile ID="ID_UISkin_Toolbar">
 
@@ -423,8 +423,9 @@
 <Mapping ArtAssetID="BaseBox_BlueBG"											FileName="..\SHADOWCORE\basebox\BaseBox_BlueBG.tga"></Mapping>
 
 <Mapping ArtAssetID="base_box_center"				  							FileName="..\SHADOWCORE\basebox\base_box_center.tga"></Mapping>
+<!-- bg for dropdown menu and character panel and crafting window??-->
 <Mapping ArtAssetID="base_box_center_silver"		  							FileName="..\SHADOWCORE\basebox\base_box_center_silver.tga"></Mapping>
-<!-- most window backgrounds-->
+<!-- window backgrounds for some windows; settings, inventory, rep, title-->
 <Mapping ArtAssetID="base_box_center_silver_gradient"							FileName="..\SHADOWCORE\basebox\base_box_center_silver_gradient.tga"></Mapping>
 <Mapping ArtAssetID="base_box_center_silver_light"								FileName="..\SHADOWCORE\basebox\base_box_center_silver_light.tga"></Mapping>
 
@@ -432,14 +433,14 @@
 <Mapping ArtAssetID="skill_search_background"									FileName="..\SHADOWCORE\misc\skill_search_background.tga"></Mapping>
 
 <!-- innershadow (right-click menu and "subpanels" like left side of crafting panel, vault chests, quest list and quest details) -->
-<Mapping ArtAssetID="innershadow_bottom" 										FileName="..\SHADOWCORE\innershadow\innershadow_bottom.tga"></Mapping>
-<Mapping ArtAssetID="innershadow_bottomleft" 									FileName="..\SHADOWCORE\innershadow\innershadow_bottomleft.tga"></Mapping>
-<Mapping ArtAssetID="innershadow_bottomright" 									FileName="..\SHADOWCORE\innershadow\innershadow_bottomright.tga"></Mapping>
-<Mapping ArtAssetID="innershadow_left" 											FileName="..\SHADOWCORE\innershadow\innershadow_left.tga"></Mapping>
-<Mapping ArtAssetID="innershadow_right" 										FileName="..\SHADOWCORE\innershadow\innershadow_right.tga"></Mapping>
-<Mapping ArtAssetID="innershadow_top" 											FileName="..\SHADOWCORE\innershadow\innershadow_top.tga"></Mapping>
-<Mapping ArtAssetID="innershadow_topleft" 										FileName="..\SHADOWCORE\innershadow\innershadow_topleft.tga"></Mapping>
-<Mapping ArtAssetID="innershadow_topright" 										FileName="..\SHADOWCORE\innershadow\innershadow_topright.tga"></Mapping>
+<Mapping ArtAssetID="innershadow_bottom" 										FileName=".\innershadow\innershadow_bottom.tga"></Mapping>
+<Mapping ArtAssetID="innershadow_bottomleft" 									FileName=".\innershadow\innershadow_bottomleft.tga"></Mapping>
+<Mapping ArtAssetID="innershadow_bottomright" 									FileName=".\innershadow\innershadow_bottomright.tga"></Mapping>
+<Mapping ArtAssetID="innershadow_left" 											FileName=".\innershadow\innershadow_left.tga"></Mapping>
+<Mapping ArtAssetID="innershadow_right" 										FileName=".\innershadow\innershadow_right.tga"></Mapping>
+<Mapping ArtAssetID="innershadow_top" 											FileName=".\innershadow\innershadow_top.tga"></Mapping>
+<Mapping ArtAssetID="innershadow_topleft" 										FileName=".\innershadow\innershadow_topleft.tga"></Mapping>
+<Mapping ArtAssetID="innershadow_topright" 										FileName=".\innershadow\innershadow_topright.tga"></Mapping>
 <Mapping ArtAssetID="black_translucent" 										FileName="..\SHADOWCORE\misc\large_panel_bg.tga"></Mapping>
 
 <!-- tooltips -->
@@ -486,7 +487,7 @@
 <Mapping ArtAssetID="panel_oneWayResize_vert_icon"								FileName="..\SHADOWCORE\basepanel\panel_oneWayResize_vert_icon.tga"></Mapping>
 <Mapping ArtAssetID="panel_resize_icon"											FileName="..\SHADOWCORE\basepanel\panel_resize_icon.tga"></Mapping>
 
-<!-- "chrome" for some windows -->
+<!-- "chrome" for some windows; unify with silver2 -->
 <Mapping ArtAssetID="box_silver_bottom_min"										FileName="..\SHADOWCORE\silver\bottom.tga"></Mapping>
 <Mapping ArtAssetID="box_silver_bottom_left_noadorn_min"						FileName="..\SHADOWCORE\silver\bottom_left.tga"></Mapping>
 <Mapping ArtAssetID="box_silver_lower_right_noadorn_min"						FileName="..\SHADOWCORE\silver\lower_right.tga"></Mapping>

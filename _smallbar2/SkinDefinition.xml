@@ -8,7 +8,7 @@
 		
 		All JRR components credits are logged on http://www.lotrointerface.com/downloads/info581
 		-->
-<SkinName Name="Shadow Mode SmallBarcopy"></SkinName>
+<SkinName Name="Shadow Mode Smallbar2"></SkinName>
 
 <PanelFile ID="ID_UISkin_Toolbar">
 
@@ -422,37 +422,39 @@
 <Mapping ArtAssetID="box_01_titlebar"											FileName="..\SHADOWCORE\basebox\box_01_titlebar.tga"></Mapping>
 <Mapping ArtAssetID="BaseBox_BlueBG"											FileName="..\SHADOWCORE\basebox\BaseBox_BlueBG.tga"></Mapping>
 
-<Mapping ArtAssetID="base_box_center"				  							FileName="..\SHADOWCORE\basebox\center_silver.tga"></Mapping>
-<Mapping ArtAssetID="base_box_center_silver"		  							FileName="..\SHADOWCORE\basebox\center_silver.tga"></Mapping>
-<Mapping ArtAssetID="base_box_center_silver_new"	  							FileName="..\SHADOWCORE\basebox\center_silver.tga"></Mapping>
-
-<Mapping ArtAssetID="base_box_center_silver_gradient"							FileName="..\SHADOWCORE\invisible2.tga"></Mapping>
-<Mapping ArtAssetID="base_box_center_silver_light"								FileName="..\SHADOWCORE\basebox\center_silver.tga"></Mapping>
+<Mapping ArtAssetID="base_box_center"				  							FileName="..\SHADOWCORE\basebox\base_box_center.tga"></Mapping>
+<!-- bg for dropdown menu and character panel and crafting window??-->
+<Mapping ArtAssetID="base_box_center_silver"		  							FileName="..\SHADOWCORE\basebox\base_box_center_silver.tga"></Mapping>
+<!-- window backgrounds for some windows; settings, inventory, rep, title-->
+<Mapping ArtAssetID="base_box_center_silver_gradient"							FileName="..\SHADOWCORE\basebox\base_box_center_silver_gradient.tga"></Mapping>
+<Mapping ArtAssetID="base_box_center_silver_light"								FileName="..\SHADOWCORE\basebox\base_box_center_silver_light.tga"></Mapping>
 
 <Mapping ArtAssetID="mithril_popup_box_bg_wide"									FileName="..\SHADOWCORE\invisible2.tga"></Mapping>
 <Mapping ArtAssetID="skill_search_background"									FileName="..\SHADOWCORE\misc\skill_search_background.tga"></Mapping>
 
-<!-- innershadow (crafting panel left side, vault chests, quest list and details) -->
-<Mapping ArtAssetID="innershadow_bottom" 										FileName="..\SHADOWCORE\innershadow\innershadow_bottom.tga"></Mapping>
-<Mapping ArtAssetID="innershadow_bottomleft" 									FileName="..\SHADOWCORE\innershadow\innershadow_bottomleft.tga"></Mapping>
-<Mapping ArtAssetID="innershadow_bottomright" 									FileName="..\SHADOWCORE\innershadow\innershadow_bottomright.tga"></Mapping>
-<Mapping ArtAssetID="innershadow_left" 											FileName="..\SHADOWCORE\innershadow\innershadow_left.tga"></Mapping>
-<Mapping ArtAssetID="innershadow_right" 										FileName="..\SHADOWCORE\innershadow\innershadow_right.tga"></Mapping>
-<Mapping ArtAssetID="innershadow_top" 											FileName="..\SHADOWCORE\innershadow\innershadow_top.tga"></Mapping>
-<Mapping ArtAssetID="innershadow_topleft" 										FileName="..\SHADOWCORE\innershadow\innershadow_topleft.tga"></Mapping>
-<Mapping ArtAssetID="innershadow_topright" 										FileName="..\SHADOWCORE\innershadow\innershadow_topright.tga"></Mapping>
+<!-- innershadow (right-click menu and "subpanels" like left side of crafting panel, vault chests, quest list and quest details) -->
+<Mapping ArtAssetID="innershadow_bottom" 										FileName=".\innershadow\innershadow_bottom.tga"></Mapping>
+<Mapping ArtAssetID="innershadow_bottomleft" 									FileName=".\innershadow\innershadow_bottomleft.tga"></Mapping>
+<Mapping ArtAssetID="innershadow_bottomright" 									FileName=".\innershadow\innershadow_bottomright.tga"></Mapping>
+<Mapping ArtAssetID="innershadow_left" 											FileName=".\innershadow\innershadow_left.tga"></Mapping>
+<Mapping ArtAssetID="innershadow_right" 										FileName=".\innershadow\innershadow_right.tga"></Mapping>
+<Mapping ArtAssetID="innershadow_top" 											FileName=".\innershadow\innershadow_top.tga"></Mapping>
+<Mapping ArtAssetID="innershadow_topleft" 										FileName=".\innershadow\innershadow_topleft.tga"></Mapping>
+<Mapping ArtAssetID="innershadow_topright" 										FileName=".\innershadow\innershadow_topright.tga"></Mapping>
 <Mapping ArtAssetID="black_translucent" 										FileName="..\SHADOWCORE\misc\large_panel_bg.tga"></Mapping>
 
 <!-- tooltips -->
-<Mapping ArtAssetID="basepanel_bottomleft_new"			  						FileName="..\SHADOWCORE\basepanel4\bottomleft.tga"></Mapping>
-<Mapping ArtAssetID="basepanel_bottommid_new"			  						FileName="..\SHADOWCORE\basepanel4\bottommid.tga"></Mapping>
-<Mapping ArtAssetID="basepanel_bottomright_new"			  						FileName="..\SHADOWCORE\basepanel4\bottomright.tga"></Mapping>
-<Mapping ArtAssetID="basepanel_midleft_new"				  						FileName="..\SHADOWCORE\basepanel4\midleft.tga"></Mapping>
-<Mapping ArtAssetID="basepanel_midright_new"			  						FileName="..\SHADOWCORE\basepanel4\midright.tga"></Mapping>
-<Mapping ArtAssetID="basepanel_topleft_new"				  						FileName="..\SHADOWCORE\basepanel4\topleft.tga"></Mapping>
-<Mapping ArtAssetID="basepanel_topmid_new"				  						FileName="..\SHADOWCORE\basepanel4\topmid.tga"></Mapping>
-<Mapping ArtAssetID="basepanel_topright_new"			  						FileName="..\SHADOWCORE\basepanel4\topright.tga"></Mapping>
+<Mapping ArtAssetID="base_box_center_silver_new"	  							FileName="..\SHADOWCORE\tooltips\center.tga"></Mapping>
+<Mapping ArtAssetID="basepanel_bottomleft_new"			  						FileName="..\SHADOWCORE\tooltips\bottomleft.tga"></Mapping>
+<Mapping ArtAssetID="basepanel_bottommid_new"			  						FileName="..\SHADOWCORE\tooltips\bottommid.tga"></Mapping>
+<Mapping ArtAssetID="basepanel_bottomright_new"			  						FileName="..\SHADOWCORE\tooltips\bottomright.tga"></Mapping>
+<Mapping ArtAssetID="basepanel_midleft_new"				  						FileName="..\SHADOWCORE\tooltips\midleft.tga"></Mapping>
+<Mapping ArtAssetID="basepanel_midright_new"			  						FileName="..\SHADOWCORE\tooltips\midright.tga"></Mapping>
+<Mapping ArtAssetID="basepanel_topleft_new"				  						FileName="..\SHADOWCORE\tooltips\topleft.tga"></Mapping>
+<Mapping ArtAssetID="basepanel_topmid_new"				  						FileName="..\SHADOWCORE\tooltips\topmid.tga"></Mapping>
+<Mapping ArtAssetID="basepanel_topright_new"			  						FileName="..\SHADOWCORE\tooltips\topright.tga"></Mapping>
 
+<!--??-->
 <Mapping ArtAssetID="basepanel_bottomleft"			  							FileName="..\SHADOWCORE\basepanel3\bottomleft.tga"></Mapping>
 <Mapping ArtAssetID="basepanel_bottommid"			  							FileName="..\SHADOWCORE\basepanel3\bottommid.tga"></Mapping>
 <Mapping ArtAssetID="basepanel_bottomright"			  							FileName="..\SHADOWCORE\basepanel3\bottomright.tga"></Mapping>
@@ -462,7 +464,7 @@
 <Mapping ArtAssetID="basepanel_topmid"				  							FileName="..\SHADOWCORE\basepanel3\topmid.tga"></Mapping>
 <Mapping ArtAssetID="basepanel_topright"			  							FileName="..\SHADOWCORE\basepanel3\topright.tga"></Mapping>
 
-<!-- subpanels like in right side of in crafting window, quest dialog -->
+<!-- right side of crafting window and quest dialog -->
 <Mapping ArtAssetID="quest_dialog_blue_bg_bottom_left" 							FileName="..\SHADOWCORE\basepanel2\blue_bg_bottom_left.tga"></Mapping>
 <Mapping ArtAssetID="quest_dialog_blue_bg_bottom_mid" 							FileName="..\SHADOWCORE\basepanel2\blue_bg_bottom_mid.tga"></Mapping>
 <Mapping ArtAssetID="quest_dialog_blue_bg_bottom_right" 						FileName="..\SHADOWCORE\basepanel2\blue_bg_bottom_right.tga"></Mapping>
@@ -485,7 +487,7 @@
 <Mapping ArtAssetID="panel_oneWayResize_vert_icon"								FileName="..\SHADOWCORE\basepanel\panel_oneWayResize_vert_icon.tga"></Mapping>
 <Mapping ArtAssetID="panel_resize_icon"											FileName="..\SHADOWCORE\basepanel\panel_resize_icon.tga"></Mapping>
 
-<!-- "chrome" for some windows -->
+<!-- "chrome" for some windows; unify with silver2 -->
 <Mapping ArtAssetID="box_silver_bottom_min"										FileName="..\SHADOWCORE\silver\bottom.tga"></Mapping>
 <Mapping ArtAssetID="box_silver_bottom_left_noadorn_min"						FileName="..\SHADOWCORE\silver\bottom_left.tga"></Mapping>
 <Mapping ArtAssetID="box_silver_lower_right_noadorn_min"						FileName="..\SHADOWCORE\silver\lower_right.tga"></Mapping>
@@ -707,7 +709,7 @@
 <Mapping ArtAssetID="Chargen_Box_Top"											FileName="..\SHADOWCORE\chargen\Chargen_Box_Top.tga"></Mapping>
 <Mapping ArtAssetID="Chargen_Box_Top_Right"										FileName="..\SHADOWCORE\chargen\Chargen_Box_Top_Right.tga"></Mapping>
 
-<!-- chat -->
+<!-- Chat -->
 
 <Mapping ArtAssetID="im_button_close_highlight_active"							FileName="..\SHADOWCORE\chat\im_button_close_highlight_active.tga"></Mapping>
 <Mapping ArtAssetID="im_button_close_normal"									FileName="..\SHADOWCORE\chat\im_button_close_normal.tga"></Mapping>
@@ -718,24 +720,7 @@
 <Mapping ArtAssetID="im_button_pressed"											FileName="..\SHADOWCORE\chat\im_button_pressed.tga"></Mapping>
 <Mapping ArtAssetID="im_button_rollover"										FileName="..\SHADOWCORE\chat\im_button_rollover.tga"></Mapping>
 <Mapping ArtAssetID="chat_unread_overlay"										FileName="..\SHADOWCORE\chat\chat_unread_overlay.tga"></Mapping>	
-<Mapping ArtAssetID="button_chat_output_mouseover" 								FileName="..\SHADOWCORE\chat\button_chat_output_mouseover.tga"></Mapping>
-<Mapping ArtAssetID="button_chat_output_normal" 								FileName="..\SHADOWCORE\chat\button_chat_output_normal.tga"></Mapping>
-<Mapping ArtAssetID="button_chat_output_pressed" 								FileName="..\SHADOWCORE\chat\button_chat_output_pressed.tga"></Mapping>
-<Mapping ArtAssetID="chat_Logging_overlay" 										FileName="..\SHADOWCORE\chat\chat_Logging_overlay.tga"></Mapping>
-<Mapping ArtAssetID="chat_back" 												FileName="..\SHADOWCORE\chat\chat_back.tga"></Mapping>
-<Mapping ArtAssetID="chat_drag_back" 											FileName="..\SHADOWCORE\chat\chat_drag_back.tga"></Mapping>
-<Mapping ArtAssetID="chat_dragbar" 												FileName="..\SHADOWCORE\chat\chat_dragbar.tga"></Mapping>
-<Mapping ArtAssetID="chat_entry_focussed" 										FileName="..\SHADOWCORE\chat\chat_entry_focussed.tga"></Mapping>
-<Mapping ArtAssetID="chat_icon_party" 											FileName="..\SHADOWCORE\chat\chat_icon_party.tga"></Mapping>
-<Mapping ArtAssetID="chat_resize_widget" 										FileName="..\SHADOWCORE\chat\chat_resize_widget.tga"></Mapping>
-<Mapping ArtAssetID="chat_tab_tier1_middle_back_e" 								FileName="..\SHADOWCORE\chat\chat_tab_tier1_middle_back_e.tga"></Mapping>
-<Mapping ArtAssetID="chat_tab_tier1_middle_back_n" 								FileName="..\SHADOWCORE\chat\chat_tab_tier1_middle_back_n.tga"></Mapping>
-<Mapping ArtAssetID="chat_tab_tier1_middle_back_w" 								FileName="..\SHADOWCORE\chat\chat_tab_tier1_middle_back_w.tga"></Mapping>
-<Mapping ArtAssetID="chat_tab_tier1_middle_front_e" 							FileName="..\SHADOWCORE\chat\chat_tab_tier1_middle_front_e.tga"></Mapping>
-<Mapping ArtAssetID="chat_tab_tier1_middle_front_n" 							FileName="..\SHADOWCORE\chat\chat_tab_tier1_middle_front_n.tga"></Mapping>
-<Mapping ArtAssetID="chat_tab_tier1_middle_front_w" 							FileName="..\SHADOWCORE\chat\chat_tab_tier1_middle_front_w.tga"></Mapping>
 
-<!-- checkbox -->
 <Mapping ArtAssetID="checkbox_01_empty_ghosted" 								FileName="..\SHADOWCORE\checkbox\checkbox_01_empty_ghosted.tga"></Mapping>
 <Mapping ArtAssetID="checkbox_01_empty" 										FileName="..\SHADOWCORE\checkbox\checkbox_01_empty.tga"></Mapping>
 <Mapping ArtAssetID="checkbox_01_ghosted" 										FileName="..\SHADOWCORE\checkbox\checkbox_01_ghosted.tga"></Mapping>
@@ -1237,7 +1222,7 @@
 <Mapping ArtAssetID="corner_br"													FileName="..\SHADOWCORE\invisible2.tga"></Mapping>
 <Mapping ArtAssetID="advancement_tracking_display_level_box"					FileName="..\SHADOWCORE\invisible2.tga"></Mapping>
 
-<Mapping ArtAssetID="Options_menu_side_bar"										FileName="..\SHADOWCORE\misc\Options_menu_side_bar.tga"></Mapping>
+<Mapping ArtAssetID="Options_menu_side_bar"										FileName="..\SHADOWCORE\misc\options_menu_side_bar.tga"></Mapping>
 <Mapping ArtAssetID="options_panel_divider"										FileName="..\SHADOWCORE\misc\options_panel_divider.tga"></Mapping>
 <Mapping ArtAssetID="panel_border"												FileName="..\SHADOWCORE\misc\panel_border.tga"></Mapping>
 
@@ -2245,9 +2230,9 @@
 <Mapping ArtAssetID="questactionbutton_BG"										FileName="..\..\JRR Skins collection\JRR CORE\misc\questactionbutton_BG.tga"></Mapping>
 <Mapping ArtAssetID="questactionbutton_BG_pressed"								FileName="..\..\JRR Skins collection\JRR CORE\misc\questactionbutton_BG_pressed.tga"></Mapping>
 <Mapping ArtAssetID="questactionbutton_BG_rollover"								FileName="..\..\JRR Skins collection\JRR CORE\misc\questactionbutton_BG_rollover.tga"></Mapping>  
-<Mapping ArtAssetID="Base_Divider"												FileName="..\..\JRR Skins collection\JRR CORE\misc\Base_Divider.tga"></Mapping>
-<Mapping ArtAssetID="Base_NonSelect"											FileName="..\..\JRR Skins collection\JRR CORE\misc\Base_NonSelect.tga"></Mapping>
-<Mapping ArtAssetID="Base_Select"												FileName="..\..\JRR Skins collection\JRR CORE\misc\Base_Select.tga"></Mapping>
+<Mapping ArtAssetID="Base_Divider"												FileName="..\SHADOWCORE\misc\Base_Divider.tga"></Mapping>
+<Mapping ArtAssetID="Base_NonSelect"											FileName="..\SHADOWCORE\misc\Base_NonSelect.tga"></Mapping>
+<Mapping ArtAssetID="Base_Select"												FileName="..\SHADOWCORE\misc\Base_Select.tga"></Mapping>
 <Mapping ArtAssetID="hidden_dragbar_normal"										FileName="..\..\JRR Skins collection\JRR CORE\misc\hidden_dragbar_normal.tga"></Mapping>
 <Mapping ArtAssetID="hidden_dragbar_normal_activated"							FileName="..\..\JRR Skins collection\JRR CORE\misc\hidden_dragbar_normal_activated.tga"></Mapping>		
 <Mapping ArtAssetID="money_player_all_background_short"							FileName="..\..\JRR Skins collection\JRR CORE\misc\money_player_all_background_short.tga"></Mapping>
@@ -3023,7 +3008,7 @@
 <Mapping ArtAssetID="hope_10"						  FileName="..\..\JRR Skins collection\JRR CORE\minimap\hope_10.tga"></Mapping>
 
 
-<Mapping ArtAssetID="selection_inanimate_backdrop"		FileName="..\..\JRR Skins collection\JRR CORE\misc\backdrop.tga"></Mapping>
+<Mapping ArtAssetID="selection_inanimate_backdrop"		FileName="..\SHADOWCORE\misc\backdrop.tga"></Mapping>
 <Mapping ArtAssetID="money_player_all_background"		FileName="..\..\JRR Skins collection\JRR CORE\misc\money.tga"></Mapping>
 <Mapping ArtAssetID="pedigree_bg"								FileName="..\SHADOWCORE\invisible2.tga"></Mapping>
 <Mapping ArtAssetID="actionPicker_base_background"				FileName="..\..\JRR Skins collection\JRR CORE\misc\actionPicker_base_background.tga"></Mapping>
@@ -3049,32 +3034,32 @@
 <Mapping ArtAssetID="skirmish_corner_BR"								FileName="..\..\JRR Skins collection\JRR CORE\skirmish\skirmish_corner_BR.tga"></Mapping>
 
 
-<Mapping ArtAssetID="blue_selection_title_highlight_center"						FileName="..\..\JRR Skins collection\JRR CORE\selection\title_highlight_center.tga"></Mapping>
-<Mapping ArtAssetID="blue_selection_title_highlight_left"						FileName="..\..\JRR Skins collection\JRR CORE\selection\title_highlight_left.tga"></Mapping>
-<Mapping ArtAssetID="blue_selection_title_highlight_right"						FileName="..\..\JRR Skins collection\JRR CORE\selection\title_highlight_right.tga"></Mapping>
-<Mapping ArtAssetID="blue_selection_vendor_item_repair_ghosted_center"			FileName="..\..\JRR Skins collection\JRR CORE\selection\blue_selection_vendor_item_repair_ghosted_center.tga"></Mapping>
-<Mapping ArtAssetID="blue_selection_vendor_item_repair_ghosted_left"			FileName="..\..\JRR Skins collection\JRR CORE\selection\blue_selection_vendor_item_repair_ghosted_left.tga"></Mapping>
-<Mapping ArtAssetID="blue_selection_vendor_item_repair_ghosted_right"			FileName="..\..\JRR Skins collection\JRR CORE\selection\blue_selection_vendor_item_repair_ghosted_right.tga"></Mapping>
-<Mapping ArtAssetID="blue_selection_vendor_item_repair_center"					FileName="..\..\JRR Skins collection\JRR CORE\selection\selectionVendorRepairBgCenter.tga"></Mapping>
-<Mapping ArtAssetID="blue_selection_skilltrainer_ghosted"							FileName="..\..\JRR Skins collection\JRR CORE\selection\blue_selection_skilltrainer_ghosted.tga"></Mapping>
-<Mapping ArtAssetID="blue_selection_skilltrainer_highlight_active"			FileName="..\..\JRR Skins collection\JRR CORE\selection\blue_selection_skilltrainer_highlight_active.tga"></Mapping>
-<Mapping ArtAssetID="blue_selection_skilltrainer_normal"							FileName="..\..\JRR Skins collection\JRR CORE\selection\blue_selection_skilltrainer_normal.tga"></Mapping>
-  <Mapping ArtAssetID="blue_selection_vendor_item_repair_highlight"			  FileName="..\..\JRR Skins collection\JRR CORE\selection\selectionVendorRepairActive.tga"></Mapping>
-  <Mapping ArtAssetID="blue_selection_vendor_item_repair_highlight_center"	  FileName="..\..\JRR Skins collection\JRR CORE\selection\selectionVendorRepairHoverMiddle.tga"></Mapping>
-  <Mapping ArtAssetID="blue_selection_vendor_item_repair_highlight_left"	  FileName="..\..\JRR Skins collection\JRR CORE\selection\selectionVendorRepairHoverLeft.tga"></Mapping>
-  <Mapping ArtAssetID="blue_selection_vendor_item_repair_highlight_right"	  FileName="..\..\JRR Skins collection\JRR CORE\selection\selectionVendorRepairHoverRight.tga"></Mapping>
-  <Mapping ArtAssetID="blue_selection_vendor_item_repair_normal"			  FileName="..\..\JRR Skins collection\JRR CORE\selection\selectionVendorRepair.tga"></Mapping>
-  <Mapping ArtAssetID="blue_selection_vendor_item_repair_normal_center"		  FileName="..\..\JRR Skins collection\JRR CORE\selection\selectionVendorRepairMiddle.tga"></Mapping>
-  <Mapping ArtAssetID="blue_selection_vendor_item_repair_normal_left"		  FileName="..\..\JRR Skins collection\JRR CORE\selection\selectionVendorRepairLeft.tga"></Mapping>
-  <Mapping ArtAssetID="blue_selection_vendor_item_repair_normal_right"		  FileName="..\..\JRR Skins collection\JRR CORE\selection\selectionVendorRepairRight.tga"></Mapping>
-  <Mapping ArtAssetID="blue_selection_vendor_item_repair_left"				  FileName="..\..\JRR Skins collection\JRR CORE\selection\selectionVendorRepairBgLeft.tga"></Mapping>
-  <Mapping ArtAssetID="blue_selection_vendor_item_repair_right"				  FileName="..\..\JRR Skins collection\JRR CORE\selection\selectionVendorRepairBgRight.tga"></Mapping>
-<Mapping ArtAssetID="blue_selection_vendor_item_normal"						FileName="..\..\JRR Skins collection\JRR CORE\selection\short_normal.tga"></Mapping>
-<Mapping ArtAssetID="blue_selection_vendor_item_highlight_active"			FileName="..\..\JRR Skins collection\JRR CORE\selection\short_selected.tga"></Mapping>
-<Mapping ArtAssetID="blue_selection_quest_normal"									FileName="..\..\JRR Skins collection\JRR CORE\selection\small_normal.tga"></Mapping>
-<Mapping ArtAssetID="blue_selection_quest_highlight"								FileName="..\..\JRR Skins collection\JRR CORE\selection\small_highlighted.tga"></Mapping>
-<Mapping ArtAssetID="blue_selection_quest_highlight_active"					FileName="..\..\JRR Skins collection\JRR CORE\selection\small_selected.tga"></Mapping>
-<Mapping ArtAssetID="blue_selection"												FileName="..\..\JRR Skins collection\JRR CORE\selection\selection.tga"></Mapping>
+<Mapping ArtAssetID="blue_selection_title_highlight_center"						FileName="..\SHADOWCORE\selection\title_highlight_center.tga"></Mapping>
+<Mapping ArtAssetID="blue_selection_title_highlight_left"						FileName="..\SHADOWCORE\selection\title_highlight_left.tga"></Mapping>
+<Mapping ArtAssetID="blue_selection_title_highlight_right"						FileName="..\SHADOWCORE\selection\title_highlight_right.tga"></Mapping>
+<Mapping ArtAssetID="blue_selection_vendor_item_repair_ghosted_center"			FileName="..\SHADOWCORE\selection\blue_selection_vendor_item_repair_ghosted_center.tga"></Mapping>
+<Mapping ArtAssetID="blue_selection_vendor_item_repair_ghosted_left"			FileName="..\SHADOWCORE\selection\blue_selection_vendor_item_repair_ghosted_left.tga"></Mapping>
+<Mapping ArtAssetID="blue_selection_vendor_item_repair_ghosted_right"			FileName="..\SHADOWCORE\selection\blue_selection_vendor_item_repair_ghosted_right.tga"></Mapping>
+<Mapping ArtAssetID="blue_selection_vendor_item_repair_center"					FileName="..\SHADOWCORE\selection\selectionVendorRepairBgCenter.tga"></Mapping>
+<Mapping ArtAssetID="blue_selection_skilltrainer_ghosted"							FileName="..\SHADOWCORE\selection\blue_selection_skilltrainer_ghosted.tga"></Mapping>
+<Mapping ArtAssetID="blue_selection_skilltrainer_highlight_active"			FileName="..\SHADOWCORE\selection\blue_selection_skilltrainer_highlight_active.tga"></Mapping>
+<Mapping ArtAssetID="blue_selection_skilltrainer_normal"							FileName="..\SHADOWCORE\selection\blue_selection_skilltrainer_normal.tga"></Mapping>
+  <Mapping ArtAssetID="blue_selection_vendor_item_repair_highlight"			  FileName="..\SHADOWCORE\selection\selectionVendorRepairActive.tga"></Mapping>
+  <Mapping ArtAssetID="blue_selection_vendor_item_repair_highlight_center"	  FileName="..\SHADOWCORE\selection\selectionVendorRepairHoverMiddle.tga"></Mapping>
+  <Mapping ArtAssetID="blue_selection_vendor_item_repair_highlight_left"	  FileName="..\SHADOWCORE\selection\selectionVendorRepairHoverLeft.tga"></Mapping>
+  <Mapping ArtAssetID="blue_selection_vendor_item_repair_highlight_right"	  FileName="..\SHADOWCORE\selection\selectionVendorRepairHoverRight.tga"></Mapping>
+  <Mapping ArtAssetID="blue_selection_vendor_item_repair_normal"			  FileName="..\SHADOWCORE\selection\selectionVendorRepair.tga"></Mapping>
+  <Mapping ArtAssetID="blue_selection_vendor_item_repair_normal_center"		  FileName="..\SHADOWCORE\selection\selectionVendorRepairMiddle.tga"></Mapping>
+  <Mapping ArtAssetID="blue_selection_vendor_item_repair_normal_left"		  FileName="..\SHADOWCORE\selection\selectionVendorRepairLeft.tga"></Mapping>
+  <Mapping ArtAssetID="blue_selection_vendor_item_repair_normal_right"		  FileName="..\SHADOWCORE\selection\selectionVendorRepairRight.tga"></Mapping>
+  <Mapping ArtAssetID="blue_selection_vendor_item_repair_left"				  FileName="..\SHADOWCORE\selection\selectionVendorRepairBgLeft.tga"></Mapping>
+  <Mapping ArtAssetID="blue_selection_vendor_item_repair_right"				  FileName="..\SHADOWCORE\selection\selectionVendorRepairBgRight.tga"></Mapping>
+<Mapping ArtAssetID="blue_selection_vendor_item_normal"						FileName="..\SHADOWCORE\selection\short_normal.tga"></Mapping>
+<Mapping ArtAssetID="blue_selection_vendor_item_highlight_active"			FileName="..\SHADOWCORE\selection\short_selected.tga"></Mapping>
+<Mapping ArtAssetID="blue_selection_quest_normal"									FileName="..\SHADOWCORE\selection\small_normal.tga"></Mapping>
+<Mapping ArtAssetID="blue_selection_quest_highlight"								FileName="..\SHADOWCORE\selection\small_highlighted.tga"></Mapping>
+<Mapping ArtAssetID="blue_selection_quest_highlight_active"					FileName="..\SHADOWCORE\selection\small_selected.tga"></Mapping>
+<Mapping ArtAssetID="blue_selection"												FileName="..\SHADOWCORE\selection\selection.tga"></Mapping>
 
 
 <!-- Skirmish / worldjoin -->
