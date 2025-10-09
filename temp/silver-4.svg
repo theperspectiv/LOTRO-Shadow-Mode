@@ -11,14 +11,14 @@
       <bx:file format="png" href="#view-7" path="upper_right.png" excluded="true"/>
       <bx:file format="png" href="#view-8" path="side_right.png" excluded="true"/>
       <bx:file format="png" href="#view-9" path="center.png" excluded="true"/>
-      <bx:file format="png" href="#view-10" path="blue_bg_top_left.png"/>
-      <bx:file format="png" href="#view-11" path="blue_bg_top_mid.png"/>
-      <bx:file format="png" href="#view-12" path="blue_bg_top_right.png"/>
-      <bx:file format="png" href="#view-13" path="blue_bg_left_mid.png"/>
-      <bx:file format="png" href="#view-14" path="blue_bg_bottom_left.png"/>
-      <bx:file format="png" href="#view-16" path="blue_bg_bottom_mid.png"/>
-      <bx:file format="png" href="#view-15" path="blue_bg_bottom_right.png"/>
-      <bx:file format="png" href="#view-17" path="blue_bg_right_mid.png"/>
+      <bx:file format="png" href="#view-10" path="blue_bg_top_left.png" excluded="true"/>
+      <bx:file format="png" href="#view-11" path="blue_bg_top_mid.png" excluded="true"/>
+      <bx:file format="png" href="#view-12" path="blue_bg_top_right.png" excluded="true"/>
+      <bx:file format="png" href="#view-13" path="blue_bg_left_mid.png" excluded="true"/>
+      <bx:file format="png" href="#view-14" path="blue_bg_bottom_left.png" excluded="true"/>
+      <bx:file format="png" href="#view-16" path="blue_bg_bottom_mid.png" excluded="true"/>
+      <bx:file format="png" href="#view-15" path="blue_bg_bottom_right.png" excluded="true"/>
+      <bx:file format="png" href="#view-17" path="blue_bg_right_mid.png" excluded="true"/>
       <bx:file format="png" href="#view-26" path="innershadow_topleft.png" antialiasing="false" excluded="true"/>
       <bx:file format="png" href="#view-28" path="innershadow_top.png" excluded="true"/>
       <bx:file format="png" href="#view-27" path="innershadow_topright.png" excluded="true"/>
@@ -27,6 +27,18 @@
       <bx:file format="png" href="#view-31" path="innershadow_bottomright.png" excluded="true"/>
       <bx:file format="png" href="#view-33" path="innershadow_left.png" background="#0000" excluded="true"/>
       <bx:file format="png" href="#view-32" path="innershadow_right.png" background="#0000" excluded="true"/>
+      <bx:file format="png" href="#view-34" path="left_normal.png" dpi="111" excluded="true"/>
+      <bx:file format="png" href="#view-40" path="mid_normal.png" antialiasing="false" excluded="true"/>
+      <bx:file format="png" href="#view-37" path="right_normal.png" excluded="true"/>
+      <bx:file format="png" href="#view-36" path="left_pressed.png" excluded="true"/>
+      <bx:file format="png" href="#view-42" path="mid_pressed.png" excluded="true"/>
+      <bx:file format="png" href="#view-39" path="right_pressed.png" excluded="true"/>
+      <bx:file format="png" href="#view-35" path="left_mouseover.png" excluded="true"/>
+      <bx:file format="png" href="#view-41" path="mid_mouseover.png" excluded="true"/>
+      <bx:file format="png" href="#view-38" path="right_mouseover.png" excluded="true"/>
+      <bx:file format="png" href="#view-43" path="selectionVendorRepairLeft.png"/>
+      <bx:file format="png" href="#view-45" path="selectionVendorRepairMiddle.png"/>
+      <bx:file format="png" href="#view-44" path="selectionVendorRepairRight.png"/>
     </bx:export>
     <filter id="drop-shadow-filter-0" bx:preset="drop-shadow 1 0 0 1 1 #00000090" color-interpolation-filters="sRGB" x="-50%" y="-50%" width="200%" height="200%">
       <feGaussianBlur in="SourceAlpha" stdDeviation="1"/>
@@ -231,6 +243,46 @@
     <view id="view-33" viewBox="191.028 528.993 9 9">
       <title>View 33</title>
     </view>
+    <view id="view-34" viewBox="-146 308 20 20">
+      <title>View 34</title>
+    </view>
+    <view id="view-35" viewBox="-146 334 20 20">
+      <title>View 35</title>
+    </view>
+    <view id="view-36" viewBox="-146 361 20 20">
+      <title>View 36</title>
+    </view>
+    <view id="view-37" viewBox="-23 308 20 20">
+      <title>View 37</title>
+    </view>
+    <view id="view-38" viewBox="-23 334 20 20">
+      <title>View 38</title>
+    </view>
+    <view id="view-39" viewBox="-23 361 20 20">
+      <title>View 39</title>
+    </view>
+    <view id="view-40" viewBox="-134 308 120 20">
+      <title>View 40</title>
+    </view>
+    <view id="view-41" viewBox="-134 334 120 20">
+      <title>View 41</title>
+    </view>
+    <view id="view-42" viewBox="-134 361 120 20">
+      <title>View 42</title>
+    </view>
+    <linearGradient gradientUnits="userSpaceOnUse" x1="1209.716" y1="312.374" x2="1209.716" y2="332.374" id="gradient-4" gradientTransform="matrix(0.040607, -0.004796, 0.141284, 1.300004, -134.003937, -121.719286)" spreadMethod="pad">
+      <stop offset="0" style="stop-color: rgb(52, 52, 52);"/>
+      <stop offset="1" style="stop-color: rgb(35, 35, 35);"/>
+    </linearGradient>
+    <view id="view-43" viewBox="-435 308 45 64">
+      <title>View 43</title>
+    </view>
+    <view id="view-44" viewBox="-194 308 46 64">
+      <title>View 44</title>
+    </view>
+    <view id="view-45" viewBox="-385 308 186 64">
+      <title>View 45</title>
+    </view>
   </defs>
   <path style="fill: rgb(25, 25, 25);" d="M 8 4 H 38 A 0 0 0 0 1 38 4 V 38 A 0 0 0 0 1 38 38 H 4 A 0 0 0 0 1 4 38 V 8 A 4 4 0 0 1 8 4 Z" bx:shape="rect 4 4 34 34 0 4 4 0 0 0 0 0 0 0 0 0 2@31d01a85"/>
   <path style="fill: rgb(25, 25, 25);" d="M 38 4 H 228 A 0 0 0 0 1 228 4 V 41 A 0 0 0 0 1 228 41 H 38 A 0 0 0 0 1 38 41 V 4 A 0 0 0 0 1 38 4 Z" bx:shape="rect 38 4 190 37 0 0 0 2@758b5fab"/>
@@ -308,4 +360,12 @@
   <path d="M 194 519 H 214 A 5 5 0 0 1 219 524 V 544 A 5 5 0 0 1 214 549 H 194 A 5 5 0 0 1 189 544 V 524 A 5 5 0 0 1 194 519 Z M 199 529 V 539 H 209 V 529 H 199 Z" bx:shape="frame 189 519 30 30 10 10 5 5 5 5 1@cfa04a89" style="fill: rgba(26, 26, 26, 0.25);">
     <title>innershadow2</title>
   </path>
+  <rect x="3.275" y="308" width="164" height="164" style="fill: rgb(28, 28, 28);" rx="5" ry="5"/>
+  <rect style="fill: rgb(48, 48, 48); paint-order: fill; stroke-linecap: round; stroke-miterlimit: 10.4; stroke-linejoin: round; filter: none;" x="-144" y="308" width="140" height="20" rx="2" ry="2"/>
+  <rect x="-144" y="334" width="140" height="20" style="stroke-width: 1; fill: rgb(64, 64, 64);" rx="2" ry="2"/>
+  <rect x="-144" y="361" width="140" height="20" style="stroke-width: 1; fill: rgb(96, 96, 96);" rx="1.8" ry="1.8"/>
+  <rect x="-144" y="279.537" width="140" height="19" style="fill: rgb(48, 48, 48); paint-order: fill; stroke-linecap: round; stroke-miterlimit: 10.4; stroke-linejoin: round; stroke: url(&quot;#gradient-4&quot;);" rx="2" ry="2"/>
+  <rect style="fill: rgb(48, 48, 48); paint-order: fill; stroke-linecap: round; stroke-miterlimit: 10.4; stroke-linejoin: round; filter: none;" x="-434" y="310" width="276" height="59" rx="2" ry="2"/>
+  <rect x="-434" y="381" width="276" height="64" style="stroke-width: 1; fill: rgb(64, 64, 64);" rx="2" ry="2"/>
+  <rect x="-434" y="455" width="276" height="64" style="stroke-width: 1; fill: rgb(96, 96, 96);" rx="1.8" ry="1.8"/>
 </svg>
