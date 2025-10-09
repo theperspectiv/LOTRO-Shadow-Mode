@@ -4081,21 +4081,21 @@
 <!-- Character panel store buttons removal + outfit slots reorganized  -->
 <PanelFile ID="ID_UISkin_Journal_Window">
 <Element ID="Journal_Window" X="0" Y="63" Width="713" Height="648">
-<Element ID="Journal_Panel" X="6" Y="34" Width="704" Height="606">
-<Element ID="Equipment_Page" X="8" Y="22" Width="681" Height="585">
-<Element ID="RealPaperdollField_Player" X="0" Y="0" Width="700" Height="585">
-<Element ID="CharacterEquipmentPage_Player_EnhanceCharacter_Button" X="0" Y="0" Width="1" Height="1"></Element>
-<Element ID="CharacterStats" X="447" Y="2" Width="229" Height="510">
-<Element ID="StatTree_ScrollBar" X="219" Y="20" Width="10" Height="482">
-  <Element ID="scroll_bottom_field" X="0" Y="472" Width="10" Height="10"> </Element>
-  <Element ID="UpButton" X="0" Y="472" Width="10" Height="10"> </Element>
-  <Element ID="DownButton" X="0" Y="0" Width="10" Height="10"> </Element>
-  <Element ID="scroll_top_field" X="0" Y="0" Width="10" Height="10"> </Element>
-</Element>
-</Element>
-</Element>
-</Element>	  
-<Element ID="Appearance_Page" X="8" Y="22" Width="681" Height="585"> 
+	<Element ID="Journal_Panel" X="6" Y="34" Width="704" Height="606">
+		<Element ID="Equipment_Page" X="8" Y="22" Width="681" Height="585">
+			<Element ID="RealPaperdollField_Player" X="0" Y="0" Width="700" Height="585">
+			<Element ID="CharacterEquipmentPage_Player_EnhanceCharacter_Button" X="0" Y="0" Width="1" Height="1"></Element>
+				<Element ID="CharacterStats" X="447" Y="2" Width="229" Height="510">
+				<Element ID="StatTree_ScrollBar" X="219" Y="20" Width="10" Height="482">
+				<Element ID="scroll_bottom_field" X="0" Y="472" Width="10" Height="10"> </Element>
+				<Element ID="UpButton" X="0" Y="472" Width="10" Height="10"> </Element>
+				<Element ID="DownButton" X="0" Y="0" Width="10" Height="10"> </Element>
+				<Element ID="scroll_top_field" X="0" Y="0" Width="10" Height="10"> </Element>
+				</Element>
+				</Element>
+			</Element>
+		</Element>	  
+		<Element ID="Appearance_Page" X="8" Y="22" Width="681" Height="585"> 
 <Element ID="RealPaperdollField_Player" X="0" Y="0" Width="700" Height="568"> 
 <Element ID="CharacterAppearancePage_BuyCosmeticClothing_Button" X="0" Y="0" Width="1" Height="1"></Element>
 <Element ID="CharacterAppearancePage_BuyCosmeticClothing_Flyout_Field" X="0" Y="0" Width="1" Height="1"></Element>
@@ -4240,7 +4240,7 @@
 </Element>
 </Element>	  
 </Element>
-</Element>
+		</Element>
 </Element>
 </Element>
 </PanelFile>

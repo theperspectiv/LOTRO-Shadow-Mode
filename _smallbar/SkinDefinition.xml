@@ -423,7 +423,7 @@
 <Mapping ArtAssetID="BaseBox_BlueBG"											FileName="..\SHADOWCORE\basebox\BaseBox_BlueBG.tga"></Mapping>
 
 <Mapping ArtAssetID="base_box_center"				  							FileName="..\SHADOWCORE\basebox\base_box_center.tga"></Mapping>
-<!-- bg for dropdown menu and character panel and crafting window??-->
+<!-- bg for dropdown menu and character panel and left side of crafting window??-->
 <Mapping ArtAssetID="base_box_center_silver"		  							FileName="..\SHADOWCORE\basebox\base_box_center_silver.tga"></Mapping>
 <!-- window backgrounds for some windows; settings, inventory, rep, title-->
 <Mapping ArtAssetID="base_box_center_silver_gradient"							FileName="..\SHADOWCORE\basebox\base_box_center_silver_gradient.tga"></Mapping>
