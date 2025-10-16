@@ -946,6 +946,7 @@
 <Mapping ArtAssetID="vault_ui_tab_selected"										FileName="..\SHADOWCORE\storage\vault_ui_tab_selected.tga"></Mapping>
 <Mapping ArtAssetID="chest_header_bg"											FileName="..\SHADOWCORE\storage\chest_header_bg.tga"></Mapping>
 <Mapping ArtAssetID="vault_background_normal_bottom"							FileName="..\SHADOWCORE\storage\vault_background_normal_bottom.tga"></Mapping>
+<Mapping ArtAssetID="vault_background_normal_top"								FileName="..\SHADOWCORE\storage\vault_background_normal_top.tga"></Mapping>
 <Mapping ArtAssetID="vault_background_highlight_bottom_left"					FileName="..\SHADOWCORE\storage\vault_background_highlight_bottom_left.tga"></Mapping>
 <Mapping ArtAssetID="vault_background_highlight_bottom_mid"						FileName="..\SHADOWCORE\storage\vault_background_highlight_bottom_mid.tga"></Mapping>
 <Mapping ArtAssetID="vault_background_highlight_bottom_right"					FileName="..\SHADOWCORE\storage\vault_background_highlight_bottom_right.tga"></Mapping>
@@ -4080,7 +4081,7 @@
 
 <!-- Character panel store buttons removal + outfit slots reorganized  -->
 <PanelFile ID="ID_UISkin_Journal_Window">
-<Element ID="Journal_Window" X="0" Y="63" Width="713" Height="648">
+<Element ID="Journal_Window" X="0" Y="63" Width="713" Height="623">
 	<Element ID="Journal_Panel" X="6" Y="34" Width="704" Height="606">
 		<Element ID="Equipment_Page" X="8" Y="22" Width="681" Height="585">
 			<Element ID="RealPaperdollField_Player" X="0" Y="0" Width="700" Height="585">

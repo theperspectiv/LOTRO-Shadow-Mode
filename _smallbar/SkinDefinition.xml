@@ -711,6 +711,13 @@
 
 <!-- Chat -->
 
+<Mapping ArtAssetID="chat_tab_tier1_middle_back_e" 								FileName="..\SHADOWCORE\chat\chat_tab_tier1_middle_back_e.tga"></Mapping>
+<Mapping ArtAssetID="chat_tab_tier1_middle_back_n" 								FileName="..\SHADOWCORE\chat\chat_tab_tier1_middle_back_n.tga"></Mapping>
+<Mapping ArtAssetID="chat_tab_tier1_middle_back_w" 								FileName="..\SHADOWCORE\chat\chat_tab_tier1_middle_back_w.tga"></Mapping>
+<Mapping ArtAssetID="chat_tab_tier1_middle_front_e" 							FileName="..\SHADOWCORE\chat\chat_tab_tier1_middle_front_e.tga"></Mapping>
+<Mapping ArtAssetID="chat_tab_tier1_middle_front_n" 							FileName="..\SHADOWCORE\chat\chat_tab_tier1_middle_front_n.tga"></Mapping>
+<Mapping ArtAssetID="chat_tab_tier1_middle_front_w" 							FileName="..\SHADOWCORE\chat\chat_tab_tier1_middle_front_w.tga"></Mapping>
+
 <Mapping ArtAssetID="im_button_close_highlight_active"							FileName="..\SHADOWCORE\chat\im_button_close_highlight_active.tga"></Mapping>
 <Mapping ArtAssetID="im_button_close_normal"									FileName="..\SHADOWCORE\chat\im_button_close_normal.tga"></Mapping>
 <Mapping ArtAssetID="im_button_close_pressed"									FileName="..\SHADOWCORE\chat\im_button_close_pressed.tga"></Mapping>
@@ -1234,9 +1241,9 @@
 <Mapping ArtAssetID="theater_top_bottom"										FileName="..\SHADOWCORE\misc\theater_top_bottom.tga"></Mapping>
 
 
-<Mapping ArtAssetID="icon_selected_overlay"										FileName="..\SHADOWCORE\misc\icon_selected_overlay.tga"></Mapping>
-<Mapping ArtAssetID="icon_selected_overlay_rollover"							FileName="..\SHADOWCORE\misc\icon_selected_overlay_rollover.tga"></Mapping>
-<Mapping ArtAssetID="icon_selected_overlay_pressed"								FileName="..\SHADOWCORE\misc\icon_selected_overlay_pressed.tga"></Mapping>
+<Mapping ArtAssetID="icon_selected_overlay"										FileName="..\SHADOWCORE\selection\icon_selected_overlay.tga"></Mapping>
+<Mapping ArtAssetID="icon_selected_overlay_rollover"							FileName="..\SHADOWCORE\selection\icon_selected_overlay_rollover.tga"></Mapping>
+<Mapping ArtAssetID="icon_selected_overlay_pressed"								FileName="..\SHADOWCORE\selection\icon_selected_overlay_pressed.tga"></Mapping>
 
 
 <!-- startmenu?-->
