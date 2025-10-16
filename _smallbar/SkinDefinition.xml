@@ -711,12 +711,17 @@
 
 <!-- Chat -->
 
+<Mapping ArtAssetID="chat_back" 												FileName="..\SHADOWCORE\chat\chat_back.tga"></Mapping>
 <Mapping ArtAssetID="chat_tab_tier1_middle_back_e" 								FileName="..\SHADOWCORE\chat\chat_tab_tier1_middle_back_e.tga"></Mapping>
 <Mapping ArtAssetID="chat_tab_tier1_middle_back_n" 								FileName="..\SHADOWCORE\chat\chat_tab_tier1_middle_back_n.tga"></Mapping>
 <Mapping ArtAssetID="chat_tab_tier1_middle_back_w" 								FileName="..\SHADOWCORE\chat\chat_tab_tier1_middle_back_w.tga"></Mapping>
 <Mapping ArtAssetID="chat_tab_tier1_middle_front_e" 							FileName="..\SHADOWCORE\chat\chat_tab_tier1_middle_front_e.tga"></Mapping>
 <Mapping ArtAssetID="chat_tab_tier1_middle_front_n" 							FileName="..\SHADOWCORE\chat\chat_tab_tier1_middle_front_n.tga"></Mapping>
 <Mapping ArtAssetID="chat_tab_tier1_middle_front_w" 							FileName="..\SHADOWCORE\chat\chat_tab_tier1_middle_front_w.tga"></Mapping>
+<Mapping ArtAssetID="chat_entry_focussed" 										FileName="..\SHADOWCORE\chat\chat_entry_focussed.tga"></Mapping>
+<Mapping ArtAssetID="chat_icon_party" 											FileName="..\SHADOWCORE\chat\chat_icon_party.tga"></Mapping>
+<Mapping ArtAssetID="chat_resize_widget" 										FileName="..\SHADOWCORE\chat\chat_resize_widget.tga"></Mapping>
+<Mapping ArtAssetID="chat_Logging_overlay" 										FileName="..\SHADOWCORE\chat\chat_Logging_overlay.tga"></Mapping>
 
 <Mapping ArtAssetID="im_button_close_highlight_active"							FileName="..\SHADOWCORE\chat\im_button_close_highlight_active.tga"></Mapping>
 <Mapping ArtAssetID="im_button_close_normal"									FileName="..\SHADOWCORE\chat\im_button_close_normal.tga"></Mapping>
@@ -832,6 +837,7 @@
 <Mapping ArtAssetID="invMTX_pressed"											FileName="..\SHADOWCORE\inventory\invMTX_pressed.tga"></Mapping>
 <Mapping ArtAssetID="invMTX_rollover"											FileName="..\SHADOWCORE\inventory\invMTX_rollover.tga"></Mapping>
 <Mapping ArtAssetID="inv_empty_slot"											FileName="..\SHADOWCORE\inventory\inv_empty_slot.tga"></Mapping>
+
 
 <!-- minimap-->
 
@@ -953,6 +959,7 @@
 <Mapping ArtAssetID="vault_ui_tab_selected"										FileName="..\SHADOWCORE\storage\vault_ui_tab_selected.tga"></Mapping>
 <Mapping ArtAssetID="chest_header_bg"											FileName="..\SHADOWCORE\storage\chest_header_bg.tga"></Mapping>
 <Mapping ArtAssetID="vault_background_normal_bottom"							FileName="..\SHADOWCORE\storage\vault_background_normal_bottom.tga"></Mapping>
+<Mapping ArtAssetID="vault_background_normal_top_left"							FileName="..\SHADOWCORE\storage\vault_background_normal_top_left.tga"></Mapping>
 <Mapping ArtAssetID="vault_background_highlight_bottom_left"					FileName="..\SHADOWCORE\storage\vault_background_highlight_bottom_left.tga"></Mapping>
 <Mapping ArtAssetID="vault_background_highlight_bottom_mid"						FileName="..\SHADOWCORE\storage\vault_background_highlight_bottom_mid.tga"></Mapping>
 <Mapping ArtAssetID="vault_background_highlight_bottom_right"					FileName="..\SHADOWCORE\storage\vault_background_highlight_bottom_right.tga"></Mapping>
@@ -1244,6 +1251,7 @@
 <Mapping ArtAssetID="icon_selected_overlay"										FileName="..\SHADOWCORE\selection\icon_selected_overlay.tga"></Mapping>
 <Mapping ArtAssetID="icon_selected_overlay_rollover"							FileName="..\SHADOWCORE\selection\icon_selected_overlay_rollover.tga"></Mapping>
 <Mapping ArtAssetID="icon_selected_overlay_pressed"								FileName="..\SHADOWCORE\selection\icon_selected_overlay_pressed.tga"></Mapping>
+<Mapping ArtAssetID="icon_pending_overlay"										FileName="..\SHADOWCORE\selection\icon_pending_overlay.tga"></Mapping>
 
 
 <!-- startmenu?-->
