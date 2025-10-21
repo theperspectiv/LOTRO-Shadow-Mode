@@ -2042,18 +2042,18 @@
 <Mapping ArtAssetID="contextualquickslot_mid"									FileName="..\..\JRR Skins collection\JRR CORE\panel_misc\contextualquickslot_mid.tga"></Mapping>
 <Mapping ArtAssetID="contextualquickslot_right"									FileName="..\..\JRR Skins collection\JRR CORE\panel_misc\contextualquickslot_right.tga"></Mapping>
 
-<Mapping ArtAssetID="button_mount_dismount_left_ghosted"						FileName="..\..\JRR Skins collection\JRR CORE\mount\button_mount_dismount_left_ghosted.tga"></Mapping>
-<Mapping ArtAssetID="button_mount_dismount_left_highlight"						FileName="..\..\JRR Skins collection\JRR CORE\mount\button_mount_dismount_left_highlight.tga"></Mapping>
-<Mapping ArtAssetID="button_mount_dismount_left_normal"							FileName="..\..\JRR Skins collection\JRR CORE\mount\button_mount_dismount_left_normal.tga"></Mapping>
-<Mapping ArtAssetID="button_mount_dismount_left_pressed"						FileName="..\..\JRR Skins collection\JRR CORE\mount\button_mount_dismount_left_pressed.tga"></Mapping>
-<Mapping ArtAssetID="button_mount_dismount_middle_ghosted"						FileName="..\..\JRR Skins collection\JRR CORE\mount\button_mount_dismount_middle_ghosted.tga"></Mapping>
-<Mapping ArtAssetID="button_mount_dismount_middle_highlight"					FileName="..\..\JRR Skins collection\JRR CORE\mount\button_mount_dismount_middle_highlight.tga"></Mapping>
-<Mapping ArtAssetID="button_mount_dismount_middle_normal"						FileName="..\..\JRR Skins collection\JRR CORE\mount\button_mount_dismount_middle_normal.tga"></Mapping>
-<Mapping ArtAssetID="button_mount_dismount_middle_press"						FileName="..\..\JRR Skins collection\JRR CORE\mount\button_mount_dismount_middle_press.tga"></Mapping>
-<Mapping ArtAssetID="button_mount_dismount_right_ghosted"						FileName="..\..\JRR Skins collection\JRR CORE\mount\button_mount_dismount_right_ghosted.tga"></Mapping>
-<Mapping ArtAssetID="button_mount_dismount_right_highlight"						FileName="..\..\JRR Skins collection\JRR CORE\mount\button_mount_dismount_right_highlight.tga"></Mapping>
-<Mapping ArtAssetID="button_mount_dismount_right_normal"						FileName="..\..\JRR Skins collection\JRR CORE\mount\button_mount_dismount_right_normal.tga"></Mapping>
-<Mapping ArtAssetID="button_mount_dismount_right_press"							FileName="..\..\JRR Skins collection\JRR CORE\mount\button_mount_dismount_right_press.tga"></Mapping>
+<Mapping ArtAssetID="button_mount_dismount_left_ghosted"						FileName="..\SHADOWCORE\mount\button_mount_dismount_left_ghosted.tga"></Mapping>
+<Mapping ArtAssetID="button_mount_dismount_left_highlight"						FileName="..\SHADOWCORE\mount\button_mount_dismount_left_highlight.tga"></Mapping>
+<Mapping ArtAssetID="button_mount_dismount_left_normal"							FileName="..\SHADOWCORE\mount\button_mount_dismount_left_normal.tga"></Mapping>
+<Mapping ArtAssetID="button_mount_dismount_left_pressed"						FileName="..\SHADOWCORE\mount\button_mount_dismount_left_pressed.tga"></Mapping>
+<Mapping ArtAssetID="button_mount_dismount_middle_ghosted"						FileName="..\SHADOWCORE\mount\button_mount_dismount_middle_ghosted.tga"></Mapping>
+<Mapping ArtAssetID="button_mount_dismount_middle_highlight"					FileName="..\SHADOWCORE\mount\button_mount_dismount_middle_highlight.tga"></Mapping>
+<Mapping ArtAssetID="button_mount_dismount_middle_normal"						FileName="..\SHADOWCORE\mount\button_mount_dismount_middle_normal.tga"></Mapping>
+<Mapping ArtAssetID="button_mount_dismount_middle_press"						FileName="..\SHADOWCORE\mount\button_mount_dismount_middle_press.tga"></Mapping>
+<Mapping ArtAssetID="button_mount_dismount_right_ghosted"						FileName="..\SHADOWCORE\mount\button_mount_dismount_right_ghosted.tga"></Mapping>
+<Mapping ArtAssetID="button_mount_dismount_right_highlight"						FileName="..\SHADOWCORE\mount\button_mount_dismount_right_highlight.tga"></Mapping>
+<Mapping ArtAssetID="button_mount_dismount_right_normal"						FileName="..\SHADOWCORE\mount\button_mount_dismount_right_normal.tga"></Mapping>
+<Mapping ArtAssetID="button_mount_dismount_right_press"							FileName="..\SHADOWCORE\mount\button_mount_dismount_right_press.tga"></Mapping>
 
 <Mapping ArtAssetID="character_panel_mtx_menu_down_highlight"					FileName="..\..\JRR Skins collection\JRR CORE\textbutton\character_panel_mtx_menu_down_highlight.tga"></Mapping>
 <Mapping ArtAssetID="character_panel_mtx_menu_down_normal"						FileName="..\..\JRR Skins collection\JRR CORE\textbutton\character_panel_mtx_menu_down_normal.tga"></Mapping>
@@ -2102,18 +2102,18 @@
 <Mapping ArtAssetID="Button_rename_press"										FileName="..\..\JRR Skins collection\JRR CORE\War_steed\Button_rename_press.tga"></Mapping>
 <Mapping ArtAssetID="Button_rename_roll"										FileName="..\..\JRR Skins collection\JRR CORE\War_steed\Button_rename_roll.tga"></Mapping>
 
-<Mapping ArtAssetID="travel_list_itemBG_ghosted"								FileName="..\..\JRR Skins collection\JRR CORE\stable master\travel_list_itemBG_ghosted.tga"></Mapping>
-<Mapping ArtAssetID="travel_list_itemBG_normal"									FileName="..\..\JRR Skins collection\JRR CORE\stable master\travel_list_itemBG_normal.tga"></Mapping>
-<Mapping ArtAssetID="travel_list_itemBG_normal_highlight"						FileName="..\..\JRR Skins collection\JRR CORE\stable master\travel_list_itemBG_normal_highlight.tga"></Mapping>
-<Mapping ArtAssetID="travel_list_itemBG_normal_highlight_mithrilreq"			FileName="..\..\JRR Skins collection\JRR CORE\stable master\travel_list_itemBG_normal_highlight_mithrilreq.tga"></Mapping>
-<Mapping ArtAssetID="travel_list_itemBG_normal_highlight_rollover"				FileName="..\..\JRR Skins collection\JRR CORE\stable master\travel_list_itemBG_normal_highlight_rollover.tga"></Mapping>
-<Mapping ArtAssetID="travel_list_itemBG_normal_highlight_rollover_mithrilreq"	FileName="..\..\JRR Skins collection\JRR CORE\stable master\travel_list_itemBG_normal_highlight_rollover_mithrilreq.tga"></Mapping>
-<Mapping ArtAssetID="travel_list_itemBG_normal_mithrilreq"						FileName="..\..\JRR Skins collection\JRR CORE\stable master\travel_list_itemBG_normal_mithrilreq.tga"></Mapping>
-<Mapping ArtAssetID="travel_list_itemBG_normal_rollover"						FileName="..\..\JRR Skins collection\JRR CORE\stable master\travel_list_itemBG_normal_rollover.tga"></Mapping>
-<Mapping ArtAssetID="travel_list_itemBG_normal_rollover_mithrilreq"				FileName="..\..\JRR Skins collection\JRR CORE\stable master\travel_list_itemBG_normal_rollover_mithrilreq.tga"></Mapping>
-<Mapping ArtAssetID="travel_list_stat_bar_BG"									FileName="..\..\JRR Skins collection\JRR CORE\stable master\travel_list_stat_bar_BG.tga"></Mapping>
-<Mapping ArtAssetID="travel_swifttravel_icon"									FileName="..\..\JRR Skins collection\JRR CORE\stable master\travel_swifttravel_icon.tga"></Mapping>
-<Mapping ArtAssetID="travel_token_lg_ghosted"									FileName="..\..\JRR Skins collection\JRR CORE\stable master\travel_token_lg_ghosted.tga"></Mapping>
+<Mapping ArtAssetID="travel_list_itemBG_ghosted"								FileName="..\SHADOWCORE\stable master\travel_list_itemBG_ghosted.tga"></Mapping>
+<Mapping ArtAssetID="travel_list_itemBG_normal"									FileName="..\SHADOWCORE\stable master\travel_list_itemBG_normal.tga"></Mapping>
+<Mapping ArtAssetID="travel_list_itemBG_normal_highlight"						FileName="..\SHADOWCORE\stable master\travel_list_itemBG_normal_highlight.tga"></Mapping>
+<Mapping ArtAssetID="travel_list_itemBG_normal_highlight_mithrilreq"			FileName="..\SHADOWCORE\stable master\travel_list_itemBG_normal_highlight_mithrilreq.tga"></Mapping>
+<Mapping ArtAssetID="travel_list_itemBG_normal_highlight_rollover"				FileName="..\SHADOWCORE\stable master\travel_list_itemBG_normal_highlight_rollover.tga"></Mapping>
+<Mapping ArtAssetID="travel_list_itemBG_normal_highlight_rollover_mithrilreq"	FileName="..\SHADOWCORE\stable master\travel_list_itemBG_normal_highlight_rollover_mithrilreq.tga"></Mapping>
+<Mapping ArtAssetID="travel_list_itemBG_normal_mithrilreq"						FileName="..\SHADOWCORE\stable master\travel_list_itemBG_normal_mithrilreq.tga"></Mapping>
+<Mapping ArtAssetID="travel_list_itemBG_normal_rollover"						FileName="..\SHADOWCORE\stable master\travel_list_itemBG_normal_rollover.tga"></Mapping>
+<Mapping ArtAssetID="travel_list_itemBG_normal_rollover_mithrilreq"				FileName="..\SHADOWCORE\stable master\travel_list_itemBG_normal_rollover_mithrilreq.tga"></Mapping>
+<Mapping ArtAssetID="travel_list_stat_bar_BG"									FileName="..\SHADOWCORE\stable master\travel_list_stat_bar_BG.tga"></Mapping>
+<Mapping ArtAssetID="travel_swifttravel_icon"									FileName="..\SHADOWCORE\stable master\travel_swifttravel_icon.tga"></Mapping>
+<Mapping ArtAssetID="travel_token_lg_ghosted"									FileName="..\SHADOWCORE\stable master\travel_token_lg_ghosted.tga"></Mapping>
 
 <Mapping ArtAssetID="Mount_TraitWizard_DisplayLocked"							FileName="..\..\JRR Skins collection\JRR CORE\War_steed\Mount_TraitWizard_DisplayLocked.tga"></Mapping>
 <Mapping ArtAssetID="mount_xp_meter_bg"											FileName="..\..\JRR Skins collection\JRR CORE\War_steed\mount_xp_meter_bg.tga"></Mapping>
@@ -2708,7 +2708,7 @@
 <Mapping ArtAssetID="itemAdvancement_tab_aqua_right_active"						FileName="..\..\JRR Skins collection\JRR CORE\itemadvancement/tab_aqua_right_active.tga"></Mapping>
 <Mapping ArtAssetID="itemAdvancement_tab_aqua_right_inactive"					FileName="..\..\JRR Skins collection\JRR CORE\itemadvancement/tab_aqua_right_inactive.tga"></Mapping>
 <Mapping ArtAssetID="itemAdvancement_tab_aqua_right_inactive_rollover"			FileName="..\..\JRR Skins collection\JRR CORE\itemadvancement/tab_aqua_right_inactive.tga"></Mapping>
-<Mapping ArtAssetID="itemAdvancement_tab_magenta_center_active"				FileName="..\..\JRR Skins collection\JRR CORE\itemadvancement/tab_magenta_center_active.tga"></Mapping>
+<Mapping ArtAssetID="itemAdvancement_tab_magenta_center_active"					FileName="..\..\JRR Skins collection\JRR CORE\itemadvancement/tab_magenta_center_active.tga"></Mapping>
 <Mapping ArtAssetID="itemAdvancement_tab_magenta_center_inactive"				FileName="..\..\JRR Skins collection\JRR CORE\itemadvancement/tab_magenta_center_inactive.tga"></Mapping>
 <Mapping ArtAssetID="itemAdvancement_tab_magenta_center_inactive_rollover"		FileName="..\..\JRR Skins collection\JRR CORE\itemadvancement/tab_magenta_center_inactive.tga"></Mapping>
 <Mapping ArtAssetID="itemAdvancement_tab_magenta_left_active"					FileName="..\..\JRR Skins collection\JRR CORE\itemadvancement/tab_magenta_left_active.tga"></Mapping>
@@ -2832,11 +2832,11 @@
 <!--Milestone from Brygard's BGM5 -->
 <Mapping ArtAssetID="milestone_panel_bg"						FileName="..\..\JRR Skins collection\JRR CORE\misc/milestone_panel_bg.tga"></Mapping>
 
-<Mapping ArtAssetID="box_questJournal_partyStatus_bg_highlight" FileName="..\..\JRR Skins collection\JRR CORE\quest/quest_partystatus.tga"></Mapping>
-<Mapping ArtAssetID="box_questJournal_partyStatus_bg_normal"	FileName="..\..\JRR Skins collection\JRR CORE\quest/quest_partystatus.tga"></Mapping>
-<Mapping ArtAssetID="questJournal_questComplete"				FileName="..\..\JRR Skins collection\JRR CORE\quest/quest_complete.tga"></Mapping>
-<Mapping ArtAssetID="quest_panel_fellow_arccomplete"			FileName="..\..\JRR Skins collection\JRR CORE\quest/quest_fellow_complete.tga"></Mapping>
-<Mapping ArtAssetID="quest_panel_fellow_noteligible"			FileName="..\..\JRR Skins collection\JRR CORE\quest/quest_fellow_ineligible.tga"></Mapping>
+<Mapping ArtAssetID="box_questJournal_partyStatus_bg_highlight" FileName="..\SHADOWCORE\quest\quest_partystatus.tga"></Mapping>
+<Mapping ArtAssetID="box_questJournal_partyStatus_bg_normal"	FileName="..\SHADOWCORE\quest\quest_partystatus.tga"></Mapping>
+<Mapping ArtAssetID="questJournal_questComplete"				FileName="..\SHADOWCORE\quest\quest_complete.tga"></Mapping>
+<Mapping ArtAssetID="quest_panel_fellow_arccomplete"			FileName="..\SHADOWCORE\quest\quest_fellow_complete.tga"></Mapping>
+<Mapping ArtAssetID="quest_panel_fellow_noteligible"			FileName="..\SHADOWCORE\quest\quest_fellow_ineligible.tga"></Mapping>
 
 <Mapping ArtAssetID="housing_searchneighborhood_bg_center"		FileName="..\..\JRR Skins collection\JRR CORE\housing\housing_searchNeighborhood_bg_center.tga"></Mapping>
 <Mapping ArtAssetID="housing_searchneighborhood_bg_left"		FileName="..\..\JRR Skins collection\JRR CORE\housing\housing_searchNeighborhood_bg_left.tga"></Mapping>
@@ -2941,21 +2941,21 @@
 
 
 <!-- start menu -->
-<Mapping ArtAssetID="startmenu_entry_background"						FileName="..\..\JRR Skins collection\JRR CORE\StartMenu\startmenu_entry_background.tga"></Mapping>
-<Mapping ArtAssetID="startmenu_entry_background_highlight"				FileName="..\..\JRR Skins collection\JRR CORE\StartMenu\startmenu_entry_background_highlight.tga"></Mapping>
-<Mapping ArtAssetID="startmenu_entry_background_mid"					FileName="..\..\JRR Skins collection\JRR CORE\StartMenu\startmenu_entry_background_mid.tga"></Mapping>
-<Mapping ArtAssetID="startmenu_entry_background_highlight_mid"			FileName="..\..\JRR Skins collection\JRR CORE\StartMenu\startmenu_entry_background_highlight_mid.tga"></Mapping>
-<Mapping ArtAssetID="startmenu_entry_background_pressed_mid"			FileName="..\..\JRR Skins collection\JRR CORE\StartMenu\startmenu_entry_background_pressed_mid.tga"></Mapping>
-<Mapping ArtAssetID="startmenu_entry_background_right"					FileName="..\..\JRR Skins collection\JRR CORE\StartMenu\startmenu_entry_background_right.tga"></Mapping>
-<Mapping ArtAssetID="startmenu_entry_background_highlight_right"		FileName="..\..\JRR Skins collection\JRR CORE\StartMenu\startmenu_entry_background_highlight_right.tga"></Mapping>
-<Mapping ArtAssetID="startmenu_submenu_arrow_highlight"					FileName="..\..\JRR Skins collection\JRR CORE\StartMenu\startmenu_submenu_arrow_highlight.tga"></Mapping>
-<Mapping ArtAssetID="startmenu_submenu_arrow"							FileName="..\..\JRR Skins collection\JRR CORE\StartMenu\startmenu_submenu_arrow.tga"></Mapping>
-<Mapping ArtAssetID="startmenu_background_bottom_left"					FileName="..\..\JRR Skins collection\JRR CORE\startmenu\startmenu_background_bottom_left.tga"></Mapping>
-<Mapping ArtAssetID="startmenu_background_bottom_mid"					FileName="..\..\JRR Skins collection\JRR CORE\startmenu\startmenu_background_bottom_mid.tga"></Mapping>
-<Mapping ArtAssetID="startmenu_background_bottom_right"					FileName="..\..\JRR Skins collection\JRR CORE\startmenu\startmenu_background_bottom_right.tga"></Mapping>
-<Mapping ArtAssetID="startmenu_background_mid"							FileName="..\..\JRR Skins collection\JRR CORE\startmenu\startmenu_background_mid.tga"></Mapping>
-<Mapping ArtAssetID="startmenu_background_mid_left"						FileName="..\..\JRR Skins collection\JRR CORE\startmenu\startmenu_background_mid_left.tga"></Mapping>
-<Mapping ArtAssetID="startmenu_background_mid_right"					FileName="..\..\JRR Skins collection\JRR CORE\startmenu\startmenu_background_mid_right.tga"></Mapping>
+<Mapping ArtAssetID="startmenu_entry_background"						FileName="..\SHADOWCORE\StartMenu\startmenu_entry_background.tga"></Mapping>
+<Mapping ArtAssetID="startmenu_entry_background_highlight"				FileName="..\SHADOWCORE\StartMenu\startmenu_entry_background_highlight.tga"></Mapping>
+<Mapping ArtAssetID="startmenu_entry_background_mid"					FileName="..\SHADOWCORE\StartMenu\startmenu_entry_background_mid.tga"></Mapping>
+<Mapping ArtAssetID="startmenu_entry_background_highlight_mid"			FileName="..\SHADOWCORE\StartMenu\startmenu_entry_background_highlight_mid.tga"></Mapping>
+<Mapping ArtAssetID="startmenu_entry_background_pressed_mid"			FileName="..\SHADOWCORE\StartMenu\startmenu_entry_background_pressed_mid.tga"></Mapping>
+<Mapping ArtAssetID="startmenu_entry_background_right"					FileName="..\SHADOWCORE\StartMenu\startmenu_entry_background_right.tga"></Mapping>
+<Mapping ArtAssetID="startmenu_entry_background_highlight_right"		FileName="..\SHADOWCORE\StartMenu\startmenu_entry_background_highlight_right.tga"></Mapping>
+<Mapping ArtAssetID="startmenu_submenu_arrow_highlight"					FileName="..\SHADOWCORE\StartMenu\startmenu_submenu_arrow_highlight.tga"></Mapping>
+<Mapping ArtAssetID="startmenu_submenu_arrow"							FileName="..\SHADOWCORE\StartMenu\startmenu_submenu_arrow.tga"></Mapping>
+<Mapping ArtAssetID="startmenu_background_bottom_left"					FileName="..\SHADOWCORE\StartMenu\startmenu_background_bottom_left.tga"></Mapping>
+<Mapping ArtAssetID="startmenu_background_bottom_mid"					FileName="..\SHADOWCORE\StartMenu\startmenu_background_bottom_mid.tga"></Mapping>
+<Mapping ArtAssetID="startmenu_background_bottom_right"					FileName="..\SHADOWCORE\StartMenu\startmenu_background_bottom_right.tga"></Mapping>
+<Mapping ArtAssetID="startmenu_background_mid"							FileName="..\SHADOWCORE\StartMenu\startmenu_background_mid.tga"></Mapping>
+<Mapping ArtAssetID="startmenu_background_mid_left"						FileName="..\SHADOWCORE\StartMenu\startmenu_background_mid_left.tga"></Mapping>
+<Mapping ArtAssetID="startmenu_background_mid_right"					FileName="..\SHADOWCORE\StartMenu\startmenu_background_mid_right.tga"></Mapping>
 
 <!-- Attunement -->
 <Mapping ArtAssetID="attunementFrame_bal" FileName="..\..\JRR Skins collection\JRR CORE\attunement\attunementFrame.tga"></Mapping>
