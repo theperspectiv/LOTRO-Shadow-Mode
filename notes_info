@@ -19,3 +19,14 @@ basepanel\basepanel_* = tooltip (moved to .\tooltip)
 basepanel\blue_bg_* = crafting outline (moved to .\innerpanel) (changed to innershadow)
 basepanel\_* = dropdown menu (moved to ./dropdown)
 silver > * = main windows
+
+asset paths:
+shadowmode base: ..\folder\asset.tga
+shadowmode variant: .\folder\asset.tga
+JRR
+
+
+<!DOCTYPE Mapping [
+  <!ENTITY jrr "..\..\JRR Skins Collection\JRR Core\">
+  <!-- .... -->
+]>

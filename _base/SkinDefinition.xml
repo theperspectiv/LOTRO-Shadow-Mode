@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE opt [
+  <!ENTITY jrr "..\..\JRR Skins Collection\JRR Core\">
+  <!-- .... -->
+]>
 <opt>
-
-
 		<!--
 		This theme features the standard "JRR" theme with an alternate toolbar, based on "SmallBar" originally created by MrJackdaw, and rewrote by Adra.
 		Here is the homepage of the original release http://www.lotrointerface.com/downloads/info336
