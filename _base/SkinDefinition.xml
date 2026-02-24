@@ -3107,27 +3107,27 @@
 	<Mapping ArtAssetID="opponent_vitals_backdrop_elite_mp" FileName="..\..\JRR Skins collection\JRR CORE\vitals\opponent_vitals_backdrop_elite_mp.tga"></Mapping>
 	<Mapping ArtAssetID="opponent_vitals_backdrop_elitemaster_mp" FileName="..\..\JRR Skins collection\JRR CORE\vitals\opponent_vitals_backdrop_elite_mp.tga"></Mapping>
 
-	<Mapping ArtAssetID="textbutton_left_normal"				   					FileName="..\s\textbutton\left_normal.tga"></Mapping>
-	<Mapping ArtAssetID="textbutton_mid_normal"						   				FileName="..\s\textbutton\mid_normal.tga"></Mapping>
-	<Mapping ArtAssetID="textbutton_right_normal"					   				FileName="..\s\textbutton\right_normal.tga"></Mapping>
-	<Mapping ArtAssetID="textbutton_left_mouseover"					   				FileName="..\s\textbutton\left_mouseover.tga"></Mapping>
-	<Mapping ArtAssetID="textbutton_mid_mouseover"					   				FileName="..\s\textbutton\mid_mouseover.tga"></Mapping>
-	<Mapping ArtAssetID="textbutton_right_mouseover"				   				FileName="..\s\textbutton\right_mouseover.tga"></Mapping>
-	<Mapping ArtAssetID="textbutton_left_pressed"					   				FileName="..\s\textbutton\left_pressed.tga"></Mapping>
-	<Mapping ArtAssetID="textbutton_mid_pressed"					   				FileName="..\s\textbutton\mid_pressed.tga"></Mapping>
-	<Mapping ArtAssetID="textbutton_right_pressed"					   				FileName="..\s\textbutton\right_pressed.tga"></Mapping>
-	<Mapping ArtAssetID="textbutton_left_ghosted"					   				FileName="..\s\textbutton\left_ghosted.tga"></Mapping>
-	<Mapping ArtAssetID="textbutton_mid_ghosted"					   				FileName="..\s\textbutton\mid_ghosted.tga"></Mapping>
-	<Mapping ArtAssetID="textbutton_right_ghosted"					   				FileName="..\s\textbutton\right_ghosted.tga"></Mapping>
-	<Mapping ArtAssetID="textbutton_left_highlighted_normal"	   					FileName="..\s\textbutton\left_pressed.tga"></Mapping>
-	<Mapping ArtAssetID="textbutton_mid_highlighted_normal"		  					FileName="..\s\textbutton\mid_pressed.tga"></Mapping>
-	<Mapping ArtAssetID="textbutton_right_highlighted_normal"	   					FileName="..\s\textbutton\right_pressed.tga"></Mapping>
-	<Mapping ArtAssetID="textbutton_left_highlighted_mouseover"	   					FileName="..\s\textbutton\left_pressed.tga"></Mapping>
-	<Mapping ArtAssetID="textbutton_mid_highlighted_mouseover"	   					FileName="..\s\textbutton\mid_pressed.tga"></Mapping>
-	<Mapping ArtAssetID="textbutton_right_highlighted_mouseover"   					FileName="..\s\textbutton\right_pressed.tga"></Mapping>
-	<Mapping ArtAssetID="textbutton_left_highlighted_pressed"	   					FileName="..\s\textbutton\left_pressed.tga"></Mapping>
-	<Mapping ArtAssetID="textbutton_mid_highlighted_pressed"	   					FileName="..\s\textbutton\mid_pressed.tga"></Mapping>
-	<Mapping ArtAssetID="textbutton_right_highlighted_pressed"	   					FileName="..\s\textbutton\right_pressed.tga"></Mapping>
+	<Mapping ArtAssetID="textbutton_left_normal"				   					FileName="..\..\JRR Skins collection\JRR CORE\textbutton\left_normal.tga"></Mapping>
+	<Mapping ArtAssetID="textbutton_mid_normal"						   				FileName="..\..\JRR Skins collection\JRR CORE\textbutton\mid_normal.tga"></Mapping>
+	<Mapping ArtAssetID="textbutton_right_normal"					   				FileName="..\..\JRR Skins collection\JRR CORE\textbutton\right_normal.tga"></Mapping>
+	<Mapping ArtAssetID="textbutton_left_mouseover"					   				FileName="..\..\JRR Skins collection\JRR CORE\textbutton\left_mouseover.tga"></Mapping>
+	<Mapping ArtAssetID="textbutton_mid_mouseover"					   				FileName="..\..\JRR Skins collection\JRR CORE\textbutton\mid_mouseover.tga"></Mapping>
+	<Mapping ArtAssetID="textbutton_right_mouseover"				   				FileName="..\..\JRR Skins collection\JRR CORE\textbutton\right_mouseover.tga"></Mapping>
+	<Mapping ArtAssetID="textbutton_left_pressed"					   				FileName="..\..\JRR Skins collection\JRR CORE\textbutton\left_pressed.tga"></Mapping>
+	<Mapping ArtAssetID="textbutton_mid_pressed"					   				FileName="..\..\JRR Skins collection\JRR CORE\textbutton\mid_pressed.tga"></Mapping>
+	<Mapping ArtAssetID="textbutton_right_pressed"					   				FileName="..\..\JRR Skins collection\JRR CORE\textbutton\right_pressed.tga"></Mapping>
+	<Mapping ArtAssetID="textbutton_left_ghosted"					   				FileName="..\..\JRR Skins collection\JRR CORE\textbutton\left_ghosted.tga"></Mapping>
+	<Mapping ArtAssetID="textbutton_mid_ghosted"					   				FileName="..\..\JRR Skins collection\JRR CORE\textbutton\mid_ghosted.tga"></Mapping>
+	<Mapping ArtAssetID="textbutton_right_ghosted"					   				FileName="..\..\JRR Skins collection\JRR CORE\textbutton\right_ghosted.tga"></Mapping>
+	<Mapping ArtAssetID="textbutton_left_highlighted_normal"	   					FileName="..\..\JRR Skins collection\JRR CORE\textbutton\left_pressed.tga"></Mapping>
+	<Mapping ArtAssetID="textbutton_mid_highlighted_normal"		  					FileName="..\..\JRR Skins collection\JRR CORE\textbutton\mid_pressed.tga"></Mapping>
+	<Mapping ArtAssetID="textbutton_right_highlighted_normal"	   					FileName="..\..\JRR Skins collection\JRR CORE\textbutton\right_pressed.tga"></Mapping>
+	<Mapping ArtAssetID="textbutton_left_highlighted_mouseover"	   					FileName="..\..\JRR Skins collection\JRR CORE\textbutton\left_pressed.tga"></Mapping>
+	<Mapping ArtAssetID="textbutton_mid_highlighted_mouseover"	   					FileName="..\..\JRR Skins collection\JRR CORE\textbutton\mid_pressed.tga"></Mapping>
+	<Mapping ArtAssetID="textbutton_right_highlighted_mouseover"   					FileName="..\..\JRR Skins collection\JRR CORE\textbutton\right_pressed.tga"></Mapping>
+	<Mapping ArtAssetID="textbutton_left_highlighted_pressed"	   					FileName="..\..\JRR Skins collection\JRR CORE\textbutton\left_pressed.tga"></Mapping>
+	<Mapping ArtAssetID="textbutton_mid_highlighted_pressed"	   					FileName="..\..\JRR Skins collection\JRR CORE\textbutton\mid_pressed.tga"></Mapping>
+	<Mapping ArtAssetID="textbutton_right_highlighted_pressed"	   					FileName="..\..\JRR Skins collection\JRR CORE\textbutton\right_pressed.tga"></Mapping>
 
 	<!-- Skirmish / worldjoin -->
 	<Mapping ArtAssetID="worldjoin_travel_bg" FileName="..\..\JRR Skins collection\JRR CORE\skirmish\worldjoin_travel_bg.tga"></Mapping>
