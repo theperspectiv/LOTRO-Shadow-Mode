@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE opt [
+  <!ENTITY jrr "..\..\JRR Skins Collection\JRR Core\">
+  <!-- .... -->
+]>
+<opt>
+		<!--
+		This theme features the standard "JRR" theme with an alternate toolbar, based on "SmallBar" originally created by MrJackdaw, and rewrote by Adra.
+		Here is the homepage of the original release http://www.lotrointerface.com/downloads/info336
+		
+		All JRR components credits are logged on http://www.lotrointerface.com/downloads/info581
+		-->
+<SkinName Name="Shadow Mode Base"></SkinName>
+	<Element ID="ToolbarButton_RightSlot_1"											X="3"			Y="33"			Width="1"				Height="1">
+			<Element ID="CustomizableSlotButton_BuyNowButton"						X="0"			Y="0"			Width="1"				Height="1"> </Element>
+			<Element ID="CustomizableSlotButton_NewInfoHighlight"					X="0"			Y="0"			Width="1"				Height="1"> </Element>
+			<Element ID="CustomizableSlotButton_TutorialHighlight"					X="0"			Y="0"			Width="1"				Height="1"> 
+					<Element ID="TutorialHighlighter_LeftBorder"					X="0"			Y="0"			Width="1"				Height="1"> </Element>
+					<Element ID="TutorialHighlighter_BottomBorder"					X="0"			Y="0"			Width="1"				Height="1"> </Element>
+					<Element ID="TutorialHighlighter_RightBorder"					X="0"			Y="0"			Width="1"				Height="1"> </Element>
+					<Element ID="TutorialHighlighter_TopBorder"						X="0"			Y="0"			Width="1"				Height="1"> </Element>
+			</Element>				
+	</Element>
+<Mapping ArtAssetID="letterbox_bottom"															FileName="..\s\toolbar\SmallBar.tga"></Mapping>
+<Mapping ArtAssetID="letterbox_bottom_mc"														FileName="..\s\toolbar\SmallBar.tga"></Mapping>
+<Mapping ArtAssetID="letterbox_bottom_glass_overlay"											FileName="..\s\toolbar\letterbox_bottom_glass_overlay.tga"></Mapping>
+</opt>
